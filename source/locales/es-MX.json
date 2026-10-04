@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Aviso de privacidad",
-    "summary": "Hora de Metro no recopila datos personales. Esta página explica qué hace la app en tu iPhone y qué nunca hace.",
+    "summary": "Hora de Metro no recopila datos personales. Esta página explica qué hace la app en tus dispositivos (iPhone, iPad y Apple Watch) y qué nunca hace.",
     "updated_label": "Última actualización",
     "section_title": "Nuestros compromisos",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Todo se queda en tu iPhone",
-        "body": "Todos los cálculos de viaje se hacen en tu dispositivo con los horarios integrados en la app. Tu configuración, como estaciones, idioma, colores, pantalla de inicio y recordatorios, se guarda solo en tu iPhone. Si eliminas la app, se borra."
+        "title": "Todo se queda en tus dispositivos",
+        "body": "Todos los cálculos de viaje se hacen en tu dispositivo con los horarios integrados en la app. Tu configuración, como estaciones, idioma, colores, pantalla de inicio y recordatorios, se guarda solo en tu dispositivo. Si eliminas la app, se borra."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widgets, Actividades en vivo y Apple Watch",
+        "body": "La app también funciona en el iPad y en el Apple Watch, con un widget para la pantalla de inicio y la pantalla bloqueada, un widget para la carátula del Apple Watch y, en el iPhone, una Actividad en vivo que hace una cuenta regresiva hasta tu recordatorio en la pantalla bloqueada y en la Isla dinámica. Para que un widget muestre el mismo viaje que la app, la app y sus propios widgets comparten tu último viaje (estaciones y horas) mediante el uso compartido del llavero de Apple; esto ocurre solo en el mismo dispositivo y no se sube nada a ningún servidor. Las Actividades en vivo se crean y se actualizan solo en el dispositivo, sin ningún servidor que les envíe actualizaciones, y al eliminar la app se borra todo esto."
       },
       {
         "id": "notifications",
         "title": "Notificaciones",
-        "body": "Si permites las notificaciones, la app solo las usa para los recordatorios que tú configuras. Cada recordatorio se programa localmente en tu iPhone; no interviene ningún servidor y ningún contenido de las notificaciones sale de tu dispositivo. Puedes desactivarlas en cualquier momento en la app Configuración de iOS."
+        "body": "Si permites las notificaciones, la app solo las usa para los recordatorios que tú configuras. Cada recordatorio se programa localmente en tu dispositivo; no interviene ningún servidor y ningún contenido de las notificaciones sale de tu dispositivo. Puedes desactivarlas en cualquier momento en la app Configuración de iOS."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Datos de horarios",
-        "body": "Los horarios, intervalos y tiempos de recorrido provienen de los datos públicos oficiales del metro de Taipéi y vienen incluidos en la propia app, así que consultar un viaje no requiere conexión a internet. La única excepción es el PDF original del horario: se descarga del sitio web del metro de Taipéi cuando tocas el botón del horario oficial, como una solicitud web normal, y nosotros no recibimos ninguna información al respecto. Hora de Metro es independiente y no está afiliada a Taipei Rapid Transit Corporation."
+        "body": "Los horarios, intervalos y tiempos de recorrido provienen de los datos públicos oficiales del metro de Taipéi y vienen incluidos en la propia app, así que consultar un viaje no requiere conexión a internet. Las excepciones son el PDF oficial del horario y el mapa oficial de la red (el mapa vectorial que publica el metro de Taipéi, en chino o en inglés): ninguno viene incluido en la app y cada uno se descarga del sitio web del metro de Taipéi solo cuando tocas su botón, como una solicitud web normal, y nosotros no recibimos ninguna información al respecto. Hora de Metro es independiente y no está afiliada a Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

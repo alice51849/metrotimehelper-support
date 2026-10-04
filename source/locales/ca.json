@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Política de privadesa",
-    "summary": "Assistent del Metro no recull dades personals. Aquesta pàgina explica què fa l'app al teu iPhone i què no fa mai.",
+    "summary": "Assistent del Metro no recull dades personals. Aquesta pàgina explica què fa l'app als teus dispositius (iPhone, iPad i Apple Watch) i què no fa mai.",
     "updated_label": "Darrera actualització",
     "section_title": "Els nostres compromisos",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Tot es queda al teu iPhone",
-        "body": "Tots els càlculs de trajectes es fan al teu dispositiu amb els horaris integrats a l'app. La teva configuració, com ara estacions, idioma, colors, pàgina d'inici i recordatoris, es desa només al teu iPhone. Si elimines l'app, s'esborra."
+        "title": "Tot es queda als teus dispositius",
+        "body": "Tots els càlculs de trajectes es fan al teu dispositiu amb els horaris integrats a l'app. La teva configuració, com ara estacions, idioma, colors, pàgina d'inici i recordatoris, es desa només al teu dispositiu. Si elimines l'app, s'esborra."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Ginys, Activitats en directe i Apple Watch",
+        "body": "L'app també funciona a l'iPad i a l'Apple Watch, amb un giny per a la pantalla d'inici i la pantalla bloquejada, un giny per a l'esfera de l'Apple Watch i, a l'iPhone, una Activitat en directe que fa el compte enrere fins al teu recordatori a la pantalla bloquejada i a la Dynamic Island. Perquè un giny mostri el mateix trajecte que l'app, l'app i els seus propis ginys comparteixen el teu darrer trajecte (estacions i hores) mitjançant la compartició del clauer d'Apple; això passa només al mateix dispositiu i no es puja res a cap servidor. Les Activitats en directe es creen i s'actualitzen només al dispositiu, sense cap servidor que els n'enviï actualitzacions, i eliminar l'app ho esborra tot."
       },
       {
         "id": "notifications",
         "title": "Notificacions",
-        "body": "Si permets les notificacions, l'app només les fa servir per als recordatoris que configures tu. Cada recordatori es programa localment al teu iPhone; no hi intervé cap servidor i cap contingut de les notificacions surt del teu dispositiu. Pots desactivar les notificacions en qualsevol moment a l'app Configuració de l'iOS."
+        "body": "Si permets les notificacions, l'app només les fa servir per als recordatoris que configures tu. Cada recordatori es programa localment al teu dispositiu; no hi intervé cap servidor i cap contingut de les notificacions surt del teu dispositiu. Pots desactivar les notificacions en qualsevol moment a l'app Configuració de l'iOS."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Dades dels horaris",
-        "body": "Els horaris, les freqüències i els temps de recorregut provenen de les dades públiques oficials del metro de Taipei i estan inclosos a la mateixa app, així que consultar un trajecte no requereix connexió a internet. L'única excepció és el PDF original de l'horari: es baixa del web del metro de Taipei quan toques el botó de l'horari oficial, com una sol·licitud web normal, i no en rebem cap informació. Assistent del Metro és independent i no està vinculada a Taipei Rapid Transit Corporation."
+        "body": "Els horaris, les freqüències i els temps de recorregut provenen de les dades públiques oficials del metro de Taipei i estan inclosos a la mateixa app, així que consultar un trajecte no requereix connexió a internet. Les excepcions són el PDF oficial de l'horari i el mapa oficial de la xarxa (el mapa vectorial que publica el metro de Taipei, en xinès o en anglès): cap dels dos no està inclòs a l'app i cadascun es baixa del web del metro de Taipei només quan toques el seu botó, com una sol·licitud web normal, i no en rebem cap informació. Assistent del Metro és independent i no està vinculada a Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

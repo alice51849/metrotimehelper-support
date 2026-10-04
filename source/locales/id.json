@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Kebijakan Privasi",
-    "summary": "Metro Time Helper tidak mengumpulkan data pribadi. Halaman ini menjelaskan apa yang dilakukan aplikasi di iPhone Anda dan apa yang tidak pernah dilakukannya.",
+    "summary": "Metro Time Helper tidak mengumpulkan data pribadi. Halaman ini menjelaskan apa yang dilakukan aplikasi di perangkat Anda (iPhone, iPad, dan Apple Watch) dan apa yang tidak pernah dilakukannya.",
     "updated_label": "Terakhir Diperbarui",
     "section_title": "Komitmen kami",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Semuanya tetap di iPhone Anda",
-        "body": "Semua perhitungan perjalanan berjalan di perangkat Anda menggunakan data jadwal yang sudah tertanam di aplikasi. Pengaturan Anda, seperti stasiun, bahasa, warna, halaman awal, dan pengingat, hanya disimpan di iPhone Anda. Menghapus aplikasi akan ikut menghapusnya."
+        "title": "Semuanya tetap di perangkat Anda",
+        "body": "Semua perhitungan perjalanan berjalan di perangkat Anda menggunakan data jadwal yang sudah tertanam di aplikasi. Pengaturan Anda, seperti stasiun, bahasa, warna, halaman awal, dan pengingat, hanya disimpan di perangkat Anda. Menghapus aplikasi akan ikut menghapusnya."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widget, Aktivitas Langsung, dan Apple Watch",
+        "body": "Aplikasi ini juga berjalan di iPad dan Apple Watch, dengan widget untuk Layar Utama dan Layar Terkunci, widget untuk tampilan jam Apple Watch, serta Aktivitas Langsung di iPhone yang menghitung mundur menuju pengingat Anda di Layar Terkunci dan Dynamic Island. Agar widget dapat menampilkan perjalanan yang sama dengan aplikasi, aplikasi dan widget miliknya sendiri berbagi perjalanan terakhir Anda (stasiun dan waktu) melalui berbagi Rantai Kunci dari Apple; ini hanya terjadi di perangkat yang sama dan tidak ada yang diunggah ke server mana pun. Aktivitas Langsung dibuat dan diperbarui hanya di perangkat, tanpa server yang mengirimkan pembaruan kepadanya, dan menghapus aplikasi akan menghapus semua ini."
       },
       {
         "id": "notifications",
         "title": "Notifikasi",
-        "body": "Jika Anda mengizinkan notifikasi, aplikasi hanya menggunakannya untuk pengingat yang Anda atur sendiri. Setiap pengingat dijadwalkan secara lokal di iPhone Anda; tidak ada server yang terlibat dan tidak ada isi notifikasi yang keluar dari perangkat Anda. Anda bisa mematikan notifikasi kapan saja di app “Pengaturan” iOS."
+        "body": "Jika Anda mengizinkan notifikasi, aplikasi hanya menggunakannya untuk pengingat yang Anda atur sendiri. Setiap pengingat dijadwalkan secara lokal di perangkat Anda; tidak ada server yang terlibat dan tidak ada isi notifikasi yang keluar dari perangkat Anda. Anda bisa mematikan notifikasi kapan saja di app “Pengaturan” iOS."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Data jadwal",
-        "body": "Jadwal, selang kereta, dan waktu tempuh berasal dari data publik resmi MRT Taipei dan sudah disertakan di dalam aplikasi, jadi mencari perjalanan tidak memerlukan koneksi internet. Satu-satunya pengecualian adalah PDF jadwal asli: file ini diunduh dari situs web MRT Taipei saat Anda mengetuk tombol jadwal resmi, sebagai permintaan web biasa, dan kami tidak menerima informasi apa pun tentangnya. Metro Time Helper adalah aplikasi independen dan tidak berafiliasi dengan Taipei Rapid Transit Corporation."
+        "body": "Jadwal, selang kereta, dan waktu tempuh berasal dari data publik resmi MRT Taipei dan sudah disertakan di dalam aplikasi, jadi mencari perjalanan tidak memerlukan koneksi internet. Pengecualiannya adalah PDF jadwal resmi dan peta jaringan resmi (peta vektor yang diterbitkan MRT Taipei, dalam bahasa Mandarin atau Inggris): keduanya tidak disertakan di dalam aplikasi dan masing-masing diunduh dari situs web MRT Taipei hanya saat Anda mengetuk tombolnya, sebagai permintaan web biasa, dan kami tidak menerima informasi apa pun tentangnya. Metro Time Helper adalah aplikasi independen dan tidak berafiliasi dengan Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

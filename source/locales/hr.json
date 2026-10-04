@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Pravila o privatnosti",
-    "summary": "Metro na vrijeme ne prikuplja osobne podatke. Na ovoj stranici objašnjavamo što aplikacija radi na vašem iPhoneu, a što nikada ne radi.",
+    "summary": "Metro na vrijeme ne prikuplja osobne podatke. Na ovoj stranici objašnjavamo što aplikacija radi na vašim uređajima (iPhone, iPad i Apple Watch), a što nikada ne radi.",
     "updated_label": "Posljednje ažuriranje",
     "section_title": "Naše obveze",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Sve ostaje na vašem iPhoneu",
-        "body": "Svi se izračuni putovanja izvode na vašem uređaju pomoću podataka o voznim redovima ugrađenih u aplikaciju. Vaše postavke, kao što su postaje, jezik, boje, početna stranica i podsjetnici, pohranjuju se samo na vašem iPhoneu. Brisanjem aplikacije one se uklanjaju."
+        "title": "Sve ostaje na vašim uređajima",
+        "body": "Svi se izračuni putovanja izvode na vašem uređaju pomoću podataka o voznim redovima ugrađenih u aplikaciju. Vaše postavke, kao što su postaje, jezik, boje, početna stranica i podsjetnici, pohranjuju se samo na vašem uređaju. Brisanjem aplikacije one se uklanjaju."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widgeti, Aktivnosti uživo i Apple Watch",
+        "body": "Aplikacija radi i na iPadu i na Apple Watchu te nudi widget za početni i zaključani zaslon, widget za brojčanik Apple Watcha i, na iPhoneu, aktivnost uživo koja na zaključanom zaslonu i u Dynamic Islandu odbrojava do vašeg podsjetnika. Kako bi widget prikazivao isto putovanje kao aplikacija, aplikacija i njezini vlastiti widgeti dijele vaše posljednje putovanje (postaje i vremena) putem Appleova dijeljenja privjeska ključeva; to se događa samo na istom uređaju i ništa se ne prenosi ni na jedan poslužitelj. Aktivnosti uživo stvaraju se i ažuriraju samo na uređaju, bez poslužitelja koji bi im slao ažuriranja, a brisanjem aplikacije sve se to uklanja."
       },
       {
         "id": "notifications",
         "title": "Obavijesti",
-        "body": "Ako dopustite obavijesti, aplikacija ih koristi samo za podsjetnike koje sami postavite. Svaki se podsjetnik zakazuje lokalno na vašem iPhoneu; nije uključen nikakav poslužitelj i sadržaj obavijesti ne napušta vaš uređaj. Obavijesti možete isključiti u bilo kojem trenutku u aplikaciji Postavke sustava iOS."
+        "body": "Ako dopustite obavijesti, aplikacija ih koristi samo za podsjetnike koje sami postavite. Svaki se podsjetnik zakazuje lokalno na vašem uređaju; nije uključen nikakav poslužitelj i sadržaj obavijesti ne napušta vaš uređaj. Obavijesti možete isključiti u bilo kojem trenutku u aplikaciji Postavke sustava iOS."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Podaci o voznom redu",
-        "body": "Vozni redovi, intervali i trajanja vožnje potječu iz službenih javnih podataka metroa u Taipeiju i sadržani su u samoj aplikaciji, pa za pretraživanje putovanja nije potrebna internetska veza. Jedina je iznimka izvorni vozni red u PDF-u: preuzima se s web-stranice metroa u Taipeiju kada dodirnete gumb za službeni vozni red, kao običan web-zahtjev, a mi o tome ne primamo nikakve podatke. Metro na vrijeme neovisna je aplikacija i nije povezana s tvrtkom Taipei Rapid Transit Corporation."
+        "body": "Vozni redovi, intervali i trajanja vožnje potječu iz službenih javnih podataka metroa u Taipeiju i sadržani su u samoj aplikaciji, pa za pretraživanje putovanja nije potrebna internetska veza. Iznimke su službeni vozni red u PDF-u i službena karta mreže (vektorska karta koju objavljuje metro u Taipeiju, na kineskom ili engleskom): nijedno od toga nije ugrađeno u aplikaciju, a svako se preuzima s web-stranice metroa u Taipeiju tek kada dodirnete pripadajući gumb, kao običan web-zahtjev, a mi o tome ne primamo nikakve podatke. Metro na vrijeme neovisna je aplikacija i nije povezana s tvrtkom Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

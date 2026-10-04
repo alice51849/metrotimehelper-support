@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Chính sách quyền riêng tư",
-    "summary": "Trợ lý giờ MRT không thu thập dữ liệu cá nhân. Trang này giải thích ứng dụng làm gì trên iPhone của bạn và những gì nó không bao giờ làm.",
+    "summary": "Trợ lý giờ MRT không thu thập dữ liệu cá nhân. Trang này giải thích ứng dụng làm gì trên các thiết bị của bạn (iPhone, iPad và Apple Watch) và những gì nó không bao giờ làm.",
     "updated_label": "Cập nhật lần cuối",
     "section_title": "Cam kết của chúng tôi",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Mọi thứ ở lại trên iPhone của bạn",
-        "body": "Mọi phép tính hành trình đều chạy trên thiết bị của bạn, dùng dữ liệu lịch chạy có sẵn trong ứng dụng. Các cài đặt của bạn, như ga, ngôn ngữ, màu sắc, trang khi mở và lời nhắc, chỉ được lưu trên iPhone của bạn. Xóa ứng dụng sẽ xóa luôn các dữ liệu này."
+        "title": "Mọi thứ ở lại trên thiết bị của bạn",
+        "body": "Mọi phép tính hành trình đều chạy trên thiết bị của bạn, dùng dữ liệu lịch chạy có sẵn trong ứng dụng. Các cài đặt của bạn, như ga, ngôn ngữ, màu sắc, trang khi mở và lời nhắc, chỉ được lưu trên thiết bị của bạn. Xóa ứng dụng sẽ xóa luôn các dữ liệu này."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Tiện ích, Hoạt động trực tiếp và Apple Watch",
+        "body": "Ứng dụng cũng chạy trên iPad và Apple Watch, với tiện ích cho Màn hình chính và Màn hình khóa, tiện ích cho mặt đồng hồ Apple Watch, và trên iPhone có Hoạt động trực tiếp đếm ngược đến lời nhắc của bạn trên Màn hình khóa và trong Dynamic Island. Để tiện ích hiển thị đúng hành trình như trong ứng dụng, ứng dụng và các tiện ích riêng của nó chia sẻ hành trình gần nhất của bạn (ga và giờ) thông qua tính năng chia sẻ Chuỗi khóa của Apple; việc này chỉ diễn ra trên cùng một thiết bị và không có gì được tải lên bất kỳ máy chủ nào. Hoạt động trực tiếp chỉ được tạo và cập nhật trên thiết bị, không có máy chủ nào gửi cập nhật cho chúng, và xóa ứng dụng sẽ xóa tất cả những thứ này."
       },
       {
         "id": "notifications",
         "title": "Thông báo",
-        "body": "Nếu bạn cho phép thông báo, ứng dụng chỉ dùng chúng cho những lời nhắc do chính bạn đặt. Mọi lời nhắc đều được lên lịch ngay trên iPhone; không có máy chủ nào tham gia và không nội dung thông báo nào rời khỏi thiết bị của bạn. Bạn có thể tắt thông báo bất cứ lúc nào trong ứng dụng “Cài đặt” của iOS."
+        "body": "Nếu bạn cho phép thông báo, ứng dụng chỉ dùng chúng cho những lời nhắc do chính bạn đặt. Mọi lời nhắc đều được lên lịch ngay trên thiết bị; không có máy chủ nào tham gia và không nội dung thông báo nào rời khỏi thiết bị của bạn. Bạn có thể tắt thông báo bất cứ lúc nào trong ứng dụng “Cài đặt” của iOS."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Dữ liệu lịch chạy",
-        "body": "Lịch chạy, khoảng cách giữa các chuyến và thời gian chạy được lấy từ dữ liệu công khai chính thức của MRT Đài Bắc và có sẵn ngay trong ứng dụng, nên tra cứu hành trình không cần kết nối internet. Ngoại lệ duy nhất là tệp PDF lịch chạy gốc: tệp này được tải xuống từ trang web của MRT Đài Bắc khi bạn chạm vào nút lịch chạy chính thức, như một yêu cầu web thông thường, và chúng tôi không nhận được bất kỳ thông tin nào về việc này. Trợ lý giờ MRT là ứng dụng độc lập và không liên kết với Taipei Rapid Transit Corporation."
+        "body": "Lịch chạy, khoảng cách giữa các chuyến và thời gian chạy được lấy từ dữ liệu công khai chính thức của MRT Đài Bắc và có sẵn ngay trong ứng dụng, nên tra cứu hành trình không cần kết nối internet. Ngoại lệ là tệp PDF lịch chạy chính thức và sơ đồ mạng lưới chính thức (sơ đồ vector do MRT Đài Bắc phát hành, bản tiếng Trung và bản tiếng Anh): cả hai đều không có sẵn trong ứng dụng và chỉ được tải xuống từ trang web của MRT Đài Bắc khi bạn chạm vào nút tương ứng, như một yêu cầu web thông thường, và chúng tôi không nhận được bất kỳ thông tin nào về việc này. Trợ lý giờ MRT là ứng dụng độc lập và không liên kết với Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

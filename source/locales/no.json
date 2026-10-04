@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Personvernerklæring",
-    "summary": "Tidshjelp for metroen samler ikke inn personopplysninger. Denne siden forklarer hva appen gjør på iPhonen din, og hva den aldri gjør.",
+    "summary": "Tidshjelp for metroen samler ikke inn personopplysninger. Denne siden forklarer hva appen gjør på enhetene dine (iPhone, iPad og Apple Watch), og hva den aldri gjør.",
     "updated_label": "Sist oppdatert",
     "section_title": "Våre løfter",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Alt blir på iPhonen din",
-        "body": "Alle reiseberegninger skjer på enheten din med rutetabelldata som er innebygd i appen. Innstillingene dine, som stasjoner, språk, farger, startside og påminnelser, lagres bare på iPhonen din. Sletter du appen, forsvinner de."
+        "title": "Alt blir på enhetene dine",
+        "body": "Alle reiseberegninger skjer på enheten din med rutetabelldata som er innebygd i appen. Innstillingene dine, som stasjoner, språk, farger, startside og påminnelser, lagres bare på enheten din. Sletter du appen, forsvinner de."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widgeter, Live-aktiviteter og Apple Watch",
+        "body": "Appen fungerer også på iPad og Apple Watch, med en widget for Hjem-skjermen og låst skjerm, en widget for urskiven på Apple Watch og, på iPhone, en Live-aktivitet som teller ned til påminnelsen din på låst skjerm og i Dynamic Island. For at en widget skal kunne vise den samme reisen som appen, deler appen og dens egne widgeter den siste reisen din (stasjoner og tider) via Apples deling av nøkkelringen; dette skjer bare på selve enheten, og ingenting lastes opp til noen server. Live-aktiviteter opprettes og oppdateres bare på enheten, uten at noen server sender dem oppdateringer, og når du sletter appen, fjernes alt dette."
       },
       {
         "id": "notifications",
         "title": "Varsler",
-        "body": "Hvis du tillater varsler, bruker appen dem bare til påminnelser du selv stiller inn. Hver påminnelse planlegges lokalt på iPhonen din; ingen server er involvert, og ikke noe innhold fra varslene forlater enheten din. Du kan når som helst slå av varsler i iOS-appen Innstillinger."
+        "body": "Hvis du tillater varsler, bruker appen dem bare til påminnelser du selv stiller inn. Hver påminnelse planlegges lokalt på enheten din; ingen server er involvert, og ikke noe innhold fra varslene forlater enheten din. Du kan når som helst slå av varsler i iOS-appen Innstillinger."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Rutetabelldata",
-        "body": "Rutetabeller, avgangsintervaller og kjøretider kommer fra Taipei Metros offisielle offentlige data og ligger i selve appen, så du trenger ingen internettilkobling for å slå opp en reise. Det eneste unntaket er den originale rutetabellen i PDF: den lastes ned fra nettstedet til Taipei Metro når du trykker på knappen for den offisielle rutetabellen, som en vanlig nettforespørsel, og vi mottar ingenting om det. Tidshjelp for metroen er uavhengig og ikke tilknyttet Taipei Rapid Transit Corporation."
+        "body": "Rutetabeller, avgangsintervaller og kjøretider kommer fra Taipei Metros offisielle offentlige data og ligger i selve appen, så du trenger ingen internettilkobling for å slå opp en reise. Unntakene er den offisielle rutetabellen i PDF og det offisielle linjekartet (vektorkartet som Taipei Metro publiserer, på kinesisk eller engelsk): ingen av dem ligger i appen, og hver av dem lastes ned fra nettstedet til Taipei Metro først når du trykker på den tilhørende knappen, som en vanlig nettforespørsel, og vi mottar ingenting om det. Tidshjelp for metroen er uavhengig og ikke tilknyttet Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

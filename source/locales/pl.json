@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Polityka prywatności",
-    "summary": "Metro na czas nie zbiera danych osobowych. Na tej stronie wyjaśniamy, co aplikacja robi na Twoim iPhonie i czego nie robi nigdy.",
+    "summary": "Metro na czas nie zbiera danych osobowych. Na tej stronie wyjaśniamy, co aplikacja robi na Twoich urządzeniach (iPhonie, iPadzie i Apple Watchu) i czego nie robi nigdy.",
     "updated_label": "Ostatnia aktualizacja",
     "section_title": "Nasze zobowiązania",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Wszystko zostaje na Twoim iPhonie",
-        "body": "Wszystkie obliczenia podróży odbywają się na Twoim urządzeniu na podstawie danych rozkładowych wbudowanych w aplikację. Twoje ustawienia, takie jak stacje, język, kolory, ekran startowy i przypomnienia, są przechowywane wyłącznie na Twoim iPhonie. Usunięcie aplikacji usuwa je."
+        "title": "Wszystko zostaje na Twoich urządzeniach",
+        "body": "Wszystkie obliczenia podróży odbywają się na Twoim urządzeniu na podstawie danych rozkładowych wbudowanych w aplikację. Twoje ustawienia, takie jak stacje, język, kolory, ekran startowy i przypomnienia, są przechowywane wyłącznie na Twoim urządzeniu. Usunięcie aplikacji usuwa je."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widżety, Aktywności na żywo i Apple Watch",
+        "body": "Aplikacja działa również na iPadzie i Apple Watchu, oferując widżet na ekran początkowy i ekran blokady, widżet na tarczę Apple Watcha oraz, na iPhonie, Aktywność na żywo, która na ekranie blokady i w Dynamic Island odlicza czas do Twojego przypomnienia. Aby widżet pokazywał tę samą podróż co aplikacja, aplikacja i jej własne widżety współdzielą Twoją ostatnią podróż (stacje i godziny) za pomocą udostępniania Pęku kluczy Apple; dzieje się to tylko na tym samym urządzeniu i nic nie jest wysyłane na żaden serwer. Aktywności na żywo są tworzone i aktualizowane tylko na urządzeniu, bez serwera, który wysyłałby im aktualizacje, a usunięcie aplikacji usuwa to wszystko."
       },
       {
         "id": "notifications",
         "title": "Powiadomienia",
-        "body": "Jeśli zezwolisz na powiadomienia, aplikacja używa ich wyłącznie do przypomnień ustawionych przez Ciebie. Każde przypomnienie jest planowane lokalnie na Twoim iPhonie; nie uczestniczy w tym żaden serwer, a treść powiadomień nie opuszcza urządzenia. Powiadomienia możesz w każdej chwili wyłączyć w aplikacji Ustawienia systemu iOS."
+        "body": "Jeśli zezwolisz na powiadomienia, aplikacja używa ich wyłącznie do przypomnień ustawionych przez Ciebie. Każde przypomnienie jest planowane lokalnie na Twoim urządzeniu; nie uczestniczy w tym żaden serwer, a treść powiadomień nie opuszcza urządzenia. Powiadomienia możesz w każdej chwili wyłączyć w aplikacji Ustawienia systemu iOS."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Dane rozkładowe",
-        "body": "Rozkłady jazdy, odstępy między pociągami i czasy przejazdu pochodzą z oficjalnych danych publicznych metra w Tajpej i są zawarte w samej aplikacji, więc sprawdzenie podróży nie wymaga połączenia z internetem. Jedynym wyjątkiem jest oryginalny rozkład w PDF: jest on pobierany ze strony internetowej metra w Tajpej po dotknięciu przycisku oficjalnego rozkładu, jako zwykłe zapytanie do strony, a my nie otrzymujemy na ten temat żadnych informacji. Metro na czas jest aplikacją niezależną i niepowiązaną z Taipei Rapid Transit Corporation."
+        "body": "Rozkłady jazdy, odstępy między pociągami i czasy przejazdu pochodzą z oficjalnych danych publicznych metra w Tajpej i są zawarte w samej aplikacji, więc sprawdzenie podróży nie wymaga połączenia z internetem. Wyjątkami są oficjalny rozkład jazdy w PDF i oficjalna mapa sieci (mapa wektorowa publikowana przez metro w Tajpej, po chińsku lub angielsku): żadne z nich nie jest wbudowane w aplikację, a każde jest pobierane ze strony internetowej metra w Tajpej dopiero po dotknięciu odpowiedniego przycisku, jako zwykłe zapytanie do strony, a my nie otrzymujemy na ten temat żadnych informacji. Metro na czas jest aplikacją niezależną i niepowiązaną z Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

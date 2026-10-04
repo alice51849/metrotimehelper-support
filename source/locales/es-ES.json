@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Política de privacidad",
-    "summary": "Metro a Tiempo no recopila datos personales. Esta página explica qué hace la app en tu iPhone y qué no hace nunca.",
+    "summary": "Metro a Tiempo no recopila datos personales. Esta página explica qué hace la app en tus dispositivos (iPhone, iPad y Apple Watch) y qué no hace nunca.",
     "updated_label": "Última actualización",
     "section_title": "Nuestros compromisos",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Todo se queda en tu iPhone",
-        "body": "Todos los cálculos de trayectos se hacen en tu dispositivo con los horarios integrados en la app. Tus ajustes, como estaciones, idioma, colores, pantalla de inicio y recordatorios, se guardan solo en tu iPhone. Si eliminas la app, se borran."
+        "title": "Todo se queda en tus dispositivos",
+        "body": "Todos los cálculos de trayectos se hacen en tu dispositivo con los horarios integrados en la app. Tus ajustes, como estaciones, idioma, colores, pantalla de inicio y recordatorios, se guardan solo en tu dispositivo. Si eliminas la app, se borran."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widgets, Actividades en directo y Apple Watch",
+        "body": "La app también funciona en iPad y en Apple Watch, con un widget para la pantalla de inicio y la pantalla bloqueada, un widget para la esfera del Apple Watch y, en el iPhone, una Actividad en directo que cuenta atrás hasta tu recordatorio en la pantalla bloqueada y en la Isla Dinámica. Para que un widget muestre el mismo trayecto que la app, la app y sus propios widgets comparten tu último trayecto (estaciones y horas) mediante la función de compartir llavero de Apple; esto ocurre solo en el mismo dispositivo y no se sube nada a ningún servidor. Las Actividades en directo se crean y se actualizan solo en el dispositivo, sin ningún servidor que les envíe actualizaciones, y al eliminar la app se borra todo esto."
       },
       {
         "id": "notifications",
         "title": "Notificaciones",
-        "body": "Si permites las notificaciones, la app solo las usa para los recordatorios que configures tú. Cada recordatorio se programa localmente en tu iPhone; no interviene ningún servidor y ningún contenido de las notificaciones sale de tu dispositivo. Puedes desactivarlas en cualquier momento en la app Ajustes de iOS."
+        "body": "Si permites las notificaciones, la app solo las usa para los recordatorios que configures tú. Cada recordatorio se programa localmente en tu dispositivo; no interviene ningún servidor y ningún contenido de las notificaciones sale de tu dispositivo. Puedes desactivarlas en cualquier momento en la app Ajustes de iOS."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Datos de horarios",
-        "body": "Los horarios, las frecuencias y los tiempos de recorrido proceden de los datos públicos oficiales del metro de Taipéi y vienen incluidos en la propia app, así que consultar un trayecto no requiere conexión a Internet. La única excepción es el PDF original del horario: se descarga de la web del metro de Taipéi cuando tocas el botón del horario oficial, como una petición web normal, y nosotros no recibimos ninguna información al respecto. Metro a Tiempo es independiente y no está vinculada a Taipei Rapid Transit Corporation."
+        "body": "Los horarios, las frecuencias y los tiempos de recorrido proceden de los datos públicos oficiales del metro de Taipéi y vienen incluidos en la propia app, así que consultar un trayecto no requiere conexión a Internet. Las excepciones son el PDF oficial del horario y el plano oficial de la red (el plano vectorial que publica el metro de Taipéi, en chino o en inglés): ninguno viene incluido en la app y cada uno se descarga de la web del metro de Taipéi solo cuando tocas su botón, como una petición web normal, y nosotros no recibimos ninguna información al respecto. Metro a Tiempo es independiente y no está vinculada a Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

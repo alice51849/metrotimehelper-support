@@ -254,8 +254,8 @@ def check_page(tr: dict, locale: str | None, page: str) -> None:
             fail(f"{label}: forbidden text {word}")
     item = tr[content_locale]
     if page == "privacy":
-        if gen.UPDATED != "2026-10-04" or "2026-10-04" not in parser.time_values:
-            fail(f"{label}: Last Updated must be 2026-10-04")
+        if gen.UPDATED != "2026-10-05" or "2026-10-05" not in parser.time_values:
+            fail(f"{label}: Last Updated must be 2026-10-05")
         if item["privacy"]["updated_label"] not in text:
             fail(f"{label}: Last Updated label missing")
         needed = gen.SECTION_IDS[("privacy", "sections")]

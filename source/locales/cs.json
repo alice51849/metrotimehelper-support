@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Zásady ochrany soukromí",
-    "summary": "Metro včas neshromažďuje osobní údaje. Tato stránka vysvětluje, co aplikace ve vašem iPhonu dělá a co nedělá nikdy.",
+    "summary": "Metro včas neshromažďuje osobní údaje. Tato stránka vysvětluje, co aplikace dělá ve vašich zařízeních (iPhone, iPad a Apple Watch) a co nedělá nikdy.",
     "updated_label": "Poslední aktualizace",
     "section_title": "Naše závazky",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Vše zůstává ve vašem iPhonu",
-        "body": "Veškeré výpočty cest probíhají ve vašem zařízení na základě dat jízdních řádů, která jsou součástí aplikace. Vaše nastavení, například stanice, jazyk, barvy, stránka po spuštění a připomínky, se ukládají jen ve vašem iPhonu. Smazáním aplikace se odstraní."
+        "title": "Vše zůstává ve vašich zařízeních",
+        "body": "Veškeré výpočty cest probíhají ve vašem zařízení na základě dat jízdních řádů, která jsou součástí aplikace. Vaše nastavení, například stanice, jazyk, barvy, stránka po spuštění a připomínky, se ukládají jen ve vašem zařízení. Smazáním aplikace se odstraní."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widgety, Živé aktivity a Apple Watch",
+        "body": "Aplikace funguje také na iPadu a na Apple Watch a nabízí widget pro plochu a zamčenou obrazovku, widget pro ciferník Apple Watch a na iPhonu Živou aktivitu, která na zamčené obrazovce a v Dynamic Island odpočítává čas do vaší připomínky. Aby widget ukazoval stejnou cestu jako aplikace, sdílejí aplikace a její vlastní widgety vaši poslední cestu (stanice a časy) pomocí sdílení klíčenky od Apple; děje se to jen v rámci téhož zařízení a nic se nenahrává na žádný server. Živé aktivity se vytvářejí a aktualizují jen v zařízení, bez serveru, který by jim posílal aktualizace, a smazáním aplikace se to všechno odstraní."
       },
       {
         "id": "notifications",
         "title": "Oznámení",
-        "body": "Pokud oznámení povolíte, aplikace je používá jen pro připomínky, které si sami nastavíte. Každá připomínka se plánuje místně ve vašem iPhonu; nepodílí se na tom žádný server a obsah oznámení vaše zařízení neopouští. Oznámení můžete kdykoli vypnout v aplikaci Nastavení v iOS."
+        "body": "Pokud oznámení povolíte, aplikace je používá jen pro připomínky, které si sami nastavíte. Každá připomínka se plánuje místně ve vašem zařízení; nepodílí se na tom žádný server a obsah oznámení vaše zařízení neopouští. Oznámení můžete kdykoli vypnout v aplikaci Nastavení v iOS."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Data jízdních řádů",
-        "body": "Jízdní řády, intervaly a jízdní doby pocházejí z oficiálních veřejných dat tchajpejského metra a jsou přímo součástí aplikace, takže vyhledání cesty nevyžaduje připojení k internetu. Jedinou výjimkou je původní jízdní řád v PDF: stáhne se z webu tchajpejského metra, když klepnete na tlačítko oficiálního jízdního řádu, jako běžný webový požadavek, a my o tom nedostáváme žádné informace. Metro včas je nezávislá aplikace a není přidružena ke společnosti Taipei Rapid Transit Corporation."
+        "body": "Jízdní řády, intervaly a jízdní doby pocházejí z oficiálních veřejných dat tchajpejského metra a jsou přímo součástí aplikace, takže vyhledání cesty nevyžaduje připojení k internetu. Výjimkou jsou oficiální jízdní řád v PDF a oficiální schéma sítě (vektorová mapa, kterou zveřejňuje tchajpejské metro, v čínštině nebo angličtině): ani jedno není součástí aplikace a každé se stáhne z webu tchajpejského metra, až když klepnete na příslušné tlačítko, jako běžný webový požadavek, a my o tom nedostáváme žádné informace. Metro včas je nezávislá aplikace a není přidružena ke společnosti Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

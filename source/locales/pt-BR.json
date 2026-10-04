@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Política de Privacidade",
-    "summary": "Hora do Metrô não coleta dados pessoais. Esta página explica o que o app faz no seu iPhone e o que ele nunca faz.",
+    "summary": "Hora do Metrô não coleta dados pessoais. Esta página explica o que o app faz nos seus aparelhos (iPhone, iPad e Apple Watch) e o que ele nunca faz.",
     "updated_label": "Última atualização",
     "section_title": "Nossos compromissos",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Tudo fica no seu iPhone",
-        "body": "Todos os cálculos de viagem são feitos no seu aparelho, com os horários embutidos no app. Seus ajustes, como estações, idioma, cores, tela inicial e lembretes, ficam guardados só no seu iPhone. Apagar o app remove tudo isso."
+        "title": "Tudo fica nos seus aparelhos",
+        "body": "Todos os cálculos de viagem são feitos no seu aparelho, com os horários embutidos no app. Seus ajustes, como estações, idioma, cores, tela inicial e lembretes, ficam guardados só no seu aparelho. Apagar o app remove tudo isso."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widgets, Atividades ao Vivo e Apple Watch",
+        "body": "O app também funciona no iPad e no Apple Watch, com um widget para a Tela de Início e a Tela Bloqueada, um widget para o mostrador do Apple Watch e, no iPhone, uma Atividade ao Vivo que faz a contagem regressiva até o seu lembrete na Tela Bloqueada e na Dynamic Island. Para que um widget mostre a mesma viagem do app, o app e seus próprios widgets compartilham a sua última viagem (estações e horários) pelo compartilhamento de Chaves da Apple; isso acontece somente no mesmo aparelho e nada é enviado a nenhum servidor. As Atividades ao Vivo são criadas e atualizadas somente no aparelho, sem nenhum servidor que envie atualizações a elas, e apagar o app remove tudo isso."
       },
       {
         "id": "notifications",
         "title": "Notificações",
-        "body": "Se você permitir notificações, o app as usa somente para os lembretes que você mesmo cria. Cada lembrete é agendado localmente no seu iPhone; nenhum servidor participa e nenhum conteúdo de notificação sai do seu aparelho. Você pode desativar as notificações a qualquer momento no app Ajustes do iOS."
+        "body": "Se você permitir notificações, o app as usa somente para os lembretes que você mesmo cria. Cada lembrete é agendado localmente no seu aparelho; nenhum servidor participa e nenhum conteúdo de notificação sai do seu aparelho. Você pode desativar as notificações a qualquer momento no app Ajustes do iOS."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Dados de horários",
-        "body": "Os horários, intervalos e tempos de percurso vêm dos dados públicos oficiais do metrô de Taipei e já estão incluídos no próprio app, então consultar uma viagem não exige conexão com a internet. A única exceção é o PDF original do horário: ele é baixado do site do metrô de Taipei quando você toca no botão do horário oficial, como uma requisição comum da web, e nós não recebemos nada sobre isso. Hora do Metrô é independente e não é afiliado à Taipei Rapid Transit Corporation."
+        "body": "Os horários, intervalos e tempos de percurso vêm dos dados públicos oficiais do metrô de Taipei e já estão incluídos no próprio app, então consultar uma viagem não exige conexão com a internet. As exceções são o PDF oficial do horário e o mapa oficial da rede (o mapa vetorial publicado pelo metrô de Taipei, em chinês ou em inglês): nenhum dos dois está incluído no app e cada um é baixado do site do metrô de Taipei somente quando você toca no botão correspondente, como uma requisição comum da web, e nós não recebemos nada sobre isso. Hora do Metrô é independente e não é afiliado à Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

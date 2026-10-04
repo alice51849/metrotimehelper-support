@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Adatvédelmi irányelvek",
-    "summary": "Az Időtervező a metróhoz nem gyűjt személyes adatokat. Ez az oldal elmagyarázza, mit végez az alkalmazás az Ön iPhone-ján, és mit nem tesz soha.",
+    "summary": "Az Időtervező a metróhoz nem gyűjt személyes adatokat. Ez az oldal elmagyarázza, mit végez az alkalmazás az Ön eszközein (iPhone, iPad és Apple Watch), és mit nem tesz soha.",
     "updated_label": "Utolsó frissítés",
     "section_title": "Vállalásaink",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Minden az iPhone-ján marad",
-        "body": "Az útvonalak minden számítása az Ön eszközén fut, az alkalmazásba épített menetrendadatok alapján. Beállításait, például az állomásokat, a nyelvet, a színeket, a kezdőoldalt és az emlékeztetőket, kizárólag az iPhone-ján tárolja. Az alkalmazás törlésével ezek is törlődnek."
+        "title": "Minden az Ön eszközein marad",
+        "body": "Az útvonalak minden számítása az Ön eszközén fut, az alkalmazásba épített menetrendadatok alapján. Beállításait, például az állomásokat, a nyelvet, a színeket, a kezdőoldalt és az emlékeztetőket, kizárólag az eszközén tárolja. Az alkalmazás törlésével ezek is törlődnek."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widgetek, Élő tevékenységek és Apple Watch",
+        "body": "Az alkalmazás iPaden és Apple Watchon is működik, és kínál widgetet a kezdőképernyőre és a zárolási képernyőre, widgetet az Apple Watch számlapjára, valamint iPhone-on egy Élő tevékenységet, amely a zárolási képernyőn és a Dynamic Islanden visszaszámol az emlékeztetőjéig. Hogy a widget ugyanazt az utat mutassa, mint az alkalmazás, az alkalmazás és a saját widgetjei az Apple Kulcstartó-megosztásán keresztül megosztják az Ön legutóbbi útját (az állomásokat és az időpontokat); ez kizárólag ugyanazon az eszközön történik, és semmi sem kerül feltöltésre egyetlen szerverre sem. Az Élő tevékenységek kizárólag az eszközön jönnek létre és frissülnek, szerver nélkül, amely frissítéseket küldene nekik, és az alkalmazás törlésével mindez eltávolításra kerül."
       },
       {
         "id": "notifications",
         "title": "Értesítések",
-        "body": "Ha engedélyezi az értesítéseket, az alkalmazás kizárólag az Ön által beállított emlékeztetőkhöz használja őket. Minden emlékeztető ütemezése helyben, az iPhone-ján történik; nem vesz részt benne szerver, és az értesítések tartalma nem hagyja el az eszközt. Az értesítéseket bármikor kikapcsolhatja az iOS Beállítások alkalmazásában."
+        "body": "Ha engedélyezi az értesítéseket, az alkalmazás kizárólag az Ön által beállított emlékeztetőkhöz használja őket. Minden emlékeztető ütemezése helyben, az eszközén történik; nem vesz részt benne szerver, és az értesítések tartalma nem hagyja el az eszközt. Az értesítéseket bármikor kikapcsolhatja az iOS Beállítások alkalmazásában."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Menetrendadatok",
-        "body": "A menetrendek, a követési idők és a menetidők a tajpeji metró hivatalos nyilvános adataiból származnak, és magában az alkalmazásban találhatók, így az utak lekérdezéséhez nincs szükség internetkapcsolatra. Az egyetlen kivétel az eredeti menetrend PDF-je: ezt a hivatalos menetrend gombjának megérintésekor tölti le az alkalmazás a tajpeji metró webhelyéről, szokásos webes kéréssel, és mi erről semmilyen információt nem kapunk. Az Időtervező a metróhoz független alkalmazás, és nem áll kapcsolatban a Taipei Rapid Transit Corporation vállalattal."
+        "body": "A menetrendek, a követési idők és a menetidők a tajpeji metró hivatalos nyilvános adataiból származnak, és magában az alkalmazásban találhatók, így az utak lekérdezéséhez nincs szükség internetkapcsolatra. A kivételek a hivatalos menetrend PDF-je és a hivatalos hálózati térkép (a tajpeji metró által közzétett vektoros térkép kínai vagy angol nyelven): egyik sem része az alkalmazásnak, és mindkettőt csak akkor tölti le az alkalmazás a tajpeji metró webhelyéről, amikor megérinti a hozzájuk tartozó gombot, szokásos webes kéréssel, és mi erről semmilyen információt nem kapunk. Az Időtervező a metróhoz független alkalmazás, és nem áll kapcsolatban a Taipei Rapid Transit Corporation vállalattal."
       },
       {
         "id": "contact_requests",

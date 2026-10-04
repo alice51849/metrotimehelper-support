@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Tietosuojakäytäntö",
-    "summary": "Metron aika-apuri ei kerää henkilötietoja. Tällä sivulla kerrotaan, mitä sovellus tekee iPhonessasi ja mitä se ei tee koskaan.",
+    "summary": "Metron aika-apuri ei kerää henkilötietoja. Tällä sivulla kerrotaan, mitä sovellus tekee laitteillasi (iPhone, iPad ja Apple Watch) ja mitä se ei tee koskaan.",
     "updated_label": "Päivitetty viimeksi",
     "section_title": "Sitoumuksemme",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Kaikki pysyy iPhonessasi",
-        "body": "Kaikki matkalaskelmat tehdään laitteellasi sovellukseen sisäänrakennettujen aikataulutietojen avulla. Asetuksesi, kuten asemat, kieli, värit, aloitussivu ja muistutukset, tallennetaan vain iPhonellesi. Kun poistat sovelluksen, ne poistuvat."
+        "title": "Kaikki pysyy laitteillasi",
+        "body": "Kaikki matkalaskelmat tehdään laitteellasi sovellukseen sisäänrakennettujen aikataulutietojen avulla. Asetuksesi, kuten asemat, kieli, värit, aloitussivu ja muistutukset, tallennetaan vain laitteellesi. Kun poistat sovelluksen, ne poistuvat."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widgetit, Live-toiminnot ja Apple Watch",
+        "body": "Sovellus toimii myös iPadilla ja Apple Watchilla, ja siinä on widget Koti-valikkoon ja lukitusnäyttöön, widget Apple Watchin kellotauluun sekä iPhonella Live-toiminto, joka laskee aikaa muistutukseesi lukitusnäytöllä ja Dynamic Islandissa. Jotta widget voi näyttää saman matkan kuin sovellus, sovellus ja sen omat widgetit jakavat viimeisimmän matkasi (asemat ja ajat) Applen avainnipun jaon kautta; tämä tapahtuu vain samalla laitteella, eikä mitään lähetetä millekään palvelimelle. Live-toiminnot luodaan ja päivitetään vain laitteella, ilman palvelinta, joka lähettäisi niille päivityksiä, ja kun poistat sovelluksen, kaikki tämä poistuu."
       },
       {
         "id": "notifications",
         "title": "Ilmoitukset",
-        "body": "Jos sallit ilmoitukset, sovellus käyttää niitä vain itse asettamiisi muistutuksiin. Jokainen muistutus ajastetaan paikallisesti iPhonellesi; mitään palvelinta ei käytetä, eikä ilmoitusten sisältö poistu laitteeltasi. Voit poistaa ilmoitukset käytöstä milloin tahansa iOS:n Asetukset-apissa."
+        "body": "Jos sallit ilmoitukset, sovellus käyttää niitä vain itse asettamiisi muistutuksiin. Jokainen muistutus ajastetaan paikallisesti laitteellesi; mitään palvelinta ei käytetä, eikä ilmoitusten sisältö poistu laitteeltasi. Voit poistaa ilmoitukset käytöstä milloin tahansa iOS:n Asetukset-apissa."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Aikataulutiedot",
-        "body": "Aikataulut, vuorovälit ja ajoajat perustuvat Taipein metron virallisiin julkisiin tietoihin ja sisältyvät itse sovellukseen, joten matkan hakeminen ei vaadi internetyhteyttä. Ainoa poikkeus on alkuperäisen aikataulun PDF: se ladataan Taipein metron verkkosivustolta, kun napautat virallisen aikataulun painiketta. Kyse on tavallisesta verkkopyynnöstä, emmekä saa siitä mitään tietoja. Metron aika-apuri on itsenäinen, eikä se liity Taipei Rapid Transit Corporationiin."
+        "body": "Aikataulut, vuorovälit ja ajoajat perustuvat Taipein metron virallisiin julkisiin tietoihin ja sisältyvät itse sovellukseen, joten matkan hakeminen ei vaadi internetyhteyttä. Poikkeuksia ovat virallinen aikataulu PDF-tiedostona ja virallinen verkkokartta (Taipein metron julkaisema vektorikartta kiinaksi tai englanniksi): kumpikaan ei sisälly sovellukseen, ja kumpikin ladataan Taipein metron verkkosivustolta vain, kun napautat sen painiketta. Kyse on tavallisesta verkkopyynnöstä, emmekä saa siitä mitään tietoja. Metron aika-apuri on itsenäinen, eikä se liity Taipei Rapid Transit Corporationiin."
       },
       {
         "id": "contact_requests",

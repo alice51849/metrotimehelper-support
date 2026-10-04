@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "summary": "Metro Time Helper does not collect personal data. This page explains what the app does on your iPhone and what it never does.",
+    "summary": "Metro Time Helper does not collect personal data. This page explains what the app does on your iPhone, iPad, and Apple Watch and what it never does.",
     "updated_label": "Last Updated",
     "section_title": "Our commitments",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Everything stays on your iPhone",
-        "body": "All trip calculations run on your device using timetable data built into the app. Your settings, such as stations, language, colours, launch page, and reminders, are stored only on your iPhone. Deleting the app removes them."
+        "title": "Everything stays on your devices",
+        "body": "All trip calculations run on your device using timetable data built into the app. Your settings, such as stations, language, colours, launch page, and reminders, are stored only on your device. Deleting the app removes them."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widgets, Live Activities, and Apple Watch",
+        "body": "The app also runs on iPad and Apple Watch, with a Home Screen and Lock Screen widget, a widget for the Apple Watch face, and, on iPhone, a Live Activity that counts down to your reminder on the Lock Screen and in the Dynamic Island. So that a widget can show the same trip as the app, the app and its own widgets share your latest trip (stations and times) through Apple's Keychain Sharing; this happens only on the same device, and nothing is uploaded to any server. Live Activities are created and updated only on the device, with no server sending updates to them, and deleting the app removes all of this."
       },
       {
         "id": "notifications",
         "title": "Notifications",
-        "body": "If you allow notifications, the app uses them only for reminders you set yourself. Every reminder is scheduled locally on your iPhone; no server is involved and no notification content leaves your device. You can turn notifications off at any time in the iOS Settings app."
+        "body": "If you allow notifications, the app uses them only for reminders you set yourself. Every reminder is scheduled locally on your device; no server is involved and no notification content leaves your device. You can turn notifications off at any time in the iOS Settings app."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Timetable data",
-        "body": "Timetables, headways, and run times come from Taipei Metro's official public data and are included in the app itself, so looking up a trip does not require an internet connection. The only exception is the original timetable PDF: it is downloaded from Taipei Metro's website when you tap the official timetable button, as an ordinary web request, and we receive nothing about it. Metro Time Helper is independent and not affiliated with Taipei Rapid Transit Corporation."
+        "body": "Timetables, headways, and run times come from Taipei Metro's official public data and are included in the app itself, so looking up a trip does not require an internet connection. The exceptions are the official timetable PDF and the official network map (the vector map published by Taipei Metro, in Chinese or English): each is downloaded from Taipei Metro's website only when you tap its button, as an ordinary web request, and we receive nothing about it. Metro Time Helper is independent and not affiliated with Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

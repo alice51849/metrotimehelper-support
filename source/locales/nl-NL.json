@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Privacybeleid",
-    "summary": "Metro Tijdhelper verzamelt geen persoonsgegevens. Deze pagina legt uit wat de app op je iPhone doet en wat hij nooit doet.",
+    "summary": "Metro Tijdhelper verzamelt geen persoonsgegevens. Deze pagina legt uit wat de app op je apparaten (iPhone, iPad en Apple Watch) doet en wat hij nooit doet.",
     "updated_label": "Laatst bijgewerkt",
     "section_title": "Onze toezeggingen",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Alles blijft op je iPhone",
-        "body": "Alle reisberekeningen gebeuren op je apparaat met de dienstregelingsgegevens die in de app zijn ingebouwd. Je instellingen, zoals stations, taal, kleuren, startpagina en herinneringen, worden alleen op je iPhone bewaard. Verwijder je de app, dan verdwijnen ze ook."
+        "title": "Alles blijft op je apparaten",
+        "body": "Alle reisberekeningen gebeuren op je apparaat met de dienstregelingsgegevens die in de app zijn ingebouwd. Je instellingen, zoals stations, taal, kleuren, startpagina en herinneringen, worden alleen op je apparaat bewaard. Verwijder je de app, dan verdwijnen ze ook."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widgets, Live-activiteiten en Apple Watch",
+        "body": "De app werkt ook op iPad en Apple Watch, met een widget voor het beginscherm en het toegangsscherm, een widget voor de wijzerplaat van de Apple Watch en, op de iPhone, een Live-activiteit die op het toegangsscherm en in het Dynamic Island aftelt naar je herinnering. Zodat een widget dezelfde reis toont als de app, delen de app en zijn eigen widgets je laatste reis (stations en tijden) via het delen van de Sleutelhanger van Apple; dit gebeurt alleen op hetzelfde apparaat en er wordt niets naar een server geüpload. Live-activiteiten worden alleen op het apparaat gemaakt en bijgewerkt, zonder server die ze updates stuurt, en als je de app verwijdert, verdwijnt dit allemaal."
       },
       {
         "id": "notifications",
         "title": "Meldingen",
-        "body": "Als je meldingen toestaat, gebruikt de app ze alleen voor herinneringen die je zelf instelt. Elke herinnering wordt lokaal op je iPhone ingepland; er komt geen server aan te pas en geen inhoud van een melding verlaat je apparaat. Je kunt meldingen op elk moment uitzetten in de iOS-app Instellingen."
+        "body": "Als je meldingen toestaat, gebruikt de app ze alleen voor herinneringen die je zelf instelt. Elke herinnering wordt lokaal op je apparaat ingepland; er komt geen server aan te pas en geen inhoud van een melding verlaat je apparaat. Je kunt meldingen op elk moment uitzetten in de iOS-app Instellingen."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Dienstregelingsgegevens",
-        "body": "Dienstregelingen, intervaltijden en rijtijden komen uit de officiële openbare gegevens van de metro van Taipei en zitten in de app zelf, dus voor het opzoeken van een reis heb je geen internetverbinding nodig. De enige uitzondering is de originele dienstregeling als PDF: die wordt gedownload van de website van de metro van Taipei wanneer je op de knop voor de officiële dienstregeling tikt, als een gewoon webverzoek, en wij ontvangen daar niets over. Metro Tijdhelper is onafhankelijk en niet verbonden aan de Taipei Rapid Transit Corporation."
+        "body": "Dienstregelingen, intervaltijden en rijtijden komen uit de officiële openbare gegevens van de metro van Taipei en zitten in de app zelf, dus voor het opzoeken van een reis heb je geen internetverbinding nodig. De uitzonderingen zijn de officiële dienstregeling als PDF en de officiële netkaart (de vectorkaart die de metro van Taipei publiceert, in het Chinees of Engels): geen van beide zit in de app en elk wordt alleen gedownload van de website van de metro van Taipei wanneer je op de bijbehorende knop tikt, als een gewoon webverzoek, en wij ontvangen daar niets over. Metro Tijdhelper is onafhankelijk en niet verbonden aan de Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

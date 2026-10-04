@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Política de Privacidade",
-    "summary": "Metro a Horas não recolhe dados pessoais. Esta página explica o que a app faz no seu iPhone e o que nunca faz.",
+    "summary": "Metro a Horas não recolhe dados pessoais. Esta página explica o que a app faz nos seus dispositivos (iPhone, iPad e Apple Watch) e o que nunca faz.",
     "updated_label": "Última atualização",
     "section_title": "Os nossos compromissos",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Tudo fica no seu iPhone",
-        "body": "Todos os cálculos de viagem são feitos no seu dispositivo, com os horários incluídos na app. As suas definições, como estações, idioma, cores, ecrã inicial e lembretes, ficam guardadas apenas no seu iPhone. Apagar a app remove-as."
+        "title": "Tudo fica nos seus dispositivos",
+        "body": "Todos os cálculos de viagem são feitos no seu dispositivo, com os horários incluídos na app. As suas definições, como estações, idioma, cores, ecrã inicial e lembretes, ficam guardadas apenas no seu dispositivo. Apagar a app remove-as."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widgets, Atividades em Direto e Apple Watch",
+        "body": "A app também funciona no iPad e no Apple Watch, com um widget para o ecrã principal e o ecrã bloqueado, um widget para o mostrador do Apple Watch e, no iPhone, uma Atividade em Direto que faz a contagem decrescente até ao seu lembrete no ecrã bloqueado e na Dynamic Island. Para que um widget mostre a mesma viagem que a app, a app e os seus próprios widgets partilham a sua última viagem (estações e horas) através da partilha do Porta-chaves da Apple; isto acontece apenas no mesmo dispositivo e nada é enviado para nenhum servidor. As Atividades em Direto são criadas e atualizadas apenas no dispositivo, sem nenhum servidor que lhes envie atualizações, e apagar a app remove tudo isto."
       },
       {
         "id": "notifications",
         "title": "Notificações",
-        "body": "Se permitir notificações, a app usa-as apenas para os lembretes que definir. Cada lembrete é agendado localmente no seu iPhone; não intervém nenhum servidor e nenhum conteúdo das notificações sai do seu dispositivo. Pode desativar as notificações a qualquer momento na app Definições do iOS."
+        "body": "Se permitir notificações, a app usa-as apenas para os lembretes que definir. Cada lembrete é agendado localmente no seu dispositivo; não intervém nenhum servidor e nenhum conteúdo das notificações sai do seu dispositivo. Pode desativar as notificações a qualquer momento na app Definições do iOS."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Dados dos horários",
-        "body": "Os horários, intervalos e tempos de percurso provêm dos dados públicos oficiais do metro de Taipé e estão incluídos na própria app, por isso consultar uma viagem não requer ligação à internet. A única exceção é o PDF original do horário: é descarregado do site do metro de Taipé quando toca no botão do horário oficial, como um pedido web normal, e nós não recebemos qualquer informação sobre isso. Metro a Horas é independente e não está associada à Taipei Rapid Transit Corporation."
+        "body": "Os horários, intervalos e tempos de percurso provêm dos dados públicos oficiais do metro de Taipé e estão incluídos na própria app, por isso consultar uma viagem não requer ligação à internet. As exceções são o PDF oficial do horário e o mapa oficial da rede (o mapa vetorial publicado pelo metro de Taipé, em chinês ou em inglês): nenhum dos dois está incluído na app e cada um é descarregado do site do metro de Taipé apenas quando toca no respetivo botão, como um pedido web normal, e nós não recebemos qualquer informação sobre isso. Metro a Horas é independente e não está associada à Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

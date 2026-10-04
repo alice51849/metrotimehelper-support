@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Politica de confidențialitate",
-    "summary": "Metrou la Timp nu colectează date personale. Această pagină explică ce face aplicația pe iPhone-ul dvs. și ce nu face niciodată.",
+    "summary": "Metrou la Timp nu colectează date personale. Această pagină explică ce face aplicația pe dispozitivele dvs. (iPhone, iPad și Apple Watch) și ce nu face niciodată.",
     "updated_label": "Ultima actualizare",
     "section_title": "Angajamentele noastre",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Totul rămâne pe iPhone-ul dvs.",
-        "body": "Toate calculele călătoriilor se fac pe dispozitiv, folosind orarele incluse în aplicație. Configurările dvs., cum ar fi stațiile, limba, culorile, pagina de pornire și mementourile, sunt stocate doar pe iPhone. Ștergerea aplicației le elimină."
+        "title": "Totul rămâne pe dispozitivele dvs.",
+        "body": "Toate calculele călătoriilor se fac pe dispozitiv, folosind orarele incluse în aplicație. Configurările dvs., cum ar fi stațiile, limba, culorile, pagina de pornire și mementourile, sunt stocate doar pe dispozitiv. Ștergerea aplicației le elimină."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widgeturi, Activități live și Apple Watch",
+        "body": "Aplicația funcționează și pe iPad și pe Apple Watch, cu un widget pentru ecranul principal și ecranul de blocare, un widget pentru cadranul Apple Watch și, pe iPhone, o Activitate live care numără invers până la mementoul dvs. pe ecranul de blocare și în Dynamic Island. Pentru ca un widget să afișeze aceeași călătorie ca aplicația, aplicația și propriile ei widgeturi partajează ultima dvs. călătorie (stații și ore) prin partajarea Brelocului Apple; acest lucru se întâmplă doar pe același dispozitiv și nimic nu este încărcat pe vreun server. Activitățile live sunt create și actualizate doar pe dispozitiv, fără un server care să le trimită actualizări, iar ștergerea aplicației elimină toate acestea."
       },
       {
         "id": "notifications",
         "title": "Notificări",
-        "body": "Dacă permiteți notificările, aplicația le folosește doar pentru mementourile pe care le setați dvs. Fiecare memento este programat local pe iPhone; nu este implicat niciun server și niciun conținut al notificărilor nu părăsește dispozitivul. Puteți dezactiva notificările oricând în aplicația Configurări din iOS."
+        "body": "Dacă permiteți notificările, aplicația le folosește doar pentru mementourile pe care le setați dvs. Fiecare memento este programat local pe dispozitiv; nu este implicat niciun server și niciun conținut al notificărilor nu părăsește dispozitivul. Puteți dezactiva notificările oricând în aplicația Configurări din iOS."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Datele orarelor",
-        "body": "Orarele, intervalele și duratele de parcurs provin din datele publice oficiale ale metroului din Taipei și sunt incluse în aplicație, așa că pentru a căuta o călătorie nu aveți nevoie de conexiune la internet. Singura excepție este PDF-ul original al orarului: acesta se descarcă de pe site-ul metroului din Taipei când atingeți butonul pentru orarul oficial, printr-o solicitare web obișnuită, iar noi nu primim nicio informație despre aceasta. Metrou la Timp este independentă și nu este afiliată cu Taipei Rapid Transit Corporation."
+        "body": "Orarele, intervalele și duratele de parcurs provin din datele publice oficiale ale metroului din Taipei și sunt incluse în aplicație, așa că pentru a căuta o călătorie nu aveți nevoie de conexiune la internet. Excepțiile sunt PDF-ul oficial al orarului și harta oficială a rețelei (harta vectorială publicată de metroul din Taipei, în chineză sau în engleză): niciuna nu este inclusă în aplicație, iar fiecare se descarcă de pe site-ul metroului din Taipei doar când atingeți butonul ei, printr-o solicitare web obișnuită, iar noi nu primim nicio informație despre aceasta. Metrou la Timp este independentă și nu este afiliată cu Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

@@ -50,7 +50,7 @@ SECTION_IDS = {
     ("support", "howto"): ("three_modes", "switch_mode", "plan_trip", "branch_reminders", "default_page", "language"),
     ("support", "faq"): ("why_estimate", "branch_timetable", "notifications", "restore", "trial_unlock", "coverage", "independence"),
     ("privacy", "sections"): (
-        "no_account", "data_collection", "on_device", "notifications", "storekit",
+        "no_account", "data_collection", "on_device", "widgets_watch", "notifications", "storekit",
         "no_ads_analytics", "data_sources", "contact_requests", "policy_changes",
     ),
 }

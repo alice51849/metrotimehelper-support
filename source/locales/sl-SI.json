@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Pravilnik o zasebnosti",
-    "summary": "Metro pravočasno ne zbira osebnih podatkov. Ta stran pojasnjuje, kaj aplikacija počne v vašem iPhonu in česa nikoli ne počne.",
+    "summary": "Metro pravočasno ne zbira osebnih podatkov. Ta stran pojasnjuje, kaj aplikacija počne v vaših napravah (iPhone, iPad in Apple Watch) in česa nikoli ne počne.",
     "updated_label": "Zadnja posodobitev",
     "section_title": "Naše zaveze",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Vse ostane v vašem iPhonu",
-        "body": "Vsi izračuni poti potekajo v vaši napravi na podlagi podatkov o voznih redih, vgrajenih v aplikacijo. Vaše nastavitve, kot so postaje, jezik, barve, stran ob zagonu in opomniki, so shranjene samo v vašem iPhonu. Z odstranitvijo aplikacije se izbrišejo."
+        "title": "Vse ostane v vaših napravah",
+        "body": "Vsi izračuni poti potekajo v vaši napravi na podlagi podatkov o voznih redih, vgrajenih v aplikacijo. Vaše nastavitve, kot so postaje, jezik, barve, stran ob zagonu in opomniki, so shranjene samo v vaši napravi. Z odstranitvijo aplikacije se izbrišejo."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Pripomočki, Dejavnosti v živo in Apple Watch",
+        "body": "Aplikacija deluje tudi na iPadu in Apple Watchu ter ponuja pripomoček za začetni in zaklenjeni zaslon, pripomoček za številčnico Apple Watcha in na iPhonu Dejavnost v živo, ki na zaklenjenem zaslonu in v Dynamic Islandu odšteva do vašega opomnika. Da pripomoček prikazuje isto pot kot aplikacija, aplikacija in njeni lastni pripomočki delijo vašo zadnjo pot (postaje in čase) prek deljenja obeska za ključe družbe Apple; to poteka samo v isti napravi in nič se ne nalaga na noben strežnik. Dejavnosti v živo se ustvarjajo in posodabljajo samo v napravi, brez strežnika, ki bi jim pošiljal posodobitve, z odstranitvijo aplikacije pa se vse to izbriše."
       },
       {
         "id": "notifications",
         "title": "Obvestila",
-        "body": "Če obvestila dovolite, jih aplikacija uporablja samo za opomnike, ki jih nastavite sami. Vsak opomnik je načrtovan lokalno v vašem iPhonu; noben strežnik ni vključen in vsebina obvestil ne zapusti vaše naprave. Obvestila lahko kadar koli izklopite v aplikaciji Nastavitve v sistemu iOS."
+        "body": "Če obvestila dovolite, jih aplikacija uporablja samo za opomnike, ki jih nastavite sami. Vsak opomnik je načrtovan lokalno v vaši napravi; noben strežnik ni vključen in vsebina obvestil ne zapusti vaše naprave. Obvestila lahko kadar koli izklopite v aplikaciji Nastavitve v sistemu iOS."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Podatki o voznih redih",
-        "body": "Vozni redi, intervali in časi vožnje izhajajo iz uradnih javnih podatkov tajpejskega metroja in so vključeni v samo aplikacijo, zato iskanje poti ne zahteva internetne povezave. Edina izjema je izvirni vozni red v PDF: ko tapnete gumb za uradni vozni red, se kot običajna spletna zahteva prenese s spletnega mesta tajpejskega metroja, mi pa o tem ne prejmemo nobenih podatkov. Metro pravočasno je neodvisna aplikacija in ni povezana z družbo Taipei Rapid Transit Corporation."
+        "body": "Vozni redi, intervali in časi vožnje izhajajo iz uradnih javnih podatkov tajpejskega metroja in so vključeni v samo aplikacijo, zato iskanje poti ne zahteva internetne povezave. Izjemi sta uradni vozni red v PDF in uradni zemljevid omrežja (vektorski zemljevid, ki ga objavlja tajpejski metro, v kitajščini ali angleščini): nobeden ni vključen v aplikacijo, vsak pa se prenese s spletnega mesta tajpejskega metroja šele, ko tapnete ustrezni gumb, kot običajna spletna zahteva, mi pa o tem ne prejmemo nobenih podatkov. Metro pravočasno je neodvisna aplikacija in ni povezana z družbo Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Gizlilik Politikası",
-    "summary": "Metro Saat Yardımcısı kişisel veri toplamaz. Bu sayfa, uygulamanın iPhone'unuzda ne yaptığını ve asla ne yapmadığını açıklar.",
+    "summary": "Metro Saat Yardımcısı kişisel veri toplamaz. Bu sayfa, uygulamanın cihazlarınızda (iPhone, iPad ve Apple Watch) ne yaptığını ve asla ne yapmadığını açıklar.",
     "updated_label": "Son Güncelleme",
     "section_title": "Taahhütlerimiz",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Her şey iPhone'unuzda kalır",
-        "body": "Tüm yolculuk hesaplamaları, uygulamaya yerleşik tarife verileriyle cihazınızda yapılır. İstasyonlar, dil, renkler, açılış sayfası ve hatırlatıcılar gibi ayarlarınız yalnızca iPhone'unuzda saklanır. Uygulamayı sildiğinizde bunlar da silinir."
+        "title": "Her şey cihazlarınızda kalır",
+        "body": "Tüm yolculuk hesaplamaları, uygulamaya yerleşik tarife verileriyle cihazınızda yapılır. İstasyonlar, dil, renkler, açılış sayfası ve hatırlatıcılar gibi ayarlarınız yalnızca cihazınızda saklanır. Uygulamayı sildiğinizde bunlar da silinir."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widget'lar, Canlı Etkinlikler ve Apple Watch",
+        "body": "Uygulama iPad ve Apple Watch'ta da çalışır; Ana Ekran ve Kilitli Ekran için bir widget, Apple Watch kadranı için bir widget ve iPhone'da hatırlatıcınıza kadar Kilitli Ekran'da ve Dynamic Island'da geri sayım yapan bir Canlı Etkinlik sunar. Bir widget'ın uygulamayla aynı yolculuğu gösterebilmesi için uygulama ve kendi widget'ları son yolculuğunuzu (istasyonlar ve saatler) Apple'ın Anahtar Zinciri paylaşımı üzerinden paylaşır; bu yalnızca aynı cihazda gerçekleşir ve hiçbir sunucuya hiçbir şey yüklenmez. Canlı Etkinlikler yalnızca cihazda oluşturulur ve güncellenir, onlara güncelleme gönderen bir sunucu yoktur ve uygulamayı sildiğinizde bunların hepsi kaldırılır."
       },
       {
         "id": "notifications",
         "title": "Bildirimler",
-        "body": "Bildirimlere izin verirseniz uygulama bunları yalnızca sizin kurduğunuz hatırlatıcılar için kullanır. Her hatırlatıcı iPhone'unuzda yerel olarak planlanır; hiçbir sunucu devreye girmez ve hiçbir bildirim içeriği cihazınızdan çıkmaz. Bildirimleri istediğiniz zaman iOS Ayarlar uygulamasından kapatabilirsiniz."
+        "body": "Bildirimlere izin verirseniz uygulama bunları yalnızca sizin kurduğunuz hatırlatıcılar için kullanır. Her hatırlatıcı cihazınızda yerel olarak planlanır; hiçbir sunucu devreye girmez ve hiçbir bildirim içeriği cihazınızdan çıkmaz. Bildirimleri istediğiniz zaman iOS Ayarlar uygulamasından kapatabilirsiniz."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Tarife verileri",
-        "body": "Tarifeler, sefer aralıkları ve seyahat süreleri Taipei Metrosu'nun resmî açık verilerinden alınır ve uygulamanın içinde yer alır; bu yüzden bir yolculuğa bakmak için internet bağlantısı gerekmez. Tek istisna orijinal tarife PDF'idir: resmî tarife düğmesine dokunduğunuzda sıradan bir web isteğiyle Taipei Metrosu'nun web sitesinden indirilir ve biz bununla ilgili hiçbir bilgi almayız. Metro Saat Yardımcısı bağımsızdır ve Taipei Rapid Transit Corporation ile bağlantılı değildir."
+        "body": "Tarifeler, sefer aralıkları ve seyahat süreleri Taipei Metrosu'nun resmî açık verilerinden alınır ve uygulamanın içinde yer alır; bu yüzden bir yolculuğa bakmak için internet bağlantısı gerekmez. İstisnalar resmî tarife PDF'i ile resmî ağ haritasıdır (Taipei Metrosu'nun yayımladığı vektör harita, Çince veya İngilizce): hiçbiri uygulamanın içinde yer almaz ve her biri, ilgili düğmeye dokunduğunuzda sıradan bir web isteğiyle Taipei Metrosu'nun web sitesinden indirilir ve biz bununla ilgili hiçbir bilgi almayız. Metro Saat Yardımcısı bağımsızdır ve Taipei Rapid Transit Corporation ile bağlantılı değildir."
       },
       {
         "id": "contact_requests",

@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Politique de confidentialité",
-    "summary": "Assistant Métro ne recueille aucune donnée personnelle. Cette page explique ce que l’application fait sur votre iPhone et ce qu’elle ne fait jamais.",
+    "summary": "Assistant Métro ne recueille aucune donnée personnelle. Cette page explique ce que l’application fait sur vos appareils (iPhone, iPad et Apple Watch) et ce qu’elle ne fait jamais.",
     "updated_label": "Dernière mise à jour",
     "section_title": "Nos engagements",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Tout reste sur votre iPhone",
-        "body": "Tous les calculs de trajet se font sur votre appareil à partir des horaires intégrés à l’application. Vos réglages, comme les stations, la langue, les couleurs, la page d’ouverture et les rappels, sont enregistrés uniquement sur votre iPhone. Supprimer l’application les efface."
+        "title": "Tout reste sur vos appareils",
+        "body": "Tous les calculs de trajet se font sur votre appareil à partir des horaires intégrés à l’application. Vos réglages, comme les stations, la langue, les couleurs, la page d’ouverture et les rappels, sont enregistrés uniquement sur votre appareil. Supprimer l’application les efface."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widgets, Live Activities et Apple Watch",
+        "body": "L’application fonctionne aussi sur iPad et sur Apple Watch, avec un widget pour l’écran d’accueil et l’écran verrouillé, un widget pour le cadran de l’Apple Watch et, sur iPhone, une Live Activity qui effectue un compte à rebours jusqu’à votre rappel sur l’écran verrouillé et dans la Dynamic Island. Pour qu’un widget affiche le même trajet que l’application, l’application et ses propres widgets se partagent votre dernier trajet (stations et heures) au moyen du partage du trousseau d’Apple; cela se fait uniquement sur le même appareil, et rien n’est téléversé vers un serveur. Les Live Activities sont créées et mises à jour uniquement sur l’appareil, sans qu’aucun serveur ne leur envoie de mises à jour, et supprimer l’application efface tout cela."
       },
       {
         "id": "notifications",
         "title": "Utilisation des notifications",
-        "body": "Si vous autorisez les notifications, l’application s’en sert uniquement pour les rappels que vous programmez vous-même. Chaque rappel est programmé localement sur votre iPhone; aucun serveur n’intervient et aucun contenu de notification ne quitte votre appareil. Vous pouvez désactiver les notifications en tout temps dans l’app Réglages d’iOS."
+        "body": "Si vous autorisez les notifications, l’application s’en sert uniquement pour les rappels que vous programmez vous-même. Chaque rappel est programmé localement sur votre appareil; aucun serveur n’intervient et aucun contenu de notification ne quitte votre appareil. Vous pouvez désactiver les notifications en tout temps dans l’app Réglages d’iOS."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Données d’horaire",
-        "body": "Les horaires, les intervalles et les temps de parcours proviennent des données publiques officielles du métro de Taipei et sont inclus dans l’application elle-même; chercher un trajet ne nécessite donc aucune connexion Internet. La seule exception est le PDF original de l’horaire : il est téléchargé à partir du site Web du métro de Taipei lorsque vous touchez le bouton de l’horaire officiel, comme une simple requête Web, et nous ne recevons aucune information à ce sujet. Assistant Métro est indépendante et n’est pas affiliée à Taipei Rapid Transit Corporation."
+        "body": "Les horaires, les intervalles et les temps de parcours proviennent des données publiques officielles du métro de Taipei et sont inclus dans l’application elle-même; chercher un trajet ne nécessite donc aucune connexion Internet. Les exceptions sont le PDF officiel de l’horaire et le plan officiel du réseau (le plan vectoriel publié par le métro de Taipei, en chinois ou en anglais) : chacun est téléchargé à partir du site Web du métro de Taipei seulement lorsque vous touchez le bouton correspondant, comme une simple requête Web, et nous ne recevons aucune information à ce sujet. Assistant Métro est indépendante et n’est pas affiliée à Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Informativa sulla privacy",
-    "summary": "Assistente Orari Metro non raccoglie dati personali. Questa pagina spiega cosa fa l’app sul tuo iPhone e cosa non fa mai.",
+    "summary": "Assistente Orari Metro non raccoglie dati personali. Questa pagina spiega cosa fa l’app sui tuoi dispositivi (iPhone, iPad e Apple Watch) e cosa non fa mai.",
     "updated_label": "Ultimo aggiornamento",
     "section_title": "I nostri impegni",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Tutto resta sul tuo iPhone",
-        "body": "Tutti i calcoli dei viaggi avvengono sul tuo dispositivo usando gli orari integrati nell’app. Le tue impostazioni, come stazioni, lingua, colori, pagina iniziale e promemoria, sono salvate solo sul tuo iPhone. Eliminando l’app vengono cancellate."
+        "title": "Tutto resta sui tuoi dispositivi",
+        "body": "Tutti i calcoli dei viaggi avvengono sul tuo dispositivo usando gli orari integrati nell’app. Le tue impostazioni, come stazioni, lingua, colori, pagina iniziale e promemoria, sono salvate solo sul tuo dispositivo. Eliminando l’app vengono cancellate."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widget, Live Activity e Apple Watch",
+        "body": "L’app funziona anche su iPad e Apple Watch, con un widget per la schermata Home e la schermata di blocco, un widget per il quadrante di Apple Watch e, su iPhone, una Live Activity che fa il conto alla rovescia fino al tuo promemoria nella schermata di blocco e nella Dynamic Island. Perché un widget mostri lo stesso viaggio dell’app, l’app e i suoi widget condividono il tuo ultimo viaggio (stazioni e orari) tramite la condivisione del Portachiavi di Apple; questo avviene solo sullo stesso dispositivo e non viene caricato nulla su alcun server. Le Live Activity vengono create e aggiornate solo sul dispositivo, senza alcun server che invii loro aggiornamenti, e basta eliminare l’app per rimuovere tutto questo."
       },
       {
         "id": "notifications",
         "title": "Notifiche",
-        "body": "Se consenti le notifiche, l’app le usa solo per i promemoria che imposti tu. Ogni promemoria viene programmato localmente sul tuo iPhone; non è coinvolto alcun server e nessun contenuto delle notifiche lascia il tuo dispositivo. Puoi disattivare le notifiche in qualsiasi momento nell’app Impostazioni di iOS."
+        "body": "Se consenti le notifiche, l’app le usa solo per i promemoria che imposti tu. Ogni promemoria viene programmato localmente sul tuo dispositivo; non è coinvolto alcun server e nessun contenuto delle notifiche lascia il tuo dispositivo. Puoi disattivare le notifiche in qualsiasi momento nell’app Impostazioni di iOS."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Dati degli orari",
-        "body": "Orari, frequenze e tempi di percorrenza provengono dai dati pubblici ufficiali della metropolitana di Taipei e sono inclusi nell’app stessa, quindi per cercare un viaggio non serve una connessione a Internet. L’unica eccezione è il PDF originale dell’orario: viene scaricato dal sito della metropolitana di Taipei quando tocchi il pulsante dell’orario ufficiale, come una normale richiesta web, e noi non riceviamo nulla al riguardo. Assistente Orari Metro è indipendente e non è affiliata a Taipei Rapid Transit Corporation."
+        "body": "Orari, frequenze e tempi di percorrenza provengono dai dati pubblici ufficiali della metropolitana di Taipei e sono inclusi nell’app stessa, quindi per cercare un viaggio non serve una connessione a Internet. Le eccezioni sono il PDF ufficiale dell’orario e la mappa ufficiale della rete (la mappa vettoriale pubblicata dalla metropolitana di Taipei, in cinese o in inglese): nessuno dei due è incluso nell’app e ciascuno viene scaricato dal sito della metropolitana di Taipei solo quando tocchi il relativo pulsante, come una normale richiesta web, e noi non riceviamo nulla al riguardo. Assistente Orari Metro è indipendente e non è affiliata a Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

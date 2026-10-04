@@ -137,7 +137,7 @@
   },
   "privacy": {
     "title": "Datenschutzerklärung",
-    "summary": "Metro-Zeithelfer erfasst keine personenbezogenen Daten. Diese Seite erklärt, was die App auf deinem iPhone tut und was sie niemals tut.",
+    "summary": "Metro-Zeithelfer erfasst keine personenbezogenen Daten. Diese Seite erklärt, was die App auf deinen Geräten (iPhone, iPad und Apple Watch) tut und was sie niemals tut.",
     "updated_label": "Zuletzt aktualisiert",
     "section_title": "Unsere Zusagen",
     "sections": [
@@ -153,13 +153,18 @@
       },
       {
         "id": "on_device",
-        "title": "Alles bleibt auf deinem iPhone",
-        "body": "Alle Fahrtberechnungen laufen auf deinem Gerät mit den Fahrplandaten, die in der App enthalten sind. Deine Einstellungen, etwa Stationen, Sprache, Farben, Startseite und Erinnerungen, werden nur auf deinem iPhone gespeichert. Wenn du die App löschst, werden sie entfernt."
+        "title": "Alles bleibt auf deinen Geräten",
+        "body": "Alle Fahrtberechnungen laufen auf deinem Gerät mit den Fahrplandaten, die in der App enthalten sind. Deine Einstellungen, etwa Stationen, Sprache, Farben, Startseite und Erinnerungen, werden nur auf deinem Gerät gespeichert. Wenn du die App löschst, werden sie entfernt."
+      },
+      {
+        "id": "widgets_watch",
+        "title": "Widgets, Live-Aktivitäten und Apple Watch",
+        "body": "Die App läuft auch auf dem iPad und der Apple Watch und bietet ein Widget für den Home-Bildschirm und den Sperrbildschirm, ein Widget für das Apple-Watch-Zifferblatt sowie auf dem iPhone eine Live-Aktivität, die auf dem Sperrbildschirm und in der Dynamic Island bis zu deiner Erinnerung herunterzählt. Damit ein Widget dieselbe Fahrt zeigt wie die App, teilen die App und ihre eigenen Widgets deine zuletzt geplante Fahrt (Stationen und Zeiten) über die Schlüsselbund-Freigabe von Apple; das geschieht nur auf demselben Gerät, und es wird nichts auf einen Server hochgeladen. Live-Aktivitäten werden ausschließlich auf dem Gerät erstellt und aktualisiert, ohne dass ein Server ihnen Updates sendet, und wenn du die App löschst, wird all das entfernt."
       },
       {
         "id": "notifications",
         "title": "Mitteilungen",
-        "body": "Wenn du Mitteilungen erlaubst, nutzt die App sie nur für Erinnerungen, die du selbst einrichtest. Jede Erinnerung wird lokal auf deinem iPhone geplant; es ist kein Server beteiligt, und kein Inhalt einer Mitteilung verlässt dein Gerät. Du kannst Mitteilungen jederzeit in der iOS-App „Einstellungen“ ausschalten."
+        "body": "Wenn du Mitteilungen erlaubst, nutzt die App sie nur für Erinnerungen, die du selbst einrichtest. Jede Erinnerung wird lokal auf deinem Gerät geplant; es ist kein Server beteiligt, und kein Inhalt einer Mitteilung verlässt dein Gerät. Du kannst Mitteilungen jederzeit in der iOS-App „Einstellungen“ ausschalten."
       },
       {
         "id": "storekit",
@@ -174,7 +179,7 @@
       {
         "id": "data_sources",
         "title": "Fahrplandaten",
-        "body": "Fahrpläne, Takte und Fahrzeiten stammen aus den offiziellen öffentlichen Daten der Metro Taipeh und sind in der App selbst enthalten, daher brauchst du für die Abfrage einer Fahrt keine Internetverbindung. Einzige Ausnahme ist das Original-PDF des Fahrplans: Es wird von der Website der Metro Taipeh geladen, wenn du auf die Schaltfläche für den offiziellen Fahrplan tippst – als gewöhnliche Webanfrage, und wir erhalten darüber keinerlei Informationen. Metro-Zeithelfer ist unabhängig und steht in keiner Verbindung zur Taipei Rapid Transit Corporation."
+        "body": "Fahrpläne, Takte und Fahrzeiten stammen aus den offiziellen öffentlichen Daten der Metro Taipeh und sind in der App selbst enthalten, daher brauchst du für die Abfrage einer Fahrt keine Internetverbindung. Ausnahmen sind das offizielle Fahrplan-PDF und der offizielle Netzplan (die von der Metro Taipeh veröffentlichte Vektorgrafik, auf Chinesisch oder Englisch): Beides ist nicht in der App enthalten und wird nur dann von der Website der Metro Taipeh geladen, wenn du auf die jeweilige Schaltfläche tippst – als gewöhnliche Webanfrage, und wir erhalten darüber keinerlei Informationen. Metro-Zeithelfer ist unabhängig und steht in keiner Verbindung zur Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",
