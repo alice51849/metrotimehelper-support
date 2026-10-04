@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Skąd pochodzą rozkłady odgałęzień?",
-        "body": "Odgałęzienia Xiaobitan i Xinbeitou kursują według stałych rozkładów publikowanych przez metro w Tajpej, a aplikacja korzysta z dokładnie tych godzin odjazdów, osobno dla dni roboczych i weekendów. Data obowiązywania każdego rozkładu jest podana w menu „Ustawienia” w sekcji „Informacje”, a oryginalny rozkład w PDF otworzysz z ekranu odgałęzienia. Gdy przewoźnik opublikuje nowy rozkład, wprowadzimy go w aktualizacji aplikacji."
+        "body": "Odgałęzienia Xiaobitan i Xinbeitou kursują według stałych rozkładów publikowanych przez metro w Tajpej, a aplikacja korzysta z dokładnie tych godzin odjazdów, osobno dla dni roboczych i weekendów. Data obowiązywania każdego rozkładu jest podana w menu „Ustawienia” w sekcji „Informacje”, a oryginalny rozkład w PDF otworzysz z ekranu odgałęzienia (wymaga połączenia z internetem). Gdy przewoźnik opublikuje nowy rozkład, wprowadzimy go w aktualizacji aplikacji."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Wszystko zostaje na Twoim iPhonie",
-        "body": "Wszystkie obliczenia podróży odbywają się na Twoim urządzeniu na podstawie danych rozkładowych wbudowanych w aplikację. Twoje ustawienia, takie jak stacje, język, kolory, ekran startowy i przypomnienia, są przechowywane wyłącznie na Twoim iPhonie i udostępniane tylko widżetowi tej aplikacji na tym samym urządzeniu. Usunięcie aplikacji usuwa je."
+        "body": "Wszystkie obliczenia podróży odbywają się na Twoim urządzeniu na podstawie danych rozkładowych wbudowanych w aplikację. Twoje ustawienia, takie jak stacje, język, kolory, ekran startowy i przypomnienia, są przechowywane wyłącznie na Twoim iPhonie. Usunięcie aplikacji usuwa je."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Dane rozkładowe",
-        "body": "Rozkłady jazdy, odstępy między pociągami i czasy przejazdu pochodzą z oficjalnych danych publicznych metra w Tajpej i są zawarte w samej aplikacji, więc sprawdzenie podróży nie wymaga połączenia z internetem. Metro na czas jest aplikacją niezależną i niepowiązaną z Taipei Rapid Transit Corporation."
+        "body": "Rozkłady jazdy, odstępy między pociągami i czasy przejazdu pochodzą z oficjalnych danych publicznych metra w Tajpej i są zawarte w samej aplikacji, więc sprawdzenie podróży nie wymaga połączenia z internetem. Jedynym wyjątkiem jest oryginalny rozkład w PDF: jest on pobierany ze strony internetowej metra w Tajpej po dotknięciu przycisku oficjalnego rozkładu, jako zwykłe zapytanie do strony, a my nie otrzymujemy na ten temat żadnych informacji. Metro na czas jest aplikacją niezależną i niepowiązaną z Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

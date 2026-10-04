@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Woher stammen die Fahrpläne der Zweiglinien?",
-        "body": "Die Zweiglinien nach Xiaobitan und Xinbeitou fahren nach festen Fahrplänen, die die Metro Taipeh veröffentlicht, und die App verwendet genau diese Abfahrtszeiten, getrennt nach Werktagen und Wochenenden. Das Gültigkeitsdatum jedes Fahrplans steht unter „Info“ in den „Einstellungen“, und das Original-PDF des Fahrplans kannst du in der Ansicht der Zweiglinie öffnen. Veröffentlicht der Betreiber einen neuen Fahrplan, aktualisieren wir ihn mit einem App-Update."
+        "body": "Die Zweiglinien nach Xiaobitan und Xinbeitou fahren nach festen Fahrplänen, die die Metro Taipeh veröffentlicht, und die App verwendet genau diese Abfahrtszeiten, getrennt nach Werktagen und Wochenenden. Das Gültigkeitsdatum jedes Fahrplans steht unter „Info“ in den „Einstellungen“, und das Original-PDF des Fahrplans kannst du in der Ansicht der Zweiglinie öffnen (Internetverbindung erforderlich). Veröffentlicht der Betreiber einen neuen Fahrplan, aktualisieren wir ihn mit einem App-Update."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Alles bleibt auf deinem iPhone",
-        "body": "Alle Fahrtberechnungen laufen auf deinem Gerät mit den Fahrplandaten, die in der App enthalten sind. Deine Einstellungen, etwa Stationen, Sprache, Farben, Startseite und Erinnerungen, werden nur auf deinem iPhone gespeichert und nur mit dem Widget der App auf demselben Gerät geteilt. Wenn du die App löschst, werden sie entfernt."
+        "body": "Alle Fahrtberechnungen laufen auf deinem Gerät mit den Fahrplandaten, die in der App enthalten sind. Deine Einstellungen, etwa Stationen, Sprache, Farben, Startseite und Erinnerungen, werden nur auf deinem iPhone gespeichert. Wenn du die App löschst, werden sie entfernt."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Fahrplandaten",
-        "body": "Fahrpläne, Takte und Fahrzeiten stammen aus den offiziellen öffentlichen Daten der Metro Taipeh und sind in der App selbst enthalten, daher brauchst du für die Abfrage einer Fahrt keine Internetverbindung. Metro-Zeithelfer ist unabhängig und steht in keiner Verbindung zur Taipei Rapid Transit Corporation."
+        "body": "Fahrpläne, Takte und Fahrzeiten stammen aus den offiziellen öffentlichen Daten der Metro Taipeh und sind in der App selbst enthalten, daher brauchst du für die Abfrage einer Fahrt keine Internetverbindung. Einzige Ausnahme ist das Original-PDF des Fahrplans: Es wird von der Website der Metro Taipeh geladen, wenn du auf die Schaltfläche für den offiziellen Fahrplan tippst – als gewöhnliche Webanfrage, und wir erhalten darüber keinerlei Informationen. Metro-Zeithelfer ist unabhängig und steht in keiner Verbindung zur Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

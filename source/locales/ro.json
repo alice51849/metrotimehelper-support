@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "De unde provin orarele ramurilor?",
-        "body": "Ramurile Xiaobitan și Xinbeitou circulă după orare fixe publicate de metroul din Taipei, iar aplicația folosește exact acele ore de plecare, separat pentru zilele lucrătoare și weekend. Data intrării în vigoare a fiecărui orar apare la „Despre”, în „Configurări”, iar PDF-ul original al orarului îl puteți deschide din ecranul ramurii. Dacă operatorul publică un orar nou, îl actualizăm printr-o actualizare a aplicației."
+        "body": "Ramurile Xiaobitan și Xinbeitou circulă după orare fixe publicate de metroul din Taipei, iar aplicația folosește exact acele ore de plecare, separat pentru zilele lucrătoare și weekend. Data intrării în vigoare a fiecărui orar apare la „Despre”, în „Configurări”, iar PDF-ul original al orarului îl puteți deschide din ecranul ramurii (este necesară o conexiune la internet). Dacă operatorul publică un orar nou, îl actualizăm printr-o actualizare a aplicației."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Totul rămâne pe iPhone-ul dvs.",
-        "body": "Toate calculele călătoriilor se fac pe dispozitiv, folosind orarele incluse în aplicație. Configurările dvs., cum ar fi stațiile, limba, culorile, pagina de pornire și mementourile, sunt stocate doar pe iPhone și partajate cu widgetul aplicației de pe același dispozitiv. Ștergerea aplicației le elimină."
+        "body": "Toate calculele călătoriilor se fac pe dispozitiv, folosind orarele incluse în aplicație. Configurările dvs., cum ar fi stațiile, limba, culorile, pagina de pornire și mementourile, sunt stocate doar pe iPhone. Ștergerea aplicației le elimină."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Datele orarelor",
-        "body": "Orarele, intervalele și duratele de parcurs provin din datele publice oficiale ale metroului din Taipei și sunt incluse în aplicație, așa că pentru a căuta o călătorie nu aveți nevoie de conexiune la internet. Metrou la Timp este independentă și nu este afiliată cu Taipei Rapid Transit Corporation."
+        "body": "Orarele, intervalele și duratele de parcurs provin din datele publice oficiale ale metroului din Taipei și sunt incluse în aplicație, așa că pentru a căuta o călătorie nu aveți nevoie de conexiune la internet. Singura excepție este PDF-ul original al orarului: acesta se descarcă de pe site-ul metroului din Taipei când atingeți butonul pentru orarul oficial, printr-o solicitare web obișnuită, iar noi nu primim nicio informație despre aceasta. Metrou la Timp este independentă și nu este afiliată cu Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

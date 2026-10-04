@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Hvor kommer rutetabellene for sidelinjene fra?",
-        "body": "Sidelinjene til Xiaobitan og Xinbeitou går etter faste rutetabeller som Taipei Metro publiserer, og appen bruker nøyaktig de avgangstidene, separat for hverdager og helger. Gyldighetsdatoen for hver rutetabell vises under «Om» i «Innstillinger», og du kan åpne den originale rutetabellen som PDF fra skjermen for sidelinjen. Hvis operatøren publiserer en ny rutetabell, oppdaterer vi den i en appoppdatering."
+        "body": "Sidelinjene til Xiaobitan og Xinbeitou går etter faste rutetabeller som Taipei Metro publiserer, og appen bruker nøyaktig de avgangstidene, separat for hverdager og helger. Gyldighetsdatoen for hver rutetabell vises under «Om» i «Innstillinger», og du kan åpne den originale rutetabellen som PDF fra skjermen for sidelinjen (krever internettilkobling). Hvis operatøren publiserer en ny rutetabell, oppdaterer vi den i en appoppdatering."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Alt blir på iPhonen din",
-        "body": "Alle reiseberegninger skjer på enheten din med rutetabelldata som er innebygd i appen. Innstillingene dine, som stasjoner, språk, farger, startside og påminnelser, lagres bare på iPhonen din og deles bare med appens egen widget på samme enhet. Sletter du appen, forsvinner de."
+        "body": "Alle reiseberegninger skjer på enheten din med rutetabelldata som er innebygd i appen. Innstillingene dine, som stasjoner, språk, farger, startside og påminnelser, lagres bare på iPhonen din. Sletter du appen, forsvinner de."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Rutetabelldata",
-        "body": "Rutetabeller, avgangsintervaller og kjøretider kommer fra Taipei Metros offisielle offentlige data og ligger i selve appen, så du trenger ingen internettilkobling for å slå opp en reise. Tidshjelp for metroen er uavhengig og ikke tilknyttet Taipei Rapid Transit Corporation."
+        "body": "Rutetabeller, avgangsintervaller og kjøretider kommer fra Taipei Metros offisielle offentlige data og ligger i selve appen, så du trenger ingen internettilkobling for å slå opp en reise. Det eneste unntaket er den originale rutetabellen i PDF: den lastes ned fra nettstedet til Taipei Metro når du trykker på knappen for den offisielle rutetabellen, som en vanlig nettforespørsel, og vi mottar ingenting om det. Tidshjelp for metroen er uavhengig og ikke tilknyttet Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

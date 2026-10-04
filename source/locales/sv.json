@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Var kommer grenlinjernas tidtabeller ifrån?",
-        "body": "Grenlinjerna till Xiaobitan och Xinbeitou går efter fasta tidtabeller som Taipei Metro publicerar, och appen använder exakt de avgångstiderna, separat för vardagar och helger. Varje tidtabells giltighetsdatum visas under ”Om” i ”Inställningar”, och du kan öppna originaltidtabellen som PDF från grenlinjens skärm. Om operatören publicerar en ny tidtabell uppdaterar vi den i en appuppdatering."
+        "body": "Grenlinjerna till Xiaobitan och Xinbeitou går efter fasta tidtabeller som Taipei Metro publicerar, och appen använder exakt de avgångstiderna, separat för vardagar och helger. Varje tidtabells giltighetsdatum visas under ”Om” i ”Inställningar”, och du kan öppna originaltidtabellen som PDF från grenlinjens skärm (kräver internetanslutning). Om operatören publicerar en ny tidtabell uppdaterar vi den i en appuppdatering."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Allt stannar på din iPhone",
-        "body": "Alla reseberäkningar görs på din enhet med tidtabellsdata som är inbyggda i appen. Dina inställningar, som stationer, språk, färger, startsida och påminnelser, sparas bara på din iPhone och delas bara med appens egen widget på samma enhet. Raderar du appen försvinner de."
+        "body": "Alla reseberäkningar görs på din enhet med tidtabellsdata som är inbyggda i appen. Dina inställningar, som stationer, språk, färger, startsida och påminnelser, sparas bara på din iPhone. Raderar du appen försvinner de."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Tidtabellsdata",
-        "body": "Tidtabeller, turtäthet och körtider kommer från Taipei Metros officiella öppna data och ingår i själva appen, så du behöver ingen internetanslutning för att slå upp en resa. Tidshjälp för metron är oberoende och inte knuten till Taipei Rapid Transit Corporation."
+        "body": "Tidtabeller, turtäthet och körtider kommer från Taipei Metros officiella öppna data och ingår i själva appen, så du behöver ingen internetanslutning för att slå upp en resa. Det enda undantaget är originaltidtabellen som PDF: den laddas ner från Taipei Metros webbplats när du trycker på knappen för den officiella tidtabellen, som en vanlig webbförfrågan, och vi får inte veta något om det. Tidshjälp för metron är oberoende och inte knuten till Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

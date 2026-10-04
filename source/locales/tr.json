@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Yan hat tarifeleri nereden geliyor?",
-        "body": "Xiaobitan ve Xinbeitou yan hatları, Taipei Metrosu'nun yayımladığı sabit tarifelerle çalışır ve uygulama, hafta içi ve hafta sonu için ayrı ayrı, tam olarak bu kalkış saatlerini kullanır. Her tarifenin yürürlük tarihi “Ayarlar” içindeki “Hakkında” bölümünde gösterilir; orijinal tarife PDF'ini de yan hat ekranından açabilirsiniz. İşletmeci yeni bir tarife yayımlarsa bunu bir uygulama güncellemesiyle yeniliyoruz."
+        "body": "Xiaobitan ve Xinbeitou yan hatları, Taipei Metrosu'nun yayımladığı sabit tarifelerle çalışır ve uygulama, hafta içi ve hafta sonu için ayrı ayrı, tam olarak bu kalkış saatlerini kullanır. Her tarifenin yürürlük tarihi “Ayarlar” içindeki “Hakkında” bölümünde gösterilir; orijinal tarife PDF'ini de yan hat ekranından açabilirsiniz (internet bağlantısı gerekir). İşletmeci yeni bir tarife yayımlarsa bunu bir uygulama güncellemesiyle yeniliyoruz."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Her şey iPhone'unuzda kalır",
-        "body": "Tüm yolculuk hesaplamaları, uygulamaya yerleşik tarife verileriyle cihazınızda yapılır. İstasyonlar, dil, renkler, açılış sayfası ve hatırlatıcılar gibi ayarlarınız yalnızca iPhone'unuzda saklanır ve yalnızca aynı cihazdaki uygulamanın kendi widget'ıyla paylaşılır. Uygulamayı sildiğinizde bunlar da silinir."
+        "body": "Tüm yolculuk hesaplamaları, uygulamaya yerleşik tarife verileriyle cihazınızda yapılır. İstasyonlar, dil, renkler, açılış sayfası ve hatırlatıcılar gibi ayarlarınız yalnızca iPhone'unuzda saklanır. Uygulamayı sildiğinizde bunlar da silinir."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Tarife verileri",
-        "body": "Tarifeler, sefer aralıkları ve seyahat süreleri Taipei Metrosu'nun resmî açık verilerinden alınır ve uygulamanın içinde yer alır; bu yüzden bir yolculuğa bakmak için internet bağlantısı gerekmez. Metro Saat Yardımcısı bağımsızdır ve Taipei Rapid Transit Corporation ile bağlantılı değildir."
+        "body": "Tarifeler, sefer aralıkları ve seyahat süreleri Taipei Metrosu'nun resmî açık verilerinden alınır ve uygulamanın içinde yer alır; bu yüzden bir yolculuğa bakmak için internet bağlantısı gerekmez. Tek istisna orijinal tarife PDF'idir: resmî tarife düğmesine dokunduğunuzda sıradan bir web isteğiyle Taipei Metrosu'nun web sitesinden indirilir ve biz bununla ilgili hiçbir bilgi almayız. Metro Saat Yardımcısı bağımsızdır ve Taipei Rapid Transit Corporation ile bağlantılı değildir."
       },
       {
         "id": "contact_requests",

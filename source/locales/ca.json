@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "D'on surten els horaris dels ramals?",
-        "body": "Els ramals de Xiaobitan i Xinbeitou funcionen amb horaris fixos publicats pel metro de Taipei, i l'app fa servir exactament aquestes hores de sortida, per separat per a feiners i caps de setmana. La data d'entrada en vigor de cada horari apareix a «Quant a», dins de «Configuració», i pots obrir el PDF original de l'horari des de la pantalla del ramal. Si l'operador publica un horari nou, l'actualitzem en una actualització de l'app."
+        "body": "Els ramals de Xiaobitan i Xinbeitou funcionen amb horaris fixos publicats pel metro de Taipei, i l'app fa servir exactament aquestes hores de sortida, per separat per a feiners i caps de setmana. La data d'entrada en vigor de cada horari apareix a «Quant a», dins de «Configuració», i pots obrir el PDF original de l'horari des de la pantalla del ramal (cal connexió a internet). Si l'operador publica un horari nou, l'actualitzem en una actualització de l'app."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Tot es queda al teu iPhone",
-        "body": "Tots els càlculs de trajectes es fan al teu dispositiu amb els horaris integrats a l'app. La teva configuració, com ara estacions, idioma, colors, pàgina d'inici i recordatoris, es desa només al teu iPhone i es comparteix amb el giny de la mateixa app al mateix dispositiu. Si elimines l'app, s'esborra."
+        "body": "Tots els càlculs de trajectes es fan al teu dispositiu amb els horaris integrats a l'app. La teva configuració, com ara estacions, idioma, colors, pàgina d'inici i recordatoris, es desa només al teu iPhone. Si elimines l'app, s'esborra."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Dades dels horaris",
-        "body": "Els horaris, les freqüències i els temps de recorregut provenen de les dades públiques oficials del metro de Taipei i estan inclosos a la mateixa app, així que consultar un trajecte no requereix connexió a internet. Assistent del Metro és independent i no està vinculada a Taipei Rapid Transit Corporation."
+        "body": "Els horaris, les freqüències i els temps de recorregut provenen de les dades públiques oficials del metro de Taipei i estan inclosos a la mateixa app, així que consultar un trajecte no requereix connexió a internet. L'única excepció és el PDF original de l'horari: es baixa del web del metro de Taipei quan toques el botó de l'horari oficial, com una sol·licitud web normal, i no en rebem cap informació. Assistent del Metro és independent i no està vinculada a Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Where do the branch timetables come from?",
-        "body": "The Xiaobitan and Xinbeitou branches run on fixed timetables published by Taipei Metro, and the app uses those exact departure times, separately for weekdays and weekends. The effective date of each timetable is shown under About in Settings, and you can open the original timetable PDF from the branch screen. If the operator publishes a new timetable, we update it in an app update."
+        "body": "The Xiaobitan and Xinbeitou branches run on fixed timetables published by Taipei Metro, and the app uses those exact departure times, separately for weekdays and weekends. The effective date of each timetable is shown under About in Settings, and you can open the original timetable PDF from the branch screen (requires an internet connection). If the operator publishes a new timetable, we update it in an app update."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Everything stays on your iPhone",
-        "body": "All trip calculations run on your device using timetable data built into the app. Your settings, such as stations, language, colors, launch page, and reminders, are stored only on your iPhone and shared with the app's own widget on the same device. Deleting the app removes them."
+        "body": "All trip calculations run on your device using timetable data built into the app. Your settings, such as stations, language, colors, launch page, and reminders, are stored only on your iPhone. Deleting the app removes them."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Timetable data",
-        "body": "Timetables, headways, and run times come from Taipei Metro's official public data and are included in the app itself, so looking up a trip does not require an internet connection. Metro Time Helper is independent and not affiliated with Taipei Rapid Transit Corporation."
+        "body": "Timetables, headways, and run times come from Taipei Metro's official public data and are included in the app itself, so looking up a trip does not require an internet connection. The only exception is the original timetable PDF: it is downloaded from Taipei Metro's website when you tap the official timetable button, as an ordinary web request, and we receive nothing about it. Metro Time Helper is independent and not affiliated with Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

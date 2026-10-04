@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Lịch chạy của các tuyến nhánh lấy từ đâu?",
-        "body": "Tuyến nhánh Xiaobitan và Xinbeitou chạy theo lịch cố định do MRT Đài Bắc công bố, và ứng dụng dùng đúng các giờ khởi hành đó, tách riêng ngày thường và cuối tuần. Ngày hiệu lực của từng lịch chạy được ghi trong mục “Giới thiệu” ở “Cài đặt”, và bạn có thể mở tệp PDF lịch chạy gốc từ màn hình tuyến nhánh. Nếu đơn vị vận hành công bố lịch mới, chúng tôi sẽ cập nhật trong một bản cập nhật ứng dụng."
+        "body": "Tuyến nhánh Xiaobitan và Xinbeitou chạy theo lịch cố định do MRT Đài Bắc công bố, và ứng dụng dùng đúng các giờ khởi hành đó, tách riêng ngày thường và cuối tuần. Ngày hiệu lực của từng lịch chạy được ghi trong mục “Giới thiệu” ở “Cài đặt”, và bạn có thể mở tệp PDF lịch chạy gốc từ màn hình tuyến nhánh (cần kết nối internet). Nếu đơn vị vận hành công bố lịch mới, chúng tôi sẽ cập nhật trong một bản cập nhật ứng dụng."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Mọi thứ ở lại trên iPhone của bạn",
-        "body": "Mọi phép tính hành trình đều chạy trên thiết bị của bạn, dùng dữ liệu lịch chạy có sẵn trong ứng dụng. Các cài đặt của bạn, như ga, ngôn ngữ, màu sắc, trang khi mở và lời nhắc, chỉ được lưu trên iPhone của bạn và chỉ được chia sẻ với tiện ích của chính ứng dụng trên cùng thiết bị. Xóa ứng dụng sẽ xóa luôn các dữ liệu này."
+        "body": "Mọi phép tính hành trình đều chạy trên thiết bị của bạn, dùng dữ liệu lịch chạy có sẵn trong ứng dụng. Các cài đặt của bạn, như ga, ngôn ngữ, màu sắc, trang khi mở và lời nhắc, chỉ được lưu trên iPhone của bạn. Xóa ứng dụng sẽ xóa luôn các dữ liệu này."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Dữ liệu lịch chạy",
-        "body": "Lịch chạy, khoảng cách giữa các chuyến và thời gian chạy được lấy từ dữ liệu công khai chính thức của MRT Đài Bắc và có sẵn ngay trong ứng dụng, nên tra cứu hành trình không cần kết nối internet. Trợ lý giờ MRT là ứng dụng độc lập và không liên kết với Taipei Rapid Transit Corporation."
+        "body": "Lịch chạy, khoảng cách giữa các chuyến và thời gian chạy được lấy từ dữ liệu công khai chính thức của MRT Đài Bắc và có sẵn ngay trong ứng dụng, nên tra cứu hành trình không cần kết nối internet. Ngoại lệ duy nhất là tệp PDF lịch chạy gốc: tệp này được tải xuống từ trang web của MRT Đài Bắc khi bạn chạm vào nút lịch chạy chính thức, như một yêu cầu web thông thường, và chúng tôi không nhận được bất kỳ thông tin nào về việc này. Trợ lý giờ MRT là ứng dụng độc lập và không liên kết với Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

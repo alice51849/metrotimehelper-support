@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Dari mana jadwal jalur cabang berasal?",
-        "body": "Jalur cabang Xiaobitan dan Xinbeitou beroperasi dengan jadwal tetap yang diterbitkan oleh MRT Taipei, dan aplikasi memakai waktu keberangkatan persis itu, terpisah untuk hari kerja dan akhir pekan. Tanggal berlakunya setiap jadwal ditampilkan di “Tentang” dalam “Pengaturan”, dan Anda bisa membuka PDF jadwal aslinya dari layar jalur cabang. Jika operator menerbitkan jadwal baru, kami memperbaruinya lewat pembaruan aplikasi."
+        "body": "Jalur cabang Xiaobitan dan Xinbeitou beroperasi dengan jadwal tetap yang diterbitkan oleh MRT Taipei, dan aplikasi memakai waktu keberangkatan persis itu, terpisah untuk hari kerja dan akhir pekan. Tanggal berlakunya setiap jadwal ditampilkan di “Tentang” dalam “Pengaturan”, dan Anda bisa membuka PDF jadwal aslinya dari layar jalur cabang (memerlukan koneksi internet). Jika operator menerbitkan jadwal baru, kami memperbaruinya lewat pembaruan aplikasi."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Semuanya tetap di iPhone Anda",
-        "body": "Semua perhitungan perjalanan berjalan di perangkat Anda menggunakan data jadwal yang sudah tertanam di aplikasi. Pengaturan Anda, seperti stasiun, bahasa, warna, halaman awal, dan pengingat, hanya disimpan di iPhone Anda dan hanya dibagikan dengan widget milik aplikasi ini di perangkat yang sama. Menghapus aplikasi akan ikut menghapusnya."
+        "body": "Semua perhitungan perjalanan berjalan di perangkat Anda menggunakan data jadwal yang sudah tertanam di aplikasi. Pengaturan Anda, seperti stasiun, bahasa, warna, halaman awal, dan pengingat, hanya disimpan di iPhone Anda. Menghapus aplikasi akan ikut menghapusnya."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Data jadwal",
-        "body": "Jadwal, selang kereta, dan waktu tempuh berasal dari data publik resmi MRT Taipei dan sudah disertakan di dalam aplikasi, jadi mencari perjalanan tidak memerlukan koneksi internet. Metro Time Helper adalah aplikasi independen dan tidak berafiliasi dengan Taipei Rapid Transit Corporation."
+        "body": "Jadwal, selang kereta, dan waktu tempuh berasal dari data publik resmi MRT Taipei dan sudah disertakan di dalam aplikasi, jadi mencari perjalanan tidak memerlukan koneksi internet. Satu-satunya pengecualian adalah PDF jadwal asli: file ini diunduh dari situs web MRT Taipei saat Anda mengetuk tombol jadwal resmi, sebagai permintaan web biasa, dan kami tidak menerima informasi apa pun tentangnya. Metro Time Helper adalah aplikasi independen dan tidak berafiliasi dengan Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Od kod so vozni redi odcepov?",
-        "body": "Odcepa Xiaobitan in Xinbeitou vozita po stalnih voznih redih, ki jih objavlja tajpejski metro, aplikacija pa uporablja natanko te čase odhodov, ločeno za delavnike in vikende. Datum veljavnosti vsakega voznega reda je prikazan v razdelku „Vizitka“ v meniju „Nastavitve“, izvirni vozni red v PDF pa lahko odprete z zaslona odcepa. Če upravljavec objavi nov vozni red, ga posodobimo s posodobitvijo aplikacije."
+        "body": "Odcepa Xiaobitan in Xinbeitou vozita po stalnih voznih redih, ki jih objavlja tajpejski metro, aplikacija pa uporablja natanko te čase odhodov, ločeno za delavnike in vikende. Datum veljavnosti vsakega voznega reda je prikazan v razdelku „Vizitka“ v meniju „Nastavitve“, izvirni vozni red v PDF pa lahko odprete z zaslona odcepa (potrebna je internetna povezava). Če upravljavec objavi nov vozni red, ga posodobimo s posodobitvijo aplikacije."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Vse ostane v vašem iPhonu",
-        "body": "Vsi izračuni poti potekajo v vaši napravi na podlagi podatkov o voznih redih, vgrajenih v aplikacijo. Vaše nastavitve, kot so postaje, jezik, barve, stran ob zagonu in opomniki, so shranjene samo v vašem iPhonu in v skupni rabi le s pripomočkom te aplikacije v isti napravi. Z odstranitvijo aplikacije se izbrišejo."
+        "body": "Vsi izračuni poti potekajo v vaši napravi na podlagi podatkov o voznih redih, vgrajenih v aplikacijo. Vaše nastavitve, kot so postaje, jezik, barve, stran ob zagonu in opomniki, so shranjene samo v vašem iPhonu. Z odstranitvijo aplikacije se izbrišejo."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Podatki o voznih redih",
-        "body": "Vozni redi, intervali in časi vožnje izhajajo iz uradnih javnih podatkov tajpejskega metroja in so vključeni v samo aplikacijo, zato iskanje poti ne zahteva internetne povezave. Metro pravočasno je neodvisna aplikacija in ni povezana z družbo Taipei Rapid Transit Corporation."
+        "body": "Vozni redi, intervali in časi vožnje izhajajo iz uradnih javnih podatkov tajpejskega metroja in so vključeni v samo aplikacijo, zato iskanje poti ne zahteva internetne povezave. Edina izjema je izvirni vozni red v PDF: ko tapnete gumb za uradni vozni red, se kot običajna spletna zahteva prenese s spletnega mesta tajpejskega metroja, mi pa o tem ne prejmemo nobenih podatkov. Metro pravočasno je neodvisna aplikacija in ni povezana z družbo Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

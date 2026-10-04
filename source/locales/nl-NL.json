@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Waar komen de dienstregelingen van de zijlijnen vandaan?",
-        "body": "De zijlijnen naar Xiaobitan en Xinbeitou rijden volgens vaste dienstregelingen die de metro van Taipei publiceert, en de app gebruikt precies die vertrektijden, apart voor doordeweeks en het weekend. De ingangsdatum van elke dienstregeling staat onder “Info” in “Instellingen”, en de originele dienstregeling als PDF open je vanuit het scherm van de zijlijn. Publiceert de vervoerder een nieuwe dienstregeling, dan werken we die bij in een app-update."
+        "body": "De zijlijnen naar Xiaobitan en Xinbeitou rijden volgens vaste dienstregelingen die de metro van Taipei publiceert, en de app gebruikt precies die vertrektijden, apart voor doordeweeks en het weekend. De ingangsdatum van elke dienstregeling staat onder “Info” in “Instellingen”, en de originele dienstregeling als PDF open je vanuit het scherm van de zijlijn (internetverbinding vereist). Publiceert de vervoerder een nieuwe dienstregeling, dan werken we die bij in een app-update."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Alles blijft op je iPhone",
-        "body": "Alle reisberekeningen gebeuren op je apparaat met de dienstregelingsgegevens die in de app zijn ingebouwd. Je instellingen, zoals stations, taal, kleuren, startpagina en herinneringen, worden alleen op je iPhone bewaard en alleen gedeeld met de eigen widget van de app op hetzelfde apparaat. Verwijder je de app, dan verdwijnen ze ook."
+        "body": "Alle reisberekeningen gebeuren op je apparaat met de dienstregelingsgegevens die in de app zijn ingebouwd. Je instellingen, zoals stations, taal, kleuren, startpagina en herinneringen, worden alleen op je iPhone bewaard. Verwijder je de app, dan verdwijnen ze ook."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Dienstregelingsgegevens",
-        "body": "Dienstregelingen, intervaltijden en rijtijden komen uit de officiële openbare gegevens van de metro van Taipei en zitten in de app zelf, dus voor het opzoeken van een reis heb je geen internetverbinding nodig. Metro Tijdhelper is onafhankelijk en niet verbonden aan de Taipei Rapid Transit Corporation."
+        "body": "Dienstregelingen, intervaltijden en rijtijden komen uit de officiële openbare gegevens van de metro van Taipei en zitten in de app zelf, dus voor het opzoeken van een reis heb je geen internetverbinding nodig. De enige uitzondering is de originele dienstregeling als PDF: die wordt gedownload van de website van de metro van Taipei wanneer je op de knop voor de officiële dienstregeling tikt, als een gewoon webverzoek, en wij ontvangen daar niets over. Metro Tijdhelper is onafhankelijk en niet verbonden aan de Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

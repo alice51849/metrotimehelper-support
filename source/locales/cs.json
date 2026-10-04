@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Odkud pocházejí jízdní řády odboček?",
-        "body": "Odbočky Xiaobitan a Xinbeitou jezdí podle pevných jízdních řádů, které zveřejňuje tchajpejské metro, a aplikace používá přesně tyto časy odjezdů, zvlášť pro pracovní dny a víkendy. Datum platnosti každého jízdního řádu najdete v „Nastavení“ v části „Informace“ a původní jízdní řád v PDF otevřete z obrazovky odbočky. Když dopravce zveřejní nový jízdní řád, doplníme ho v aktualizaci aplikace."
+        "body": "Odbočky Xiaobitan a Xinbeitou jezdí podle pevných jízdních řádů, které zveřejňuje tchajpejské metro, a aplikace používá přesně tyto časy odjezdů, zvlášť pro pracovní dny a víkendy. Datum platnosti každého jízdního řádu najdete v „Nastavení“ v části „Informace“ a původní jízdní řád v PDF otevřete z obrazovky odbočky (vyžaduje připojení k internetu). Když dopravce zveřejní nový jízdní řád, doplníme ho v aktualizaci aplikace."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Vše zůstává ve vašem iPhonu",
-        "body": "Veškeré výpočty cest probíhají ve vašem zařízení na základě dat jízdních řádů, která jsou součástí aplikace. Vaše nastavení, například stanice, jazyk, barvy, stránka po spuštění a připomínky, se ukládají jen ve vašem iPhonu a sdílejí se pouze s widgetem této aplikace ve stejném zařízení. Smazáním aplikace se odstraní."
+        "body": "Veškeré výpočty cest probíhají ve vašem zařízení na základě dat jízdních řádů, která jsou součástí aplikace. Vaše nastavení, například stanice, jazyk, barvy, stránka po spuštění a připomínky, se ukládají jen ve vašem iPhonu. Smazáním aplikace se odstraní."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Data jízdních řádů",
-        "body": "Jízdní řády, intervaly a jízdní doby pocházejí z oficiálních veřejných dat tchajpejského metra a jsou přímo součástí aplikace, takže vyhledání cesty nevyžaduje připojení k internetu. Metro včas je nezávislá aplikace a není přidružena ke společnosti Taipei Rapid Transit Corporation."
+        "body": "Jízdní řády, intervaly a jízdní doby pocházejí z oficiálních veřejných dat tchajpejského metra a jsou přímo součástí aplikace, takže vyhledání cesty nevyžaduje připojení k internetu. Jedinou výjimkou je původní jízdní řád v PDF: stáhne se z webu tchajpejského metra, když klepnete na tlačítko oficiálního jízdního řádu, jako běžný webový požadavek, a my o tom nedostáváme žádné informace. Metro včas je nezávislá aplikace a není přidružena ke společnosti Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

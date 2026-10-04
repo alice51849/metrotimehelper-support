@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Hvor kommer sidelinjernes køreplaner fra?",
-        "body": "Sidelinjerne til Xiaobitan og Xinbeitou kører efter faste køreplaner, som Taipei Metro offentliggør, og appen bruger netop de afgangstider, særskilt for hverdage og weekender. Hver køreplans gyldighedsdato står under »Om« i »Indstillinger«, og du kan åbne den originale køreplan som PDF fra sidelinjens skærm. Hvis operatøren udgiver en ny køreplan, opdaterer vi den i en appopdatering."
+        "body": "Sidelinjerne til Xiaobitan og Xinbeitou kører efter faste køreplaner, som Taipei Metro offentliggør, og appen bruger netop de afgangstider, særskilt for hverdage og weekender. Hver køreplans gyldighedsdato står under »Om« i »Indstillinger«, og du kan åbne den originale køreplan som PDF fra sidelinjens skærm (kræver internetforbindelse). Hvis operatøren udgiver en ny køreplan, opdaterer vi den i en appopdatering."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Alt bliver på din iPhone",
-        "body": "Alle rejseberegninger foregår på din enhed med køreplansdata, der er indbygget i appen. Dine indstillinger, fx stationer, sprog, farver, startside og påmindelser, gemmes kun på din iPhone og deles kun med appens egen widget på samme enhed. Sletter du appen, forsvinder de."
+        "body": "Alle rejseberegninger foregår på din enhed med køreplansdata, der er indbygget i appen. Dine indstillinger, fx stationer, sprog, farver, startside og påmindelser, gemmes kun på din iPhone. Sletter du appen, forsvinder de."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Køreplansdata",
-        "body": "Køreplaner, togafstande og køretider kommer fra Taipei Metros officielle offentlige data og er indbygget i selve appen, så du behøver ingen internetforbindelse for at slå en rejse op. Tidshjælp til metroen er uafhængig og ikke tilknyttet Taipei Rapid Transit Corporation."
+        "body": "Køreplaner, togafstande og køretider kommer fra Taipei Metros officielle offentlige data og er indbygget i selve appen, så du behøver ingen internetforbindelse for at slå en rejse op. Den eneste undtagelse er den originale køreplan som PDF: Den hentes fra Taipei Metros websted, når du trykker på knappen til den officielle køreplan, som en almindelig webforespørgsel, og vi modtager intet om det. Tidshjælp til metroen er uafhængig og ikke tilknyttet Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

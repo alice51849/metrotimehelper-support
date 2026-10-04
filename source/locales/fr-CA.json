@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "D’où viennent les horaires des antennes?",
-        "body": "Les antennes Xiaobitan et Xinbeitou fonctionnent selon des horaires fixes publiés par le métro de Taipei, et l’application utilise exactement ces heures de départ, séparément pour la semaine et la fin de semaine. La date d’entrée en vigueur de chaque horaire est indiquée sous « À propos », dans « Réglages », et vous pouvez ouvrir le PDF original de l’horaire à partir de l’écran de l’antenne. Si l’exploitant publie un nouvel horaire, nous le mettons à jour dans une mise à jour de l’application."
+        "body": "Les antennes Xiaobitan et Xinbeitou fonctionnent selon des horaires fixes publiés par le métro de Taipei, et l’application utilise exactement ces heures de départ, séparément pour la semaine et la fin de semaine. La date d’entrée en vigueur de chaque horaire est indiquée sous « À propos », dans « Réglages », et vous pouvez ouvrir le PDF original de l’horaire à partir de l’écran de l’antenne (connexion Internet requise). Si l’exploitant publie un nouvel horaire, nous le mettons à jour dans une mise à jour de l’application."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Tout reste sur votre iPhone",
-        "body": "Tous les calculs de trajet se font sur votre appareil à partir des horaires intégrés à l’application. Vos réglages, comme les stations, la langue, les couleurs, la page d’ouverture et les rappels, sont enregistrés uniquement sur votre iPhone et partagés avec le widget de l’application sur ce même appareil. Supprimer l’application les efface."
+        "body": "Tous les calculs de trajet se font sur votre appareil à partir des horaires intégrés à l’application. Vos réglages, comme les stations, la langue, les couleurs, la page d’ouverture et les rappels, sont enregistrés uniquement sur votre iPhone. Supprimer l’application les efface."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Données d’horaire",
-        "body": "Les horaires, les intervalles et les temps de parcours proviennent des données publiques officielles du métro de Taipei et sont inclus dans l’application elle-même; chercher un trajet ne nécessite donc aucune connexion Internet. Assistant Métro est indépendante et n’est pas affiliée à Taipei Rapid Transit Corporation."
+        "body": "Les horaires, les intervalles et les temps de parcours proviennent des données publiques officielles du métro de Taipei et sont inclus dans l’application elle-même; chercher un trajet ne nécessite donc aucune connexion Internet. La seule exception est le PDF original de l’horaire : il est téléchargé à partir du site Web du métro de Taipei lorsque vous touchez le bouton de l’horaire officiel, comme une simple requête Web, et nous ne recevons aucune information à ce sujet. Assistant Métro est indépendante et n’est pas affiliée à Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

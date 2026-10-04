@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Da dove vengono gli orari delle diramazioni?",
-        "body": "Le diramazioni di Xiaobitan e Xinbeitou seguono orari fissi pubblicati dalla metropolitana di Taipei, e l’app usa esattamente quegli orari di partenza, distinti per giorni feriali e fine settimana. La data di entrata in vigore di ciascun orario è indicata in «Info», nelle «Impostazioni», e puoi aprire il PDF originale dell’orario dalla schermata della diramazione. Se il gestore pubblica un nuovo orario, lo aggiorniamo con un aggiornamento dell’app."
+        "body": "Le diramazioni di Xiaobitan e Xinbeitou seguono orari fissi pubblicati dalla metropolitana di Taipei, e l’app usa esattamente quegli orari di partenza, distinti per giorni feriali e fine settimana. La data di entrata in vigore di ciascun orario è indicata in «Info», nelle «Impostazioni», e puoi aprire il PDF originale dell’orario dalla schermata della diramazione (serve una connessione a Internet). Se il gestore pubblica un nuovo orario, lo aggiorniamo con un aggiornamento dell’app."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Tutto resta sul tuo iPhone",
-        "body": "Tutti i calcoli dei viaggi avvengono sul tuo dispositivo usando gli orari integrati nell’app. Le tue impostazioni, come stazioni, lingua, colori, pagina iniziale e promemoria, sono salvate solo sul tuo iPhone e condivise con il widget dell’app sullo stesso dispositivo. Eliminando l’app vengono cancellate."
+        "body": "Tutti i calcoli dei viaggi avvengono sul tuo dispositivo usando gli orari integrati nell’app. Le tue impostazioni, come stazioni, lingua, colori, pagina iniziale e promemoria, sono salvate solo sul tuo iPhone. Eliminando l’app vengono cancellate."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Dati degli orari",
-        "body": "Orari, frequenze e tempi di percorrenza provengono dai dati pubblici ufficiali della metropolitana di Taipei e sono inclusi nell’app stessa, quindi per cercare un viaggio non serve una connessione a Internet. Assistente Orari Metro è indipendente e non è affiliata a Taipei Rapid Transit Corporation."
+        "body": "Orari, frequenze e tempi di percorrenza provengono dai dati pubblici ufficiali della metropolitana di Taipei e sono inclusi nell’app stessa, quindi per cercare un viaggio non serve una connessione a Internet. L’unica eccezione è il PDF originale dell’orario: viene scaricato dal sito della metropolitana di Taipei quando tocchi il pulsante dell’orario ufficiale, come una normale richiesta web, e noi non riceviamo nulla al riguardo. Assistente Orari Metro è indipendente e non è affiliata a Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

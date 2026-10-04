@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Odakle potječu vozni redovi odvojaka?",
-        "body": "Odvojci Xiaobitan i Xinbeitou voze prema stalnim voznim redovima koje objavljuje metro u Taipeiju, a aplikacija koristi upravo ta vremena polazaka, posebno za radne dane i vikende. Datum stupanja na snagu svakog voznog reda prikazan je pod „O aplikaciji“ u izborniku „Postavke“, a izvorni vozni red u PDF-u možete otvoriti sa zaslona odvojka. Ako prijevoznik objavi novi vozni red, ažurirat ćemo ga u novoj verziji aplikacije."
+        "body": "Odvojci Xiaobitan i Xinbeitou voze prema stalnim voznim redovima koje objavljuje metro u Taipeiju, a aplikacija koristi upravo ta vremena polazaka, posebno za radne dane i vikende. Datum stupanja na snagu svakog voznog reda prikazan je pod „O aplikaciji“ u izborniku „Postavke“, a izvorni vozni red u PDF-u možete otvoriti sa zaslona odvojka (potrebna je internetska veza). Ako prijevoznik objavi novi vozni red, ažurirat ćemo ga u novoj verziji aplikacije."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Sve ostaje na vašem iPhoneu",
-        "body": "Svi se izračuni putovanja izvode na vašem uređaju pomoću podataka o voznim redovima ugrađenih u aplikaciju. Vaše postavke, kao što su postaje, jezik, boje, početna stranica i podsjetnici, pohranjuju se samo na vašem iPhoneu i dijele se jedino s widgetom same aplikacije na istom uređaju. Brisanjem aplikacije one se uklanjaju."
+        "body": "Svi se izračuni putovanja izvode na vašem uređaju pomoću podataka o voznim redovima ugrađenih u aplikaciju. Vaše postavke, kao što su postaje, jezik, boje, početna stranica i podsjetnici, pohranjuju se samo na vašem iPhoneu. Brisanjem aplikacije one se uklanjaju."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Podaci o voznom redu",
-        "body": "Vozni redovi, intervali i trajanja vožnje potječu iz službenih javnih podataka metroa u Taipeiju i sadržani su u samoj aplikaciji, pa za pretraživanje putovanja nije potrebna internetska veza. Metro na vrijeme neovisna je aplikacija i nije povezana s tvrtkom Taipei Rapid Transit Corporation."
+        "body": "Vozni redovi, intervali i trajanja vožnje potječu iz službenih javnih podataka metroa u Taipeiju i sadržani su u samoj aplikaciji, pa za pretraživanje putovanja nije potrebna internetska veza. Jedina je iznimka izvorni vozni red u PDF-u: preuzima se s web-stranice metroa u Taipeiju kada dodirnete gumb za službeni vozni red, kao običan web-zahtjev, a mi o tome ne primamo nikakve podatke. Metro na vrijeme neovisna je aplikacija i nije povezana s tvrtkom Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

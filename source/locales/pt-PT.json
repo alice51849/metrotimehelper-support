@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "De onde vêm os horários dos ramais?",
-        "body": "Os ramais de Xiaobitan e Xinbeitou funcionam com horários fixos publicados pelo metro de Taipé, e a app usa exatamente essas horas de partida, separadamente para dias úteis e fins de semana. A data de entrada em vigor de cada horário é indicada em «Sobre», nas «Definições», e pode abrir o PDF original do horário a partir do ecrã do ramal. Se o operador publicar um novo horário, atualizamo-lo numa atualização da app."
+        "body": "Os ramais de Xiaobitan e Xinbeitou funcionam com horários fixos publicados pelo metro de Taipé, e a app usa exatamente essas horas de partida, separadamente para dias úteis e fins de semana. A data de entrada em vigor de cada horário é indicada em «Sobre», nas «Definições», e pode abrir o PDF original do horário a partir do ecrã do ramal (requer ligação à internet). Se o operador publicar um novo horário, atualizamo-lo numa atualização da app."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Tudo fica no seu iPhone",
-        "body": "Todos os cálculos de viagem são feitos no seu dispositivo, com os horários incluídos na app. As suas definições, como estações, idioma, cores, ecrã inicial e lembretes, ficam guardadas apenas no seu iPhone e são partilhadas com o widget da própria app no mesmo dispositivo. Apagar a app remove-as."
+        "body": "Todos os cálculos de viagem são feitos no seu dispositivo, com os horários incluídos na app. As suas definições, como estações, idioma, cores, ecrã inicial e lembretes, ficam guardadas apenas no seu iPhone. Apagar a app remove-as."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Dados dos horários",
-        "body": "Os horários, intervalos e tempos de percurso provêm dos dados públicos oficiais do metro de Taipé e estão incluídos na própria app, por isso consultar uma viagem não requer ligação à internet. Metro a Horas é independente e não está associada à Taipei Rapid Transit Corporation."
+        "body": "Os horários, intervalos e tempos de percurso provêm dos dados públicos oficiais do metro de Taipé e estão incluídos na própria app, por isso consultar uma viagem não requer ligação à internet. A única exceção é o PDF original do horário: é descarregado do site do metro de Taipé quando toca no botão do horário oficial, como um pedido web normal, e nós não recebemos qualquer informação sobre isso. Metro a Horas é independente e não está associada à Taipei Rapid Transit Corporation."
       },
       {
         "id": "contact_requests",

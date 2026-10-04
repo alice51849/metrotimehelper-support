@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Mistä haararatojen aikataulut tulevat?",
-        "body": "Xiaobitanin ja Xinbeitoun haararadat kulkevat Taipein metron julkaisemien kiinteiden aikataulujen mukaan, ja sovellus käyttää juuri niitä lähtöaikoja erikseen arkipäiville ja viikonlopuille. Kunkin aikataulun voimaantulopäivä näkyy kohdassa ”Tietoja” asetuksissa, ja alkuperäisen aikataulun PDF:n voit avata haararadan näkymästä. Jos liikennöitsijä julkaisee uuden aikataulun, päivitämme sen sovelluspäivityksessä."
+        "body": "Xiaobitanin ja Xinbeitoun haararadat kulkevat Taipein metron julkaisemien kiinteiden aikataulujen mukaan, ja sovellus käyttää juuri niitä lähtöaikoja erikseen arkipäiville ja viikonlopuille. Kunkin aikataulun voimaantulopäivä näkyy kohdassa ”Tietoja” asetuksissa, ja alkuperäisen aikataulun PDF:n voit avata haararadan näkymästä (vaatii internetyhteyden). Jos liikennöitsijä julkaisee uuden aikataulun, päivitämme sen sovelluspäivityksessä."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Kaikki pysyy iPhonessasi",
-        "body": "Kaikki matkalaskelmat tehdään laitteellasi sovellukseen sisäänrakennettujen aikataulutietojen avulla. Asetuksesi, kuten asemat, kieli, värit, aloitussivu ja muistutukset, tallennetaan vain iPhonellesi, ja ne jaetaan vain sovelluksen omalle widgetille samassa laitteessa. Kun poistat sovelluksen, ne poistuvat."
+        "body": "Kaikki matkalaskelmat tehdään laitteellasi sovellukseen sisäänrakennettujen aikataulutietojen avulla. Asetuksesi, kuten asemat, kieli, värit, aloitussivu ja muistutukset, tallennetaan vain iPhonellesi. Kun poistat sovelluksen, ne poistuvat."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Aikataulutiedot",
-        "body": "Aikataulut, vuorovälit ja ajoajat perustuvat Taipein metron virallisiin julkisiin tietoihin ja sisältyvät itse sovellukseen, joten matkan hakeminen ei vaadi internetyhteyttä. Metron aika-apuri on itsenäinen, eikä se liity Taipei Rapid Transit Corporationiin."
+        "body": "Aikataulut, vuorovälit ja ajoajat perustuvat Taipein metron virallisiin julkisiin tietoihin ja sisältyvät itse sovellukseen, joten matkan hakeminen ei vaadi internetyhteyttä. Ainoa poikkeus on alkuperäisen aikataulun PDF: se ladataan Taipein metron verkkosivustolta, kun napautat virallisen aikataulun painiketta. Kyse on tavallisesta verkkopyynnöstä, emmekä saa siitä mitään tietoja. Metron aika-apuri on itsenäinen, eikä se liity Taipei Rapid Transit Corporationiin."
       },
       {
         "id": "contact_requests",

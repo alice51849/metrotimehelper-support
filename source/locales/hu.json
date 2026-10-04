@@ -106,7 +106,7 @@
       {
         "id": "branch_timetable",
         "title": "Honnan származnak a szárnyvonalak menetrendjei?",
-        "body": "A Xiaobitan és a Xinbeitou szárnyvonal a tajpeji metró által közzétett rögzített menetrend szerint közlekedik, az alkalmazás pedig pontosan ezeket az indulási időket használja, külön hétköznapra és hétvégére. Az egyes menetrendek hatálybalépési dátuma a „Beállítások” menü „Névjegy” részében látható, az eredeti menetrendet PDF-ben pedig a szárnyvonal képernyőjéről nyithatja meg. Ha az üzemeltető új menetrendet tesz közzé, azt egy alkalmazásfrissítésben átvezetjük."
+        "body": "A Xiaobitan és a Xinbeitou szárnyvonal a tajpeji metró által közzétett rögzített menetrend szerint közlekedik, az alkalmazás pedig pontosan ezeket az indulási időket használja, külön hétköznapra és hétvégére. Az egyes menetrendek hatálybalépési dátuma a „Beállítások” menü „Névjegy” részében látható, az eredeti menetrendet PDF-ben pedig a szárnyvonal képernyőjéről nyithatja meg (internetkapcsolat szükséges). Ha az üzemeltető új menetrendet tesz közzé, azt egy alkalmazásfrissítésben átvezetjük."
       },
       {
         "id": "notifications",
@@ -154,7 +154,7 @@
       {
         "id": "on_device",
         "title": "Minden az iPhone-ján marad",
-        "body": "Az útvonalak minden számítása az Ön eszközén fut, az alkalmazásba épített menetrendadatok alapján. Beállításait, például az állomásokat, a nyelvet, a színeket, a kezdőoldalt és az emlékeztetőket, kizárólag az iPhone-ján tárolja, és csak az alkalmazás saját widgetjével osztja meg ugyanazon az eszközön. Az alkalmazás törlésével ezek is törlődnek."
+        "body": "Az útvonalak minden számítása az Ön eszközén fut, az alkalmazásba épített menetrendadatok alapján. Beállításait, például az állomásokat, a nyelvet, a színeket, a kezdőoldalt és az emlékeztetőket, kizárólag az iPhone-ján tárolja. Az alkalmazás törlésével ezek is törlődnek."
       },
       {
         "id": "notifications",
@@ -174,7 +174,7 @@
       {
         "id": "data_sources",
         "title": "Menetrendadatok",
-        "body": "A menetrendek, a követési idők és a menetidők a tajpeji metró hivatalos nyilvános adataiból származnak, és magában az alkalmazásban találhatók, így az utak lekérdezéséhez nincs szükség internetkapcsolatra. Az Időtervező a metróhoz független alkalmazás, és nem áll kapcsolatban a Taipei Rapid Transit Corporation vállalattal."
+        "body": "A menetrendek, a követési idők és a menetidők a tajpeji metró hivatalos nyilvános adataiból származnak, és magában az alkalmazásban találhatók, így az utak lekérdezéséhez nincs szükség internetkapcsolatra. Az egyetlen kivétel az eredeti menetrend PDF-je: ezt a hivatalos menetrend gombjának megérintésekor tölti le az alkalmazás a tajpeji metró webhelyéről, szokásos webes kéréssel, és mi erről semmilyen információt nem kapunk. Az Időtervező a metróhoz független alkalmazás, és nem áll kapcsolatban a Taipei Rapid Transit Corporation vállalattal."
       },
       {
         "id": "contact_requests",
