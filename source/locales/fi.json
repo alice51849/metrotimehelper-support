@@ -1,0 +1,191 @@
+{
+  "language_name": "Suomi",
+  "language_label": "Kieli",
+  "navigation_label": "Sivuston osiot",
+  "skip_link": "Siirry sisältöön",
+  "nav": {
+    "index": "Etusivu",
+    "support": "Tuki",
+    "privacy": "Tietosuoja"
+  },
+  "footer": "Metron aika-apuri on itsenäinen sovellus. Se ei ole Taipei Rapid Transit Corporationin omistama, hyväksymä eikä ylläpitämä, eikä sillä ole yhteyttä yhtiöön. Aikataulut ja matka-ajat perustuvat Taipein metron virallisiin julkisiin tietoihin.",
+  "contact": {
+    "title": "Ota yhteyttä",
+    "body": "Onko sinulla kysyttävää, näyttääkö jokin aikataulu väärältä tai onko sinulla idea sovellukseen? Kirjoita meille. Kun kerrot iPhonesi mallin, iOS-version, sovelluksen version (näkyy kohdassa ”Asetukset”) ja asiaan liittyvät asemat, pääsemme selvittämään asiaa nopeammin.",
+    "button": "Sähköposti"
+  },
+  "home": {
+    "title": "Kerro, milloin pitää olla perillä. Se kertoo, milloin lähteä.",
+    "summary": "Taipein metron aikasuunnittelija iPhonelle. Valitse asemat ja kellonaika, jolloin sinun pitää olla perillä, niin se laskee taaksepäin viimeisimmän ajan, jolloin sinun kannattaa mennä asemalle, vaihdot mukaan lukien.",
+    "section_title": "Mitä sovellus tekee",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Suunnittele taaksepäin saapumisajasta",
+        "body": "Valitse, missä olet, minne olet menossa ja milloin sinun pitää olla perillä. Saat viimeisimmän ajan kulkea lippuporteista, vaihe vaiheelta etenevän aikajanan jokaisine vaihtoineen, varoitukset ensimmäisestä ja viimeisestä junasta sekä halutessasi muistutuksen lähteä. Haluatko mieluummin lähteä heti? Vaihda kohtaan ”Lähde nyt” ja näe, milloin olet perillä."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "Xiaobitanin haararata kunnolla hoidettuna",
+        "body": "Qizhangin ja Xiaobitanin välinen sukkulajuna kulkee vain noin 12–16 minuutin välein, ja useimmat reittisovellukset sivuuttavat sen. Täältä saat virallisen kiinteän aikataulun, laskurin seuraavaan junaan, täydet aikataulut tälle päivälle, arkipäiville ja viikonlopuille, alkuperäisen aikataulun PDF-muodossa sekä muistutuksen 1–30 minuuttia ennen lähtöä."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "Beitousta Xinbeitouhun kuumille lähteille",
+        "body": "Lyhyt haararata Xinbeitoun kuumien lähteiden alueelle saa saman kohtelun: virallisen kiinteän aikataulun molempiin suuntiin, reaaliaikaisen laskurin ja lähtömuistutuksen. Kun suunniteltu matka kulkee jommankumman haararadan kautta, myös suunnittelija käyttää kiinteää aikataulua."
+      },
+      {
+        "id": "map_widget",
+        "title": "Napautettava kartta ja widget",
+        "body": "Nipistä ja zoomaa sisäänrakennettua metrokarttaa ja napauta mitä tahansa asemaa valitaksesi sen lähtö- tai määränpääksi; reittisi piirretään suoraan karttaan. Koti-valikon ja lukitusnäytön widgetit näyttävät seuraavan junan molempiin suuntiin valitsemallasi haararadalla."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Yksityisyys lähtökohtana",
+        "body": "Ei tiliä eikä rekisteröitymistä. Ei mainoksia, ei kolmannen osapuolen analytiikkaa eikä henkilötietojen keräämistä. Kaikki laskelmat tehdään iPhonessasi, ja muistutukset ajastetaan paikallisesti laitteelle."
+      },
+      {
+        "id": "trial",
+        "title": "Kokeile kaikkea 24 tunnin ajan",
+        "body": "Lataa sovellus ja aloita 24 tunnin kokeilu, jossa kaikki ominaisuudet ovat käytössä. Sen jälkeen yksi kertaosto pitää kaiken käytössäsi pysyvästi. Tilausta ei ole, eikä mikään uusiudu."
+      }
+    ],
+    "links_title": "Tarvitsetko apua?",
+    "support_card": {
+      "title": "Tuki ja usein kysytyt kysymykset",
+      "body": "Miten kolme tilaa toimivat, aloitussivun ja kielen valinta, muistutukset, oston palauttaminen ja paljon muuta."
+    },
+    "privacy_card": {
+      "title": "Tietosuojakäytäntö",
+      "body": "Tarkalleen, mitä sovellus tekee ja ei tee tiedoillesi. Lyhyesti: se ei kerää mitään."
+    }
+  },
+  "support": {
+    "title": "Tuki",
+    "summary": "Kaikki, mitä tarvitset liikkuaksesi Taipeissa ajallaan, sekä vastaukset useimmin kysyttyihin kysymyksiin.",
+    "howto_title": "Näin käytät sovellusta",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Kolme tilaa",
+        "body": "”Metromatkan suunnittelu” laskee, milloin lähteä mille tahansa matkalle koko verkossa. ”Xiaobitan” näyttää Qizhangin ja Xiaobitanin välisen haararadan aikataulun ja laskurin. ”Beitou · Xinbeitou” tekee saman Xinbeitoun haararadalle. Sovellus avautuu tilaan ”Metromatkan suunnittelu”, ellet muuta asetusta."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Tilan vaihtaminen",
+        "body": "Napauta näytön yläkulmassa olevaa pyöreää lasipainiketta, joka näyttää nykyisen tilan, ja valitse sitten haluamasi tila."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Matkan suunnittelu",
+        "body": "Valitse lähtöpaikka ja määränpää listasta tai napauttamalla asemia kartalla, valitse sitten ”Perillä viimeistään” ja aseta kellonaika. Tulos näyttää, milloin sinun pitää mennä asemalle, sekä matkan jokaisen osuuden. Kohdassa ”Säädä arviota” voit valita vaihtoehdon ”Normaali”, joka varaa odotukseen puolet vuorovälistä, tai ”Varovainen”, joka varaa koko vuorovälin, ja asettaa ”Sisäänmenovara”-ajaksi enintään 15 minuuttia asemalle kävelyyn ja laiturille pääsyyn."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Lähtömuistutukset",
+        "body": "Aseta haararadan aikataulussa, kuinka monta minuuttia etukäteen haluat muistutuksen, väliltä 1–30, ja napauta sitten haluamaasi junaa. Tilassa ”Metromatkan suunnittelu” voit asettaa muistutuksen siihen hetkeen, kun on aika lähteä. Peru aktiivinen muistutus napauttamalla sitä."
+      },
+      {
+        "id": "default_page",
+        "title": "Aloitussivun valinta",
+        "body": "Avaa ”Asetukset” rataspainikkeesta ja siirry kohtaan ”Aloitussivu”. Valitse ”Metromatkan suunnittelu”, ”Xiaobitan” tai ”Beitou · Xinbeitou”."
+      },
+      {
+        "id": "language",
+        "title": "Kielen vaihtaminen",
+        "body": "Sovellus käyttää oletuksena iPhonesi kieltä ja tarjoaa 50 kieltä. Jos haluat käyttää eri kieltä vain tässä sovelluksessa, avaa ”Asetukset”, napauta ”Kieli” ja valitse kieli listasta, tai palaa takaisin valitsemalla ”Järjestelmän mukaan”."
+      }
+    ],
+    "faq_title": "Usein kysytyt kysymykset",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Miksi ajat ovat arvioita?",
+        "body": "Koko verkon matkoille sovellus laskee ajat Taipein metron virallisten vuorovälien ja asemien välisten ajoaikojen perusteella. Se ei saa junien reaaliaikaisia sijainteja, joten se ei näe saman päivän viivästyksiä, ruuhkia tai liikennemuutoksia. Jätä tärkeille matkoille hieman pelivaraa, käytä tilaa ”Varovainen” ja noudata aina aseman kuulutuksia ja opasteita."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "Mistä haararatojen aikataulut tulevat?",
+        "body": "Xiaobitanin ja Xinbeitoun haararadat kulkevat Taipein metron julkaisemien kiinteiden aikataulujen mukaan, ja sovellus käyttää juuri niitä lähtöaikoja erikseen arkipäiville ja viikonlopuille. Kunkin aikataulun voimaantulopäivä näkyy kohdassa ”Tietoja” asetuksissa, ja alkuperäisen aikataulun PDF:n voit avata haararadan näkymästä. Jos liikennöitsijä julkaisee uuden aikataulun, päivitämme sen sovelluspäivityksessä."
+      },
+      {
+        "id": "notifications",
+        "title": "En saa muistutuksia",
+        "body": "Kun asetat muistutuksen ensimmäistä kertaa, iOS pyytää lupaa lähettää ilmoituksia. Jos kieltäydyit, sovellus näyttää kehotteen, jota voit napauttaa, tai voit ottaa ilmoitukset uudelleen käyttöön iOS:n Asetukset-apissa kohdassa Ilmoitukset tämän sovelluksen kohdalta. Muistutukset ajastetaan iPhonellesi, joten ne toimivat ilman verkkoyhteyttä, mutta keskittymistila voi silti hiljentää ne."
+      },
+      {
+        "id": "restore",
+        "title": "Miten palautan ostokseni?",
+        "body": "Avaa sovelluksessa ”Asetukset” ja napauta ”Palauta”. Varmista, että olet kirjautunut App Storeen samalla Apple-tilillä, jolla teit oston. Avaus palautuu myös automaattisesti, kun asennat sovelluksen uudelleen tai otat käyttöön uuden iPhonen samalla tilillä."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "Miten 24 tunnin kokeilu ja avaus toimivat?",
+        "body": "Aloita kokeilu sovelluksessa silloin, kun olet valmis, niin kaikki ominaisuudet ovat käytössä 24 tunnin ajan. App Store kirjaa kokeilun, joten uudelleenasennus ei aloita sitä alusta. Kun kokeilu päättyy, näet sovelluksen yhä, ja kertaosto avaa kaiken pysyvästi. Se ei ole tilaus eikä uusiudu koskaan. Hinta näkyy App Storessa paikallisessa valuutassasi."
+      },
+      {
+        "id": "coverage",
+        "title": "Mitkä linjat ovat mukana?",
+        "body": "Wenhu, Tamsui-Xinyi Xinbeitoun haararatoineen, Songshan-Xindian Xiaobitanin haararatoineen, Zhonghe-Xinlu, Bannan sekä Circular-kehälinjan ensimmäinen vaihe. Taoyuanin lentokentän MRT-linja ja pikaraitiolinjat eivät ole mukana."
+      },
+      {
+        "id": "independence",
+        "title": "Onko tämä Taipein metron virallinen sovellus?",
+        "body": "Ei. Metron aika-apuri on itsenäinen sovellus, eikä se liity Taipei Rapid Transit Corporationiin tai ole sen hyväksymä. Se käyttää Taipein metron virallisia julkisia tietoja. Liikennehäiriöissä ja löytötavara-asioissa ota yhteyttä suoraan liikennöitsijään."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Tietosuojakäytäntö",
+    "summary": "Metron aika-apuri ei kerää henkilötietoja. Tällä sivulla kerrotaan, mitä sovellus tekee iPhonessasi ja mitä se ei tee koskaan.",
+    "updated_label": "Päivitetty viimeksi",
+    "section_title": "Sitoumuksemme",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Ei tiliä",
+        "body": "Tiliä ei tarvita. Sinun ei koskaan tarvitse rekisteröityä, kirjautua sisään tai antaa meille nimeäsi, sähköpostiosoitettasi tai puhelinnumeroasi käyttääksesi sovellusta."
+      },
+      {
+        "id": "data_collection",
+        "title": "Keräämämme tiedot",
+        "body": "Emme kerää henkilötietoja. Sovellus ei käytä sijaintiasi, yhteystietojasi, kuviasi eikä mitään seurantaan tarkoitettua tunnistetta, eikä se lähetä syöttämiäsi asemia tai aikoja meille tai kenellekään muulle."
+      },
+      {
+        "id": "on_device",
+        "title": "Kaikki pysyy iPhonessasi",
+        "body": "Kaikki matkalaskelmat tehdään laitteellasi sovellukseen sisäänrakennettujen aikataulutietojen avulla. Asetuksesi, kuten asemat, kieli, värit, aloitussivu ja muistutukset, tallennetaan vain iPhonellesi, ja ne jaetaan vain sovelluksen omalle widgetille samassa laitteessa. Kun poistat sovelluksen, ne poistuvat."
+      },
+      {
+        "id": "notifications",
+        "title": "Ilmoitukset",
+        "body": "Jos sallit ilmoitukset, sovellus käyttää niitä vain itse asettamiisi muistutuksiin. Jokainen muistutus ajastetaan paikallisesti iPhonellesi; mitään palvelinta ei käytetä, eikä ilmoitusten sisältö poistu laitteeltasi. Voit poistaa ilmoitukset käytöstä milloin tahansa iOS:n Asetukset-apissa."
+      },
+      {
+        "id": "storekit",
+        "title": "Ostot Applen kautta",
+        "body": "24 tunnin kokeilun ja kertaluonteisen avauksen hoitaa Apple App Storen kautta StoreKitillä. Maksun käsittelee kokonaan Apple, eikä sovellus koskaan näe tai tallenna maksutietojasi. Sovellus tarkistaa App Storesta vain, onko kokeilu käynnissä tai onko avaus ostettu."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Ei mainoksia, ei analytiikkaa, ei seurantaa",
+        "body": "Emme käytä kolmannen osapuolen mainontaa. Emme käytä kolmannen osapuolen analytiikkaa. Sovellus ei sisällä seurantakoodia, ei yhdistä tietoja sinuun eikä jaa niitä tietojen välittäjille."
+      },
+      {
+        "id": "data_sources",
+        "title": "Aikataulutiedot",
+        "body": "Aikataulut, vuorovälit ja ajoajat perustuvat Taipein metron virallisiin julkisiin tietoihin ja sisältyvät itse sovellukseen, joten matkan hakeminen ei vaadi internetyhteyttä. Metron aika-apuri on itsenäinen, eikä se liity Taipei Rapid Transit Corporationiin."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Kysymykset ja oikeutesi",
+        "body": "Koska meillä ei ole sinusta henkilötietoja, meillä ei ole mitään, mitä voisimme luovuttaa nähtäväksi, viedä tai poistaa. Jos lähetät meille sähköpostia, käytämme viestiäsi vain vastaamiseen emmekä lisää sinua millekään postituslistalle. Lähetä tietosuojaa koskevat kysymykset alla olevaan osoitteeseen."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Muutokset tähän käytäntöön",
+        "body": "Jos sovelluksen tapa käsitellä tietoja joskus muuttuu, päivitämme tämän sivun ja ”Päivitetty viimeksi” -päivämäärän ennen kuin muutos tulee voimaan ja kerromme muutoksesta sovelluksen julkaisutiedoissa."
+      }
+    ]
+  }
+}

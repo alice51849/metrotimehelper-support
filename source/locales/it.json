@@ -1,0 +1,191 @@
+{
+  "language_name": "Italiano",
+  "language_label": "Lingua",
+  "navigation_label": "Sezioni del sito",
+  "skip_link": "Vai al contenuto",
+  "nav": {
+    "index": "Inizio",
+    "support": "Assistenza",
+    "privacy": "Privacy e dati"
+  },
+  "footer": "Assistente Orari Metro è un’app indipendente. Non è affiliata a Taipei Rapid Transit Corporation, né approvata o gestita da essa. Orari e tempi di percorrenza provengono dai dati pubblici ufficiali della metropolitana di Taipei.",
+  "contact": {
+    "title": "Contattaci",
+    "body": "Hai una domanda, hai notato un orario che sembra sbagliato o hai un’idea per l’app? Scrivici. Se ci indichi il modello del tuo iPhone, la versione di iOS, la versione dell’app (la trovi in «Impostazioni») e le stazioni interessate, potremo verificare più in fretta.",
+    "button": "Scrivici via email"
+  },
+  "home": {
+    "title": "Dille quando arrivare. Lei ti dice quando partire.",
+    "summary": "Un pianificatore di orari per la metropolitana di Taipei su iPhone. Scegli le stazioni e l’ora in cui devi essere a destinazione: l’app calcola a ritroso l’ora limite per entrare in stazione, cambi compresi.",
+    "section_title": "Cosa fa",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Pianifica a partire dall’ora di arrivo",
+        "body": "Indica dove ti trovi, dove vai e a che ora devi arrivare. Ottieni l’ora limite per passare i tornelli, una sequenza passo passo con ogni cambio, avvisi per la prima e l’ultima corsa e, se vuoi, un promemoria per uscire in tempo. Preferisci partire subito? Passa a «Parti ora» e scopri a che ora arriverai."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "La diramazione di Xiaobitan, fatta come si deve",
+        "body": "La navetta tra Qizhang e Xiaobitan passa solo ogni 12-16 minuti circa, e la maggior parte delle app di percorsi la tratta in modo sbrigativo. Qui trovi l’orario fisso ufficiale, il conto alla rovescia per la prossima corsa, gli orari completi di oggi, dei giorni feriali e del fine settimana, il PDF originale dell’orario e un avviso da 1 a 30 minuti prima della partenza."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "Da Beitou a Xinbeitou, verso le terme",
+        "body": "La breve diramazione verso la zona termale di Xinbeitou ha lo stesso trattamento: l’orario fisso ufficiale in entrambe le direzioni, un conto alla rovescia in tempo reale e un avviso di partenza. Quando un viaggio pianificato passa per una delle due diramazioni, anche il pianificatore usa l’orario fisso."
+      },
+      {
+        "id": "map_widget",
+        "title": "Una mappa interattiva e un widget",
+        "body": "Ingrandisci con due dita la mappa della metro integrata e tocca una stazione qualsiasi per impostarla come partenza o destinazione; il percorso viene tracciato direttamente sulla mappa. I widget per la schermata Home e la schermata di blocco mostrano la prossima corsa in entrambe le direzioni sulla diramazione che scegli."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Privacy fin dalla progettazione",
+        "body": "Nessun account e nessuna registrazione. Niente pubblicità, niente strumenti di analisi di terze parti e nessun dato personale raccolto. Tutti i calcoli avvengono sul tuo iPhone e i promemoria vengono programmati localmente sul dispositivo."
+      },
+      {
+        "id": "trial",
+        "title": "Prova tutto per 24 ore",
+        "body": "Scarica l’app e avvia una prova di 24 ore con tutte le funzioni sbloccate. Dopo, con un unico acquisto tieni tutto per sempre. Nessun abbonamento, niente rinnovi."
+      }
+    ],
+    "links_title": "Serve aiuto?",
+    "support_card": {
+      "title": "Assistenza e FAQ",
+      "body": "Come funzionano le tre modalità, come scegliere la pagina iniziale e la lingua, i promemoria, il ripristino di un acquisto e altro ancora."
+    },
+    "privacy_card": {
+      "title": "Informativa sulla privacy",
+      "body": "Cosa fa e cosa non fa l’app con i tuoi dati, nel dettaglio. In breve: non raccoglie nulla."
+    }
+  },
+  "support": {
+    "title": "Assistenza",
+    "summary": "Tutto ciò che ti serve per muoverti a Taipei puntuale, più le risposte alle domande che riceviamo più spesso.",
+    "howto_title": "Come si usa",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Tre modalità",
+        "body": "«Viaggio in metro» calcola quando partire per qualsiasi viaggio sulla rete. «Xiaobitan» mostra l’orario e il conto alla rovescia della diramazione Qizhang-Xiaobitan. «Beitou · Xinbeitou» fa lo stesso per la diramazione di Xinbeitou. L’app si apre su «Viaggio in metro», a meno che tu non lo cambi."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Cambiare modalità",
+        "body": "Tocca il pulsante rotondo in vetro nell’angolo in alto dello schermo, quello che mostra la modalità attuale, poi scegli la modalità che preferisci."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Pianificare un viaggio",
+        "body": "Scegli partenza e destinazione dall’elenco o toccando le stazioni sulla mappa, poi seleziona «Arrivo entro» e imposta l’ora. Il risultato indica quando entrare in stazione e ogni tratta del viaggio. In «Modifica stima» puoi scegliere «Standard», che prevede mezza frequenza di attesa, oppure «Prudente», che prevede una frequenza intera, e impostare un «Tempo di accesso» fino a 15 minuti per entrare in stazione e raggiungere la banchina."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Promemoria di partenza",
+        "body": "Nell’orario di una diramazione, imposta con quanti minuti di anticipo vuoi essere avvisato, da 1 a 30, poi tocca la corsa che ti interessa. In «Viaggio in metro» puoi impostare un promemoria per quando è ora di uscire. Tocca un promemoria attivo per annullarlo."
+      },
+      {
+        "id": "default_page",
+        "title": "Scegliere la pagina di apertura",
+        "body": "Apri «Impostazioni» con il pulsante a forma di ingranaggio e vai su «Pagina all’avvio». Scegli «Viaggio in metro», «Xiaobitan» o «Beitou · Xinbeitou»."
+      },
+      {
+        "id": "language",
+        "title": "Cambiare lingua",
+        "body": "Per impostazione predefinita l’app segue la lingua del tuo iPhone e offre 50 lingue. Per usarne un’altra solo in questa app, apri «Impostazioni», tocca «Lingua» e scegline una dall’elenco, oppure scegli «Come il sistema» per tornare indietro."
+      }
+    ],
+    "faq_title": "Domande frequenti",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Perché gli orari sono stime?",
+        "body": "Per i viaggi sulla rete, l’app calcola in base alle frequenze ufficiali della metropolitana di Taipei e ai tempi di percorrenza tra le stazioni. Non riceve la posizione dei treni in tempo reale, quindi non può vedere ritardi, affollamento o variazioni del servizio in giornata. Tieniti un margine per i viaggi importanti, usa la modalità «Prudente» e segui sempre gli annunci e la segnaletica in stazione."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "Da dove vengono gli orari delle diramazioni?",
+        "body": "Le diramazioni di Xiaobitan e Xinbeitou seguono orari fissi pubblicati dalla metropolitana di Taipei, e l’app usa esattamente quegli orari di partenza, distinti per giorni feriali e fine settimana. La data di entrata in vigore di ciascun orario è indicata in «Info», nelle «Impostazioni», e puoi aprire il PDF originale dell’orario dalla schermata della diramazione. Se il gestore pubblica un nuovo orario, lo aggiorniamo con un aggiornamento dell’app."
+      },
+      {
+        "id": "notifications",
+        "title": "Non ricevo i promemoria",
+        "body": "La prima volta che imposti un promemoria, iOS chiede il permesso di inviare notifiche. Se hai rifiutato, l’app mostra un messaggio che puoi toccare, oppure puoi riattivare le notifiche nell’app Impostazioni di iOS, alla voce Notifiche di questa app. I promemoria vengono programmati sul tuo iPhone, quindi funzionano anche offline, ma una modalità Full immersion può comunque silenziarli."
+      },
+      {
+        "id": "restore",
+        "title": "Come ripristino l’acquisto?",
+        "body": "Apri «Impostazioni» nell’app e tocca «Ripristina». Assicurati di aver effettuato l’accesso all’App Store con lo stesso Account Apple usato per l’acquisto. Lo sblocco torna anche automaticamente quando reinstalli l’app o configuri un nuovo iPhone con quell’account."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "Come funzionano la prova di 24 ore e lo sblocco?",
+        "body": "Avvia la prova dall’app quando vuoi: tutte le funzioni restano disponibili per 24 ore. La prova viene registrata dall’App Store, quindi reinstallare l’app non la fa ripartire. Al termine puoi continuare a vedere l’app, e un unico acquisto sblocca tutto per sempre. Non è un abbonamento e non si rinnova mai. Il prezzo è indicato nell’App Store nella tua valuta locale."
+      },
+      {
+        "id": "coverage",
+        "title": "Quali linee sono incluse?",
+        "body": "Wenhu, Tamsui-Xinyi con la diramazione di Xinbeitou, Songshan-Xindian con la diramazione di Xiaobitan, Zhonghe-Xinlu, Bannan e la prima tratta della linea Circolare. La metropolitana dell’aeroporto di Taoyuan e le linee di metrotranvia non sono incluse."
+      },
+      {
+        "id": "independence",
+        "title": "È un’app ufficiale della metropolitana di Taipei?",
+        "body": "No. Assistente Orari Metro è un’app indipendente e non è affiliata a Taipei Rapid Transit Corporation né approvata da essa. Utilizza i dati pubblici ufficiali della metropolitana di Taipei. Per interruzioni del servizio od oggetti smarriti, contatta direttamente il gestore."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Informativa sulla privacy",
+    "summary": "Assistente Orari Metro non raccoglie dati personali. Questa pagina spiega cosa fa l’app sul tuo iPhone e cosa non fa mai.",
+    "updated_label": "Ultimo aggiornamento",
+    "section_title": "I nostri impegni",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Nessun account",
+        "body": "Non serve alcun account. Per usare l’app non devi mai registrarti, accedere o comunicarci il tuo nome, indirizzo email o numero di telefono."
+      },
+      {
+        "id": "data_collection",
+        "title": "Dati raccolti",
+        "body": "Non raccogliamo dati personali. L’app non accede alla tua posizione, ai contatti, alle foto né ad alcun identificativo di tracciamento, e non invia a noi né a nessun altro le stazioni o gli orari che inserisci."
+      },
+      {
+        "id": "on_device",
+        "title": "Tutto resta sul tuo iPhone",
+        "body": "Tutti i calcoli dei viaggi avvengono sul tuo dispositivo usando gli orari integrati nell’app. Le tue impostazioni, come stazioni, lingua, colori, pagina iniziale e promemoria, sono salvate solo sul tuo iPhone e condivise con il widget dell’app sullo stesso dispositivo. Eliminando l’app vengono cancellate."
+      },
+      {
+        "id": "notifications",
+        "title": "Notifiche",
+        "body": "Se consenti le notifiche, l’app le usa solo per i promemoria che imposti tu. Ogni promemoria viene programmato localmente sul tuo iPhone; non è coinvolto alcun server e nessun contenuto delle notifiche lascia il tuo dispositivo. Puoi disattivare le notifiche in qualsiasi momento nell’app Impostazioni di iOS."
+      },
+      {
+        "id": "storekit",
+        "title": "Acquisti tramite Apple",
+        "body": "La prova di 24 ore e lo sblocco una tantum sono gestiti da Apple tramite l’App Store con StoreKit. Il pagamento è elaborato interamente da Apple e l’app non vede né conserva mai i tuoi dati di pagamento. L’app si limita a verificare con l’App Store se la prova è attiva o se lo sblocco è stato acquistato."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Niente pubblicità, analisi o tracciamento",
+        "body": "Non usiamo pubblicità di terze parti. Non usiamo strumenti di analisi di terze parti. L’app non contiene codice di tracciamento, non collega dati alla tua persona e non li condivide con data broker."
+      },
+      {
+        "id": "data_sources",
+        "title": "Dati degli orari",
+        "body": "Orari, frequenze e tempi di percorrenza provengono dai dati pubblici ufficiali della metropolitana di Taipei e sono inclusi nell’app stessa, quindi per cercare un viaggio non serve una connessione a Internet. Assistente Orari Metro è indipendente e non è affiliata a Taipei Rapid Transit Corporation."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Domande e diritti",
+        "body": "Poiché non conserviamo alcun dato personale che ti riguardi, non c’è nulla da consultare, esportare o eliminare. Se ci scrivi via email, usiamo il tuo messaggio solo per risponderti e non ti aggiungiamo ad alcuna mailing list. Per qualsiasi domanda sulla privacy, scrivi all’indirizzo qui sotto."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Modifiche a questa informativa",
+        "body": "Se il modo in cui l’app gestisce i dati dovesse cambiare, aggiorneremo questa pagina e la data dell’ultimo aggiornamento prima che la modifica entri in vigore, e spiegheremo la modifica nelle note di versione dell’app."
+      }
+    ]
+  }
+}

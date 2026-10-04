@@ -1,0 +1,191 @@
+{
+  "language_name": "Tiếng Việt",
+  "language_label": "Ngôn ngữ",
+  "navigation_label": "Các mục của trang",
+  "skip_link": "Chuyển đến nội dung",
+  "nav": {
+    "index": "Trang chủ",
+    "support": "Hỗ trợ",
+    "privacy": "Quyền riêng tư"
+  },
+  "footer": "Trợ lý giờ MRT là ứng dụng độc lập, không liên kết, không được bảo trợ và không do Taipei Rapid Transit Corporation vận hành. Lịch chạy và thời gian di chuyển được lấy từ dữ liệu công khai chính thức của MRT Đài Bắc.",
+  "contact": {
+    "title": "Liên hệ",
+    "body": "Bạn có thắc mắc, thấy lịch chạy có vẻ sai, hay có ý tưởng cho ứng dụng? Hãy viết cho chúng tôi. Nếu bạn ghi kèm mẫu iPhone, phiên bản iOS, phiên bản ứng dụng (xem trong “Cài đặt”) và các ga liên quan, chúng tôi sẽ kiểm tra nhanh hơn.",
+    "button": "Gửi email"
+  },
+  "home": {
+    "title": "Cho biết giờ cần đến. Ứng dụng sẽ cho bạn biết giờ cần đi.",
+    "summary": "Công cụ tính giờ đi MRT Đài Bắc dành cho iPhone. Chọn ga và thời điểm bạn cần có mặt, ứng dụng sẽ tính ngược ra giờ muộn nhất bạn nên vào ga, đã tính cả các lần đổi tuyến.",
+    "section_title": "Ứng dụng làm được gì",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Tính ngược từ giờ cần đến",
+        "body": "Chọn nơi bạn đang ở, nơi bạn muốn đến và giờ cần có mặt. Bạn sẽ biết giờ muộn nhất phải qua cửa soát vé, dòng thời gian từng bước kèm mỗi lần đổi tuyến, cảnh báo chuyến đầu và chuyến cuối, cùng lời nhắc lên đường nếu muốn. Muốn đi ngay? Chuyển sang “Đi ngay” để xem bạn sẽ đến lúc mấy giờ."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "Tuyến nhánh Xiaobitan, được làm chu đáo",
+        "body": "Tuyến nhánh từ Qizhang đến Xiaobitan chỉ có khoảng 12 đến 16 phút một chuyến, và hầu hết ứng dụng chỉ đường đều lướt qua nó. Ở đây bạn có lịch chạy cố định chính thức, đồng hồ đếm ngược đến chuyến kế tiếp, lịch chạy đầy đủ cho hôm nay, ngày thường và cuối tuần, tệp PDF lịch chạy gốc, cùng thông báo trước giờ tàu chạy từ 1 đến 30 phút."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "Beitou đến Xinbeitou, cho chuyến đi suối nước nóng",
+        "body": "Tuyến nhánh ngắn đến khu suối nước nóng Xinbeitou cũng được hỗ trợ tương tự: lịch chạy cố định chính thức cho cả hai chiều, đếm ngược theo thời gian thực và thông báo trước giờ tàu chạy. Khi hành trình bạn lập đi qua một trong hai tuyến nhánh, công cụ lập lộ trình cũng dùng lịch chạy cố định."
+      },
+      {
+        "id": "map_widget",
+        "title": "Bản đồ chạm được, kèm tiện ích",
+        "body": "Dùng hai ngón tay để phóng to, thu nhỏ bản đồ MRT tích hợp và chạm vào ga bất kỳ để đặt làm điểm đi hoặc điểm đến; lộ trình được vẽ ngay trên bản đồ. Tiện ích trên Màn hình chính và Màn hình khóa hiển thị chuyến tàu kế tiếp theo cả hai chiều của tuyến nhánh bạn chọn."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Riêng tư ngay từ thiết kế",
+        "body": "Không cần tài khoản, không cần đăng ký. Không quảng cáo, không công cụ phân tích của bên thứ ba và không thu thập dữ liệu cá nhân. Mọi phép tính đều chạy trên iPhone của bạn, và lời nhắc chỉ được lên lịch ngay trên thiết bị."
+      },
+      {
+        "id": "trial",
+        "title": "Dùng thử đầy đủ trong 24 giờ",
+        "body": "Tải ứng dụng và bắt đầu dùng thử 24 giờ với mọi tính năng được mở khóa. Sau đó, chỉ cần mua một lần là dùng được mọi thứ mãi mãi. Không có gói đăng ký và không có gì tự động gia hạn."
+      }
+    ],
+    "links_title": "Cần trợ giúp?",
+    "support_card": {
+      "title": "Hỗ trợ và câu hỏi thường gặp",
+      "body": "Cách dùng ba chế độ, cài đặt trang khi mở và ngôn ngữ, lời nhắc, khôi phục giao dịch mua, và nhiều nội dung khác."
+    },
+    "privacy_card": {
+      "title": "Chính sách quyền riêng tư",
+      "body": "Nói rõ ứng dụng làm gì và không làm gì với dữ liệu của bạn. Tóm lại: ứng dụng không thu thập gì cả."
+    }
+  },
+  "support": {
+    "title": "Hỗ trợ",
+    "summary": "Mọi điều bạn cần để đi lại ở Đài Bắc đúng giờ, cùng câu trả lời cho những câu hỏi chúng tôi thường nhận được nhất.",
+    "howto_title": "Cách sử dụng",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Ba chế độ",
+        "body": "“MRT thông thường” tính giờ cần xuất phát cho mọi hành trình trên toàn mạng lưới. “Xiaobitan” hiển thị lịch chạy và đồng hồ đếm ngược của tuyến nhánh giữa Qizhang và Xiaobitan. “Beitou · Xinbeitou” làm điều tương tự cho tuyến nhánh Xinbeitou. Ứng dụng sẽ mở ở “MRT thông thường” trừ khi bạn thay đổi."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Chuyển chế độ",
+        "body": "Chạm vào nút kính tròn ở góc trên màn hình, nút đang hiển thị chế độ hiện tại, rồi chọn chế độ bạn muốn."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Lập hành trình",
+        "body": "Chọn ga đi và ga đến từ danh sách hoặc bằng cách chạm vào ga trên bản đồ, sau đó chọn “Giờ cần đến” và đặt thời gian. Kết quả cho biết giờ cần vào ga và từng chặng của hành trình. Trong “Điều chỉnh ước tính”, bạn có thể chọn “Tiêu chuẩn”, tính thời gian chờ bằng nửa khoảng cách giữa hai chuyến, hoặc “Thận trọng”, tính trọn một khoảng cách giữa hai chuyến, và đặt “Thời gian vào ga” tối đa 15 phút cho quãng đi bộ vào ga và ra đến sân ga."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Nhắc trước giờ tàu chạy",
+        "body": "Trên lịch chạy của tuyến nhánh, đặt số phút bạn muốn được báo trước, trong khoảng từ 1 đến 30, rồi chạm vào chuyến tàu bạn muốn đi. Trong “MRT thông thường”, bạn có thể đặt lời nhắc khi đến giờ xuất phát. Chạm vào một lời nhắc đang bật để hủy."
+      },
+      {
+        "id": "default_page",
+        "title": "Chọn trang hiển thị khi mở",
+        "body": "Mở “Cài đặt” bằng nút bánh răng và vào “Trang khi mở ứng dụng”. Chọn “MRT thông thường”, “Xiaobitan” hoặc “Beitou · Xinbeitou”."
+      },
+      {
+        "id": "language",
+        "title": "Đổi ngôn ngữ",
+        "body": "Theo mặc định, ứng dụng dùng ngôn ngữ của iPhone và hỗ trợ 50 ngôn ngữ. Để dùng ngôn ngữ khác chỉ trong ứng dụng này, hãy mở “Cài đặt”, chạm vào “Ngôn ngữ” và chọn trong danh sách, hoặc chọn “Theo hệ thống” để quay lại."
+      }
+    ],
+    "faq_title": "Câu hỏi thường gặp",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Vì sao thời gian chỉ là ước tính?",
+        "body": "Với các hành trình trên toàn mạng lưới, ứng dụng tính dựa trên khoảng cách giữa các chuyến và thời gian chạy giữa các ga do MRT Đài Bắc công bố chính thức. Ứng dụng không nhận vị trí tàu theo thời gian thực, nên không thấy được tình trạng trễ chuyến, đông đúc hay thay đổi vận hành trong ngày. Với những chuyến đi quan trọng, hãy chừa thêm thời gian, dùng chế độ “Thận trọng” và luôn làm theo thông báo cũng như biển chỉ dẫn tại ga."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "Lịch chạy của các tuyến nhánh lấy từ đâu?",
+        "body": "Tuyến nhánh Xiaobitan và Xinbeitou chạy theo lịch cố định do MRT Đài Bắc công bố, và ứng dụng dùng đúng các giờ khởi hành đó, tách riêng ngày thường và cuối tuần. Ngày hiệu lực của từng lịch chạy được ghi trong mục “Giới thiệu” ở “Cài đặt”, và bạn có thể mở tệp PDF lịch chạy gốc từ màn hình tuyến nhánh. Nếu đơn vị vận hành công bố lịch mới, chúng tôi sẽ cập nhật trong một bản cập nhật ứng dụng."
+      },
+      {
+        "id": "notifications",
+        "title": "Tôi không nhận được lời nhắc",
+        "body": "Lần đầu bạn đặt lời nhắc, iOS sẽ hỏi quyền gửi thông báo. Nếu bạn đã từ chối, ứng dụng sẽ hiện một lời nhắc để bạn chạm vào, hoặc bạn có thể bật lại thông báo trong ứng dụng “Cài đặt” của iOS, mục Thông báo của ứng dụng này. Lời nhắc được lên lịch trên iPhone nên vẫn hoạt động khi không có mạng, nhưng chế độ Tập trung vẫn có thể làm chúng im lặng."
+      },
+      {
+        "id": "restore",
+        "title": "Làm sao để khôi phục giao dịch mua?",
+        "body": "Mở “Cài đặt” trong ứng dụng và chạm vào “Khôi phục mua hàng”. Hãy chắc chắn bạn đã đăng nhập App Store bằng chính Tài khoản Apple đã dùng để mua. Quyền mở khóa cũng tự động quay lại khi bạn cài lại ứng dụng hoặc thiết lập iPhone mới bằng tài khoản đó."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "Dùng thử 24 giờ và mở khóa hoạt động thế nào?",
+        "body": "Bắt đầu dùng thử ngay trong ứng dụng bất cứ khi nào bạn sẵn sàng, và mọi tính năng sẽ mở trong 24 giờ. Lượt dùng thử được App Store ghi nhận, nên cài lại ứng dụng không làm nó bắt đầu lại. Khi hết hạn, bạn vẫn xem được ứng dụng, và chỉ cần mua một lần là mở khóa mọi thứ mãi mãi. Đây không phải gói đăng ký và không bao giờ gia hạn. Giá được hiển thị trên App Store bằng đơn vị tiền tệ địa phương của bạn."
+      },
+      {
+        "id": "coverage",
+        "title": "Ứng dụng hỗ trợ những tuyến nào?",
+        "body": "Tuyến Wenhu, tuyến Tamsui-Xinyi kèm tuyến nhánh Xinbeitou, tuyến Songshan-Xindian kèm tuyến nhánh Xiaobitan, tuyến Zhonghe-Xinlu, tuyến Bannan và giai đoạn một của tuyến Circular. Không bao gồm MRT sân bay Đào Viên và các tuyến đường sắt nhẹ."
+      },
+      {
+        "id": "independence",
+        "title": "Đây có phải ứng dụng chính thức của MRT Đài Bắc không?",
+        "body": "Không. Trợ lý giờ MRT là ứng dụng độc lập, không liên kết và không được Taipei Rapid Transit Corporation bảo trợ. Ứng dụng sử dụng dữ liệu công khai chính thức của MRT Đài Bắc. Khi gặp sự cố vận hành hoặc thất lạc đồ, vui lòng liên hệ trực tiếp với đơn vị vận hành."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Chính sách quyền riêng tư",
+    "summary": "Trợ lý giờ MRT không thu thập dữ liệu cá nhân. Trang này giải thích ứng dụng làm gì trên iPhone của bạn và những gì nó không bao giờ làm.",
+    "updated_label": "Cập nhật lần cuối",
+    "section_title": "Cam kết của chúng tôi",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Không cần tài khoản",
+        "body": "Không cần tài khoản. Bạn không bao giờ phải đăng ký, đăng nhập hay cung cấp cho chúng tôi tên, địa chỉ email hoặc số điện thoại để dùng ứng dụng."
+      },
+      {
+        "id": "data_collection",
+        "title": "Dữ liệu chúng tôi thu thập",
+        "body": "Chúng tôi không thu thập dữ liệu cá nhân. Ứng dụng không truy cập vị trí, danh bạ, ảnh hay bất kỳ mã định danh nào dùng để theo dõi, và không gửi các ga hoặc thời gian bạn nhập cho chúng tôi hay bất kỳ ai khác."
+      },
+      {
+        "id": "on_device",
+        "title": "Mọi thứ ở lại trên iPhone của bạn",
+        "body": "Mọi phép tính hành trình đều chạy trên thiết bị của bạn, dùng dữ liệu lịch chạy có sẵn trong ứng dụng. Các cài đặt của bạn, như ga, ngôn ngữ, màu sắc, trang khi mở và lời nhắc, chỉ được lưu trên iPhone của bạn và chỉ được chia sẻ với tiện ích của chính ứng dụng trên cùng thiết bị. Xóa ứng dụng sẽ xóa luôn các dữ liệu này."
+      },
+      {
+        "id": "notifications",
+        "title": "Thông báo",
+        "body": "Nếu bạn cho phép thông báo, ứng dụng chỉ dùng chúng cho những lời nhắc do chính bạn đặt. Mọi lời nhắc đều được lên lịch ngay trên iPhone; không có máy chủ nào tham gia và không nội dung thông báo nào rời khỏi thiết bị của bạn. Bạn có thể tắt thông báo bất cứ lúc nào trong ứng dụng “Cài đặt” của iOS."
+      },
+      {
+        "id": "storekit",
+        "title": "Mua hàng qua Apple",
+        "body": "Bản dùng thử 24 giờ và gói mở khóa một lần do Apple xử lý qua App Store bằng StoreKit. Việc thanh toán hoàn toàn do Apple thực hiện, và ứng dụng không bao giờ thấy hay lưu thông tin thanh toán của bạn. Ứng dụng chỉ hỏi App Store xem bản dùng thử còn hiệu lực hay gói mở khóa đã được mua hay chưa."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Không quảng cáo, không phân tích, không theo dõi",
+        "body": "Chúng tôi không dùng quảng cáo của bên thứ ba. Chúng tôi không dùng công cụ phân tích của bên thứ ba. Ứng dụng không chứa mã theo dõi, không liên kết dữ liệu với bạn và không chia sẻ dữ liệu với các bên môi giới dữ liệu."
+      },
+      {
+        "id": "data_sources",
+        "title": "Dữ liệu lịch chạy",
+        "body": "Lịch chạy, khoảng cách giữa các chuyến và thời gian chạy được lấy từ dữ liệu công khai chính thức của MRT Đài Bắc và có sẵn ngay trong ứng dụng, nên tra cứu hành trình không cần kết nối internet. Trợ lý giờ MRT là ứng dụng độc lập và không liên kết với Taipei Rapid Transit Corporation."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Câu hỏi và quyền của bạn",
+        "body": "Vì chúng tôi không lưu giữ dữ liệu cá nhân nào về bạn, nên không có gì để chúng tôi truy cập, xuất hay xóa. Nếu bạn gửi email cho chúng tôi, chúng tôi chỉ dùng thư của bạn để trả lời và không thêm bạn vào bất kỳ danh sách gửi thư nào. Mọi câu hỏi về quyền riêng tư, hãy viết đến địa chỉ bên dưới."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Thay đổi chính sách này",
+        "body": "Nếu cách ứng dụng xử lý dữ liệu có thay đổi, chúng tôi sẽ cập nhật trang này và ngày “Cập nhật lần cuối” trước khi thay đổi có hiệu lực, đồng thời giải thích thay đổi trong ghi chú phát hành của ứng dụng."
+      }
+    ]
+  }
+}

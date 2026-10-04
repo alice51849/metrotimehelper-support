@@ -1,0 +1,191 @@
+{
+  "language_name": "Slovenščina",
+  "language_label": "Jezik",
+  "navigation_label": "Razdelki spletnega mesta",
+  "skip_link": "Preskoči na vsebino",
+  "nav": {
+    "index": "Domov",
+    "support": "Podpora",
+    "privacy": "Zasebnost"
+  },
+  "footer": "Metro pravočasno je neodvisna aplikacija. Ni povezana z družbo Taipei Rapid Transit Corporation, ta je ne podpira in je ne upravlja. Vozni redi in časi vožnje izhajajo iz uradnih javnih podatkov tajpejskega metroja.",
+  "contact": {
+    "title": "Kontakt",
+    "body": "Imate vprašanje, se vam zdi vozni red napačen ali imate zamisel za aplikacijo? Pišite nam. Če navedete model iPhona, različico sistema iOS, različico aplikacije (prikazana je v razdelku „Nastavitve“) in postaje, za katere gre, bomo zadevo lahko hitreje preverili.",
+    "button": "E-pošta"
+  },
+  "home": {
+    "title": "Povejte, kdaj morate priti. Povedala vam bo, kdaj oditi.",
+    "summary": "Časovni načrtovalec za tajpejski metro za iPhone. Izberite postaje in čas, ko morate biti na cilju, aplikacija pa vzvratno izračuna najpoznejši čas vstopa na postajo, vključno s prestopi.",
+    "section_title": "Kaj zna",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Načrtovanje nazaj od časa prihoda",
+        "body": "Izberite, kje ste, kam greste in kdaj morate priti. Dobite najpoznejši čas prehoda skozi vstopna vrata, časovnico po korakih z vsakim prestopom, opozorila o prvem in zadnjem vlaku ter izbirni opomnik, da je čas za odhod. Bi raje šli takoj? Preklopite na „Na pot zdaj“ in poglejte, kdaj boste prispeli."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "Odcep Xiaobitan, kot se spodobi",
+        "body": "Vlak med postajama Qizhang in Xiaobitan vozi le približno vsakih 12 do 16 minut, večina aplikacij za načrtovanje poti pa ga odpravi na hitro. Tukaj dobite uradni stalni vozni red, odštevanje do naslednjega vlaka, celotne vozne rede za danes, delavnike in vikende, izvirni vozni red v PDF ter opozorilo od 1 do 30 minut pred odhodom."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "Iz Beitouja v Xinbeitou, do termalnih vrelcev",
+        "body": "Kratki odcep do območja termalnih vrelcev Xinbeitou je deležen enake obravnave: uradni stalni vozni red v obe smeri, sprotno odštevanje in opozorilo pred odhodom. Ko načrtovana pot vodi po katerem od odcepov, tudi načrtovalec uporabi stalni vozni red."
+      },
+      {
+        "id": "map_widget",
+        "title": "Zemljevid, ki se ga lahko dotaknete, in pripomoček",
+        "body": "Vgrajeni zemljevid metroja lahko povečujete in pomanjšujete ter se dotaknete katere koli postaje, da jo nastavite kot začetek ali cilj; pot se izriše neposredno na zemljevidu. Pripomočki na začetnem in zaklenjenem zaslonu prikazujejo naslednji vlak v obe smeri na izbranem odcepu."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Zasebnost že v zasnovi",
+        "body": "Brez računa in brez registracije. Brez oglasov, brez analitike tretjih oseb in brez zbiranja osebnih podatkov. Vsi izračuni potekajo v vašem iPhonu, opomniki pa so načrtovani lokalno v napravi."
+      },
+      {
+        "id": "trial",
+        "title": "Preizkusite vse 24 ur",
+        "body": "Prenesite aplikacijo in začnite 24-urni preizkus z vsemi odklenjenimi funkcijami. Nato z enkratnim nakupom vse obdržite za vedno. Naročnine ni in nič se ne podaljšuje."
+      }
+    ],
+    "links_title": "Potrebujete pomoč?",
+    "support_card": {
+      "title": "Podpora in pogosta vprašanja",
+      "body": "Kako delujejo trije načini, nastavitev strani ob zagonu in jezika, opomniki, obnovitev nakupa in drugo."
+    },
+    "privacy_card": {
+      "title": "Pravilnik o zasebnosti",
+      "body": "Natančno, kaj aplikacija z vašimi podatki počne in česa ne. Na kratko: ne zbira ničesar."
+    }
+  },
+  "support": {
+    "title": "Podpora",
+    "summary": "Vse, kar potrebujete, da se po Tajpeju premikate pravočasno, in odgovori na vprašanja, ki jih slišimo najpogosteje.",
+    "howto_title": "Kako jo uporabljati",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Trije načini",
+        "body": "„Vožnja z metrojem“ izračuna, kdaj oditi, za katero koli pot po celotnem omrežju. „Xiaobitan“ prikazuje vozni red in odštevanje za odcep Qizhang–Xiaobitan. „Beitou · Xinbeitou“ naredi enako za odcep Xinbeitou. Aplikacija se odpre v načinu „Vožnja z metrojem“, razen če to spremenite."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Preklapljanje načinov",
+        "body": "Tapnite okrogel stekleni gumb v zgornjem kotu zaslona, ki prikazuje trenutni način, nato izberite želeni način."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Načrtovanje poti",
+        "body": "Izberite začetek in cilj s seznama ali s tapom postaj na zemljevidu, nato izberite „Prihod do“ in nastavite čas. Rezultat pokaže, kdaj vstopiti na postajo, in vsak del poti. Pod možnostjo „Prilagodi izračun“ lahko izberete „Običajno“, ki za čakanje računa pol intervala med vlaki, ali „Z rezervo“, ki računa cel interval, ter pri možnosti „Čas za vstop“ nastavite do 15 minut za prehod skozi postajo in pot do perona."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Opomniki za odhod",
+        "body": "V voznem redu odcepa nastavite, koliko minut prej želite opozorilo, od 1 do 30, nato tapnite želeni vlak. V načinu „Vožnja z metrojem“ lahko nastavite opomnik za trenutek, ko je čas za odhod. Aktivni opomnik prekličete tako, da ga tapnete."
+      },
+      {
+        "id": "default_page",
+        "title": "Izbira strani ob odprtju",
+        "body": "Z gumbom z zobnikom odprite „Nastavitve“ in pojdite na „Stran ob zagonu“. Izberite „Vožnja z metrojem“, „Xiaobitan“ ali „Beitou · Xinbeitou“."
+      },
+      {
+        "id": "language",
+        "title": "Spreminjanje jezika",
+        "body": "Aplikacija privzeto sledi jeziku vašega iPhona in ponuja 50 jezikov. Če želite drug jezik uporabljati samo v tej aplikaciji, odprite „Nastavitve“, tapnite „Jezik“ in ga izberite s seznama, za vrnitev pa izberite „Kot v sistemu“."
+      }
+    ],
+    "faq_title": "Pogosta vprašanja",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Zakaj so časi ocenjeni?",
+        "body": "Za poti po omrežju aplikacija računa na podlagi uradnih intervalov in časov vožnje med postajami, ki jih objavlja tajpejski metro. Položajev vlakov v realnem času ne prejema, zato ne vidi zamud, gneče ali sprememb v prometu na posamezni dan. Za pomembne poti si pustite nekaj rezerve, uporabite način „Z rezervo“ in vedno upoštevajte obvestila in oznake na postaji."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "Od kod so vozni redi odcepov?",
+        "body": "Odcepa Xiaobitan in Xinbeitou vozita po stalnih voznih redih, ki jih objavlja tajpejski metro, aplikacija pa uporablja natanko te čase odhodov, ločeno za delavnike in vikende. Datum veljavnosti vsakega voznega reda je prikazan v razdelku „Vizitka“ v meniju „Nastavitve“, izvirni vozni red v PDF pa lahko odprete z zaslona odcepa. Če upravljavec objavi nov vozni red, ga posodobimo s posodobitvijo aplikacije."
+      },
+      {
+        "id": "notifications",
+        "title": "Ne prejemam opomnikov",
+        "body": "Ko prvič nastavite opomnik, iOS zaprosi za dovoljenje za pošiljanje obvestil. Če ste ga zavrnili, aplikacija prikaže poziv, ki ga lahko tapnete, ali pa obvestila znova vklopite v aplikaciji Nastavitve v sistemu iOS pod Obvestila za to aplikacijo. Opomniki so načrtovani v vašem iPhonu, zato delujejo tudi brez povezave, lahko pa jih utiša način Fokus."
+      },
+      {
+        "id": "restore",
+        "title": "Kako obnovim nakup?",
+        "body": "V aplikaciji odprite „Nastavitve“ in tapnite „Obnovi“. Prepričajte se, da ste v App Store prijavljeni z istim Apple računom, s katerim ste opravili nakup. Odklepanje se samodejno vrne tudi, ko aplikacijo znova namestite ali s tem računom nastavite nov iPhone."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "Kako delujeta 24-urni preizkus in odklepanje?",
+        "body": "Preizkus začnete v aplikaciji, kadar ste pripravljeni, in vse funkcije so na voljo 24 ur. Preizkus beleži App Store, zato ga ponovna namestitev ne začne znova. Ko se izteče, aplikacijo še vedno vidite, z enkratnim nakupom pa vse odklenete za vedno. To ni naročnina in se nikoli ne podaljša. Cena je prikazana v App Store v vaši lokalni valuti."
+      },
+      {
+        "id": "coverage",
+        "title": "Katere proge so vključene?",
+        "body": "Wenhu, Tamsui-Xinyi z odcepom Xinbeitou, Songshan-Xindian z odcepom Xiaobitan, Zhonghe-Xinlu, Bannan in prva faza krožne proge Circular. Letališka proga Taoyuan Airport MRT in proge lahke železnice niso vključene."
+      },
+      {
+        "id": "independence",
+        "title": "Je to uradna aplikacija tajpejskega metroja?",
+        "body": "Ne. Metro pravočasno je neodvisna aplikacija in ni povezana z družbo Taipei Rapid Transit Corporation niti je ta ne podpira. Uporablja uradne javne podatke tajpejskega metroja. Glede motenj v prometu ali izgubljenih predmetov se obrnite neposredno na upravljavca."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Pravilnik o zasebnosti",
+    "summary": "Metro pravočasno ne zbira osebnih podatkov. Ta stran pojasnjuje, kaj aplikacija počne v vašem iPhonu in česa nikoli ne počne.",
+    "updated_label": "Zadnja posodobitev",
+    "section_title": "Naše zaveze",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Brez računa",
+        "body": "Račun ni potreben. Za uporabo aplikacije se nikoli ne registrirate, ne prijavite in nam ne posredujete imena, e-poštnega naslova ali telefonske številke."
+      },
+      {
+        "id": "data_collection",
+        "title": "Podatki, ki jih zbiramo",
+        "body": "Osebnih podatkov ne zbiramo. Aplikacija ne dostopa do vaše lokacije, stikov, fotografij ali kakršnega koli identifikatorja za sledenje in postaj ali časov, ki jih vnesete, ne pošilja nam ali komur koli drugemu."
+      },
+      {
+        "id": "on_device",
+        "title": "Vse ostane v vašem iPhonu",
+        "body": "Vsi izračuni poti potekajo v vaši napravi na podlagi podatkov o voznih redih, vgrajenih v aplikacijo. Vaše nastavitve, kot so postaje, jezik, barve, stran ob zagonu in opomniki, so shranjene samo v vašem iPhonu in v skupni rabi le s pripomočkom te aplikacije v isti napravi. Z odstranitvijo aplikacije se izbrišejo."
+      },
+      {
+        "id": "notifications",
+        "title": "Obvestila",
+        "body": "Če obvestila dovolite, jih aplikacija uporablja samo za opomnike, ki jih nastavite sami. Vsak opomnik je načrtovan lokalno v vašem iPhonu; noben strežnik ni vključen in vsebina obvestil ne zapusti vaše naprave. Obvestila lahko kadar koli izklopite v aplikaciji Nastavitve v sistemu iOS."
+      },
+      {
+        "id": "storekit",
+        "title": "Nakupi prek družbe Apple",
+        "body": "24-urni preizkus in enkratno odklepanje ureja Apple prek trgovine App Store z ogrodjem StoreKit. Plačilo v celoti obdela Apple, aplikacija pa vaših plačilnih podatkov nikoli ne vidi in ne shranjuje. Aplikacija pri trgovini App Store le preveri, ali je preizkus aktiven oziroma ali je bilo odklepanje kupljeno."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Brez oglasov, analitike in sledenja",
+        "body": "Ne uporabljamo oglaševanja tretjih oseb. Ne uporabljamo analitike tretjih oseb. Aplikacija ne vsebuje kode za sledenje, podatkov ne povezuje z vami in jih ne deli s posredniki podatkov."
+      },
+      {
+        "id": "data_sources",
+        "title": "Podatki o voznih redih",
+        "body": "Vozni redi, intervali in časi vožnje izhajajo iz uradnih javnih podatkov tajpejskega metroja in so vključeni v samo aplikacijo, zato iskanje poti ne zahteva internetne povezave. Metro pravočasno je neodvisna aplikacija in ni povezana z družbo Taipei Rapid Transit Corporation."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Vprašanja in vaše pravice",
+        "body": "Ker o vas ne hranimo nobenih osebnih podatkov, nimamo ničesar, do česar bi vam omogočili dostop, kar bi izvozili ali izbrisali. Če nam pišete, vaše sporočilo uporabimo samo za odgovor in vas ne dodamo na noben poštni seznam. Za vsa vprašanja o zasebnosti pišite na spodnji naslov."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Spremembe tega pravilnika",
+        "body": "Če se način, kako aplikacija ravna s podatki, kdaj spremeni, bomo to stran in datum zadnje posodobitve posodobili, preden začne sprememba veljati, ter spremembo pojasnili v opombah k izdaji aplikacije."
+      }
+    ]
+  }
+}

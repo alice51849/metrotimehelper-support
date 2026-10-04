@@ -1,0 +1,191 @@
+{
+  "language_name": "Polski",
+  "language_label": "Język",
+  "navigation_label": "Sekcje witryny",
+  "skip_link": "Przejdź do treści",
+  "nav": {
+    "index": "Strona główna",
+    "support": "Pomoc",
+    "privacy": "Prywatność"
+  },
+  "footer": "Metro na czas to niezależna aplikacja. Nie jest powiązana z Taipei Rapid Transit Corporation, nie ma jej poparcia ani nie jest przez nią prowadzona. Rozkłady jazdy i czasy przejazdu pochodzą z oficjalnych danych publicznych metra w Tajpej.",
+  "contact": {
+    "title": "Kontakt",
+    "body": "Masz pytanie, rozkład wygląda na błędny albo masz pomysł na aplikację? Napisz do nas. Podaj model iPhone’a, wersję iOS, wersję aplikacji (widoczną w menu „Ustawienia”) oraz stacje, których dotyczy sprawa, a szybciej się temu przyjrzymy.",
+    "button": "E-mail"
+  },
+  "home": {
+    "title": "Powiedz, na którą masz być. Podpowie, kiedy wyjść.",
+    "summary": "Planer czasu podróży metrem w Tajpej na iPhone’a. Wybierz stacje i godzinę, o której musisz być na miejscu, a aplikacja policzy wstecz najpóźniejszą porę wejścia na stację, z przesiadkami włącznie.",
+    "section_title": "Co potrafi",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Planowanie wstecz od godziny przybycia",
+        "body": "Wybierz, skąd i dokąd jedziesz oraz na którą musisz dotrzeć. Dostajesz najpóźniejszą godzinę przejścia przez bramki, oś czasu krok po kroku z każdą przesiadką, ostrzeżenia o pierwszym i ostatnim pociągu oraz opcjonalne przypomnienie, że czas wychodzić. Chcesz ruszać od razu? Przełącz na „Wyjdź teraz” i zobacz, o której dotrzesz."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "Odgałęzienie Xiaobitan potraktowane porządnie",
+        "body": "Wahadło z Qizhang do Xiaobitan kursuje mniej więcej co 12 do 16 minut, a większość aplikacji do planowania tras je pomija. Tutaj masz oficjalny stały rozkład jazdy, odliczanie do następnego pociągu, pełne rozkłady na dziś, dni robocze i weekendy, oryginalny rozkład w PDF oraz alert od 1 do 30 minut przed odjazdem."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "Z Beitou do Xinbeitou, czyli do gorących źródeł",
+        "body": "Krótkie odgałęzienie do rejonu gorących źródeł Xinbeitou dostało to samo: oficjalny stały rozkład w obu kierunkach, odliczanie na żywo i alert przed odjazdem. Gdy zaplanowana podróż prowadzi przez któreś z odgałęzień, planer również korzysta ze stałego rozkładu."
+      },
+      {
+        "id": "map_widget",
+        "title": "Mapa do stukania i widżet",
+        "body": "Przybliżaj i oddalaj wbudowaną mapę metra, a stuknięciem w dowolną stację ustawisz ją jako start lub cel; trasa pojawi się bezpośrednio na mapie. Widżety na ekranie początkowym i ekranie blokady pokazują następny pociąg w obu kierunkach na wybranym odgałęzieniu."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Prywatność od podstaw",
+        "body": "Bez konta i bez rejestracji. Bez reklam, bez zewnętrznej analityki i bez zbierania danych osobowych. Wszystkie obliczenia odbywają się na Twoim iPhonie, a przypomnienia są planowane lokalnie na urządzeniu."
+      },
+      {
+        "id": "trial",
+        "title": "Wypróbuj wszystko przez 24 godziny",
+        "body": "Pobierz aplikację i rozpocznij 24-godzinny okres próbny ze wszystkimi funkcjami odblokowanymi. Potem jeden jednorazowy zakup zachowuje wszystko na stałe. Nie ma subskrypcji i nic się nie odnawia."
+      }
+    ],
+    "links_title": "Potrzebujesz pomocy?",
+    "support_card": {
+      "title": "Pomoc i FAQ",
+      "body": "Jak działają trzy tryby, jak ustawić ekran startowy i język, przypomnienia, przywracanie zakupu i nie tylko."
+    },
+    "privacy_card": {
+      "title": "Polityka prywatności",
+      "body": "Dokładnie to, co aplikacja robi, a czego nie robi z Twoimi danymi. W skrócie: niczego nie zbiera."
+    }
+  },
+  "support": {
+    "title": "Pomoc",
+    "summary": "Wszystko, czego potrzebujesz, by poruszać się po Tajpej na czas, oraz odpowiedzi na najczęstsze pytania.",
+    "howto_title": "Jak korzystać",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Trzy tryby",
+        "body": "„Planer podróży metrem” wylicza, kiedy wyjść na dowolną podróż w całej sieci. „Xiaobitan” pokazuje rozkład i odliczanie dla odgałęzienia Qizhang–Xiaobitan. „Beitou · Xinbeitou” robi to samo dla odgałęzienia Xinbeitou. Aplikacja otwiera się w trybie „Planer podróży metrem”, chyba że to zmienisz."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Przełączanie trybów",
+        "body": "Stuknij okrągły szklany przycisk w górnym rogu ekranu, ten z nazwą bieżącego trybu, a następnie wybierz żądany tryb."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Planowanie podróży",
+        "body": "Wybierz stację startową i cel z listy albo stukając stacje na mapie, następnie wybierz „Na miejscu o” i ustaw godzinę. Wynik pokazuje, kiedy wejść na stację, oraz każdy odcinek podróży. W sekcji „Dostosuj szacowanie” możesz wybrać „Standardowo”, co uwzględnia na czekanie połowę odstępu między pociągami, albo „Ostrożnie”, co uwzględnia pełny odstęp, a także ustawić „Zapas na wejście” do 15 minut na dojście przez bramki na peron."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Przypomnienia o odjeździe",
+        "body": "W rozkładzie odgałęzienia ustaw, ile minut wcześniej chcesz dostać alert, od 1 do 30, a potem stuknij wybrany pociąg. W trybie „Planer podróży metrem” możesz ustawić przypomnienie o tym, że czas wychodzić. Stuknij aktywne przypomnienie, aby je anulować."
+      },
+      {
+        "id": "default_page",
+        "title": "Wybór ekranu startowego",
+        "body": "Otwórz „Ustawienia” przyciskiem z kołem zębatym i przejdź do pozycji „Ekran startowy”. Wybierz „Planer podróży metrem”, „Xiaobitan” lub „Beitou · Xinbeitou”."
+      },
+      {
+        "id": "language",
+        "title": "Zmiana języka",
+        "body": "Domyślnie aplikacja używa języka Twojego iPhone’a i oferuje 50 języków. Aby używać innego języka tylko w tej aplikacji, otwórz „Ustawienia”, stuknij „Język” i wybierz go z listy albo wybierz „Jak w systemie”, aby wrócić do ustawienia systemowego."
+      }
+    ],
+    "faq_title": "Najczęściej zadawane pytania",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Dlaczego czasy są szacunkowe?",
+        "body": "Przy podróżach przez całą sieć aplikacja liczy na podstawie oficjalnych odstępów między pociągami i czasów przejazdu między stacjami podanych przez metro w Tajpej. Nie otrzymuje pozycji pociągów na żywo, więc nie widzi opóźnień, tłoku ani zmian w kursowaniu danego dnia. Przy ważnych podróżach zostaw sobie zapas, korzystaj z trybu „Ostrożnie” i zawsze stosuj się do komunikatów i oznaczeń na stacji."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "Skąd pochodzą rozkłady odgałęzień?",
+        "body": "Odgałęzienia Xiaobitan i Xinbeitou kursują według stałych rozkładów publikowanych przez metro w Tajpej, a aplikacja korzysta z dokładnie tych godzin odjazdów, osobno dla dni roboczych i weekendów. Data obowiązywania każdego rozkładu jest podana w menu „Ustawienia” w sekcji „Informacje”, a oryginalny rozkład w PDF otworzysz z ekranu odgałęzienia. Gdy przewoźnik opublikuje nowy rozkład, wprowadzimy go w aktualizacji aplikacji."
+      },
+      {
+        "id": "notifications",
+        "title": "Nie dostaję przypomnień",
+        "body": "Gdy ustawiasz przypomnienie po raz pierwszy, iOS pyta o zgodę na wysyłanie powiadomień. Jeśli odmówiłeś, aplikacja pokaże komunikat, który można stuknąć, albo możesz ponownie włączyć powiadomienia dla tej aplikacji w aplikacji Ustawienia systemu iOS, w sekcji Powiadomienia. Przypomnienia są planowane na Twoim iPhonie, więc działają offline, ale tryb skupienia nadal może je wyciszyć."
+      },
+      {
+        "id": "restore",
+        "title": "Jak przywrócić zakup?",
+        "body": "Otwórz „Ustawienia” w aplikacji i stuknij „Przywróć”. Upewnij się, że jesteś zalogowany w App Store na to samo konto Apple, którego użyto do zakupu. Odblokowanie wraca też automatycznie po ponownej instalacji aplikacji lub skonfigurowaniu nowego iPhone’a z tym kontem."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "Jak działa 24-godzinny okres próbny i odblokowanie?",
+        "body": "Okres próbny uruchomisz w aplikacji, kiedy tylko zechcesz, a wszystkie funkcje będą dostępne przez 24 godziny. Okres próbny jest rejestrowany przez App Store, więc ponowna instalacja go nie odnawia. Po jego zakończeniu nadal widzisz aplikację, a jednorazowy zakup odblokowuje wszystko na stałe. To nie jest subskrypcja i nigdy się nie odnawia. Cena jest podana w App Store w Twojej lokalnej walucie."
+      },
+      {
+        "id": "coverage",
+        "title": "Które linie są uwzględnione?",
+        "body": "Wenhu, Tamsui-Xinyi z odgałęzieniem Xinbeitou, Songshan-Xindian z odgałęzieniem Xiaobitan, Zhonghe-Xinlu, Bannan oraz pierwszy etap linii Circular. Linia lotniskowa Taoyuan Airport MRT i linie tramwajowe nie są uwzględnione."
+      },
+      {
+        "id": "independence",
+        "title": "Czy to oficjalna aplikacja metra w Tajpej?",
+        "body": "Nie. Metro na czas to niezależna aplikacja, niepowiązana z Taipei Rapid Transit Corporation ani przez nią niepopierana. Korzysta z oficjalnych danych publicznych metra w Tajpej. W sprawie zakłóceń w kursowaniu lub rzeczy znalezionych skontaktuj się bezpośrednio z przewoźnikiem."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Polityka prywatności",
+    "summary": "Metro na czas nie zbiera danych osobowych. Na tej stronie wyjaśniamy, co aplikacja robi na Twoim iPhonie i czego nie robi nigdy.",
+    "updated_label": "Ostatnia aktualizacja",
+    "section_title": "Nasze zobowiązania",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Bez konta",
+        "body": "Konto nie jest potrzebne. Aby korzystać z aplikacji, nigdy się nie rejestrujesz, nie logujesz ani nie podajesz nam imienia i nazwiska, adresu e-mail czy numeru telefonu."
+      },
+      {
+        "id": "data_collection",
+        "title": "Jakie dane zbieramy",
+        "body": "Nie zbieramy danych osobowych. Aplikacja nie ma dostępu do Twojej lokalizacji, kontaktów, zdjęć ani żadnego identyfikatora służącego do śledzenia i nie wysyła wprowadzanych stacji ani godzin ani nam, ani nikomu innemu."
+      },
+      {
+        "id": "on_device",
+        "title": "Wszystko zostaje na Twoim iPhonie",
+        "body": "Wszystkie obliczenia podróży odbywają się na Twoim urządzeniu na podstawie danych rozkładowych wbudowanych w aplikację. Twoje ustawienia, takie jak stacje, język, kolory, ekran startowy i przypomnienia, są przechowywane wyłącznie na Twoim iPhonie i udostępniane tylko widżetowi tej aplikacji na tym samym urządzeniu. Usunięcie aplikacji usuwa je."
+      },
+      {
+        "id": "notifications",
+        "title": "Powiadomienia",
+        "body": "Jeśli zezwolisz na powiadomienia, aplikacja używa ich wyłącznie do przypomnień ustawionych przez Ciebie. Każde przypomnienie jest planowane lokalnie na Twoim iPhonie; nie uczestniczy w tym żaden serwer, a treść powiadomień nie opuszcza urządzenia. Powiadomienia możesz w każdej chwili wyłączyć w aplikacji Ustawienia systemu iOS."
+      },
+      {
+        "id": "storekit",
+        "title": "Zakupy przez Apple",
+        "body": "24-godzinnym okresem próbnym i jednorazowym odblokowaniem zajmuje się Apple za pośrednictwem App Store przy użyciu StoreKit. Płatność jest w całości obsługiwana przez Apple, a aplikacja nigdy nie widzi ani nie przechowuje Twoich danych płatniczych. Aplikacja jedynie sprawdza w App Store, czy okres próbny jest aktywny lub czy odblokowanie zostało kupione."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Bez reklam, analityki i śledzenia",
+        "body": "Nie korzystamy z reklam podmiotów zewnętrznych. Nie korzystamy z zewnętrznej analityki. Aplikacja nie zawiera kodu śledzącego, nie łączy danych z Twoją osobą ani nie udostępnia ich brokerom danych."
+      },
+      {
+        "id": "data_sources",
+        "title": "Dane rozkładowe",
+        "body": "Rozkłady jazdy, odstępy między pociągami i czasy przejazdu pochodzą z oficjalnych danych publicznych metra w Tajpej i są zawarte w samej aplikacji, więc sprawdzenie podróży nie wymaga połączenia z internetem. Metro na czas jest aplikacją niezależną i niepowiązaną z Taipei Rapid Transit Corporation."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Pytania i Twoje prawa",
+        "body": "Ponieważ nie przechowujemy o Tobie żadnych danych osobowych, nie mamy czego udostępniać, eksportować ani usuwać. Jeśli do nas napiszesz, użyjemy Twojej wiadomości wyłącznie po to, by odpowiedzieć, i nie dodamy Cię do żadnej listy mailingowej. W sprawie prywatności napisz na poniższy adres."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Zmiany tej polityki",
+        "body": "Jeśli sposób, w jaki aplikacja obchodzi się z danymi, kiedykolwiek się zmieni, zaktualizujemy tę stronę i datę ostatniej aktualizacji, zanim zmiana wejdzie w życie, i wyjaśnimy ją w informacjach o wydaniu aplikacji."
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "language_name": "Català",
+  "language_label": "Idioma",
+  "navigation_label": "Seccions del lloc",
+  "skip_link": "Ves al contingut",
+  "nav": {
+    "index": "Inici",
+    "support": "Assistència",
+    "privacy": "Privadesa"
+  },
+  "footer": "Assistent del Metro és una app independent. No està vinculada a Taipei Rapid Transit Corporation, ni té el seu aval, ni la gestiona aquesta empresa. Els horaris i els temps de trajecte provenen de les dades públiques oficials del metro de Taipei.",
+  "contact": {
+    "title": "Contacta amb nosaltres",
+    "body": "Tens algun dubte, has vist un horari que sembla incorrecte o tens una idea per a l'app? Escriu-nos. Si ens indiques el model del teu iPhone, la versió d'iOS, la versió de l'app (la trobaràs a «Configuració») i les estacions afectades, ho podrem revisar més de pressa.",
+    "button": "Envia un correu"
+  },
+  "home": {
+    "title": "Digues-li quan vols arribar. Et diu quan has de sortir.",
+    "summary": "Un planificador d'horaris del metro de Taipei per a iPhone. Tria les estacions i l'hora a què hi has de ser, i l'app calcula enrere l'hora límit per entrar a l'estació, transbordaments inclosos.",
+    "section_title": "Què fa",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Planifica a partir de l'hora d'arribada",
+        "body": "Indica on ets, on vas i a quina hora hi has d'arribar. Obtens l'hora límit per passar les portelles, una cronologia pas a pas amb cada transbordament, avisos del primer i l'últim tren i, si vols, un recordatori per sortir a temps. Prefereixes marxar ara mateix? Canvia a «Surt ara» i veuràs a quina hora arribaràs."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "El ramal de Xiaobitan, com cal",
+        "body": "La llançadora entre Qizhang i Xiaobitan només passa cada 12 o 16 minuts aproximadament, i la majoria d'apps de rutes gairebé no en fan cas. Aquí tens l'horari fix oficial, un compte enrere fins al proper tren, els horaris complets d'avui, de feiners i de cap de setmana, el PDF original de l'horari i un avís d'1 a 30 minuts abans de la sortida."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "De Beitou a Xinbeitou, cap a les aigües termals",
+        "body": "El ramal curt cap a la zona termal de Xinbeitou rep el mateix tracte: l'horari fix oficial en tots dos sentits, un compte enrere en directe i un avís de sortida. Quan un trajecte planificat passa per qualsevol dels dos ramals, el planificador també fa servir l'horari fix."
+      },
+      {
+        "id": "map_widget",
+        "title": "Un mapa interactiu i un giny",
+        "body": "Amplia amb els dits el mapa del metro integrat i toca qualsevol estació per definir-la com a origen o destinació; la ruta es dibuixa directament sobre el mapa. Els ginys de la pantalla d'inici i de la pantalla bloquejada mostren el proper tren en tots dos sentits del ramal que triïs."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Privadesa des del disseny",
+        "body": "Sense compte i sense registre. Sense anuncis, sense eines d'anàlisi de tercers i sense recollir dades personals. Tots els càlculs es fan al teu iPhone i els recordatoris es programen localment al dispositiu."
+      },
+      {
+        "id": "trial",
+        "title": "Prova-ho tot durant 24 hores",
+        "body": "Baixa l'app i comença una prova de 24 hores amb totes les funcions desbloquejades. Després, una única compra et permet quedar-t'ho tot per sempre. No hi ha subscripció i no es renova res."
+      }
+    ],
+    "links_title": "Necessites ajuda?",
+    "support_card": {
+      "title": "Assistència i preguntes freqüents",
+      "body": "Com funcionen els tres modes, com triar la pàgina d'inici i l'idioma, els recordatoris, com restaurar una compra i molt més."
+    },
+    "privacy_card": {
+      "title": "Política de privadesa",
+      "body": "Exactament què fa i què no fa l'app amb les teves dades. En resum: no en recull cap."
+    }
+  },
+  "support": {
+    "title": "Assistència",
+    "summary": "Tot el que necessites per moure't per Taipei a l'hora, a més de les respostes a les preguntes que ens fan més sovint.",
+    "howto_title": "Com es fa servir",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Tres modes",
+        "body": "«Planificador del metro» calcula quan has de sortir per a qualsevol trajecte de la xarxa. «Xiaobitan» mostra l'horari i el compte enrere del ramal de Qizhang i Xiaobitan. «Beitou · Xinbeitou» fa el mateix per al ramal de Xinbeitou. L'app s'obre a «Planificador del metro» tret que ho canviïs."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Canviar de mode",
+        "body": "Toca el botó rodó de vidre de la cantonada superior de la pantalla, el que mostra el mode actual, i tria el mode que vulguis."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Planificar un trajecte",
+        "body": "Tria un origen i una destinació a la llista o tocant les estacions al mapa, selecciona «Arribar abans de» i ajusta l'hora. El resultat indica quan has d'entrar a l'estació i cada tram del trajecte. A «Ajusta l'estimació» pots triar «Estàndard», que compta mig interval d'espera, o «Prudent», que compta un interval sencer, i definir un «Marge d'entrada» de fins a 15 minuts per entrar a l'estació i arribar a l'andana."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Recordatoris de sortida",
+        "body": "A l'horari d'un ramal, indica amb quants minuts d'antelació vols l'avís, entre 1 i 30, i toca el tren que t'interessi. A «Planificador del metro» pots posar un recordatori per a quan sigui l'hora de sortir. Toca un recordatori actiu per cancel·lar-lo."
+      },
+      {
+        "id": "default_page",
+        "title": "Triar la pàgina d'obertura",
+        "body": "Obre «Configuració» amb el botó de l'engranatge i ves a «Pàgina en obrir». Tria «Planificador del metro», «Xiaobitan» o «Beitou · Xinbeitou»."
+      },
+      {
+        "id": "language",
+        "title": "Canviar l'idioma",
+        "body": "Per defecte, l'app fa servir l'idioma del teu iPhone i n'ofereix 50. Per fer-ne servir un altre només en aquesta app, obre «Configuració», toca «Idioma» i tria'n un de la llista, o tria «Com el sistema» per tornar enrere."
+      }
+    ],
+    "faq_title": "Preguntes freqüents",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Per què els horaris són estimacions?",
+        "body": "Per als trajectes per la xarxa, l'app calcula a partir de les freqüències oficials del metro de Taipei i dels temps de recorregut entre estacions. No rep la posició dels trens en temps real, així que no pot veure retards, aglomeracions ni canvis en el servei del dia. Deixa't marge en els trajectes importants, fes servir el mode «Prudent» i segueix sempre els avisos i la senyalització de l'estació."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "D'on surten els horaris dels ramals?",
+        "body": "Els ramals de Xiaobitan i Xinbeitou funcionen amb horaris fixos publicats pel metro de Taipei, i l'app fa servir exactament aquestes hores de sortida, per separat per a feiners i caps de setmana. La data d'entrada en vigor de cada horari apareix a «Quant a», dins de «Configuració», i pots obrir el PDF original de l'horari des de la pantalla del ramal. Si l'operador publica un horari nou, l'actualitzem en una actualització de l'app."
+      },
+      {
+        "id": "notifications",
+        "title": "No m'arriben els recordatoris",
+        "body": "La primera vegada que poses un recordatori, l'iOS et demana permís per enviar notificacions. Si el vas denegar, l'app mostra un avís que pots tocar, o pots tornar a activar les notificacions a l'app Configuració de l'iOS, a l'apartat Notificacions d'aquesta app. Els recordatoris es programen al teu iPhone, així que funcionen sense connexió, però un mode de concentració els pot silenciar igualment."
+      },
+      {
+        "id": "restore",
+        "title": "Com restauro la compra?",
+        "body": "Obre «Configuració» a l'app i toca «Restaura les compres». Assegura't que has iniciat la sessió a l'App Store amb el mateix compte d'Apple que vas fer servir per comprar-la. El desbloqueig també es recupera automàticament quan reinstal·les l'app o configures un iPhone nou amb aquest compte."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "Com funcionen la prova de 24 hores i el desbloqueig?",
+        "body": "Comença la prova des de l'app quan vulguis i tindràs totes les funcions disponibles durant 24 hores. L'App Store registra la prova, així que reinstal·lar l'app no la reinicia. Quan s'acaba, pots continuar veient l'app, i una compra única ho desbloqueja tot per sempre. No és una subscripció i no es renova mai. El preu apareix a l'App Store en la teva moneda local."
+      },
+      {
+        "id": "coverage",
+        "title": "Quines línies inclou?",
+        "body": "Wenhu, Tamsui-Xinyi amb el ramal de Xinbeitou, Songshan-Xindian amb el ramal de Xiaobitan, Zhonghe-Xinlu, Bannan i la primera fase de la línia Circular. No s'hi inclouen el metro de l'aeroport de Taoyuan ni les línies de tramvia."
+      },
+      {
+        "id": "independence",
+        "title": "És una app oficial del metro de Taipei?",
+        "body": "No. Assistent del Metro és una app independent i no està vinculada a Taipei Rapid Transit Corporation ni té el seu aval. Fa servir les dades públiques oficials del metro de Taipei. Per a incidències del servei o objectes perduts, posa't en contacte directament amb l'operador."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Política de privadesa",
+    "summary": "Assistent del Metro no recull dades personals. Aquesta pàgina explica què fa l'app al teu iPhone i què no fa mai.",
+    "updated_label": "Darrera actualització",
+    "section_title": "Els nostres compromisos",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Sense compte",
+        "body": "No cal cap compte. Per fer servir l'app no t'has de registrar mai, ni iniciar sessió, ni donar-nos el teu nom, adreça electrònica o número de telèfon."
+      },
+      {
+        "id": "data_collection",
+        "title": "Dades que recollim",
+        "body": "No recollim dades personals. L'app no accedeix a la teva ubicació, contactes, fotos ni cap identificador de seguiment, i no ens envia ni a nosaltres ni a ningú les estacions o les hores que hi introdueixes."
+      },
+      {
+        "id": "on_device",
+        "title": "Tot es queda al teu iPhone",
+        "body": "Tots els càlculs de trajectes es fan al teu dispositiu amb els horaris integrats a l'app. La teva configuració, com ara estacions, idioma, colors, pàgina d'inici i recordatoris, es desa només al teu iPhone i es comparteix amb el giny de la mateixa app al mateix dispositiu. Si elimines l'app, s'esborra."
+      },
+      {
+        "id": "notifications",
+        "title": "Notificacions",
+        "body": "Si permets les notificacions, l'app només les fa servir per als recordatoris que configures tu. Cada recordatori es programa localment al teu iPhone; no hi intervé cap servidor i cap contingut de les notificacions surt del teu dispositiu. Pots desactivar les notificacions en qualsevol moment a l'app Configuració de l'iOS."
+      },
+      {
+        "id": "storekit",
+        "title": "Compres a través d'Apple",
+        "body": "Apple gestiona la prova de 24 hores i el desbloqueig únic a través de l'App Store amb StoreKit. El pagament el processa íntegrament Apple, i l'app no veu ni desa mai les teves dades de pagament. L'app només consulta a l'App Store si la prova està activa o si s'ha comprat el desbloqueig."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Sense anuncis, sense anàlisi, sense seguiment",
+        "body": "No fem servir publicitat de tercers. No fem servir eines d'anàlisi de tercers. L'app no conté codi de seguiment, no vincula dades amb tu ni les comparteix amb intermediaris de dades."
+      },
+      {
+        "id": "data_sources",
+        "title": "Dades dels horaris",
+        "body": "Els horaris, les freqüències i els temps de recorregut provenen de les dades públiques oficials del metro de Taipei i estan inclosos a la mateixa app, així que consultar un trajecte no requereix connexió a internet. Assistent del Metro és independent i no està vinculada a Taipei Rapid Transit Corporation."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Preguntes i drets",
+        "body": "Com que no tenim cap dada personal teva, no hi ha res a consultar, exportar ni eliminar. Si ens escrius un correu, fem servir el missatge només per respondre't i no t'afegim a cap llista de correu. Per a qualsevol pregunta sobre privadesa, escriu a l'adreça que trobaràs a continuació."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Canvis en aquesta política",
+        "body": "Si mai canvia la manera com l'app tracta les dades, actualitzarem aquesta pàgina i la data de la darrera actualització abans que el canvi entri en vigor, i l'explicarem a les notes de la versió de l'app."
+      }
+    ]
+  }
+}

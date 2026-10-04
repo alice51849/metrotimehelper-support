@@ -1,0 +1,191 @@
+{
+  "language_name": "Norsk bokmål",
+  "language_label": "Språk",
+  "navigation_label": "Deler av nettstedet",
+  "skip_link": "Hopp til innholdet",
+  "nav": {
+    "index": "Forside",
+    "support": "Hjelp",
+    "privacy": "Personvern"
+  },
+  "footer": "Tidshjelp for metroen er en uavhengig app. Den er ikke tilknyttet, godkjent eller drevet av Taipei Rapid Transit Corporation. Rutetabeller og reisetider kommer fra Taipei Metros offisielle offentlige data.",
+  "contact": {
+    "title": "Kontakt oss",
+    "body": "Har du spørsmål, en rutetabell som ser feil ut, eller en idé til appen? Skriv til oss. Hvis du oppgir iPhone-modell, iOS-versjon, appversjon (vises i «Innstillinger») og hvilke stasjoner det gjelder, kan vi finne ut av det raskere.",
+    "button": "E-post"
+  },
+  "home": {
+    "title": "Si når du må være fremme. Appen sier når du må gå.",
+    "summary": "En tidsplanlegger for T-banen i Taipei på iPhone. Velg stasjonene og når du må være der, så regner den baklengs ut det seneste tidspunktet du bør gå inn på stasjonen, bytter medregnet.",
+    "section_title": "Dette gjør appen",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Planlegg baklengs fra ankomsttiden",
+        "body": "Velg hvor du er, hvor du skal og når du må være fremme. Du får det seneste tidspunktet for å gå gjennom billettsperrene, en tidslinje trinn for trinn med hvert bytte, varsler om første og siste tog og en valgfri påminnelse om å dra. Vil du heller dra med en gang? Bytt til «Dra nå» og se når du er fremme."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "Sidelinjen til Xiaobitan, gjort skikkelig",
+        "body": "Pendeltoget mellom Qizhang og Xiaobitan går bare omtrent hvert 12. til 16. minutt, og de fleste reiseapper overser det. Her får du den offisielle faste rutetabellen, nedtelling til neste tog, fullstendige rutetabeller for i dag, hverdager og helger, den originale rutetabellen som PDF og en påminnelse 1 til 30 minutter før avgang."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "Fra Beitou til Xinbeitou, til de varme kildene",
+        "body": "Den korte sidelinjen til området med varme kilder i Xinbeitou får samme behandling: den offisielle faste rutetabellen i begge retninger, nedtelling i sanntid og en avgangspåminnelse. Når en planlagt reise går via en av sidelinjene, bruker reiseplanleggeren også den faste rutetabellen."
+      },
+      {
+        "id": "map_widget",
+        "title": "Et kart du kan trykke på, og en widget",
+        "body": "Knip og zoom i det innebygde metrokartet, og trykk på en hvilken som helst stasjon for å velge den som start eller reisemål; ruten din tegnes rett på kartet. Widgeter for Hjem-skjermen og låst skjerm viser neste tog i begge retninger på sidelinjen du velger."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Personvern fra grunnen av",
+        "body": "Ingen konto og ingen registrering. Ingen reklame, ingen analyse fra tredjeparter og ingen innsamling av personopplysninger. Alle beregninger skjer på iPhonen din, og påminnelser planlegges lokalt på enheten."
+      },
+      {
+        "id": "trial",
+        "title": "Prøv alt i 24 timer",
+        "body": "Last ned appen og start en prøveperiode på 24 timer med alle funksjoner låst opp. Etter det beholder du alt for godt med ett enkelt engangskjøp. Det finnes ikke noe abonnement, og ingenting fornyes."
+      }
+    ],
+    "links_title": "Trenger du hjelp?",
+    "support_card": {
+      "title": "Hjelp og vanlige spørsmål",
+      "body": "Hvordan de tre modusene fungerer, valg av startside og språk, påminnelser, gjenoppretting av kjøp og mer."
+    },
+    "privacy_card": {
+      "title": "Personvernerklæring",
+      "body": "Nøyaktig hva appen gjør og ikke gjør med dataene dine. Kort sagt: Den samler ikke inn noe."
+    }
+  },
+  "support": {
+    "title": "Hjelp",
+    "summary": "Alt du trenger for å komme deg rundt i Taipei i tide, pluss svar på spørsmålene vi oftest får.",
+    "howto_title": "Slik bruker du appen",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Tre moduser",
+        "body": "«Reiseplanlegger» regner ut når du må dra, for enhver reise i hele nettet. «Xiaobitan» viser rutetabell og nedtelling for sidelinjen mellom Qizhang og Xiaobitan. «Beitou · Xinbeitou» gjør det samme for sidelinjen til Xinbeitou. Appen åpnes i «Reiseplanlegger» med mindre du endrer det."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Bytte modus",
+        "body": "Trykk på den runde glassknappen øverst i hjørnet av skjermen, den som viser gjeldende modus, og velg deretter modusen du vil bruke."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Planlegge en reise",
+        "body": "Velg start og reisemål fra listen eller ved å trykke på stasjoner på kartet, velg så «Fremme senest» og still inn tidspunktet. Resultatet viser når du må gå inn på stasjonen, og hver del av reisen. Under «Juster beregning» kan du velge «Standard», som regner med et halvt avgangsintervall i ventetid, eller «Forsiktig», som regner med et helt, og stille inn «Tid til plattformen» på opptil 15 minutter for å gå inn og nå plattformen."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Avgangspåminnelser",
+        "body": "I rutetabellen for en sidelinje stiller du inn hvor mange minutter på forhånd du vil bli varslet, fra 1 til 30, og trykker så på toget du vil ta. I «Reiseplanlegger» kan du stille inn en påminnelse for når det er på tide å dra. Trykk på en aktiv påminnelse for å avbryte den."
+      },
+      {
+        "id": "default_page",
+        "title": "Velge hvilken side appen åpnes på",
+        "body": "Åpne «Innstillinger» med tannhjulknappen og gå til «Startside». Velg «Reiseplanlegger», «Xiaobitan» eller «Beitou · Xinbeitou»."
+      },
+      {
+        "id": "language",
+        "title": "Bytte språk",
+        "body": "Appen følger som standard språket på iPhonen din og finnes på 50 språk. Vil du bruke et annet språk bare i denne appen, åpner du «Innstillinger», trykker på «Språk» og velger et fra listen, eller velger «Samme som systemet» for å gå tilbake."
+      }
+    ],
+    "faq_title": "Vanlige spørsmål",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Hvorfor er tidene anslag?",
+        "body": "For reiser i hele nettet regner appen ut fra Taipei Metros offisielle avgangsintervaller og kjøretider mellom stasjonene. Den mottar ikke togenes posisjon i sanntid og kan derfor ikke se forsinkelser, trengsel eller endringer i trafikken samme dag. Legg inn litt slakk på viktige reiser, bruk modusen «Forsiktig», og følg alltid høyttalermeldinger og skilt på stasjonen."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "Hvor kommer rutetabellene for sidelinjene fra?",
+        "body": "Sidelinjene til Xiaobitan og Xinbeitou går etter faste rutetabeller som Taipei Metro publiserer, og appen bruker nøyaktig de avgangstidene, separat for hverdager og helger. Gyldighetsdatoen for hver rutetabell vises under «Om» i «Innstillinger», og du kan åpne den originale rutetabellen som PDF fra skjermen for sidelinjen. Hvis operatøren publiserer en ny rutetabell, oppdaterer vi den i en appoppdatering."
+      },
+      {
+        "id": "notifications",
+        "title": "Jeg får ingen påminnelser",
+        "body": "Første gang du stiller inn en påminnelse, ber iOS om tillatelse til å sende varsler. Hvis du sa nei, viser appen en melding du kan trykke på, eller du kan slå på varslene igjen i iOS-appen Innstillinger under Varslinger for denne appen. Påminnelser planlegges på iPhonen din, så de virker uten nett, men en fokusmodus kan likevel dempe dem."
+      },
+      {
+        "id": "restore",
+        "title": "Hvordan gjenoppretter jeg kjøpet mitt?",
+        "body": "Åpne «Innstillinger» i appen og trykk på «Gjenopprett». Sørg for at du er logget på App Store med den samme Apple-kontoen som du kjøpte med. Opplåsingen kommer også automatisk tilbake når du installerer appen på nytt eller konfigurerer en ny iPhone med den kontoen."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "Hvordan fungerer prøveperioden på 24 timer og opplåsingen?",
+        "body": "Start prøveperioden inne i appen når du er klar, så er alle funksjoner åpne i 24 timer. Prøveperioden registreres av App Store, så en ny installasjon starter den ikke på nytt. Når den er over, kan du fortsatt se appen, og et engangskjøp låser opp alt for godt. Det er ikke et abonnement og fornyes aldri. Prisen vises i App Store i din lokale valuta."
+      },
+      {
+        "id": "coverage",
+        "title": "Hvilke linjer er med?",
+        "body": "Wenhu, Tamsui-Xinyi med sidelinjen til Xinbeitou, Songshan-Xindian med sidelinjen til Xiaobitan, Zhonghe-Xinlu, Bannan og første byggetrinn av ringlinjen Circular. Taoyuan Airport MRT og bybanelinjene er ikke med."
+      },
+      {
+        "id": "independence",
+        "title": "Er dette en offisiell app fra Taipei Metro?",
+        "body": "Nei. Tidshjelp for metroen er en uavhengig app og er ikke tilknyttet eller godkjent av Taipei Rapid Transit Corporation. Den bruker Taipei Metros offisielle offentlige data. Ved driftsforstyrrelser eller hittegods ber vi deg kontakte operatøren direkte."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Personvernerklæring",
+    "summary": "Tidshjelp for metroen samler ikke inn personopplysninger. Denne siden forklarer hva appen gjør på iPhonen din, og hva den aldri gjør.",
+    "updated_label": "Sist oppdatert",
+    "section_title": "Våre løfter",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Ingen konto",
+        "body": "Du trenger ingen konto. Du må aldri registrere deg, logge på eller gi oss navn, e-postadresse eller telefonnummer for å bruke appen."
+      },
+      {
+        "id": "data_collection",
+        "title": "Data vi samler inn",
+        "body": "Vi samler ikke inn personopplysninger. Appen har ikke tilgang til posisjonen din, kontaktene dine, bildene dine eller noen identifikator for sporing, og den sender ikke stasjonene eller tidspunktene du legger inn, til oss eller noen andre."
+      },
+      {
+        "id": "on_device",
+        "title": "Alt blir på iPhonen din",
+        "body": "Alle reiseberegninger skjer på enheten din med rutetabelldata som er innebygd i appen. Innstillingene dine, som stasjoner, språk, farger, startside og påminnelser, lagres bare på iPhonen din og deles bare med appens egen widget på samme enhet. Sletter du appen, forsvinner de."
+      },
+      {
+        "id": "notifications",
+        "title": "Varsler",
+        "body": "Hvis du tillater varsler, bruker appen dem bare til påminnelser du selv stiller inn. Hver påminnelse planlegges lokalt på iPhonen din; ingen server er involvert, og ikke noe innhold fra varslene forlater enheten din. Du kan når som helst slå av varsler i iOS-appen Innstillinger."
+      },
+      {
+        "id": "storekit",
+        "title": "Kjøp gjennom Apple",
+        "body": "Prøveperioden på 24 timer og engangsopplåsingen håndteres av Apple gjennom App Store med StoreKit. Betalingen behandles i sin helhet av Apple, og appen ser eller lagrer aldri betalingsopplysningene dine. Appen sjekker bare med App Store om prøveperioden er aktiv eller om opplåsingen er kjøpt."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Ingen reklame, ingen analyse, ingen sporing",
+        "body": "Vi bruker ikke reklame fra tredjeparter. Vi bruker ikke analyse fra tredjeparter. Appen inneholder ingen sporingskode, knytter ikke data til deg og deler dem ikke med datameglere."
+      },
+      {
+        "id": "data_sources",
+        "title": "Rutetabelldata",
+        "body": "Rutetabeller, avgangsintervaller og kjøretider kommer fra Taipei Metros offisielle offentlige data og ligger i selve appen, så du trenger ingen internettilkobling for å slå opp en reise. Tidshjelp for metroen er uavhengig og ikke tilknyttet Taipei Rapid Transit Corporation."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Spørsmål og rettighetene dine",
+        "body": "Siden vi ikke har noen personopplysninger om deg, finnes det ingenting for oss å gi innsyn i, eksportere eller slette. Hvis du sender oss en e-post, bruker vi meldingen bare til å svare og legger deg ikke til på noen e-postliste. Skriv til adressen nedenfor hvis du har spørsmål om personvern."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Endringer i denne erklæringen",
+        "body": "Hvis måten appen håndterer data på, noen gang endres, oppdaterer vi denne siden og datoen «Sist oppdatert» før endringen trer i kraft, og forklarer endringen i appens versjonsmerknader."
+      }
+    ]
+  }
+}

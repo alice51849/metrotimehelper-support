@@ -1,0 +1,191 @@
+{
+  "language_name": "Nederlands",
+  "language_label": "Taal",
+  "navigation_label": "Onderdelen van de site",
+  "skip_link": "Naar de inhoud",
+  "nav": {
+    "index": "Start",
+    "support": "Hulp",
+    "privacy": "Privacybeleid"
+  },
+  "footer": "Metro Tijdhelper is een onafhankelijke app. De app is niet verbonden aan, goedgekeurd door of beheerd door de Taipei Rapid Transit Corporation. Dienstregelingen en reistijden komen uit de officiële openbare gegevens van de metro van Taipei.",
+  "contact": {
+    "title": "Contact",
+    "body": "Een vraag, een dienstregeling die niet lijkt te kloppen of een idee voor de app? Mail ons. Vermeld je iPhone-model, iOS-versie, de appversie (te zien in “Instellingen”) en de stations waar het om gaat, dan kunnen we het sneller uitzoeken.",
+    "button": "E-mail"
+  },
+  "home": {
+    "title": "Jij zegt wanneer je er moet zijn. De app zegt wanneer je moet gaan.",
+    "summary": "Een tijdplanner voor de metro van Taipei op je iPhone. Kies je stations en het tijdstip waarop je er moet zijn, en de app rekent terug naar het laatste moment waarop je het station in moet, overstappen inbegrepen.",
+    "section_title": "Wat de app doet",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Terugrekenen vanaf je aankomsttijd",
+        "body": "Kies waar je bent, waar je heen gaat en hoe laat je er moet zijn. Je ziet het laatste moment om door de poortjes te gaan, een tijdlijn stap voor stap met elke overstap, waarschuwingen voor de eerste en laatste trein en desgewenst een herinnering om te vertrekken. Wil je liever meteen gaan? Kies “Nu vertrekken” en zie hoe laat je aankomt."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "De zijlijn naar Xiaobitan, goed geregeld",
+        "body": "De pendeltrein tussen Qizhang en Xiaobitan rijdt maar ongeveer elke 12 tot 16 minuten, en de meeste routeplanners gaan daar snel overheen. Hier krijg je de officiële vaste dienstregeling, een aftelling tot de volgende trein, de volledige regeling voor vandaag, doordeweeks en het weekend, de originele dienstregeling als PDF en een melding 1 tot 30 minuten voor vertrek."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "Van Beitou naar Xinbeitou, voor de warmwaterbronnen",
+        "body": "De korte zijlijn naar het bronnengebied van Xinbeitou krijgt dezelfde aandacht: de officiële vaste dienstregeling in beide richtingen, een live aftelling en een vertrekmelding. Loopt een geplande reis via een van beide zijlijnen, dan gebruikt de planner ook de vaste dienstregeling."
+      },
+      {
+        "id": "map_widget",
+        "title": "Een kaart om op te tikken, en een widget",
+        "body": "Zoom met twee vingers in op de ingebouwde metrokaart en tik op een station om het als vertrekpunt of bestemming te kiezen; je route wordt direct op de kaart getekend. Widgets voor het beginscherm en het toegangsscherm tonen de volgende trein in beide richtingen op de zijlijn die jij kiest."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Privacy als uitgangspunt",
+        "body": "Geen account en geen registratie. Geen advertenties, geen analysediensten van derden en geen verzameling van persoonsgegevens. Alle berekeningen gebeuren op je iPhone, en herinneringen worden lokaal op het apparaat ingepland."
+      },
+      {
+        "id": "trial",
+        "title": "Probeer alles 24 uur lang",
+        "body": "Download de app en start een proefperiode van 24 uur met alle functies ontgrendeld. Daarna houd je met één eenmalige aankoop alles voorgoed. Er is geen abonnement en er wordt niets verlengd."
+      }
+    ],
+    "links_title": "Hulp nodig?",
+    "support_card": {
+      "title": "Hulp en veelgestelde vragen",
+      "body": "Hoe de drie modi werken, je startpagina en taal instellen, herinneringen, een aankoop herstellen en meer."
+    },
+    "privacy_card": {
+      "title": "Privacybeleid",
+      "body": "Precies wat de app wel en niet met je gegevens doet. Kort gezegd: hij verzamelt niets."
+    }
+  },
+  "support": {
+    "title": "Hulp",
+    "summary": "Alles wat je nodig hebt om op tijd door Taipei te reizen, plus antwoorden op de vragen die we het vaakst krijgen.",
+    "howto_title": "Zo gebruik je de app",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Drie modi",
+        "body": "“Metroplanner” berekent voor elke reis in het netwerk wanneer je moet vertrekken. “Xiaobitan” toont de dienstregeling en aftelling van de zijlijn tussen Qizhang en Xiaobitan. “Beitou · Xinbeitou” doet hetzelfde voor de zijlijn naar Xinbeitou. De app opent in “Metroplanner”, tenzij je dat wijzigt."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Van modus wisselen",
+        "body": "Tik op de ronde glazen knop bovenin de hoek van het scherm, die de huidige modus toont, en kies dan de modus die je wilt."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Een reis plannen",
+        "body": "Kies een vertrekpunt en bestemming in de lijst of door op stations op de kaart te tikken, kies daarna “Aankomst uiterlijk” en stel de tijd in. Het resultaat toont wanneer je het station in moet en elk deel van de reis. Onder “Schatting aanpassen” kies je “Standaard”, dat een halve intervaltijd wachten rekent, of “Voorzichtig”, dat een hele intervaltijd rekent, en stel je bij “Tijd tot perron” tot 15 minuten in om het station in te lopen en het perron te bereiken."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Vertrekherinneringen",
+        "body": "Stel bij de dienstregeling van een zijlijn in hoeveel minuten van tevoren je een melding wilt, van 1 tot 30, en tik dan op de trein die je wilt nemen. In “Metroplanner” kun je een herinnering instellen voor het moment dat je moet vertrekken. Tik op een actieve herinnering om die te annuleren."
+      },
+      {
+        "id": "default_page",
+        "title": "Kiezen met welke pagina de app opent",
+        "body": "Open “Instellingen” met de tandwielknop en ga naar “Startpagina”. Kies “Metroplanner”, “Xiaobitan” of “Beitou · Xinbeitou”."
+      },
+      {
+        "id": "language",
+        "title": "De taal wijzigen",
+        "body": "De app volgt standaard de taal van je iPhone en is beschikbaar in 50 talen. Wil je alleen in deze app een andere taal, open dan “Instellingen”, tik op “Taal” en kies er een uit de lijst, of kies “Zelfde als systeem” om terug te gaan."
+      }
+    ],
+    "faq_title": "Veelgestelde vragen",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Waarom zijn de tijden schattingen?",
+        "body": "Voor reizen door het hele netwerk rekent de app met de officiële intervaltijden en rijtijden tussen stations van de metro van Taipei. De app ontvangt geen live treinposities en ziet dus geen vertragingen, drukte of dienstwijzigingen op de dag zelf. Neem bij belangrijke reizen wat speling, gebruik de modus “Voorzichtig” en volg altijd de omroepberichten en borden in het station."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "Waar komen de dienstregelingen van de zijlijnen vandaan?",
+        "body": "De zijlijnen naar Xiaobitan en Xinbeitou rijden volgens vaste dienstregelingen die de metro van Taipei publiceert, en de app gebruikt precies die vertrektijden, apart voor doordeweeks en het weekend. De ingangsdatum van elke dienstregeling staat onder “Info” in “Instellingen”, en de originele dienstregeling als PDF open je vanuit het scherm van de zijlijn. Publiceert de vervoerder een nieuwe dienstregeling, dan werken we die bij in een app-update."
+      },
+      {
+        "id": "notifications",
+        "title": "Ik krijg geen herinneringen",
+        "body": "De eerste keer dat je een herinnering instelt, vraagt iOS toestemming om meldingen te sturen. Heb je dat geweigerd, dan toont de app een melding waarop je kunt tikken, of je zet meldingen weer aan in de iOS-app Instellingen onder Berichtgeving voor deze app. Herinneringen worden op je iPhone ingepland en werken dus ook offline, maar een focus kan ze nog steeds dempen."
+      },
+      {
+        "id": "restore",
+        "title": "Hoe herstel ik mijn aankoop?",
+        "body": "Open “Instellingen” in de app en tik op “Herstel”. Zorg dat je in de App Store bent ingelogd met dezelfde Apple Account waarmee je de aankoop hebt gedaan. Je ontgrendeling komt ook automatisch terug als je de app opnieuw installeert of een nieuwe iPhone met die account instelt."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "Hoe werken de proefperiode van 24 uur en de ontgrendeling?",
+        "body": "Start de proefperiode in de app wanneer jij er klaar voor bent, en alle functies zijn 24 uur lang beschikbaar. De proefperiode wordt door de App Store vastgelegd, dus opnieuw installeren start hem niet opnieuw. Als hij afloopt, kun je de app nog steeds bekijken, en ontgrendelt een eenmalige aankoop alles voorgoed. Het is geen abonnement en wordt nooit verlengd. De prijs zie je in de App Store in je eigen valuta."
+      },
+      {
+        "id": "coverage",
+        "title": "Welke lijnen worden ondersteund?",
+        "body": "Wenhu, Tamsui-Xinyi met de zijlijn naar Xinbeitou, Songshan-Xindian met de zijlijn naar Xiaobitan, Zhonghe-Xinlu, Bannan en de eerste fase van de Circular-ringlijn. De Taoyuan Airport MRT en de lightraillijnen zijn niet inbegrepen."
+      },
+      {
+        "id": "independence",
+        "title": "Is dit een officiële app van de metro van Taipei?",
+        "body": "Nee. Metro Tijdhelper is een onafhankelijke app en is niet verbonden aan of goedgekeurd door de Taipei Rapid Transit Corporation. De app gebruikt de officiële openbare gegevens van de metro van Taipei. Neem bij storingen of gevonden voorwerpen rechtstreeks contact op met de vervoerder."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacybeleid",
+    "summary": "Metro Tijdhelper verzamelt geen persoonsgegevens. Deze pagina legt uit wat de app op je iPhone doet en wat hij nooit doet.",
+    "updated_label": "Laatst bijgewerkt",
+    "section_title": "Onze toezeggingen",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Geen account",
+        "body": "Een account is niet nodig. Om de app te gebruiken hoef je je nooit te registreren of in te loggen, en geef je ons nooit je naam, e-mailadres of telefoonnummer."
+      },
+      {
+        "id": "data_collection",
+        "title": "Welke gegevens we verzamelen",
+        "body": "We verzamelen geen persoonsgegevens. De app heeft geen toegang tot je locatie, contacten, foto's of enige identificatie voor tracking, en stuurt de stations of tijden die je invoert niet naar ons of naar wie dan ook."
+      },
+      {
+        "id": "on_device",
+        "title": "Alles blijft op je iPhone",
+        "body": "Alle reisberekeningen gebeuren op je apparaat met de dienstregelingsgegevens die in de app zijn ingebouwd. Je instellingen, zoals stations, taal, kleuren, startpagina en herinneringen, worden alleen op je iPhone bewaard en alleen gedeeld met de eigen widget van de app op hetzelfde apparaat. Verwijder je de app, dan verdwijnen ze ook."
+      },
+      {
+        "id": "notifications",
+        "title": "Meldingen",
+        "body": "Als je meldingen toestaat, gebruikt de app ze alleen voor herinneringen die je zelf instelt. Elke herinnering wordt lokaal op je iPhone ingepland; er komt geen server aan te pas en geen inhoud van een melding verlaat je apparaat. Je kunt meldingen op elk moment uitzetten in de iOS-app Instellingen."
+      },
+      {
+        "id": "storekit",
+        "title": "Aankopen via Apple",
+        "body": "De proefperiode van 24 uur en de eenmalige ontgrendeling worden door Apple afgehandeld via de App Store met StoreKit. De betaling wordt volledig door Apple verwerkt, en de app ziet of bewaart nooit je betaalgegevens. De app vraagt bij de App Store alleen na of de proefperiode actief is of de ontgrendeling is gekocht."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Geen advertenties, geen analyse, geen tracking",
+        "body": "We gebruiken geen advertenties van derden. We gebruiken geen analysediensten van derden. De app bevat geen trackingcode, koppelt geen gegevens aan jou en deelt ze niet met databrokers."
+      },
+      {
+        "id": "data_sources",
+        "title": "Dienstregelingsgegevens",
+        "body": "Dienstregelingen, intervaltijden en rijtijden komen uit de officiële openbare gegevens van de metro van Taipei en zitten in de app zelf, dus voor het opzoeken van een reis heb je geen internetverbinding nodig. Metro Tijdhelper is onafhankelijk en niet verbonden aan de Taipei Rapid Transit Corporation."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Vragen en je rechten",
+        "body": "Omdat we geen persoonsgegevens over jou bewaren, is er niets dat we kunnen inzien, exporteren of verwijderen. Als je ons mailt, gebruiken we je bericht alleen om te antwoorden en zetten we je niet op een mailinglijst. Stuur je vragen over privacy naar het adres hieronder."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Wijzigingen in dit beleid",
+        "body": "Als de manier waarop de app met gegevens omgaat ooit verandert, werken we deze pagina en de datum “Laatst bijgewerkt” bij voordat de wijziging ingaat, en lichten we de wijziging toe in de release-opmerkingen van de app."
+      }
+    ]
+  }
+}

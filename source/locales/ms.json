@@ -1,0 +1,191 @@
+{
+  "language_name": "Bahasa Melayu",
+  "language_label": "Bahasa",
+  "navigation_label": "Bahagian laman",
+  "skip_link": "Langkau ke kandungan",
+  "nav": {
+    "index": "Laman Utama",
+    "support": "Sokongan",
+    "privacy": "Privasi"
+  },
+  "footer": "Metro Time Helper ialah aplikasi bebas. Aplikasi ini tidak bergabung dengan, tidak disokong oleh dan tidak dikendalikan oleh Taipei Rapid Transit Corporation. Jadual dan masa perjalanan diambil daripada data awam rasmi MRT Taipei.",
+  "contact": {
+    "title": "Hubungi kami",
+    "body": "Ada soalan, jadual yang nampak tidak betul atau idea untuk aplikasi ini? Tulis kepada kami. Nyatakan model iPhone, versi iOS, versi aplikasi (dipaparkan dalam “Seting”) dan stesen yang berkaitan supaya kami dapat menyemaknya dengan lebih cepat.",
+    "button": "E-mel"
+  },
+  "home": {
+    "title": "Beritahu bila perlu sampai. Aplikasi ini beritahu bila perlu bertolak.",
+    "summary": "Perancang masa MRT Taipei untuk iPhone. Pilih stesen anda dan masa anda perlu tiba, lalu aplikasi mengira ke belakang untuk mendapatkan masa paling lewat anda patut masuk ke stesen, termasuk pertukaran tren.",
+    "section_title": "Apa yang boleh dilakukannya",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Rancang ke belakang dari masa ketibaan",
+        "body": "Pilih di mana anda berada, ke mana anda hendak pergi dan bila anda perlu tiba. Anda akan mendapat masa paling lewat untuk melalui pintu masuk stesen, garis masa langkah demi langkah bagi setiap pertukaran, amaran tren pertama dan terakhir, serta peringatan masa bertolak jika mahu. Mahu pergi segera? Tukar ke “Bertolak sekarang” untuk melihat bila anda akan tiba."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "Laluan cabang Xiaobitan, diuruskan dengan sempurna",
+        "body": "Tren ulang-alik dari Qizhang ke Xiaobitan hanya bergerak kira-kira setiap 12 hingga 16 minit, dan kebanyakan aplikasi laluan tidak memberi perhatian kepadanya. Di sini anda mendapat jadual tetap rasmi, kiraan detik ke tren seterusnya, jadual penuh untuk hari ini, hari bekerja dan hujung minggu, PDF jadual asal, serta makluman 1 hingga 30 minit sebelum tren bertolak."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "Beitou ke Xinbeitou, untuk ke kolam air panas",
+        "body": "Laluan cabang pendek ke kawasan kolam air panas Xinbeitou juga diuruskan dengan cara yang sama: jadual tetap rasmi bagi kedua-dua arah, kiraan detik langsung dan makluman bertolak. Apabila perjalanan yang dirancang melalui mana-mana laluan cabang, perancang juga menggunakan jadual tetap itu."
+      },
+      {
+        "id": "map_widget",
+        "title": "Peta yang boleh diketik, serta widget",
+        "body": "Cubit untuk mengezum peta MRT terbina dalam, dan ketik mana-mana stesen untuk menetapkannya sebagai titik mula atau destinasi; laluan anda dilukis terus pada peta. Widget Skrin Utama dan Skrin Kunci menunjukkan tren seterusnya bagi kedua-dua arah di laluan cabang pilihan anda."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Privasi sejak reka bentuk",
+        "body": "Tiada akaun dan tiada pendaftaran. Tiada iklan, tiada analitik pihak ketiga dan tiada data peribadi dikumpul. Setiap pengiraan dijalankan pada iPhone anda, dan peringatan dijadualkan secara setempat pada peranti."
+      },
+      {
+        "id": "trial",
+        "title": "Cuba semuanya selama 24 jam",
+        "body": "Muat turun aplikasi dan mulakan percubaan 24 jam dengan semua ciri dibuka. Selepas itu, satu pembelian sekali sahaja membolehkan anda menggunakan semuanya selama-lamanya. Tiada langganan dan tiada apa-apa yang diperbaharui."
+      }
+    ],
+    "links_title": "Perlukan bantuan?",
+    "support_card": {
+      "title": "Sokongan dan Soalan Lazim",
+      "body": "Cara tiga mod berfungsi, menetapkan halaman semasa dibuka dan bahasa, peringatan, memulihkan pembelian dan banyak lagi."
+    },
+    "privacy_card": {
+      "title": "Dasar Privasi",
+      "body": "Penjelasan tepat tentang apa yang dilakukan dan tidak dilakukan aplikasi ini dengan data anda. Ringkasnya: tiada apa-apa yang dikumpul."
+    }
+  },
+  "support": {
+    "title": "Sokongan",
+    "summary": "Semua yang anda perlukan untuk bergerak di sekitar Taipei tepat pada masanya, serta jawapan kepada soalan yang paling kerap kami terima.",
+    "howto_title": "Cara menggunakannya",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Tiga mod",
+        "body": "“MRT biasa” mengira bila perlu bertolak untuk sebarang perjalanan dalam rangkaian. “Xiaobitan” memaparkan jadual dan kiraan detik laluan cabang Qizhang dan Xiaobitan. “Beitou · Xinbeitou” melakukan perkara yang sama untuk laluan cabang Xinbeitou. Aplikasi dibuka dalam “MRT biasa” melainkan anda mengubahnya."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Menukar mod",
+        "body": "Ketik butang kaca bulat di penjuru atas skrin, iaitu butang yang menunjukkan mod semasa, kemudian pilih mod yang anda mahu."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Merancang perjalanan",
+        "body": "Pilih stesen mula dan destinasi daripada senarai atau dengan mengetik stesen pada peta, kemudian pilih “Tiba pada” dan tetapkan masanya. Hasilnya menunjukkan bila perlu masuk ke stesen dan setiap bahagian perjalanan. Dalam “Laraskan anggaran” anda boleh memilih “Standard”, yang memperuntukkan separuh selang tren untuk menunggu, atau “Berhati-hati”, yang memperuntukkan satu selang penuh, dan menetapkan “Masa masuk stesen” sehingga 15 minit untuk berjalan masuk dan sampai ke platform."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Peringatan bertolak",
+        "body": "Pada jadual laluan cabang, tetapkan berapa minit lebih awal anda mahu dimaklumkan, antara 1 hingga 30, kemudian ketik tren yang anda mahu. Dalam “MRT biasa” anda boleh menetapkan peringatan apabila tiba masanya untuk bertolak. Ketik peringatan yang aktif untuk membatalkannya."
+      },
+      {
+        "id": "default_page",
+        "title": "Memilih halaman semasa aplikasi dibuka",
+        "body": "Buka “Seting” dengan butang gear dan pergi ke “Halaman semasa dibuka”. Pilih “MRT biasa”, “Xiaobitan” atau “Beitou · Xinbeitou”."
+      },
+      {
+        "id": "language",
+        "title": "Menukar bahasa",
+        "body": "Secara lalai, aplikasi mengikut bahasa iPhone anda dan menawarkan 50 bahasa. Untuk menggunakan bahasa lain dalam aplikasi ini sahaja, buka “Seting”, ketik “Bahasa” dan pilih daripada senarai, atau pilih “Sama seperti sistem” untuk kembali."
+      }
+    ],
+    "faq_title": "Soalan lazim",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Mengapa masa yang dipaparkan ialah anggaran?",
+        "body": "Bagi perjalanan merentasi rangkaian, aplikasi mengira berdasarkan selang tren dan masa perjalanan antara stesen yang rasmi daripada MRT Taipei. Aplikasi tidak menerima kedudukan tren secara langsung, jadi ia tidak dapat melihat kelewatan, kesesakan atau perubahan perkhidmatan pada hari itu. Beri ruang masa yang lebih untuk perjalanan penting, gunakan mod “Berhati-hati” dan sentiasa ikut pengumuman serta papan tanda di stesen."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "Dari mana datangnya jadual laluan cabang?",
+        "body": "Laluan cabang Xiaobitan dan Xinbeitou beroperasi mengikut jadual tetap yang diterbitkan oleh MRT Taipei, dan aplikasi menggunakan masa bertolak yang sama tepat, berasingan untuk hari bekerja dan hujung minggu. Tarikh kuat kuasa setiap jadual ditunjukkan di bawah “Perihal” dalam “Seting”, dan anda boleh membuka PDF jadual asal dari skrin laluan cabang. Jika pengendali menerbitkan jadual baharu, kami mengemas kininya melalui kemas kini aplikasi."
+      },
+      {
+        "id": "notifications",
+        "title": "Saya tidak menerima peringatan",
+        "body": "Kali pertama anda menetapkan peringatan, iOS akan meminta kebenaran untuk menghantar pemberitahuan. Jika anda menolak, aplikasi memaparkan gesaan yang boleh diketik, atau anda boleh menghidupkan semula pemberitahuan dalam app “Seting” iOS di bawah Pemberitahuan untuk aplikasi ini. Peringatan dijadualkan pada iPhone anda, jadi ia berfungsi di luar talian, tetapi mod Fokus masih boleh menyenyapkannya."
+      },
+      {
+        "id": "restore",
+        "title": "Bagaimana saya memulihkan pembelian?",
+        "body": "Buka “Seting” dalam aplikasi dan ketik “Pulihkan Pembelian”. Pastikan anda log masuk ke App Store dengan Akaun Apple yang sama yang anda gunakan untuk membelinya. Akses yang telah dibuka juga kembali secara automatik apabila anda memasang semula aplikasi atau menyediakan iPhone baharu dengan akaun itu."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "Bagaimana percubaan 24 jam dan buka kunci berfungsi?",
+        "body": "Mulakan percubaan dari dalam aplikasi bila-bila masa anda bersedia, dan setiap ciri dibuka selama 24 jam. Percubaan direkodkan oleh App Store, jadi memasang semula tidak akan memulakannya semula. Apabila tamat, anda masih boleh melihat aplikasi, dan satu pembelian sekali sahaja membuka semuanya selama-lamanya. Ia bukan langganan dan tidak pernah diperbaharui. Harga dipaparkan di App Store dalam mata wang tempatan anda."
+      },
+      {
+        "id": "coverage",
+        "title": "Laluan mana yang diliputi?",
+        "body": "Laluan Wenhu, Tamsui-Xinyi bersama laluan cabang Xinbeitou, Songshan-Xindian bersama laluan cabang Xiaobitan, Zhonghe-Xinlu, Bannan dan fasa pertama laluan Circular. MRT Lapangan Terbang Taoyuan dan laluan rel ringan tidak termasuk."
+      },
+      {
+        "id": "independence",
+        "title": "Adakah ini aplikasi rasmi MRT Taipei?",
+        "body": "Tidak. Metro Time Helper ialah aplikasi bebas dan tidak bergabung dengan atau disokong oleh Taipei Rapid Transit Corporation. Ia menggunakan data awam rasmi MRT Taipei. Untuk gangguan perkhidmatan atau barang hilang, sila hubungi pengendali secara terus."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Dasar Privasi",
+    "summary": "Metro Time Helper tidak mengumpul data peribadi. Halaman ini menerangkan apa yang dilakukan aplikasi pada iPhone anda dan apa yang tidak sekali-kali dilakukannya.",
+    "updated_label": "Kemas Kini Terakhir",
+    "section_title": "Komitmen kami",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Tiada akaun",
+        "body": "Akaun tidak diperlukan. Anda tidak perlu mendaftar, log masuk atau memberikan nama, alamat e-mel atau nombor telefon kepada kami untuk menggunakan aplikasi ini."
+      },
+      {
+        "id": "data_collection",
+        "title": "Data yang kami kumpul",
+        "body": "Kami tidak mengumpul data peribadi. Aplikasi tidak mengakses lokasi, kenalan, foto atau sebarang pengecam untuk penjejakan, dan tidak menghantar stesen atau masa yang anda masukkan kepada kami atau sesiapa pun."
+      },
+      {
+        "id": "on_device",
+        "title": "Semuanya kekal pada iPhone anda",
+        "body": "Semua pengiraan perjalanan dijalankan pada peranti anda menggunakan data jadual yang terbina dalam aplikasi. Seting anda, seperti stesen, bahasa, warna, halaman semasa dibuka dan peringatan, disimpan pada iPhone anda sahaja dan dikongsi hanya dengan widget aplikasi ini sendiri pada peranti yang sama. Memadam aplikasi akan turut memadamnya."
+      },
+      {
+        "id": "notifications",
+        "title": "Pemberitahuan",
+        "body": "Jika anda membenarkan pemberitahuan, aplikasi menggunakannya hanya untuk peringatan yang anda tetapkan sendiri. Setiap peringatan dijadualkan secara setempat pada iPhone anda; tiada pelayan terlibat dan tiada kandungan pemberitahuan yang keluar dari peranti anda. Anda boleh mematikan pemberitahuan pada bila-bila masa dalam app “Seting” iOS."
+      },
+      {
+        "id": "storekit",
+        "title": "Pembelian melalui Apple",
+        "body": "Percubaan 24 jam dan buka kunci sekali beli dikendalikan oleh Apple melalui App Store menggunakan StoreKit. Pembayaran diproses sepenuhnya oleh Apple, dan aplikasi tidak pernah melihat atau menyimpan butiran pembayaran anda. Aplikasi hanya menyemak dengan App Store sama ada percubaan masih aktif atau buka kunci telah dibeli."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Tiada iklan, tiada analitik, tiada penjejakan",
+        "body": "Kami tidak menggunakan pengiklanan pihak ketiga. Kami tidak menggunakan analitik pihak ketiga. Aplikasi tidak mengandungi kod penjejakan dan tidak memautkan data kepada anda atau berkongsinya dengan broker data."
+      },
+      {
+        "id": "data_sources",
+        "title": "Data jadual",
+        "body": "Jadual, selang tren dan masa perjalanan diambil daripada data awam rasmi MRT Taipei dan disertakan dalam aplikasi itu sendiri, jadi mencari perjalanan tidak memerlukan sambungan internet. Metro Time Helper ialah aplikasi bebas dan tidak bergabung dengan Taipei Rapid Transit Corporation."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Soalan dan hak anda",
+        "body": "Oleh sebab kami tidak menyimpan sebarang data peribadi tentang anda, tiada apa-apa untuk kami akses, eksport atau padam. Jika anda menghantar e-mel kepada kami, kami menggunakan mesej anda hanya untuk membalas dan tidak menambah anda ke mana-mana senarai mel. Tulis ke alamat di bawah untuk sebarang soalan tentang privasi."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Perubahan pada dasar ini",
+        "body": "Jika cara aplikasi mengendalikan data berubah, kami akan mengemas kini halaman ini dan tarikh Kemas Kini Terakhir sebelum perubahan berkuat kuasa, serta menerangkan perubahan itu dalam nota keluaran aplikasi."
+      }
+    ]
+  }
+}

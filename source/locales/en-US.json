@@ -1,0 +1,191 @@
+{
+  "language_name": "English (US)",
+  "language_label": "Language",
+  "navigation_label": "Site sections",
+  "skip_link": "Skip to content",
+  "nav": {
+    "index": "Home",
+    "support": "Support",
+    "privacy": "Privacy"
+  },
+  "footer": "Metro Time Helper is an independent app. It is not affiliated with, endorsed by, or operated by Taipei Rapid Transit Corporation. Timetables and travel times come from Taipei Metro's official public data.",
+  "contact": {
+    "title": "Contact us",
+    "body": "Questions, a timetable that looks wrong, or an idea for the app? Write to us. Mentioning your iPhone model, iOS version, the app version (shown in Settings), and the stations involved helps us look into it faster.",
+    "button": "Email"
+  },
+  "home": {
+    "title": "Tell it when to arrive. It tells you when to leave.",
+    "summary": "A Taipei MRT time planner for iPhone. Pick your stations and the time you need to be there, and it works backward to the latest time you should enter the station, transfers included.",
+    "section_title": "What it does",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Plan backward from your arrival time",
+        "body": "Choose where you are, where you are going, and when you need to arrive. You get the latest time to walk through the gates, a step-by-step timeline with each transfer, first and last train warnings, and an optional leave-now reminder. Prefer to go right away? Switch to Leave now and see when you will arrive."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "Xiaobitan Branch, done properly",
+        "body": "The Qizhang to Xiaobitan shuttle runs only every 12 to 16 minutes or so, and most route apps gloss over it. Here you get the official fixed timetable, a countdown to the next train, full today, weekday and weekend schedules, the original timetable PDF, and an alert 1 to 30 minutes before departure."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "Beitou to Xinbeitou, for the hot springs",
+        "body": "The short branch to the Xinbeitou hot spring area gets the same treatment: the official fixed timetable in both directions, a live countdown, and a departure alert. When a planned trip uses either branch, the planner uses the fixed timetable too."
+      },
+      {
+        "id": "map_widget",
+        "title": "A map you can tap, and a widget",
+        "body": "Pinch and zoom the built-in MRT map and tap any station to set it as your start or destination; your route is drawn right on the map. Home Screen and Lock Screen widgets show the next train in both directions on the branch you choose."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Private by design",
+        "body": "No account and no sign-up. No ads, no third-party analytics, and no personal data collected. Every calculation runs on your iPhone, and reminders are scheduled locally on the device."
+      },
+      {
+        "id": "trial",
+        "title": "Try everything for 24 hours",
+        "body": "Download the app and start a 24-hour trial with every feature unlocked. After that, a single one-time purchase keeps everything for good. There is no subscription, and nothing renews."
+      }
+    ],
+    "links_title": "Need help?",
+    "support_card": {
+      "title": "Support and FAQ",
+      "body": "How the three modes work, setting your launch page and language, reminders, restoring a purchase, and more."
+    },
+    "privacy_card": {
+      "title": "Privacy Policy",
+      "body": "Exactly what the app does and does not do with your data. In short: it collects nothing."
+    }
+  },
+  "support": {
+    "title": "Support",
+    "summary": "Everything you need to get around Taipei on time, plus answers to the questions we hear most.",
+    "howto_title": "How to use it",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Three modes",
+        "body": "Metro Trip Planner works out when to leave for any trip across the network. Xiaobitan shows the Qizhang and Xiaobitan branch timetable and countdown. Beitou · Xinbeitou does the same for the Xinbeitou branch. The app opens in Metro Trip Planner unless you change it."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Switching modes",
+        "body": "Tap the round glass button in the top corner of the screen, the one showing the current mode, then pick the mode you want."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Planning a trip",
+        "body": "Choose a start and a destination from the list or by tapping stations on the map, then pick Arrive by and set the time. The result shows when to enter the station and each leg of the trip. Under Adjust estimate you can choose Standard, which allows half a headway for waiting, or Cautious, which allows a full headway, and set a gate buffer of up to 15 minutes for walking in and reaching the platform."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Departure reminders",
+        "body": "On a branch timetable, set how many minutes ahead you want to be alerted, anywhere from 1 to 30, then tap the train you want. In Metro Trip Planner you can set a reminder for when it is time to leave. Tap an active reminder to cancel it."
+      },
+      {
+        "id": "default_page",
+        "title": "Choosing the page it opens on",
+        "body": "Open Settings with the gear button and go to Page on launch. Pick Metro Trip Planner, Xiaobitan, or Beitou · Xinbeitou."
+      },
+      {
+        "id": "language",
+        "title": "Changing the language",
+        "body": "The app follows your iPhone language by default and offers 50 languages. To use a different one only in this app, open Settings, tap Language, and pick one from the list, or choose Same as system to go back."
+      }
+    ],
+    "faq_title": "Frequently asked questions",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Why are the times estimates?",
+        "body": "For trips across the network, the app calculates from Taipei Metro's official headways and station-to-station run times. It does not receive live train positions, so it cannot see delays, crowding, or service changes on the day. Leave yourself some slack for important trips, use Cautious mode, and always follow station announcements and signs."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "Where do the branch timetables come from?",
+        "body": "The Xiaobitan and Xinbeitou branches run on fixed timetables published by Taipei Metro, and the app uses those exact departure times, separately for weekdays and weekends. The effective date of each timetable is shown under About in Settings, and you can open the original timetable PDF from the branch screen. If the operator publishes a new timetable, we update it in an app update."
+      },
+      {
+        "id": "notifications",
+        "title": "I am not getting reminders",
+        "body": "The first time you set a reminder, iOS asks for permission to send notifications. If you declined, the app shows a prompt you can tap, or you can turn notifications back on in the iOS Settings app under Notifications for this app. Reminders are scheduled on your iPhone, so they work offline, but a Focus mode can still silence them."
+      },
+      {
+        "id": "restore",
+        "title": "How do I restore my purchase?",
+        "body": "Open Settings in the app and tap Restore. Make sure you are signed in to the App Store with the same Apple Account you used to buy it. Your unlock also comes back automatically when you reinstall the app or set up a new iPhone with that account."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "How do the 24-hour trial and the unlock work?",
+        "body": "Start the trial from inside the app whenever you are ready, and every feature is open for 24 hours. The trial is recorded by the App Store, so reinstalling does not restart it. When it ends, you can still see the app, and a one-time purchase unlocks everything for good. It is not a subscription and never renews. The price is shown in the App Store in your local currency."
+      },
+      {
+        "id": "coverage",
+        "title": "Which lines are covered?",
+        "body": "Wenhu, Tamsui-Xinyi with the Xinbeitou branch, Songshan-Xindian with the Xiaobitan branch, Zhonghe-Xinlu, Bannan, and the first phase of the Circular line. The Taoyuan Airport MRT and light rail lines are not included."
+      },
+      {
+        "id": "independence",
+        "title": "Is this an official Taipei Metro app?",
+        "body": "No. Metro Time Helper is an independent app and is not affiliated with or endorsed by Taipei Rapid Transit Corporation. It uses Taipei Metro's official public data. For service disruptions or lost property, please contact the operator directly."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "summary": "Metro Time Helper does not collect personal data. This page explains what the app does on your iPhone and what it never does.",
+    "updated_label": "Last Updated",
+    "section_title": "Our commitments",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "No account",
+        "body": "No account is required. You never sign up, sign in, or give us your name, email address, or phone number to use the app."
+      },
+      {
+        "id": "data_collection",
+        "title": "Data we collect",
+        "body": "We do not collect personal data. The app does not access your location, contacts, photos, or any identifier for tracking, and it does not send the stations or times you enter to us or anyone else."
+      },
+      {
+        "id": "on_device",
+        "title": "Everything stays on your iPhone",
+        "body": "All trip calculations run on your device using timetable data built into the app. Your settings, such as stations, language, colors, launch page, and reminders, are stored only on your iPhone and shared with the app's own widget on the same device. Deleting the app removes them."
+      },
+      {
+        "id": "notifications",
+        "title": "Notifications",
+        "body": "If you allow notifications, the app uses them only for reminders you set yourself. Every reminder is scheduled locally on your iPhone; no server is involved and no notification content leaves your device. You can turn notifications off at any time in the iOS Settings app."
+      },
+      {
+        "id": "storekit",
+        "title": "Purchases through Apple",
+        "body": "The 24-hour trial and the one-time unlock are handled by Apple through the App Store using StoreKit. Payment is processed entirely by Apple, and the app never sees or stores your payment details. The app only checks with the App Store whether the trial is active or the unlock has been purchased."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "No ads, no analytics, no tracking",
+        "body": "We do not use third-party advertising. We do not use third-party analytics. The app contains no tracking code and does not link data to you or share it with data brokers."
+      },
+      {
+        "id": "data_sources",
+        "title": "Timetable data",
+        "body": "Timetables, headways, and run times come from Taipei Metro's official public data and are included in the app itself, so looking up a trip does not require an internet connection. Metro Time Helper is independent and not affiliated with Taipei Rapid Transit Corporation."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Questions and your rights",
+        "body": "Because we hold no personal data about you, there is nothing for us to access, export, or delete. If you email us, we use your message only to reply and do not add you to any mailing list. Write to the address below with any privacy question."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Changes to this policy",
+        "body": "If the way the app handles data ever changes, we will update this page and the Last Updated date before the change takes effect, and explain the change in the app's release notes."
+      }
+    ]
+  }
+}

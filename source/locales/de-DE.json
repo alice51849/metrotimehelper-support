@@ -1,0 +1,191 @@
+{
+  "language_name": "Deutsch",
+  "language_label": "Sprache",
+  "navigation_label": "Bereiche der Website",
+  "skip_link": "Zum Inhalt springen",
+  "nav": {
+    "index": "Start",
+    "support": "Hilfe",
+    "privacy": "Datenschutz"
+  },
+  "footer": "Metro-Zeithelfer ist eine unabhängige App. Sie steht in keiner Verbindung zur Taipei Rapid Transit Corporation, wird von ihr weder unterstützt noch betrieben. Fahrpläne und Fahrzeiten stammen aus den offiziellen öffentlichen Daten der Metro Taipeh.",
+  "contact": {
+    "title": "Kontakt",
+    "body": "Fragen, ein Fahrplan, der nicht zu stimmen scheint, oder eine Idee für die App? Schreib uns. Wenn du dein iPhone-Modell, die iOS-Version, die App-Version (steht in den „Einstellungen“) und die betroffenen Stationen angibst, können wir schneller helfen.",
+    "button": "E-Mail"
+  },
+  "home": {
+    "title": "Du sagst, wann du ankommen musst. Die App sagt, wann du losmusst.",
+    "summary": "Ein Zeitplaner für die Metro Taipeh auf dem iPhone. Wähle deine Stationen und die Uhrzeit, zu der du da sein musst, und die App rechnet rückwärts aus, wann du spätestens in die Station gehen solltest, inklusive Umstiege.",
+    "section_title": "Was die App kann",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Rückwärts planen ab der Ankunftszeit",
+        "body": "Wähle, wo du bist, wohin du willst und wann du ankommen musst. Du bekommst die späteste Zeit, um durch die Zugangssperren zu gehen, einen Ablauf Schritt für Schritt mit jedem Umstieg, Hinweise auf den ersten und letzten Zug und auf Wunsch eine Erinnerung zum Losgehen. Du willst lieber sofort los? Wechsle zu „Jetzt los“ und sieh, wann du ankommst."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "Die Xiaobitan-Zweiglinie, richtig gemacht",
+        "body": "Der Pendelzug zwischen Qizhang und Xiaobitan fährt nur etwa alle 12 bis 16 Minuten, und die meisten Routen-Apps gehen darüber hinweg. Hier bekommst du den offiziellen festen Fahrplan, einen Countdown bis zum nächsten Zug, die kompletten Fahrpläne für heute, werktags und am Wochenende, das Original-PDF des Fahrplans und eine Erinnerung 1 bis 30 Minuten vor der Abfahrt."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "Von Beitou nach Xinbeitou, zu den heißen Quellen",
+        "body": "Die kurze Zweiglinie ins Thermalgebiet Xinbeitou bekommt dieselbe Sorgfalt: den offiziellen festen Fahrplan in beide Richtungen, einen Live-Countdown und eine Abfahrtserinnerung. Führt eine geplante Fahrt über eine der beiden Zweiglinien, nutzt auch der Planer den festen Fahrplan."
+      },
+      {
+        "id": "map_widget",
+        "title": "Ein Netzplan zum Antippen und ein Widget",
+        "body": "Zoome im integrierten Netzplan mit zwei Fingern und tippe auf eine beliebige Station, um sie als Start oder Ziel festzulegen; deine Route wird direkt auf dem Plan eingezeichnet. Widgets für den Home-Bildschirm und den Sperrbildschirm zeigen den nächsten Zug in beide Richtungen auf der Zweiglinie deiner Wahl."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Privatsphäre von Grund auf",
+        "body": "Kein Konto, keine Registrierung. Keine Werbung, keine Analysedienste von Drittanbietern und keine Erfassung personenbezogener Daten. Alle Berechnungen laufen auf deinem iPhone, und Erinnerungen werden lokal auf dem Gerät geplant."
+      },
+      {
+        "id": "trial",
+        "title": "24 Stunden alles ausprobieren",
+        "body": "Lade die App und starte einen 24-stündigen Test, bei dem alle Funktionen freigeschaltet sind. Danach gehört dir mit einem einmaligen Kauf alles dauerhaft. Es gibt kein Abo, und nichts verlängert sich."
+      }
+    ],
+    "links_title": "Brauchst du Hilfe?",
+    "support_card": {
+      "title": "Hilfe und FAQ",
+      "body": "Wie die drei Modi funktionieren, Startseite und Sprache festlegen, Erinnerungen, Kauf wiederherstellen und mehr."
+    },
+    "privacy_card": {
+      "title": "Datenschutzerklärung",
+      "body": "Genau, was die App mit deinen Daten macht und was nicht. Kurz gesagt: Sie erfasst nichts."
+    }
+  },
+  "support": {
+    "title": "Hilfe",
+    "summary": "Alles, was du brauchst, um pünktlich durch Taipeh zu kommen, dazu Antworten auf die häufigsten Fragen.",
+    "howto_title": "So funktioniert es",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Drei Modi",
+        "body": "„Metro-Planer“ berechnet für jede Fahrt im Netz, wann du losmusst. „Xiaobitan“ zeigt Fahrplan und Countdown der Zweiglinie zwischen Qizhang und Xiaobitan. „Beitou · Xinbeitou“ macht dasselbe für die Zweiglinie nach Xinbeitou. Die App startet im „Metro-Planer“, sofern du das nicht änderst."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Modus wechseln",
+        "body": "Tippe oben in der Ecke des Bildschirms auf den runden Glas-Button, der den aktuellen Modus anzeigt, und wähle dann den gewünschten Modus."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Eine Fahrt planen",
+        "body": "Wähle Start und Ziel aus der Liste oder durch Antippen der Stationen im Netzplan, dann „Ankunft bis“ und stelle die Uhrzeit ein. Das Ergebnis zeigt, wann du in die Station gehen solltest, und jeden Abschnitt der Fahrt. Unter „Schätzung anpassen“ kannst du „Standard“ wählen, das einen halben Takt Wartezeit einplant, oder „Vorsichtig“ mit einem vollen Takt, und eine „Zugangszeit“ von bis zu 15 Minuten für den Weg in die Station und zum Bahnsteig festlegen."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Abfahrtserinnerungen",
+        "body": "Lege im Fahrplan einer Zweiglinie fest, wie viele Minuten vorher du erinnert werden möchtest, zwischen 1 und 30, und tippe dann auf den gewünschten Zug. Im „Metro-Planer“ kannst du dich erinnern lassen, wenn es Zeit zum Losgehen ist. Tippe auf eine aktive Erinnerung, um sie zu löschen."
+      },
+      {
+        "id": "default_page",
+        "title": "Die Startseite festlegen",
+        "body": "Öffne die „Einstellungen“ über das Zahnrad und gehe zu „Startseite“. Wähle „Metro-Planer“, „Xiaobitan“ oder „Beitou · Xinbeitou“."
+      },
+      {
+        "id": "language",
+        "title": "Sprache ändern",
+        "body": "Die App richtet sich standardmäßig nach der Sprache deines iPhone und bietet 50 Sprachen. Um nur in dieser App eine andere zu nutzen, öffne die „Einstellungen“, tippe auf „Sprache“ und wähle eine aus der Liste, oder wähle „Wie System“, um zurückzuwechseln."
+      }
+    ],
+    "faq_title": "Häufige Fragen",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Warum sind die Zeiten Schätzungen?",
+        "body": "Für Fahrten im gesamten Netz rechnet die App mit den offiziellen Takten und Fahrzeiten zwischen den Stationen, die die Metro Taipeh veröffentlicht. Sie empfängt keine Live-Positionen der Züge und sieht daher keine Verspätungen, Überfüllung oder Betriebsänderungen am jeweiligen Tag. Plane bei wichtigen Fahrten etwas Puffer ein, nutze den Modus „Vorsichtig“ und achte immer auf Durchsagen und Schilder in der Station."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "Woher stammen die Fahrpläne der Zweiglinien?",
+        "body": "Die Zweiglinien nach Xiaobitan und Xinbeitou fahren nach festen Fahrplänen, die die Metro Taipeh veröffentlicht, und die App verwendet genau diese Abfahrtszeiten, getrennt nach Werktagen und Wochenenden. Das Gültigkeitsdatum jedes Fahrplans steht unter „Info“ in den „Einstellungen“, und das Original-PDF des Fahrplans kannst du in der Ansicht der Zweiglinie öffnen. Veröffentlicht der Betreiber einen neuen Fahrplan, aktualisieren wir ihn mit einem App-Update."
+      },
+      {
+        "id": "notifications",
+        "title": "Ich bekomme keine Erinnerungen",
+        "body": "Wenn du zum ersten Mal eine Erinnerung einrichtest, fragt iOS, ob die App Mitteilungen senden darf. Hast du abgelehnt, zeigt die App einen Hinweis, den du antippen kannst, oder du schaltest die Mitteilungen in der iOS-App „Einstellungen“ unter „Mitteilungen“ für diese App wieder ein. Erinnerungen werden auf deinem iPhone geplant und funktionieren daher auch offline, ein Fokus kann sie aber trotzdem stummschalten."
+      },
+      {
+        "id": "restore",
+        "title": "Wie stelle ich meinen Kauf wieder her?",
+        "body": "Öffne in der App die „Einstellungen“ und tippe auf „Wiederherstellen“. Achte darauf, dass du im App Store mit demselben Apple Account angemeldet bist, mit dem du gekauft hast. Die Freischaltung kommt auch automatisch zurück, wenn du die App neu installierst oder ein neues iPhone mit diesem Account einrichtest."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "Wie funktionieren der 24-Stunden-Test und die Freischaltung?",
+        "body": "Starte den Test in der App, wann immer du bereit bist, und alle Funktionen stehen 24 Stunden lang offen. Der Test wird vom App Store erfasst, eine Neuinstallation startet ihn also nicht neu. Danach kannst du die App weiterhin sehen, und ein einmaliger Kauf schaltet alles dauerhaft frei. Es ist kein Abo und verlängert sich nie. Den Preis siehst du im App Store in deiner Landeswährung."
+      },
+      {
+        "id": "coverage",
+        "title": "Welche Linien sind enthalten?",
+        "body": "Wenhu, Tamsui-Xinyi mit der Zweiglinie nach Xinbeitou, Songshan-Xindian mit der Zweiglinie nach Xiaobitan, Zhonghe-Xinlu, Bannan und der erste Abschnitt der Ringlinie (Circular). Die Taoyuan Airport MRT und die Stadtbahnlinien sind nicht enthalten."
+      },
+      {
+        "id": "independence",
+        "title": "Ist das eine offizielle App der Metro Taipeh?",
+        "body": "Nein. Metro-Zeithelfer ist eine unabhängige App und steht in keiner Verbindung zur Taipei Rapid Transit Corporation, die sie auch nicht unterstützt. Sie nutzt die offiziellen öffentlichen Daten der Metro Taipeh. Bei Betriebsstörungen oder Fundsachen wende dich bitte direkt an den Betreiber."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "summary": "Metro-Zeithelfer erfasst keine personenbezogenen Daten. Diese Seite erklärt, was die App auf deinem iPhone tut und was sie niemals tut.",
+    "updated_label": "Zuletzt aktualisiert",
+    "section_title": "Unsere Zusagen",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Kein Konto",
+        "body": "Ein Konto ist nicht nötig. Um die App zu nutzen, musst du dich weder registrieren noch anmelden und uns weder deinen Namen noch deine E-Mail-Adresse oder Telefonnummer geben."
+      },
+      {
+        "id": "data_collection",
+        "title": "Welche Daten wir erfassen",
+        "body": "Wir erfassen keine personenbezogenen Daten. Die App greift nicht auf deinen Standort, deine Kontakte, Fotos oder irgendeine Kennung zum Tracking zu, und sie sendet die eingegebenen Stationen und Uhrzeiten weder an uns noch an Dritte."
+      },
+      {
+        "id": "on_device",
+        "title": "Alles bleibt auf deinem iPhone",
+        "body": "Alle Fahrtberechnungen laufen auf deinem Gerät mit den Fahrplandaten, die in der App enthalten sind. Deine Einstellungen, etwa Stationen, Sprache, Farben, Startseite und Erinnerungen, werden nur auf deinem iPhone gespeichert und nur mit dem Widget der App auf demselben Gerät geteilt. Wenn du die App löschst, werden sie entfernt."
+      },
+      {
+        "id": "notifications",
+        "title": "Mitteilungen",
+        "body": "Wenn du Mitteilungen erlaubst, nutzt die App sie nur für Erinnerungen, die du selbst einrichtest. Jede Erinnerung wird lokal auf deinem iPhone geplant; es ist kein Server beteiligt, und kein Inhalt einer Mitteilung verlässt dein Gerät. Du kannst Mitteilungen jederzeit in der iOS-App „Einstellungen“ ausschalten."
+      },
+      {
+        "id": "storekit",
+        "title": "Käufe über Apple",
+        "body": "Der 24-Stunden-Test und die einmalige Freischaltung werden von Apple über den App Store mit StoreKit abgewickelt. Die Zahlung verarbeitet ausschließlich Apple, und die App sieht oder speichert deine Zahlungsdaten nie. Die App fragt beim App Store nur ab, ob der Test aktiv ist oder die Freischaltung gekauft wurde."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Keine Werbung, keine Analyse, kein Tracking",
+        "body": "Wir nutzen keine Werbung von Drittanbietern. Wir nutzen keine Analysedienste von Drittanbietern. Die App enthält keinen Tracking-Code, verknüpft keine Daten mit dir und gibt keine Daten an Datenhändler weiter."
+      },
+      {
+        "id": "data_sources",
+        "title": "Fahrplandaten",
+        "body": "Fahrpläne, Takte und Fahrzeiten stammen aus den offiziellen öffentlichen Daten der Metro Taipeh und sind in der App selbst enthalten, daher brauchst du für die Abfrage einer Fahrt keine Internetverbindung. Metro-Zeithelfer ist unabhängig und steht in keiner Verbindung zur Taipei Rapid Transit Corporation."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Fragen und deine Rechte",
+        "body": "Da wir keine personenbezogenen Daten über dich speichern, gibt es nichts, was wir dir offenlegen, exportieren oder löschen könnten. Wenn du uns eine E-Mail schreibst, nutzen wir deine Nachricht nur für die Antwort und nehmen dich in keine Mailingliste auf. Schreib uns bei Fragen zum Datenschutz an die unten stehende Adresse."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Änderungen dieser Erklärung",
+        "body": "Sollte sich der Umgang der App mit Daten jemals ändern, aktualisieren wir diese Seite und das Datum „Zuletzt aktualisiert“, bevor die Änderung wirksam wird, und erklären die Änderung in den Versionshinweisen der App."
+      }
+    ]
+  }
+}

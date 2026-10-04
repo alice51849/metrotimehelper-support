@@ -1,0 +1,191 @@
+{
+  "language_name": "Français (France)",
+  "language_label": "Langue",
+  "navigation_label": "Sections du site",
+  "skip_link": "Aller au contenu",
+  "nav": {
+    "index": "Accueil",
+    "support": "Assistance",
+    "privacy": "Confidentialité"
+  },
+  "footer": "Assistant Métro est une app indépendante. Elle n’est ni affiliée à Taipei Rapid Transit Corporation, ni approuvée ou exploitée par celle-ci. Les horaires et les temps de trajet proviennent des données publiques officielles du métro de Taipei.",
+  "contact": {
+    "title": "Nous contacter",
+    "body": "Une question, un horaire qui semble erroné ou une idée pour l’app ? Écrivez-nous. Indiquez le modèle de votre iPhone, la version d’iOS, la version de l’app (visible dans « Réglages ») et les stations concernées : nous pourrons examiner votre demande plus rapidement.",
+    "button": "Écrire un e-mail"
+  },
+  "home": {
+    "title": "Dites-lui quand arriver. Il vous dit quand partir.",
+    "summary": "Un planificateur d’horaires pour le métro de Taipei sur iPhone. Choisissez vos stations et l’heure à laquelle vous devez être arrivé : l’app remonte le temps pour calculer l’heure limite à laquelle entrer en station, correspondances comprises.",
+    "section_title": "Ce qu’elle fait",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Partir de l’heure d’arrivée",
+        "body": "Indiquez où vous êtes, où vous allez et à quelle heure vous devez arriver. Vous obtenez l’heure limite pour passer les portiques, une chronologie étape par étape avec chaque correspondance, des alertes premier et dernier métro, ainsi qu’un rappel facultatif au moment de partir. Envie de partir tout de suite ? Passez sur « Partir maintenant » pour voir à quelle heure vous arriverez."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "La branche de Xiaobitan, enfin bien traitée",
+        "body": "La navette entre Qizhang et Xiaobitan ne passe qu’environ toutes les 12 à 16 minutes, et la plupart des apps d’itinéraire la survolent. Ici, vous avez les horaires fixes officiels, un compte à rebours jusqu’au prochain métro, les horaires complets du jour, de semaine et du week-end, le PDF d’origine des horaires et une alerte de 1 à 30 minutes avant le départ."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "De Beitou à Xinbeitou, pour les sources chaudes",
+        "body": "La courte branche qui mène au quartier thermal de Xinbeitou bénéficie du même traitement : les horaires fixes officiels dans les deux sens, un compte à rebours en direct et une alerte de départ. Lorsqu’un trajet planifié emprunte l’une ou l’autre branche, le planificateur s’appuie lui aussi sur les horaires fixes."
+      },
+      {
+        "id": "map_widget",
+        "title": "Un plan interactif et un widget",
+        "body": "Zoomez sur le plan du métro intégré et touchez n’importe quelle station pour en faire votre départ ou votre destination ; votre itinéraire s’affiche directement sur le plan. Les widgets de l’écran d’accueil et de l’écran verrouillé indiquent le prochain métro dans les deux sens sur la branche de votre choix."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Confidentiel par conception",
+        "body": "Aucun compte, aucune inscription. Pas de publicité, pas d’outils d’analyse tiers et aucune donnée personnelle collectée. Tous les calculs sont effectués sur votre iPhone, et les rappels sont programmés localement sur l’appareil."
+      },
+      {
+        "id": "trial",
+        "title": "Tout essayer pendant 24 heures",
+        "body": "Téléchargez l’app et lancez un essai de 24 heures avec toutes les fonctions débloquées. Ensuite, un achat unique vous permet de tout garder définitivement. Pas d’abonnement, rien ne se renouvelle."
+      }
+    ],
+    "links_title": "Besoin d’aide ?",
+    "support_card": {
+      "title": "Assistance et FAQ",
+      "body": "Le fonctionnement des trois modes, le choix de la page de démarrage et de la langue, les rappels, la restauration d’un achat, et plus encore."
+    },
+    "privacy_card": {
+      "title": "Politique de confidentialité",
+      "body": "Ce que l’app fait, et ne fait pas, de vos données. En bref : elle ne collecte rien."
+    }
+  },
+  "support": {
+    "title": "Assistance",
+    "summary": "Tout ce qu’il faut pour circuler à l’heure dans Taipei, et les réponses aux questions qu’on nous pose le plus souvent.",
+    "howto_title": "Mode d’emploi",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Trois modes",
+        "body": "« Trajet en métro » calcule l’heure de départ pour n’importe quel trajet sur le réseau. « Xiaobitan » affiche les horaires et le compte à rebours de la branche Qizhang – Xiaobitan. « Beitou · Xinbeitou » fait de même pour la branche de Xinbeitou. L’app s’ouvre sur « Trajet en métro », sauf si vous changez ce réglage."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Changer de mode",
+        "body": "Touchez le bouton rond en verre dans le coin supérieur de l’écran, celui qui affiche le mode actuel, puis choisissez le mode souhaité."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Planifier un trajet",
+        "body": "Choisissez un départ et une destination dans la liste ou en touchant les stations sur le plan, puis sélectionnez « Arriver avant » et réglez l’heure. Le résultat indique quand entrer en station et détaille chaque étape du trajet. Dans « Ajuster l’estimation », vous pouvez choisir « Standard », qui prévoit une demi-fréquence d’attente, ou « Prudent », qui prévoit une fréquence complète, et définir un « Temps d’accès au quai » allant jusqu’à 15 minutes pour entrer en station et rejoindre le quai."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Rappels de départ",
+        "body": "Sur les horaires d’une branche, indiquez combien de minutes à l’avance vous souhaitez être alerté, entre 1 et 30, puis touchez le métro voulu. Dans « Trajet en métro », vous pouvez programmer un rappel pour le moment où il faut partir. Touchez un rappel actif pour l’annuler."
+      },
+      {
+        "id": "default_page",
+        "title": "Choisir la page d’ouverture",
+        "body": "Ouvrez « Réglages » avec le bouton en forme d’engrenage, puis allez dans « Page au démarrage ». Choisissez « Trajet en métro », « Xiaobitan » ou « Beitou · Xinbeitou »."
+      },
+      {
+        "id": "language",
+        "title": "Changer de langue",
+        "body": "Par défaut, l’app suit la langue de votre iPhone et propose 50 langues. Pour en utiliser une autre dans cette app uniquement, ouvrez « Réglages », touchez « Langue » et choisissez-en une dans la liste, ou sélectionnez « Comme le système » pour revenir en arrière."
+      }
+    ],
+    "faq_title": "Questions fréquentes",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Pourquoi les horaires sont-ils des estimations ?",
+        "body": "Pour les trajets sur l’ensemble du réseau, l’app calcule à partir des fréquences officielles du métro de Taipei et des temps de parcours entre stations. Elle ne reçoit pas la position des rames en temps réel : elle ne peut donc pas voir les retards, l’affluence ou les modifications de service du jour. Prévoyez de la marge pour les trajets importants, utilisez le mode « Prudent » et suivez toujours les annonces et la signalétique en station."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "D’où viennent les horaires des branches ?",
+        "body": "Les branches de Xiaobitan et de Xinbeitou fonctionnent selon des horaires fixes publiés par le métro de Taipei, et l’app utilise exactement ces heures de départ, séparément pour la semaine et le week-end. La date d’entrée en vigueur de chaque grille figure dans « À propos », dans « Réglages », et vous pouvez ouvrir le PDF d’origine des horaires depuis l’écran de la branche. Si l’exploitant publie de nouveaux horaires, nous les intégrons dans une mise à jour de l’app."
+      },
+      {
+        "id": "notifications",
+        "title": "Je ne reçois pas les rappels",
+        "body": "La première fois que vous programmez un rappel, iOS vous demande l’autorisation d’envoyer des notifications. Si vous avez refusé, l’app affiche un message que vous pouvez toucher ; vous pouvez aussi réactiver les notifications dans l’app Réglages d’iOS, rubrique Notifications de cette app. Les rappels sont programmés sur votre iPhone et fonctionnent donc hors ligne, mais un mode de concentration peut tout de même les rendre silencieux."
+      },
+      {
+        "id": "restore",
+        "title": "Comment restaurer mon achat ?",
+        "body": "Ouvrez « Réglages » dans l’app et touchez « Restaurer ». Vérifiez que vous êtes connecté à l’App Store avec le même compte Apple que celui utilisé pour l’achat. Le déblocage est aussi rétabli automatiquement lorsque vous réinstallez l’app ou configurez un nouvel iPhone avec ce compte."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "Comment fonctionnent l’essai de 24 heures et le déblocage ?",
+        "body": "Lancez l’essai depuis l’app quand vous le souhaitez : toutes les fonctions sont accessibles pendant 24 heures. L’essai est enregistré par l’App Store, donc réinstaller l’app ne le relance pas. À la fin de l’essai, vous pouvez toujours voir l’app, et un achat unique débloque tout définitivement. Ce n’est pas un abonnement et il ne se renouvelle jamais. Le prix est affiché dans l’App Store dans votre devise locale."
+      },
+      {
+        "id": "coverage",
+        "title": "Quelles lignes sont prises en charge ?",
+        "body": "Wenhu, Tamsui-Xinyi avec la branche de Xinbeitou, Songshan-Xindian avec la branche de Xiaobitan, Zhonghe-Xinlu, Bannan et la première phase de la ligne Circulaire. Le métro de l’aéroport de Taoyuan et les lignes de tramway ne sont pas inclus."
+      },
+      {
+        "id": "independence",
+        "title": "S’agit-il d’une app officielle du métro de Taipei ?",
+        "body": "Non. Assistant Métro est une app indépendante, ni affiliée à Taipei Rapid Transit Corporation ni approuvée par celle-ci. Elle utilise les données publiques officielles du métro de Taipei. Pour les perturbations du service ou les objets perdus, veuillez contacter directement l’exploitant."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "summary": "Assistant Métro ne collecte aucune donnée personnelle. Cette page explique ce que l’app fait sur votre iPhone et ce qu’elle ne fait jamais.",
+    "updated_label": "Dernière mise à jour",
+    "section_title": "Nos engagements",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Aucun compte",
+        "body": "Aucun compte n’est nécessaire. Pour utiliser l’app, vous n’avez jamais à vous inscrire, à vous connecter ni à nous communiquer votre nom, votre adresse e-mail ou votre numéro de téléphone."
+      },
+      {
+        "id": "data_collection",
+        "title": "Données collectées",
+        "body": "Nous ne collectons aucune donnée personnelle. L’app n’accède ni à votre position, ni à vos contacts, ni à vos photos, ni à aucun identifiant de suivi, et elle n’envoie les stations ou les heures que vous saisissez ni à nous ni à personne d’autre."
+      },
+      {
+        "id": "on_device",
+        "title": "Tout reste sur votre iPhone",
+        "body": "Tous les calculs de trajet sont effectués sur votre appareil à partir des horaires intégrés à l’app. Vos réglages, comme les stations, la langue, les couleurs, la page de démarrage et les rappels, sont stockés uniquement sur votre iPhone et partagés avec le widget de l’app sur ce même appareil. Supprimer l’app les efface."
+      },
+      {
+        "id": "notifications",
+        "title": "Utilisation des notifications",
+        "body": "Si vous autorisez les notifications, l’app ne les utilise que pour les rappels que vous programmez vous-même. Chaque rappel est programmé localement sur votre iPhone ; aucun serveur n’intervient et aucun contenu de notification ne quitte votre appareil. Vous pouvez désactiver les notifications à tout moment dans l’app Réglages d’iOS."
+      },
+      {
+        "id": "storekit",
+        "title": "Achats via Apple",
+        "body": "L’essai de 24 heures et le déblocage unique sont gérés par Apple via l’App Store, avec StoreKit. Le paiement est entièrement traité par Apple, et l’app ne voit ni ne stocke jamais vos informations de paiement. L’app vérifie seulement auprès de l’App Store si l’essai est actif ou si le déblocage a été acheté."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Ni publicité, ni analyse, ni suivi",
+        "body": "Nous n’utilisons aucune publicité tierce. Nous n’utilisons aucun outil d’analyse tiers. L’app ne contient aucun code de suivi, n’associe aucune donnée à votre identité et n’en partage aucune avec des courtiers en données."
+      },
+      {
+        "id": "data_sources",
+        "title": "Données horaires",
+        "body": "Les horaires, les fréquences et les temps de parcours proviennent des données publiques officielles du métro de Taipei et sont intégrés à l’app elle-même : rechercher un trajet ne nécessite donc pas de connexion Internet. Assistant Métro est indépendante et n’est pas affiliée à Taipei Rapid Transit Corporation."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Questions et droits",
+        "body": "Comme nous ne détenons aucune donnée personnelle vous concernant, il n’y a rien à consulter, à exporter ou à supprimer. Si vous nous écrivez par e-mail, nous utilisons votre message uniquement pour vous répondre et ne vous ajoutons à aucune liste de diffusion. Pour toute question sur la confidentialité, écrivez à l’adresse ci-dessous."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Modifications de cette politique",
+        "body": "Si la façon dont l’app traite les données venait à changer, nous mettrions à jour cette page et la date de dernière mise à jour avant l’entrée en vigueur du changement, et nous l’expliquerions dans les notes de version de l’app."
+      }
+    ]
+  }
+}

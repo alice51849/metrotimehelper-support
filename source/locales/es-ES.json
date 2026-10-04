@@ -1,0 +1,191 @@
+{
+  "language_name": "Español (España)",
+  "language_label": "Idioma",
+  "navigation_label": "Secciones del sitio",
+  "skip_link": "Ir al contenido",
+  "nav": {
+    "index": "Inicio",
+    "support": "Soporte",
+    "privacy": "Privacidad"
+  },
+  "footer": "Metro a Tiempo es una app independiente. No está vinculada a Taipei Rapid Transit Corporation, ni cuenta con su respaldo, ni la gestiona esta empresa. Los horarios y tiempos de viaje proceden de los datos públicos oficiales del metro de Taipéi.",
+  "contact": {
+    "title": "Contacto",
+    "body": "¿Tienes alguna duda, un horario que parece incorrecto o una idea para la app? Escríbenos. Si nos indicas el modelo de tu iPhone, la versión de iOS, la versión de la app (aparece en «Ajustes») y las estaciones afectadas, podremos revisarlo antes.",
+    "button": "Enviar correo"
+  },
+  "home": {
+    "title": "Dile cuándo quieres llegar. Te dice cuándo salir.",
+    "summary": "Un planificador de horarios del metro de Taipéi para iPhone. Elige tus estaciones y la hora a la que tienes que estar allí, y calcula hacia atrás la hora límite para entrar en la estación, transbordos incluidos.",
+    "section_title": "Qué hace",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Planifica a partir de la hora de llegada",
+        "body": "Indica dónde estás, adónde vas y a qué hora tienes que llegar. Obtienes la hora límite para pasar los tornos, una cronología paso a paso con cada transbordo, avisos de primer y último tren y, si quieres, un recordatorio para salir a tiempo. ¿Prefieres irte ya? Cambia a «Salir ya» y verás a qué hora llegarás."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "El ramal de Xiaobitan, como debe ser",
+        "body": "La lanzadera entre Qizhang y Xiaobitan solo pasa cada 12 a 16 minutos aproximadamente, y la mayoría de las apps de rutas apenas le prestan atención. Aquí tienes el horario fijo oficial, una cuenta atrás hasta el próximo tren, los horarios completos de hoy, de laborables y de fin de semana, el PDF original del horario y un aviso de 1 a 30 minutos antes de la salida."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "De Beitou a Xinbeitou, rumbo a las aguas termales",
+        "body": "El corto ramal hacia la zona termal de Xinbeitou recibe el mismo trato: el horario fijo oficial en ambos sentidos, una cuenta atrás en directo y un aviso de salida. Cuando un trayecto planificado pasa por cualquiera de los dos ramales, el planificador también usa el horario fijo."
+      },
+      {
+        "id": "map_widget",
+        "title": "Un plano interactivo y un widget",
+        "body": "Amplía el plano del metro integrado con los dedos y toca cualquier estación para fijarla como origen o destino; tu ruta se dibuja directamente sobre el plano. Los widgets de la pantalla de inicio y de la pantalla bloqueada muestran el próximo tren en ambos sentidos del ramal que elijas."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Privacidad desde el diseño",
+        "body": "Sin cuenta y sin registro. Sin anuncios, sin analíticas de terceros y sin recopilar datos personales. Todos los cálculos se hacen en tu iPhone y los recordatorios se programan localmente en el dispositivo."
+      },
+      {
+        "id": "trial",
+        "title": "Pruébalo todo durante 24 horas",
+        "body": "Descarga la app e inicia una prueba de 24 horas con todas las funciones desbloqueadas. Después, una única compra te permite quedártelo todo para siempre. No hay suscripción y nada se renueva."
+      }
+    ],
+    "links_title": "¿Necesitas ayuda?",
+    "support_card": {
+      "title": "Soporte y preguntas frecuentes",
+      "body": "Cómo funcionan los tres modos, cómo elegir la pantalla de inicio y el idioma, los recordatorios, cómo restaurar una compra y mucho más."
+    },
+    "privacy_card": {
+      "title": "Política de privacidad",
+      "body": "Qué hace y qué no hace la app con tus datos. En resumen: no recopila nada."
+    }
+  },
+  "support": {
+    "title": "Soporte",
+    "summary": "Todo lo que necesitas para moverte por Taipéi a tiempo, además de las respuestas a las preguntas que más nos hacen.",
+    "howto_title": "Cómo se usa",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Tres modos",
+        "body": "«Planificador de metro» calcula cuándo salir para cualquier trayecto de la red. «Xiaobitan» muestra el horario y la cuenta atrás del ramal de Qizhang y Xiaobitan. «Beitou · Xinbeitou» hace lo mismo con el ramal de Xinbeitou. La app se abre en «Planificador de metro» salvo que lo cambies."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Cambiar de modo",
+        "body": "Toca el botón redondo de cristal de la esquina superior de la pantalla, el que muestra el modo actual, y elige el modo que quieras."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Planificar un trayecto",
+        "body": "Elige un origen y un destino en la lista o tocando las estaciones en el plano, selecciona «Llegar antes de» y ajusta la hora. El resultado indica cuándo entrar en la estación y cada tramo del trayecto. En «Ajustar cálculo» puedes elegir «Estándar», que cuenta con medio intervalo de espera, o «Prudente», que cuenta con un intervalo completo, y fijar un «Margen de entrada» de hasta 15 minutos para entrar en la estación y llegar al andén."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Recordatorios de salida",
+        "body": "En el horario de un ramal, indica con cuántos minutos de antelación quieres el aviso, entre 1 y 30, y toca el tren que te interese. En «Planificador de metro» puedes poner un recordatorio para cuando sea hora de salir. Toca un recordatorio activo para cancelarlo."
+      },
+      {
+        "id": "default_page",
+        "title": "Elegir la pantalla de inicio",
+        "body": "Abre «Ajustes» con el botón del engranaje y ve a «Pantalla al abrir». Elige «Planificador de metro», «Xiaobitan» o «Beitou · Xinbeitou»."
+      },
+      {
+        "id": "language",
+        "title": "Cambiar el idioma",
+        "body": "Por defecto, la app usa el idioma de tu iPhone y ofrece 50 idiomas. Para usar otro solo en esta app, abre «Ajustes», toca «Idioma» y elige uno de la lista, o selecciona «Según el sistema» para volver al de siempre."
+      }
+    ],
+    "faq_title": "Preguntas frecuentes",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "¿Por qué los horarios son estimados?",
+        "body": "Para los trayectos por la red, la app calcula a partir de las frecuencias oficiales del metro de Taipéi y de los tiempos de recorrido entre estaciones. No recibe la posición de los trenes en tiempo real, así que no puede ver retrasos, aglomeraciones ni cambios en el servicio del día. Deja algo de margen en los trayectos importantes, usa el modo «Prudente» y sigue siempre los avisos y la señalización de la estación."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "¿De dónde salen los horarios de los ramales?",
+        "body": "Los ramales de Xiaobitan y Xinbeitou funcionan con horarios fijos publicados por el metro de Taipéi, y la app usa exactamente esas horas de salida, por separado para laborables y fines de semana. La fecha de entrada en vigor de cada horario aparece en «Acerca de», dentro de «Ajustes», y puedes abrir el PDF original del horario desde la pantalla del ramal. Si el operador publica un horario nuevo, lo actualizamos en una actualización de la app."
+      },
+      {
+        "id": "notifications",
+        "title": "No me llegan los recordatorios",
+        "body": "La primera vez que pones un recordatorio, iOS te pide permiso para enviar notificaciones. Si lo rechazaste, la app muestra un aviso que puedes tocar, o puedes volver a activar las notificaciones en la app Ajustes de iOS, en el apartado Notificaciones de esta app. Los recordatorios se programan en tu iPhone, así que funcionan sin conexión, pero un modo de concentración puede silenciarlos."
+      },
+      {
+        "id": "restore",
+        "title": "¿Cómo restauro mi compra?",
+        "body": "Abre «Ajustes» en la app y toca «Restaurar». Asegúrate de haber iniciado sesión en el App Store con la misma cuenta de Apple que usaste para comprarla. El desbloqueo también se recupera automáticamente al reinstalar la app o al configurar un iPhone nuevo con esa cuenta."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "¿Cómo funcionan la prueba de 24 horas y el desbloqueo?",
+        "body": "Inicia la prueba desde la app cuando quieras y tendrás todas las funciones disponibles durante 24 horas. El App Store registra la prueba, así que reinstalar la app no la reinicia. Cuando termina, puedes seguir viendo la app, y una única compra lo desbloquea todo para siempre. No es una suscripción y nunca se renueva. El precio aparece en el App Store en tu moneda local."
+      },
+      {
+        "id": "coverage",
+        "title": "¿Qué líneas incluye?",
+        "body": "Wenhu, Tamsui-Xinyi con el ramal de Xinbeitou, Songshan-Xindian con el ramal de Xiaobitan, Zhonghe-Xinlu, Bannan y la primera fase de la línea Circular. No se incluyen el metro del aeropuerto de Taoyuan ni las líneas de tren ligero."
+      },
+      {
+        "id": "independence",
+        "title": "¿Es una app oficial del metro de Taipéi?",
+        "body": "No. Metro a Tiempo es una app independiente y no está vinculada a Taipei Rapid Transit Corporation ni cuenta con su respaldo. Usa los datos públicos oficiales del metro de Taipéi. Para incidencias en el servicio u objetos perdidos, ponte en contacto directamente con el operador."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Política de privacidad",
+    "summary": "Metro a Tiempo no recopila datos personales. Esta página explica qué hace la app en tu iPhone y qué no hace nunca.",
+    "updated_label": "Última actualización",
+    "section_title": "Nuestros compromisos",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Sin cuenta",
+        "body": "No hace falta ninguna cuenta. Para usar la app nunca tienes que registrarte, iniciar sesión ni darnos tu nombre, correo electrónico o número de teléfono."
+      },
+      {
+        "id": "data_collection",
+        "title": "Datos que recopilamos",
+        "body": "No recopilamos datos personales. La app no accede a tu ubicación, contactos, fotos ni a ningún identificador de seguimiento, y no nos envía a nosotros ni a nadie las estaciones u horas que introduces."
+      },
+      {
+        "id": "on_device",
+        "title": "Todo se queda en tu iPhone",
+        "body": "Todos los cálculos de trayectos se hacen en tu dispositivo con los horarios integrados en la app. Tus ajustes, como estaciones, idioma, colores, pantalla de inicio y recordatorios, se guardan solo en tu iPhone y se comparten con el widget de la propia app en el mismo dispositivo. Si eliminas la app, se borran."
+      },
+      {
+        "id": "notifications",
+        "title": "Notificaciones",
+        "body": "Si permites las notificaciones, la app solo las usa para los recordatorios que configures tú. Cada recordatorio se programa localmente en tu iPhone; no interviene ningún servidor y ningún contenido de las notificaciones sale de tu dispositivo. Puedes desactivarlas en cualquier momento en la app Ajustes de iOS."
+      },
+      {
+        "id": "storekit",
+        "title": "Compras a través de Apple",
+        "body": "Apple gestiona la prueba de 24 horas y el desbloqueo único a través del App Store mediante StoreKit. El pago lo procesa íntegramente Apple, y la app nunca ve ni guarda tus datos de pago. La app solo consulta al App Store si la prueba está activa o si se ha comprado el desbloqueo."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Sin anuncios, sin analíticas, sin rastreo",
+        "body": "No usamos publicidad de terceros. No usamos analíticas de terceros. La app no contiene código de rastreo, no vincula datos contigo ni los comparte con intermediarios de datos."
+      },
+      {
+        "id": "data_sources",
+        "title": "Datos de horarios",
+        "body": "Los horarios, las frecuencias y los tiempos de recorrido proceden de los datos públicos oficiales del metro de Taipéi y vienen incluidos en la propia app, así que consultar un trayecto no requiere conexión a Internet. Metro a Tiempo es independiente y no está vinculada a Taipei Rapid Transit Corporation."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Preguntas y tus derechos",
+        "body": "Como no tenemos ningún dato personal tuyo, no hay nada que consultar, exportar ni eliminar. Si nos escribes un correo, usamos tu mensaje solo para responderte y no te añadimos a ninguna lista de correo. Para cualquier duda sobre privacidad, escríbenos a la dirección que aparece abajo."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Cambios en esta política",
+        "body": "Si alguna vez cambia la forma en que la app trata los datos, actualizaremos esta página y la fecha de última actualización antes de que el cambio entre en vigor, y lo explicaremos en las notas de la versión de la app."
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "language_name": "Română",
+  "language_label": "Limbă",
+  "navigation_label": "Secțiunile site-ului",
+  "skip_link": "Salt la conținut",
+  "nav": {
+    "index": "Acasă",
+    "support": "Asistență",
+    "privacy": "Confidențialitate"
+  },
+  "footer": "Metrou la Timp este o aplicație independentă. Nu este afiliată cu Taipei Rapid Transit Corporation și nici aprobată sau operată de aceasta. Orarele și duratele călătoriilor provin din datele publice oficiale ale metroului din Taipei.",
+  "contact": {
+    "title": "Contactați-ne",
+    "body": "Aveți o întrebare, ați găsit un orar care pare greșit sau aveți o idee pentru aplicație? Scrieți-ne. Dacă ne spuneți modelul iPhone-ului, versiunea iOS, versiunea aplicației (afișată în „Configurări”) și stațiile în cauză, vom putea verifica mai repede.",
+    "button": "Trimiteți un e-mail"
+  },
+  "home": {
+    "title": "Spuneți-i când vreți să ajungeți. Vă spune când să plecați.",
+    "summary": "Un planificator de orar pentru metroul din Taipei, pe iPhone. Alegeți stațiile și ora la care trebuie să fiți acolo, iar aplicația calculează invers cea mai târzie oră la care trebuie să intrați în stație, inclusiv cu schimbările de linie.",
+    "section_title": "Ce face",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Planificați pornind de la ora sosirii",
+        "body": "Alegeți unde vă aflați, unde mergeți și când trebuie să ajungeți. Primiți cea mai târzie oră la care să treceți de turnichete, o cronologie pas cu pas cu fiecare schimbare, avertismente pentru primul și ultimul tren și, opțional, un memento când e momentul să plecați. Preferați să porniți imediat? Treceți la „Plecați acum” și vedeți la ce oră veți ajunge."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "Ramura Xiaobitan, tratată cum se cuvine",
+        "body": "Naveta dintre Qizhang și Xiaobitan circulă doar o dată la aproximativ 12–16 minute, iar majoritatea aplicațiilor de rute o tratează superficial. Aici aveți orarul fix oficial, o numărătoare inversă până la următorul tren, orarele complete pentru azi, zilele lucrătoare și weekend, PDF-ul original al orarului și o alertă cu 1 până la 30 de minute înainte de plecare."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "De la Beitou la Xinbeitou, spre izvoarele termale",
+        "body": "Scurta ramură spre zona izvoarelor termale din Xinbeitou beneficiază de același tratament: orarul fix oficial în ambele sensuri, o numărătoare inversă în timp real și o alertă de plecare. Când o călătorie planificată folosește oricare dintre ramuri, planificatorul folosește și el orarul fix."
+      },
+      {
+        "id": "map_widget",
+        "title": "O hartă interactivă și un widget",
+        "body": "Măriți cu două degete harta metroului inclusă și atingeți orice stație pentru a o seta ca punct de plecare sau destinație; traseul este desenat direct pe hartă. Widgeturile pentru ecranul principal și ecranul de blocare arată următorul tren în ambele sensuri pe ramura aleasă."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Confidențialitate din proiectare",
+        "body": "Fără cont și fără înregistrare. Fără reclame, fără instrumente de analiză terțe și fără colectarea datelor personale. Toate calculele se fac pe iPhone-ul dvs., iar mementourile sunt programate local, pe dispozitiv."
+      },
+      {
+        "id": "trial",
+        "title": "Încercați totul timp de 24 de ore",
+        "body": "Descărcați aplicația și porniți o perioadă de probă de 24 de ore cu toate funcțiile deblocate. După aceea, o singură achiziție vă permite să păstrați totul definitiv. Nu există abonament și nimic nu se reînnoiește."
+      }
+    ],
+    "links_title": "Aveți nevoie de ajutor?",
+    "support_card": {
+      "title": "Asistență și întrebări frecvente",
+      "body": "Cum funcționează cele trei moduri, cum alegeți pagina de pornire și limba, mementourile, restaurarea unei achiziții și multe altele."
+    },
+    "privacy_card": {
+      "title": "Politica de confidențialitate",
+      "body": "Exact ce face și ce nu face aplicația cu datele dvs. Pe scurt: nu colectează nimic."
+    }
+  },
+  "support": {
+    "title": "Asistență",
+    "summary": "Tot ce vă trebuie ca să vă deplasați la timp prin Taipei, plus răspunsurile la întrebările pe care le primim cel mai des.",
+    "howto_title": "Cum se folosește",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Trei moduri",
+        "body": "„Planificator metrou” calculează când să plecați pentru orice călătorie în rețea. „Xiaobitan” afișează orarul și numărătoarea inversă pentru ramura Qizhang–Xiaobitan. „Beitou · Xinbeitou” face același lucru pentru ramura Xinbeitou. Aplicația se deschide în „Planificator metrou”, dacă nu schimbați această opțiune."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Schimbarea modului",
+        "body": "Atingeți butonul rotund din sticlă din colțul de sus al ecranului, cel care arată modul curent, apoi alegeți modul dorit."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Planificarea unei călătorii",
+        "body": "Alegeți o stație de plecare și o destinație din listă sau atingând stațiile pe hartă, apoi selectați „Sosire până la” și setați ora. Rezultatul arată când să intrați în stație și fiecare etapă a călătoriei. În „Ajustați estimarea” puteți alege „Standard”, care ia în calcul o jumătate de interval de așteptare, sau „Prudent”, care ia în calcul un interval întreg, și puteți seta o „Rezervă la intrare” de până la 15 minute pentru intrarea în stație și ajungerea pe peron."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Mementouri de plecare",
+        "body": "În orarul unei ramuri, setați cu câte minute înainte doriți să fiți alertat, între 1 și 30, apoi atingeți trenul dorit. În „Planificator metrou” puteți seta un memento pentru momentul în care trebuie să plecați. Atingeți un memento activ pentru a-l anula."
+      },
+      {
+        "id": "default_page",
+        "title": "Alegerea paginii de deschidere",
+        "body": "Deschideți „Configurări” cu butonul în formă de rotiță și mergeți la „Pagina la pornire”. Alegeți „Planificator metrou”, „Xiaobitan” sau „Beitou · Xinbeitou”."
+      },
+      {
+        "id": "language",
+        "title": "Schimbarea limbii",
+        "body": "În mod implicit, aplicația urmează limba iPhone-ului și oferă 50 de limbi. Pentru a folosi altă limbă doar în această aplicație, deschideți „Configurări”, atingeți „Limbă” și alegeți una din listă, sau alegeți „La fel ca sistemul” pentru a reveni."
+      }
+    ],
+    "faq_title": "Întrebări frecvente",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "De ce orele sunt estimative?",
+        "body": "Pentru călătoriile în rețea, aplicația calculează pe baza intervalelor oficiale ale metroului din Taipei și a duratelor de parcurs între stații. Nu primește poziția trenurilor în timp real, deci nu poate vedea întârzierile, aglomerația sau modificările de program din ziua respectivă. Lăsați-vă o marjă pentru călătoriile importante, folosiți modul „Prudent” și urmați întotdeauna anunțurile și indicatoarele din stație."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "De unde provin orarele ramurilor?",
+        "body": "Ramurile Xiaobitan și Xinbeitou circulă după orare fixe publicate de metroul din Taipei, iar aplicația folosește exact acele ore de plecare, separat pentru zilele lucrătoare și weekend. Data intrării în vigoare a fiecărui orar apare la „Despre”, în „Configurări”, iar PDF-ul original al orarului îl puteți deschide din ecranul ramurii. Dacă operatorul publică un orar nou, îl actualizăm printr-o actualizare a aplicației."
+      },
+      {
+        "id": "notifications",
+        "title": "Nu primesc mementourile",
+        "body": "Prima dată când setați un memento, iOS vă cere permisiunea de a trimite notificări. Dacă ați refuzat, aplicația afișează un mesaj pe care îl puteți atinge, sau puteți reactiva notificările în aplicația Configurări din iOS, la Notificări pentru această aplicație. Mementourile sunt programate pe iPhone, deci funcționează offline, dar un mod de concentrare le poate totuși reduce la tăcere."
+      },
+      {
+        "id": "restore",
+        "title": "Cum îmi restaurez achiziția?",
+        "body": "Deschideți „Configurări” în aplicație și atingeți „Restaurați”. Asigurați-vă că sunteți autentificat în App Store cu același cont Apple folosit la cumpărare. Deblocarea revine și automat când reinstalați aplicația sau configurați un iPhone nou cu acel cont."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "Cum funcționează perioada de probă de 24 de ore și deblocarea?",
+        "body": "Porniți perioada de probă din aplicație oricând doriți, iar toate funcțiile sunt disponibile timp de 24 de ore. Perioada de probă este înregistrată de App Store, așa că reinstalarea nu o repornește. După ce se încheie, puteți vedea în continuare aplicația, iar o achiziție unică deblochează totul definitiv. Nu este un abonament și nu se reînnoiește niciodată. Prețul este afișat în App Store în moneda dvs. locală."
+      },
+      {
+        "id": "coverage",
+        "title": "Ce linii sunt incluse?",
+        "body": "Wenhu, Tamsui-Xinyi cu ramura Xinbeitou, Songshan-Xindian cu ramura Xiaobitan, Zhonghe-Xinlu, Bannan și prima etapă a liniei Circulare. Metroul aeroportului Taoyuan și liniile de metrou ușor nu sunt incluse."
+      },
+      {
+        "id": "independence",
+        "title": "Este o aplicație oficială a metroului din Taipei?",
+        "body": "Nu. Metrou la Timp este o aplicație independentă și nu este afiliată cu Taipei Rapid Transit Corporation și nici aprobată de aceasta. Folosește datele publice oficiale ale metroului din Taipei. Pentru întreruperi ale serviciului sau obiecte pierdute, vă rugăm să contactați direct operatorul."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Politica de confidențialitate",
+    "summary": "Metrou la Timp nu colectează date personale. Această pagină explică ce face aplicația pe iPhone-ul dvs. și ce nu face niciodată.",
+    "updated_label": "Ultima actualizare",
+    "section_title": "Angajamentele noastre",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Fără cont",
+        "body": "Nu este necesar niciun cont. Pentru a folosi aplicația nu trebuie să vă înregistrați, să vă autentificați sau să ne dați numele, adresa de e-mail ori numărul de telefon."
+      },
+      {
+        "id": "data_collection",
+        "title": "Datele pe care le colectăm",
+        "body": "Nu colectăm date personale. Aplicația nu accesează locația, contactele, pozele sau vreun identificator de urmărire și nu trimite stațiile ori orele introduse nici nouă, nici altcuiva."
+      },
+      {
+        "id": "on_device",
+        "title": "Totul rămâne pe iPhone-ul dvs.",
+        "body": "Toate calculele călătoriilor se fac pe dispozitiv, folosind orarele incluse în aplicație. Configurările dvs., cum ar fi stațiile, limba, culorile, pagina de pornire și mementourile, sunt stocate doar pe iPhone și partajate cu widgetul aplicației de pe același dispozitiv. Ștergerea aplicației le elimină."
+      },
+      {
+        "id": "notifications",
+        "title": "Notificări",
+        "body": "Dacă permiteți notificările, aplicația le folosește doar pentru mementourile pe care le setați dvs. Fiecare memento este programat local pe iPhone; nu este implicat niciun server și niciun conținut al notificărilor nu părăsește dispozitivul. Puteți dezactiva notificările oricând în aplicația Configurări din iOS."
+      },
+      {
+        "id": "storekit",
+        "title": "Achiziții prin Apple",
+        "body": "Perioada de probă de 24 de ore și deblocarea unică sunt gestionate de Apple prin App Store, folosind StoreKit. Plata este procesată în întregime de Apple, iar aplicația nu vede și nu stochează niciodată datele dvs. de plată. Aplicația verifică doar la App Store dacă perioada de probă este activă sau dacă deblocarea a fost cumpărată."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Fără reclame, fără analiză, fără urmărire",
+        "body": "Nu folosim publicitate terță. Nu folosim instrumente de analiză terțe. Aplicația nu conține cod de urmărire, nu asociază date cu persoana dvs. și nu le partajează cu brokeri de date."
+      },
+      {
+        "id": "data_sources",
+        "title": "Datele orarelor",
+        "body": "Orarele, intervalele și duratele de parcurs provin din datele publice oficiale ale metroului din Taipei și sunt incluse în aplicație, așa că pentru a căuta o călătorie nu aveți nevoie de conexiune la internet. Metrou la Timp este independentă și nu este afiliată cu Taipei Rapid Transit Corporation."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Întrebări și drepturile dvs.",
+        "body": "Deoarece nu deținem niciun fel de date personale despre dvs., nu avem nimic de accesat, exportat sau șters. Dacă ne scrieți un e-mail, folosim mesajul doar pentru a vă răspunde și nu vă adăugăm în nicio listă de corespondență. Pentru orice întrebare despre confidențialitate, scrieți-ne la adresa de mai jos."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Modificări ale acestei politici",
+        "body": "Dacă modul în care aplicația gestionează datele se va schimba vreodată, vom actualiza această pagină și data ultimei actualizări înainte ca schimbarea să intre în vigoare și vom explica modificarea în notele de versiune ale aplicației."
+      }
+    ]
+  }
+}

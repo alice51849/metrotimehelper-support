@@ -1,0 +1,191 @@
+{
+  "language_name": "Türkçe",
+  "language_label": "Dil",
+  "navigation_label": "Site bölümleri",
+  "skip_link": "İçeriğe geç",
+  "nav": {
+    "index": "Ana Sayfa",
+    "support": "Destek",
+    "privacy": "Gizlilik"
+  },
+  "footer": "Metro Saat Yardımcısı bağımsız bir uygulamadır. Taipei Rapid Transit Corporation ile bağlantılı değildir, bu kuruluş tarafından onaylanmamıştır ve işletilmemektedir. Tarifeler ve yolculuk süreleri Taipei Metrosu'nun resmî açık verilerinden alınır.",
+  "contact": {
+    "title": "Bize ulaşın",
+    "body": "Bir sorunuz mu var, bir tarife yanlış mı görünüyor ya da uygulama için bir fikriniz mi var? Bize yazın. iPhone modelinizi, iOS sürümünüzü, uygulama sürümünü (“Ayarlar”da görünür) ve ilgili istasyonları belirtirseniz konuyu daha hızlı inceleyebiliriz.",
+    "button": "E-posta gönder"
+  },
+  "home": {
+    "title": "Ne zaman varmanız gerektiğini söyleyin, ne zaman çıkmanız gerektiğini o söylesin.",
+    "summary": "iPhone için bir Taipei metro saat planlayıcısı. İstasyonlarınızı ve orada olmanız gereken saati seçin; uygulama aktarmalar dahil geriye doğru hesaplayarak istasyona en geç ne zaman girmeniz gerektiğini bulur.",
+    "section_title": "Neler yapar",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Varış saatinizden geriye doğru planlayın",
+        "body": "Nerede olduğunuzu, nereye gittiğinizi ve en geç ne zaman varmanız gerektiğini seçin. Turnikelerden en geç ne zaman geçmeniz gerektiğini, her aktarmayı gösteren adım adım bir zaman çizelgesini, ilk ve son tren uyarılarını ve isteğe bağlı bir çıkış hatırlatıcısını görürsünüz. Hemen yola çıkmak mı istiyorsunuz? “Şimdi çıkış” moduna geçin ve ne zaman varacağınızı görün."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "Xiaobitan hattı, olması gerektiği gibi",
+        "body": "Qizhang ile Xiaobitan arasındaki mekik seferleri yalnızca yaklaşık 12 ila 16 dakikada bir yapılır ve çoğu rota uygulaması bunu geçiştirir. Burada resmî sabit tarifeyi, sonraki trene geri sayımı, bugün, hafta içi ve hafta sonu için tam tarifeleri, orijinal tarife PDF'ini ve kalkıştan 1 ila 30 dakika önce bir uyarıyı bulursunuz."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "Beitou'dan Xinbeitou'ya, kaplıcalar için",
+        "body": "Xinbeitou kaplıca bölgesine giden kısa yan hat da aynı özeni görür: iki yönde resmî sabit tarife, canlı geri sayım ve kalkış uyarısı. Planlanan bir yolculuk bu yan hatlardan birini kullanıyorsa planlayıcı da sabit tarifeyi esas alır."
+      },
+      {
+        "id": "map_widget",
+        "title": "Dokunabileceğiniz bir harita ve bir widget",
+        "body": "Yerleşik metro haritasını iki parmakla yakınlaştırın ve herhangi bir istasyona dokunarak onu başlangıç ya da varış noktanız yapın; rotanız doğrudan haritanın üzerinde çizilir. Ana Ekran ve Kilitli Ekran widget'ları, seçtiğiniz yan hatta iki yöndeki sonraki treni gösterir."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Gizlilik temelden düşünüldü",
+        "body": "Hesap yok, kayıt yok. Reklam yok, üçüncü taraf analiz yok ve hiçbir kişisel veri toplanmaz. Tüm hesaplamalar iPhone'unuzda yapılır, hatırlatıcılar da cihazda yerel olarak planlanır."
+      },
+      {
+        "id": "trial",
+        "title": "Her şeyi 24 saat deneyin",
+        "body": "Uygulamayı indirin ve tüm özellikleri açık 24 saatlik bir deneme başlatın. Ardından tek seferlik bir satın alma ile her şey kalıcı olarak sizin olur. Abonelik yoktur ve hiçbir şey otomatik yenilenmez."
+      }
+    ],
+    "links_title": "Yardım mı gerekiyor?",
+    "support_card": {
+      "title": "Destek ve SSS",
+      "body": "Üç modun nasıl çalıştığı, açılış sayfasını ve dili ayarlama, hatırlatıcılar, satın alımı geri yükleme ve daha fazlası."
+    },
+    "privacy_card": {
+      "title": "Gizlilik Politikası",
+      "body": "Uygulamanın verilerinizle tam olarak neler yaptığı ve neler yapmadığı. Kısacası: hiçbir şey toplamaz."
+    }
+  },
+  "support": {
+    "title": "Destek",
+    "summary": "Taipei'de zamanında yol almak için ihtiyacınız olan her şey ve en sık duyduğumuz soruların yanıtları.",
+    "howto_title": "Nasıl kullanılır",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Üç mod",
+        "body": "“Metro Yolculuk Planı”, ağdaki her yolculuk için ne zaman çıkmanız gerektiğini hesaplar. “Xiaobitan”, Qizhang–Xiaobitan yan hattının tarifesini ve geri sayımını gösterir. “Beitou · Xinbeitou” aynısını Xinbeitou yan hattı için yapar. Siz değiştirmedikçe uygulama “Metro Yolculuk Planı” ile açılır."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Modlar arasında geçiş",
+        "body": "Ekranın üst köşesindeki, geçerli modu gösteren yuvarlak cam düğmeye dokunun, ardından istediğiniz modu seçin."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Yolculuk planlama",
+        "body": "Başlangıç ve varış istasyonunu listeden ya da haritadaki istasyonlara dokunarak seçin, ardından “En geç varış” seçeneğini seçip saati ayarlayın. Sonuç, istasyona ne zaman girmeniz gerektiğini ve yolculuğun her bir ayağını gösterir. “Tahmini ayarla” altında, bekleme için sefer aralığının yarısını hesaba katan “Standart” ya da sefer aralığının tamamını hesaba katan “Temkinli” seçeneğini seçebilir; istasyona girip perona ulaşmak için en fazla 15 dakikalık bir “Giriş payı” ayarlayabilirsiniz."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Kalkış hatırlatıcıları",
+        "body": "Bir yan hat tarifesinde, kaç dakika önceden uyarılmak istediğinizi 1 ile 30 arasında ayarlayın, ardından istediğiniz trene dokunun. “Metro Yolculuk Planı”nda yola çıkma zamanı geldiğinde sizi uyaracak bir hatırlatıcı kurabilirsiniz. Etkin bir hatırlatıcıyı iptal etmek için ona dokunun."
+      },
+      {
+        "id": "default_page",
+        "title": "Açılış sayfasını seçme",
+        "body": "Dişli düğmesiyle “Ayarlar”ı açın ve “Açılış sayfası”na gidin. “Metro Yolculuk Planı”, “Xiaobitan” ya da “Beitou · Xinbeitou” seçeneğini seçin."
+      },
+      {
+        "id": "language",
+        "title": "Dili değiştirme",
+        "body": "Uygulama varsayılan olarak iPhone'unuzun dilini kullanır ve 50 dil sunar. Yalnızca bu uygulamada farklı bir dil kullanmak için “Ayarlar”ı açın, “Dil”e dokunun ve listeden birini seçin; geri dönmek için “Sistemle aynı” seçeneğini seçin."
+      }
+    ],
+    "faq_title": "Sık sorulan sorular",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Süreler neden tahmini?",
+        "body": "Ağ genelindeki yolculuklar için uygulama, Taipei Metrosu'nun resmî sefer aralıklarından ve istasyonlar arası seyahat sürelerinden hesaplama yapar. Trenlerin anlık konumlarını almaz; bu yüzden o günkü gecikmeleri, kalabalığı veya sefer değişikliklerini göremez. Önemli yolculuklar için kendinize pay bırakın, “Temkinli” modunu kullanın ve her zaman istasyondaki anonslara ve tabelalara uyun."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "Yan hat tarifeleri nereden geliyor?",
+        "body": "Xiaobitan ve Xinbeitou yan hatları, Taipei Metrosu'nun yayımladığı sabit tarifelerle çalışır ve uygulama, hafta içi ve hafta sonu için ayrı ayrı, tam olarak bu kalkış saatlerini kullanır. Her tarifenin yürürlük tarihi “Ayarlar” içindeki “Hakkında” bölümünde gösterilir; orijinal tarife PDF'ini de yan hat ekranından açabilirsiniz. İşletmeci yeni bir tarife yayımlarsa bunu bir uygulama güncellemesiyle yeniliyoruz."
+      },
+      {
+        "id": "notifications",
+        "title": "Hatırlatıcılar gelmiyor",
+        "body": "İlk kez bir hatırlatıcı kurduğunuzda iOS bildirim göndermek için izin ister. İzin vermediyseniz uygulama dokunabileceğiniz bir uyarı gösterir; ya da iOS Ayarlar uygulamasında bu uygulamanın Bildirimler bölümünden bildirimleri yeniden açabilirsiniz. Hatırlatıcılar iPhone'unuzda planlandığı için çevrimdışı da çalışır, ancak bir Odak modu yine de onları sessize alabilir."
+      },
+      {
+        "id": "restore",
+        "title": "Satın alımımı nasıl geri yüklerim?",
+        "body": "Uygulamada “Ayarlar”ı açın ve “Geri Yükle”ye dokunun. App Store'da satın alırken kullandığınız Apple Hesabı ile oturum açtığınızdan emin olun. Uygulamayı yeniden yüklediğinizde ya da aynı hesapla yeni bir iPhone kurduğunuzda kilit açma da otomatik olarak geri gelir."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "24 saatlik deneme ve kilit açma nasıl çalışır?",
+        "body": "Hazır olduğunuzda denemeyi uygulama içinden başlatın; tüm özellikler 24 saat boyunca açık olur. Deneme App Store tarafından kaydedilir, bu yüzden uygulamayı yeniden yüklemek denemeyi baştan başlatmaz. Deneme bittiğinde uygulamayı görmeye devam edebilirsiniz; tek seferlik bir satın alma ile her şeyin kilidi kalıcı olarak açılır. Bu bir abonelik değildir ve asla yenilenmez. Fiyat, App Store'da yerel para biriminizle gösterilir."
+      },
+      {
+        "id": "coverage",
+        "title": "Hangi hatlar kapsanıyor?",
+        "body": "Wenhu, Xinbeitou yan hattıyla birlikte Tamsui-Xinyi, Xiaobitan yan hattıyla birlikte Songshan-Xindian, Zhonghe-Xinlu, Bannan ve Çevre hattının (Circular) ilk etabı. Taoyuan Havalimanı metrosu ve hafif raylı hatlar dahil değildir."
+      },
+      {
+        "id": "independence",
+        "title": "Bu resmî bir Taipei Metrosu uygulaması mı?",
+        "body": "Hayır. Metro Saat Yardımcısı bağımsız bir uygulamadır; Taipei Rapid Transit Corporation ile bağlantılı değildir ve bu kuruluş tarafından onaylanmamıştır. Taipei Metrosu'nun resmî açık verilerini kullanır. Sefer aksaklıkları veya kayıp eşyalar için lütfen doğrudan işletmeciyle iletişime geçin."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Gizlilik Politikası",
+    "summary": "Metro Saat Yardımcısı kişisel veri toplamaz. Bu sayfa, uygulamanın iPhone'unuzda ne yaptığını ve asla ne yapmadığını açıklar.",
+    "updated_label": "Son Güncelleme",
+    "section_title": "Taahhütlerimiz",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Hesap yok",
+        "body": "Hesap gerekmez. Uygulamayı kullanmak için hiçbir zaman kaydolmanız, oturum açmanız ya da bize adınızı, e-posta adresinizi veya telefon numaranızı vermeniz gerekmez."
+      },
+      {
+        "id": "data_collection",
+        "title": "Topladığımız veriler",
+        "body": "Kişisel veri toplamıyoruz. Uygulama konumunuza, kişilerinize, fotoğraflarınıza veya izleme amaçlı herhangi bir tanımlayıcıya erişmez; girdiğiniz istasyonları ve saatleri ne bize ne de başka birine gönderir."
+      },
+      {
+        "id": "on_device",
+        "title": "Her şey iPhone'unuzda kalır",
+        "body": "Tüm yolculuk hesaplamaları, uygulamaya yerleşik tarife verileriyle cihazınızda yapılır. İstasyonlar, dil, renkler, açılış sayfası ve hatırlatıcılar gibi ayarlarınız yalnızca iPhone'unuzda saklanır ve yalnızca aynı cihazdaki uygulamanın kendi widget'ıyla paylaşılır. Uygulamayı sildiğinizde bunlar da silinir."
+      },
+      {
+        "id": "notifications",
+        "title": "Bildirimler",
+        "body": "Bildirimlere izin verirseniz uygulama bunları yalnızca sizin kurduğunuz hatırlatıcılar için kullanır. Her hatırlatıcı iPhone'unuzda yerel olarak planlanır; hiçbir sunucu devreye girmez ve hiçbir bildirim içeriği cihazınızdan çıkmaz. Bildirimleri istediğiniz zaman iOS Ayarlar uygulamasından kapatabilirsiniz."
+      },
+      {
+        "id": "storekit",
+        "title": "Apple üzerinden satın almalar",
+        "body": "24 saatlik deneme ve tek seferlik kilit açma, Apple tarafından App Store üzerinden StoreKit kullanılarak yönetilir. Ödeme tamamen Apple tarafından işlenir; uygulama ödeme bilgilerinizi hiçbir zaman görmez veya saklamaz. Uygulama yalnızca denemenin etkin olup olmadığını ya da kilit açmanın satın alınıp alınmadığını App Store'a sorar."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Reklam yok, analiz yok, izleme yok",
+        "body": "Üçüncü taraf reklam kullanmıyoruz. Üçüncü taraf analiz kullanmıyoruz. Uygulama hiçbir izleme kodu içermez, verileri sizinle ilişkilendirmez ve veri simsarlarıyla paylaşmaz."
+      },
+      {
+        "id": "data_sources",
+        "title": "Tarife verileri",
+        "body": "Tarifeler, sefer aralıkları ve seyahat süreleri Taipei Metrosu'nun resmî açık verilerinden alınır ve uygulamanın içinde yer alır; bu yüzden bir yolculuğa bakmak için internet bağlantısı gerekmez. Metro Saat Yardımcısı bağımsızdır ve Taipei Rapid Transit Corporation ile bağlantılı değildir."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Sorular ve haklarınız",
+        "body": "Hakkınızda hiçbir kişisel veri tutmadığımız için erişilecek, dışa aktarılacak veya silinecek bir şey yoktur. Bize e-posta gönderirseniz mesajınızı yalnızca yanıt vermek için kullanırız ve sizi hiçbir e-posta listesine eklemeyiz. Gizlilikle ilgili her türlü sorunuz için aşağıdaki adrese yazın."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Bu politikadaki değişiklikler",
+        "body": "Uygulamanın verileri işleme biçimi bir gün değişirse, değişiklik yürürlüğe girmeden önce bu sayfayı ve Son Güncelleme tarihini güncelleyecek, değişikliği uygulamanın sürüm notlarında açıklayacağız."
+      }
+    ]
+  }
+}

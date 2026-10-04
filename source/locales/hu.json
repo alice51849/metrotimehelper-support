@@ -1,0 +1,191 @@
+{
+  "language_name": "Magyar",
+  "language_label": "Nyelv",
+  "navigation_label": "Webhely részei",
+  "skip_link": "Ugrás a tartalomra",
+  "nav": {
+    "index": "Kezdőlap",
+    "support": "Támogatás",
+    "privacy": "Adatvédelem"
+  },
+  "footer": "Az Időtervező a metróhoz független alkalmazás. Nem áll kapcsolatban a Taipei Rapid Transit Corporation vállalattal, az nem támogatja és nem üzemelteti. A menetrendek és a menetidők a tajpeji metró hivatalos nyilvános adataiból származnak.",
+  "contact": {
+    "title": "Kapcsolat",
+    "body": "Kérdése van, hibásnak tűnik egy menetrend, vagy ötlete van az alkalmazáshoz? Írjon nekünk. Ha megadja iPhone-ja típusát, az iOS verzióját, az alkalmazás verzióját (a „Beállítások” menüben látható) és az érintett állomásokat, gyorsabban utánajárhatunk.",
+    "button": "E-mail"
+  },
+  "home": {
+    "title": "Mondja meg, mikorra kell odaérnie. Megmondja, mikor induljon.",
+    "summary": "Időtervező a tajpeji metróhoz iPhone-ra. Válassza ki az állomásokat és azt az időpontot, amikorra oda kell érnie, az alkalmazás pedig visszafelé kiszámolja, legkésőbb mikor kell belépnie az állomásra, az átszállásokkal együtt.",
+    "section_title": "Mire képes",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Tervezés visszafelé az érkezési időből",
+        "body": "Válassza ki, hol van, hová tart, és mikorra kell odaérnie. Megkapja, legkésőbb mikor kell áthaladnia a beléptetőkapukon, egy lépésről lépésre haladó idővonalat minden átszállással, figyelmeztetést az első és az utolsó vonatról, valamint egy opcionális emlékeztetőt az indulásra. Inkább azonnal indulna? Váltson az „Indulás most” lehetőségre, és megnézheti, mikor ér oda."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "A Xiaobitan szárnyvonal, ahogy kell",
+        "body": "A Qizhang és Xiaobitan közötti ingajárat csak nagyjából 12–16 percenként közlekedik, és a legtöbb útvonaltervező alkalmazás átsiklik felette. Itt megkapja a hivatalos, rögzített menetrendet, visszaszámlálást a következő vonatig, a teljes mai, hétköznapi és hétvégi menetrendet, az eredeti menetrendet PDF-ben, valamint értesítést 1–30 perccel az indulás előtt."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "Beitoutól Xinbeitouig, a termálforrásokhoz",
+        "body": "A Xinbeitou termálforrás-negyedébe vezető rövid szárnyvonal ugyanezt kapja: hivatalos, rögzített menetrendet mindkét irányban, élő visszaszámlálást és indulási értesítést. Ha egy megtervezett út bármelyik szárnyvonalat érinti, a tervező is a rögzített menetrendet használja."
+      },
+      {
+        "id": "map_widget",
+        "title": "Koppintható térkép és widget",
+        "body": "A beépített metrótérképet két ujjal nagyíthatja és kicsinyítheti, és bármelyik állomásra koppintva beállíthatja kiinduló- vagy célállomásnak; az útvonal közvetlenül a térképen jelenik meg. A kezdőképernyő és a zárolási képernyő widgetjei a kiválasztott szárnyvonal következő vonatát mutatják mindkét irányban."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Adatvédelem az alapoktól",
+        "body": "Nincs fiók és nincs regisztráció. Nincsenek hirdetések, nincs külső analitika, és semmilyen személyes adatot nem gyűjt. Minden számítás az Ön iPhone-ján fut, az emlékeztetők ütemezése pedig helyben, az eszközön történik."
+      },
+      {
+        "id": "trial",
+        "title": "Próbáljon ki mindent 24 órán át",
+        "body": "Töltse le az alkalmazást, és indítson egy 24 órás próbaidőszakot, amelyben minden funkció elérhető. Utána egyetlen egyszeri vásárlással mindent véglegesen megtarthat. Nincs előfizetés, és semmi sem újul meg."
+      }
+    ],
+    "links_title": "Segítségre van szüksége?",
+    "support_card": {
+      "title": "Támogatás és GYIK",
+      "body": "Hogyan működik a három mód, a kezdőoldal és a nyelv beállítása, emlékeztetők, a vásárlás visszaállítása és még sok más."
+    },
+    "privacy_card": {
+      "title": "Adatvédelmi irányelvek",
+      "body": "Pontosan mit tesz és mit nem tesz az alkalmazás az adataival. Röviden: semmit sem gyűjt."
+    }
+  },
+  "support": {
+    "title": "Támogatás",
+    "summary": "Minden, amire szüksége van, hogy időben odaérjen bárhová Tajpejben, és válaszok a leggyakrabban feltett kérdésekre.",
+    "howto_title": "Használat",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Három mód",
+        "body": "A „Metró útvonaltervező” kiszámolja, mikor kell elindulnia bármely úthoz a teljes hálózaton. A „Xiaobitan” a Qizhang–Xiaobitan szárnyvonal menetrendjét és visszaszámlálását mutatja. A „Beitou · Xinbeitou” ugyanezt teszi a Xinbeitou szárnyvonalra. Az alkalmazás a „Metró útvonaltervező” módban nyílik meg, hacsak nem változtat ezen."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Váltás a módok között",
+        "body": "Koppintson a képernyő felső sarkában lévő kerek, üveghatású gombra, amely az aktuális módot mutatja, majd válassza ki a kívánt módot."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Út tervezése",
+        "body": "Válasszon kiinduló- és célállomást a listából vagy a térképen az állomásokra koppintva, majd válassza az „Érkezés legkésőbb” lehetőséget, és állítsa be az időt. Az eredmény megmutatja, mikor lépjen be az állomásra, és az út minden szakaszát. A „Becslés módosítása” alatt választhatja a „Normál” beállítást, amely a várakozásra a követési idő felét számolja, vagy az „Óvatos” beállítást, amely a teljes követési időt, továbbá a „Belépési ráhagyás” résznél legfeljebb 15 percet állíthat be a bejutásra és a peronig vezető útra."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Indulási emlékeztetők",
+        "body": "A szárnyvonal menetrendjében állítsa be, hány perccel előbb kér értesítést, 1 és 30 között, majd koppintson a kívánt vonatra. A „Metró útvonaltervező” módban emlékeztetőt állíthat be arra, amikor ideje elindulni. Egy aktív emlékeztetőt koppintással törölhet."
+      },
+      {
+        "id": "default_page",
+        "title": "Az indításkor megnyíló oldal kiválasztása",
+        "body": "Nyissa meg a „Beállítások” menüt a fogaskerék gombbal, és lépjen a „Kezdőoldal indításkor” pontra. Válassza a „Metró útvonaltervező”, a „Xiaobitan” vagy a „Beitou · Xinbeitou” lehetőséget."
+      },
+      {
+        "id": "language",
+        "title": "A nyelv módosítása",
+        "body": "Az alkalmazás alapértelmezés szerint az iPhone nyelvét követi, és 50 nyelven érhető el. Ha csak ebben az alkalmazásban szeretne más nyelvet használni, nyissa meg a „Beállítások” menüt, koppintson a „Nyelv” elemre, és válasszon a listából, vagy a visszatéréshez válassza a „Rendszer szerint” lehetőséget."
+      }
+    ],
+    "faq_title": "Gyakori kérdések",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Miért csak becslések az időpontok?",
+        "body": "A hálózaton átívelő utaknál az alkalmazás a tajpeji metró hivatalos követési idejeiből és az állomások közötti menetidőkből számol. Nem kap valós idejű vonatpozíciókat, ezért nem látja az adott napi késéseket, zsúfoltságot vagy forgalmi változásokat. Fontos utaknál hagyjon magának tartalékot, használja az „Óvatos” módot, és mindig kövesse az állomási bemondásokat és jelzéseket."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "Honnan származnak a szárnyvonalak menetrendjei?",
+        "body": "A Xiaobitan és a Xinbeitou szárnyvonal a tajpeji metró által közzétett rögzített menetrend szerint közlekedik, az alkalmazás pedig pontosan ezeket az indulási időket használja, külön hétköznapra és hétvégére. Az egyes menetrendek hatálybalépési dátuma a „Beállítások” menü „Névjegy” részében látható, az eredeti menetrendet PDF-ben pedig a szárnyvonal képernyőjéről nyithatja meg. Ha az üzemeltető új menetrendet tesz közzé, azt egy alkalmazásfrissítésben átvezetjük."
+      },
+      {
+        "id": "notifications",
+        "title": "Nem kapok emlékeztetőket",
+        "body": "Amikor először állít be emlékeztetőt, az iOS engedélyt kér az értesítések küldéséhez. Ha ezt elutasította, az alkalmazás megjelenít egy koppintható üzenetet, vagy az iOS Beállítások alkalmazásában, az Értesítések menüben is újra bekapcsolhatja az értesítéseket ehhez az alkalmazáshoz. Az emlékeztetők ütemezése az iPhone-ján történik, így internet nélkül is működnek, de egy Fókusz mód ettől még elnémíthatja őket."
+      },
+      {
+        "id": "restore",
+        "title": "Hogyan állíthatom vissza a vásárlást?",
+        "body": "Nyissa meg az alkalmazásban a „Beállítások” menüt, és koppintson a „Visszaállítás” gombra. Győződjön meg róla, hogy ugyanazzal az Apple-fiókkal van bejelentkezve az App Store-ba, amellyel a vásárlást végezte. A feloldás akkor is automatikusan visszatér, ha újratelepíti az alkalmazást, vagy ezzel a fiókkal állít be egy új iPhone-t."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "Hogyan működik a 24 órás próbaidőszak és a feloldás?",
+        "body": "A próbaidőszakot az alkalmazásban indíthatja el, amikor készen áll, és ezután 24 órán át minden funkció elérhető. A próbaidőszakot az App Store tartja nyilván, így az újratelepítés nem indítja újra. Lejárta után az alkalmazás továbbra is látható, egy egyszeri vásárlás pedig mindent véglegesen felold. Ez nem előfizetés, és soha nem újul meg. Az árat az App Store a helyi pénznemben mutatja."
+      },
+      {
+        "id": "coverage",
+        "title": "Mely vonalakat fedi le?",
+        "body": "Wenhu, Tamsui-Xinyi a Xinbeitou szárnyvonallal, Songshan-Xindian a Xiaobitan szárnyvonallal, Zhonghe-Xinlu, Bannan, valamint a Circular körvonal első szakasza. A Taoyuan Airport MRT reptéri vonal és a könnyűvasúti vonalak nem szerepelnek benne."
+      },
+      {
+        "id": "independence",
+        "title": "Ez a tajpeji metró hivatalos alkalmazása?",
+        "body": "Nem. Az Időtervező a metróhoz független alkalmazás, és nem áll kapcsolatban a Taipei Rapid Transit Corporation vállalattal, amely nem is támogatja. A tajpeji metró hivatalos nyilvános adatait használja. Forgalmi zavarok vagy elveszett tárgyak ügyében forduljon közvetlenül az üzemeltetőhöz."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Adatvédelmi irányelvek",
+    "summary": "Az Időtervező a metróhoz nem gyűjt személyes adatokat. Ez az oldal elmagyarázza, mit végez az alkalmazás az Ön iPhone-ján, és mit nem tesz soha.",
+    "updated_label": "Utolsó frissítés",
+    "section_title": "Vállalásaink",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Nincs fiók",
+        "body": "Nincs szükség fiókra. Az alkalmazás használatához soha nem kell regisztrálnia, bejelentkeznie, sem megadnia nekünk a nevét, e-mail-címét vagy telefonszámát."
+      },
+      {
+        "id": "data_collection",
+        "title": "Milyen adatokat gyűjtünk",
+        "body": "Nem gyűjtünk személyes adatokat. Az alkalmazás nem fér hozzá a tartózkodási helyéhez, a kontaktjaihoz, a fotóihoz vagy bármilyen követésre szolgáló azonosítóhoz, és a megadott állomásokat vagy időpontokat sem nekünk, sem másnak nem küldi el."
+      },
+      {
+        "id": "on_device",
+        "title": "Minden az iPhone-ján marad",
+        "body": "Az útvonalak minden számítása az Ön eszközén fut, az alkalmazásba épített menetrendadatok alapján. Beállításait, például az állomásokat, a nyelvet, a színeket, a kezdőoldalt és az emlékeztetőket, kizárólag az iPhone-ján tárolja, és csak az alkalmazás saját widgetjével osztja meg ugyanazon az eszközön. Az alkalmazás törlésével ezek is törlődnek."
+      },
+      {
+        "id": "notifications",
+        "title": "Értesítések",
+        "body": "Ha engedélyezi az értesítéseket, az alkalmazás kizárólag az Ön által beállított emlékeztetőkhöz használja őket. Minden emlékeztető ütemezése helyben, az iPhone-ján történik; nem vesz részt benne szerver, és az értesítések tartalma nem hagyja el az eszközt. Az értesítéseket bármikor kikapcsolhatja az iOS Beállítások alkalmazásában."
+      },
+      {
+        "id": "storekit",
+        "title": "Vásárlás az Apple-ön keresztül",
+        "body": "A 24 órás próbaidőszakot és az egyszeri feloldást az Apple kezeli az App Store-on keresztül, a StoreKit segítségével. A fizetést teljes egészében az Apple dolgozza fel, az alkalmazás soha nem látja és nem tárolja a fizetési adatait. Az alkalmazás csupán azt ellenőrzi az App Store-nál, hogy aktív-e a próbaidőszak, illetve megvásárolta-e a feloldást."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Nincs hirdetés, analitika és követés",
+        "body": "Nem használunk külső hirdetéseket. Nem használunk külső analitikát. Az alkalmazás nem tartalmaz követőkódot, nem kapcsol adatokat az Ön személyéhez, és nem osztja meg azokat adatkereskedőkkel."
+      },
+      {
+        "id": "data_sources",
+        "title": "Menetrendadatok",
+        "body": "A menetrendek, a követési idők és a menetidők a tajpeji metró hivatalos nyilvános adataiból származnak, és magában az alkalmazásban találhatók, így az utak lekérdezéséhez nincs szükség internetkapcsolatra. Az Időtervező a metróhoz független alkalmazás, és nem áll kapcsolatban a Taipei Rapid Transit Corporation vállalattal."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Kérdések és az Ön jogai",
+        "body": "Mivel semmilyen személyes adatot nem tárolunk Önről, nincs mihez hozzáférést biztosítanunk, és nincs mit exportálnunk vagy törölnünk. Ha e-mailt ír nekünk, üzenetét csak a válaszadáshoz használjuk fel, és nem vesszük fel semmilyen levelezőlistára. Adatvédelmi kérdéseivel forduljon hozzánk az alábbi címen."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Az irányelvek változásai",
+        "body": "Ha az alkalmazás adatkezelési módja valaha megváltozik, a változás hatálybalépése előtt frissítjük ezt az oldalt és az utolsó frissítés dátumát, a változást pedig az alkalmazás kiadási megjegyzéseiben ismertetjük."
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "language_name": "Čeština",
+  "language_label": "Jazyk",
+  "navigation_label": "Sekce webu",
+  "skip_link": "Přejít na obsah",
+  "nav": {
+    "index": "Úvod",
+    "support": "Podpora",
+    "privacy": "Soukromí"
+  },
+  "footer": "Metro včas je nezávislá aplikace. Není přidružena ke společnosti Taipei Rapid Transit Corporation, není jí podporována ani provozována. Jízdní řády a doby jízdy pocházejí z oficiálních veřejných dat tchajpejského metra.",
+  "contact": {
+    "title": "Kontakt",
+    "body": "Máte dotaz, zdá se vám jízdní řád chybný, nebo máte nápad na vylepšení aplikace? Napište nám. Když uvedete model iPhonu, verzi iOS, verzi aplikace (najdete ji v „Nastavení“) a stanice, o které jde, budeme se tím moci zabývat rychleji.",
+    "button": "E-mail"
+  },
+  "home": {
+    "title": "Řekněte, kdy tam máte být. Poradí vám, kdy vyrazit.",
+    "summary": "Časový plánovač pro tchajpejské metro na iPhone. Zvolte stanice a čas, kdy musíte být na místě, a aplikace zpětně spočítá nejzazší čas, kdy vstoupit do stanice, včetně přestupů.",
+    "section_title": "Co umí",
+    "sections": [
+      {
+        "id": "reverse_planner",
+        "title": "Plánování zpětně od času příjezdu",
+        "body": "Zvolte, odkud a kam jedete a kdy musíte dorazit. Dostanete nejzazší čas průchodu turnikety, časovou osu krok za krokem s každým přestupem, upozornění na první a poslední vlak a volitelnou připomínku, že je čas vyrazit. Chcete jet hned? Přepněte na „Vyrazit teď“ a uvidíte, kdy dorazíte."
+      },
+      {
+        "id": "xiaobitan",
+        "title": "Odbočka Xiaobitan pořádně",
+        "body": "Kyvadlový vlak z Qizhangu do Xiaobitanu jezdí jen zhruba každých 12 až 16 minut a většina aplikací pro plánování tras ho odbude. Tady máte oficiální pevný jízdní řád, odpočet do dalšího vlaku, kompletní řády na dnešek, pracovní dny i víkendy, původní jízdní řád v PDF a upozornění 1 až 30 minut před odjezdem."
+      },
+      {
+        "id": "xinbeitou",
+        "title": "Z Beitou do Xinbeitou, za horkými prameny",
+        "body": "Krátká odbočka do lázeňské oblasti Xinbeitou dostala totéž: oficiální pevný jízdní řád v obou směrech, živý odpočet a upozornění na odjezd. Když plánovaná cesta vede po některé z odboček, plánovač také použije pevný jízdní řád."
+      },
+      {
+        "id": "map_widget",
+        "title": "Mapa na klepnutí a widget",
+        "body": "Vestavěnou mapu metra si můžete přibližovat a oddalovat a klepnutím na libovolnou stanici ji nastavit jako výchozí nebo cílovou; trasa se vykreslí přímo do mapy. Widgety na ploše a na zamčené obrazovce ukazují další vlak v obou směrech na zvolené odbočce."
+      },
+      {
+        "id": "privacy_first",
+        "title": "Soukromí už v základu",
+        "body": "Žádný účet a žádná registrace. Žádné reklamy, žádná analytika třetích stran a žádné shromažďování osobních údajů. Veškeré výpočty probíhají ve vašem iPhonu a připomínky se plánují místně v zařízení."
+      },
+      {
+        "id": "trial",
+        "title": "Vyzkoušejte vše na 24 hodin",
+        "body": "Stáhněte si aplikaci a spusťte 24hodinovou zkušební verzi se všemi funkcemi odemčenými. Pak si jediným jednorázovým nákupem ponecháte vše natrvalo. Není to předplatné a nic se neobnovuje."
+      }
+    ],
+    "links_title": "Potřebujete pomoc?",
+    "support_card": {
+      "title": "Podpora a časté dotazy",
+      "body": "Jak fungují tři režimy, nastavení stránky po spuštění a jazyka, připomínky, obnovení nákupu a další."
+    },
+    "privacy_card": {
+      "title": "Zásady ochrany soukromí",
+      "body": "Přesně co aplikace s vašimi údaji dělá a co nedělá. Zkrátka: neshromažďuje nic."
+    }
+  },
+  "support": {
+    "title": "Podpora",
+    "summary": "Vše, co potřebujete, abyste se po Tchaj-peji dostali včas, a odpovědi na nejčastější dotazy.",
+    "howto_title": "Jak ji používat",
+    "howto": [
+      {
+        "id": "three_modes",
+        "title": "Tři režimy",
+        "body": "„Plánovač cest metrem“ spočítá, kdy vyrazit, pro jakoukoli cestu v celé síti. „Xiaobitan“ ukazuje jízdní řád a odpočet pro odbočku Qizhang–Xiaobitan. „Beitou · Xinbeitou“ dělá totéž pro odbočku Xinbeitou. Pokud to nezměníte, aplikace se otevře v režimu „Plánovač cest metrem“."
+      },
+      {
+        "id": "switch_mode",
+        "title": "Přepínání režimů",
+        "body": "Klepněte na kulaté skleněné tlačítko v horním rohu obrazovky, které ukazuje aktuální režim, a pak vyberte požadovaný režim."
+      },
+      {
+        "id": "plan_trip",
+        "title": "Plánování cesty",
+        "body": "Zvolte výchozí a cílovou stanici ze seznamu nebo klepnutím na stanice v mapě, potom vyberte „Příjezd nejpozději“ a nastavte čas. Výsledek ukáže, kdy vstoupit do stanice, a jednotlivé úseky cesty. V části „Upravit odhad“ můžete zvolit „Standardně“, kdy se na čekání počítá polovina intervalu, nebo „Opatrně“, kdy se počítá celý interval, a v položce „Rezerva na vstup“ nastavit až 15 minut na průchod stanicí a cestu na nástupiště."
+      },
+      {
+        "id": "branch_reminders",
+        "title": "Připomínky odjezdu",
+        "body": "V jízdním řádu odbočky nastavte, kolik minut předem chcete upozornit, od 1 do 30, a pak klepněte na požadovaný vlak. V režimu „Plánovač cest metrem“ si můžete nastavit připomínku, že je čas vyrazit. Aktivní připomínku zrušíte klepnutím."
+      },
+      {
+        "id": "default_page",
+        "title": "Výběr stránky po spuštění",
+        "body": "Tlačítkem s ozubeným kolem otevřete „Nastavení“ a přejděte na „Stránka po spuštění“. Vyberte „Plánovač cest metrem“, „Xiaobitan“ nebo „Beitou · Xinbeitou“."
+      },
+      {
+        "id": "language",
+        "title": "Změna jazyka",
+        "body": "Aplikace se ve výchozím stavu řídí jazykem iPhonu a nabízí 50 jazyků. Chcete-li jen v této aplikaci používat jiný jazyk, otevřete „Nastavení“, klepněte na „Jazyk“ a vyberte ho ze seznamu, případně se volbou „Podle systému“ vraťte zpět."
+      }
+    ],
+    "faq_title": "Časté dotazy",
+    "faq": [
+      {
+        "id": "why_estimate",
+        "title": "Proč jsou časy jen odhadem?",
+        "body": "U cest napříč sítí aplikace počítá s oficiálními intervaly a jízdními dobami mezi stanicemi od tchajpejského metra. Nedostává polohu vlaků v reálném čase, takže nevidí zpoždění, přeplněnost ani změny provozu v daný den. U důležitých cest si nechte časovou rezervu, použijte režim „Opatrně“ a vždy se řiďte hlášením a značením ve stanici."
+      },
+      {
+        "id": "branch_timetable",
+        "title": "Odkud pocházejí jízdní řády odboček?",
+        "body": "Odbočky Xiaobitan a Xinbeitou jezdí podle pevných jízdních řádů, které zveřejňuje tchajpejské metro, a aplikace používá přesně tyto časy odjezdů, zvlášť pro pracovní dny a víkendy. Datum platnosti každého jízdního řádu najdete v „Nastavení“ v části „Informace“ a původní jízdní řád v PDF otevřete z obrazovky odbočky. Když dopravce zveřejní nový jízdní řád, doplníme ho v aktualizaci aplikace."
+      },
+      {
+        "id": "notifications",
+        "title": "Nechodí mi připomínky",
+        "body": "Když poprvé nastavujete připomínku, iOS požádá o povolení posílat oznámení. Pokud jste ho odmítli, aplikace zobrazí výzvu, na kterou můžete klepnout, nebo můžete oznámení znovu zapnout v aplikaci Nastavení v iOS v části Oznámení u této aplikace. Připomínky se plánují ve vašem iPhonu, takže fungují i offline, ale režim soustředění je může ztlumit."
+      },
+      {
+        "id": "restore",
+        "title": "Jak obnovím nákup?",
+        "body": "V aplikaci otevřete „Nastavení“ a klepněte na „Obnovit“. Ujistěte se, že jste v App Storu přihlášeni stejným účtem Apple, kterým jste nákup provedli. Odemčení se také obnoví automaticky, když aplikaci znovu nainstalujete nebo s tímto účtem nastavíte nový iPhone."
+      },
+      {
+        "id": "trial_unlock",
+        "title": "Jak funguje 24hodinová zkušební verze a odemčení?",
+        "body": "Zkušební verzi spustíte v aplikaci, kdykoli budete připraveni, a všechny funkce budou 24 hodin dostupné. Zkušební verzi eviduje App Store, takže ji opětovná instalace znovu nespustí. Po jejím skončení aplikaci stále uvidíte a jednorázový nákup vše odemkne natrvalo. Nejde o předplatné a nikdy se neobnovuje. Cena se zobrazuje v App Storu ve vaší místní měně."
+      },
+      {
+        "id": "coverage",
+        "title": "Které linky jsou zahrnuty?",
+        "body": "Wenhu, Tamsui-Xinyi s odbočkou Xinbeitou, Songshan-Xindian s odbočkou Xiaobitan, Zhonghe-Xinlu, Bannan a první etapa okružní linky Circular. Letištní linka Taoyuan Airport MRT a tramvajové linky zahrnuty nejsou."
+      },
+      {
+        "id": "independence",
+        "title": "Je to oficiální aplikace tchajpejského metra?",
+        "body": "Ne. Metro včas je nezávislá aplikace a není přidružena ke společnosti Taipei Rapid Transit Corporation ani jí podporována. Využívá oficiální veřejná data tchajpejského metra. S výpadky provozu nebo ztrátami a nálezy se prosím obracejte přímo na dopravce."
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Zásady ochrany soukromí",
+    "summary": "Metro včas neshromažďuje osobní údaje. Tato stránka vysvětluje, co aplikace ve vašem iPhonu dělá a co nedělá nikdy.",
+    "updated_label": "Poslední aktualizace",
+    "section_title": "Naše závazky",
+    "sections": [
+      {
+        "id": "no_account",
+        "title": "Žádný účet",
+        "body": "Účet není potřeba. K používání aplikace se nikdy neregistrujete, nepřihlašujete ani nám nesdělujete jméno, e-mailovou adresu nebo telefonní číslo."
+      },
+      {
+        "id": "data_collection",
+        "title": "Jaké údaje shromažďujeme",
+        "body": "Osobní údaje neshromažďujeme. Aplikace nepřistupuje k vaší poloze, kontaktům, fotkám ani k žádnému identifikátoru pro sledování a stanice ani časy, které zadáte, neposílá nám ani nikomu jinému."
+      },
+      {
+        "id": "on_device",
+        "title": "Vše zůstává ve vašem iPhonu",
+        "body": "Veškeré výpočty cest probíhají ve vašem zařízení na základě dat jízdních řádů, která jsou součástí aplikace. Vaše nastavení, například stanice, jazyk, barvy, stránka po spuštění a připomínky, se ukládají jen ve vašem iPhonu a sdílejí se pouze s widgetem této aplikace ve stejném zařízení. Smazáním aplikace se odstraní."
+      },
+      {
+        "id": "notifications",
+        "title": "Oznámení",
+        "body": "Pokud oznámení povolíte, aplikace je používá jen pro připomínky, které si sami nastavíte. Každá připomínka se plánuje místně ve vašem iPhonu; nepodílí se na tom žádný server a obsah oznámení vaše zařízení neopouští. Oznámení můžete kdykoli vypnout v aplikaci Nastavení v iOS."
+      },
+      {
+        "id": "storekit",
+        "title": "Nákupy přes Apple",
+        "body": "24hodinovou zkušební verzi a jednorázové odemčení zajišťuje Apple prostřednictvím App Storu pomocí StoreKit. Platbu zpracovává výhradně Apple a aplikace vaše platební údaje nikdy nevidí ani neukládá. Aplikace si u App Storu pouze ověřuje, zda je zkušební verze aktivní nebo zda bylo odemčení zakoupeno."
+      },
+      {
+        "id": "no_ads_analytics",
+        "title": "Žádné reklamy, analytika ani sledování",
+        "body": "Nepoužíváme reklamy třetích stran. Nepoužíváme analytiku třetích stran. Aplikace neobsahuje žádný sledovací kód, nepropojuje údaje s vaší osobou a nesdílí je s obchodníky s daty."
+      },
+      {
+        "id": "data_sources",
+        "title": "Data jízdních řádů",
+        "body": "Jízdní řády, intervaly a jízdní doby pocházejí z oficiálních veřejných dat tchajpejského metra a jsou přímo součástí aplikace, takže vyhledání cesty nevyžaduje připojení k internetu. Metro včas je nezávislá aplikace a není přidružena ke společnosti Taipei Rapid Transit Corporation."
+      },
+      {
+        "id": "contact_requests",
+        "title": "Dotazy a vaše práva",
+        "body": "Protože o vás neuchováváme žádné osobní údaje, nemáme k čemu poskytnout přístup ani co exportovat či smazat. Pokud nám napíšete, použijeme vaši zprávu pouze k odpovědi a nezařadíme vás do žádného seznamu adresátů. S jakýmkoli dotazem ohledně soukromí pište na adresu níže."
+      },
+      {
+        "id": "policy_changes",
+        "title": "Změny těchto zásad",
+        "body": "Pokud se způsob, jakým aplikace nakládá s údaji, někdy změní, aktualizujeme tuto stránku i datum poslední aktualizace ještě předtím, než změna nabude účinnosti, a změnu vysvětlíme v poznámkách k vydání aplikace."
+      }
+    ]
+  }
+}
