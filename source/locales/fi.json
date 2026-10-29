@@ -11,12 +11,12 @@
   "footer": "Metron aika-apuri on itsenäinen sovellus. Se ei ole Taipei Rapid Transit Corporationin omistama, hyväksymä eikä ylläpitämä, eikä sillä ole yhteyttä yhtiöön. Aikataulut ja matka-ajat perustuvat Taipein metron virallisiin julkisiin tietoihin.",
   "contact": {
     "title": "Ota yhteyttä",
-    "body": "Onko sinulla kysyttävää, näyttääkö jokin aikataulu väärältä tai onko sinulla idea sovellukseen? Kirjoita meille. Kun kerrot iPhonesi mallin, iOS-version, sovelluksen version (näkyy kohdassa ”Asetukset”) ja asiaan liittyvät asemat, pääsemme selvittämään asiaa nopeammin.",
+    "body": "Onko sinulla kysyttävää, näyttääkö jokin aikataulu väärältä tai onko sinulla idea sovellukseen? Kirjoita meille. Kun kerrot puhelimesi mallin, iOS- tai Android-version, sovelluksen version (näkyy kohdassa ”Asetukset”) ja asiaan liittyvät asemat, pääsemme selvittämään asiaa nopeammin.",
     "button": "Sähköposti"
   },
   "home": {
     "title": "Kerro, milloin pitää olla perillä. Se kertoo, milloin lähteä.",
-    "summary": "Taipein metron aikasuunnittelija iPhonelle. Valitse asemat ja kellonaika, jolloin sinun pitää olla perillä, niin se laskee taaksepäin viimeisimmän ajan, jolloin sinun kannattaa mennä asemalle, vaihdot mukaan lukien.",
+    "summary": "Taipein metron aikasuunnittelija iPhonelle ja Androidille. Valitse asemat ja kellonaika, jolloin sinun pitää olla perillä, niin se laskee taaksepäin viimeisimmän ajan, jolloin sinun kannattaa mennä asemalle, vaihdot mukaan lukien.",
     "section_title": "Mitä sovellus tekee",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Wenhu, Tamsui-Xinyi Xinbeitoun haararatoineen, Songshan-Xindian Xiaobitanin haararatoineen, Zhonghe-Xinlu, Bannan sekä Circular-kehälinjan ensimmäinen vaihe. Taoyuanin lentokentän MRT-linja ja pikaraitiolinjat eivät ole mukana."
       },
       {
+        "id": "platforms",
+        "title": "Onko Android-versiota?",
+        "body": "On. Metron aika-apuri on saatavilla iPhonelle, iPadille ja Apple Watchille App Storessa sekä Androidille Google Playssa. Android-versio käyttää samoja Taipein metron virallisia tietoja, ei kerää henkilötietoja ja siinä on Koti-valikon widgetit, jotka näyttävät seuraavan junan Xiaobitanin ja Beitou · Xinbeitoun haararadoilla. Jos muistutukset eivät tule perille Androidilla, varmista, että ilmoitukset on sallittu sovellukselle järjestelmän Asetuksissa. Kokeilun ja oston Androidilla hoitaa Google Play."
+      },
+      {
         "id": "independence",
         "title": "Onko tämä Taipein metron virallinen sovellus?",
         "body": "Ei. Metron aika-apuri on itsenäinen sovellus, eikä se liity Taipei Rapid Transit Corporationiin tai ole sen hyväksymä. Se käyttää Taipein metron virallisia julkisia tietoja. Liikennehäiriöissä ja löytötavara-asioissa ota yhteyttä suoraan liikennöitsijään."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Tietosuojakäytäntö",
-    "summary": "Metron aika-apuri ei kerää henkilötietoja. Tällä sivulla kerrotaan, mitä sovellus tekee laitteillasi (iPhone, iPad ja Apple Watch) ja mitä se ei tee koskaan.",
+    "summary": "Metron aika-apuri ei kerää henkilötietoja. Tällä sivulla kerrotaan, mitä sovellus tekee iPhonellasi, iPadillasi, Apple Watchillasi ja Android-puhelimellasi ja mitä se ei tee koskaan.",
     "updated_label": "Päivitetty viimeksi",
     "section_title": "Sitoumuksemme",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Widgetit, Live-toiminnot ja Apple Watch",
         "body": "Sovellus toimii myös iPadilla ja Apple Watchilla, ja siinä on widget Koti-valikkoon ja lukitusnäyttöön, widget Apple Watchin kellotauluun sekä iPhonella Live-toiminto, joka laskee aikaa muistutukseesi lukitusnäytöllä ja Dynamic Islandissa. Jotta widget voi näyttää saman matkan kuin sovellus, sovellus ja sen omat widgetit jakavat viimeisimmän matkasi (asemat ja ajat) Applen avainnipun jaon kautta; tämä tapahtuu vain samalla laitteella, eikä mitään lähetetä millekään palvelimelle. Live-toiminnot luodaan ja päivitetään vain laitteella, ilman palvelinta, joka lähettäisi niille päivityksiä, ja kun poistat sovelluksen, kaikki tämä poistuu."
+      },
+      {
+        "id": "android",
+        "title": "Android-versio (Google Play)",
+        "body": "Metron aika-apuri on saatavilla myös Androidille Google Playn kautta, ja kaikki tällä sivulla kerrottu koskee myös sitä. Android-versio ei kerää eikä lähetä henkilötietoja, ei näytä mainoksia eikä käytä analytiikkaa. Asetuksesi, muistutuksesi ja kokeilun alkamisaika tallennetaan vain laitteellesi. Maksun hoitaa Google Play, eikä sovellus koskaan näe maksutietojasi. Internet-oikeutta käytetään vain virallisen aikataulun PDF-tiedoston lataamiseen Taipein metron verkkosivustolta, kun napautat sen avaamista. Sovellus pyytää myös lupaa ilmoituksiin, joita käytetään vain itse asettamiisi lähtömuistutuksiin ja joista voit kieltäytyä; lupaa vastaanottaa puhelimen käynnistymisen valmistumisen ilmoitus, jotta muistutuksesi ajastetaan uudelleen puhelimen käynnistyttyä uudelleen; sekä lupaa Google Play Billingiin kokeilun ja oston tilan tarkistamista varten. Koti-valikon widgetit, jotka näyttävät seuraavan junan Xiaobitanin ja Beitou · Xinbeitoun haararadoilla, käyttävät vain sovelluksen sisällä olevia aikataulutietoja."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Jos sovelluksen tapa käsitellä tietoja joskus muuttuu, päivitämme tämän sivun ja ”Päivitetty viimeksi” -päivämäärän ennen kuin muutos tulee voimaan ja kerromme muutoksesta sovelluksen julkaisutiedoissa."
       }
     ]
-  }
+  },
+  "play_label": "Android-versio: Google Play"
 }

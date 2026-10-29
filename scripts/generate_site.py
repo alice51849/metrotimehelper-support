@@ -48,20 +48,22 @@ OG_LOCALES = {
 SECTION_IDS = {
     ("home", "sections"): ("reverse_planner", "xiaobitan", "xinbeitou", "map_widget", "privacy_first", "trial"),
     ("support", "howto"): ("three_modes", "switch_mode", "plan_trip", "branch_reminders", "default_page", "language"),
-    ("support", "faq"): ("why_estimate", "branch_timetable", "notifications", "restore", "trial_unlock", "coverage", "independence"),
+    ("support", "faq"): ("why_estimate", "branch_timetable", "notifications", "restore", "trial_unlock", "coverage", "platforms", "independence"),
     ("privacy", "sections"): (
-        "no_account", "data_collection", "on_device", "widgets_watch", "notifications", "storekit",
+        "no_account", "data_collection", "on_device", "widgets_watch", "android", "notifications", "storekit",
         "no_ads_analytics", "data_sources", "contact_requests", "policy_changes",
     ),
 }
 SITE_KEYS = {"brand", "email", "updated", "canonical_base_url", "locales", "brands"}
-LOCALE_KEYS = {"language_name", "language_label", "navigation_label", "skip_link", "nav", "footer", "contact", "home", "support", "privacy"}
+LOCALE_KEYS = {"language_name", "language_label", "navigation_label", "skip_link", "nav", "footer", "play_label", "contact", "home", "support", "privacy"}
 BLOCK_KEYS = {
     "home": {"title", "summary", "section_title", "sections", "links_title", "support_card", "privacy_card"},
     "support": {"title", "summary", "howto_title", "howto", "faq_title", "faq"},
     "privacy": {"title", "summary", "updated_label", "section_title", "sections"},
 }
 EMAIL = "hourstag.app@gmail.com"
+PLAY_URL = "https://play.google.com/store/apps/details?id=com.alice51849.MetroTimeHelper"
+PLAY_CARD_IDS = ("platforms", "android")
 X_DEFAULT_CONTENT = "en-US"
 
 
@@ -137,7 +139,7 @@ def load_translations() -> dict[str, dict[str, Any]]:
         except (OSError, json.JSONDecodeError) as error:
             raise SystemExit(f"FAIL: {locale}: cannot read locale source: {error}") from error
         exact_keys(item, LOCALE_KEYS, locale)
-        for key in ("language_name", "language_label", "navigation_label", "skip_link", "footer"):
+        for key in ("language_name", "language_label", "navigation_label", "skip_link", "footer", "play_label"):
             need_text(item[key], f"{locale}.{key}")
         for key in PAGES:
             need_text(exact_keys(item["nav"], set(PAGES), f"{locale}.nav")[key], f"{locale}.nav.{key}")
@@ -211,10 +213,16 @@ def language_markup(tr: dict[str, dict[str, Any]], locale: str | None, page: str
     return "\n          ".join(rows)
 
 
-def cards(sections: list[dict[str, str]], heading_id: str, heading: str, extra_class: str = "", numbered: bool = False) -> str:
+def play_link(section_id: str, label: str) -> str:
+    if section_id not in PLAY_CARD_IDS or not label:
+        return ""
+    return f'<p class="play-row"><a class="play-link" href="{esc(PLAY_URL)}" rel="noopener">{esc(label)}</a></p>'
+
+
+def cards(sections: list[dict[str, str]], heading_id: str, heading: str, extra_class: str = "", numbered: bool = False, play_label: str = "") -> str:
     tag = "ol" if numbered else "ul"
     items = "\n".join(
-        f'      <li><article class="card" id="{esc(s["id"])}"><h3>{esc(s["title"])}</h3><p>{esc(s["body"])}</p></article></li>'
+        f'      <li><article class="card" id="{esc(s["id"])}"><h3>{esc(s["title"])}</h3><p>{esc(s["body"])}</p>{play_link(s["id"], play_label)}</article></li>'
         for s in sections
     )
     return (
@@ -254,10 +262,10 @@ def body_markup(item: dict[str, Any], locale: str | None, page: str) -> str:
         sup = item["support"]
         return "\n  ".join([
             cards(sup["howto"], "howto-heading", sup["howto_title"], numbered=True),
-            cards(sup["faq"], "faq-heading", sup["faq_title"], " faq"),
+            cards(sup["faq"], "faq-heading", sup["faq_title"], " faq", play_label=item["play_label"]),
         ])
     pri = item["privacy"]
-    return cards(pri["sections"], "policy-heading", pri["section_title"], " policy")
+    return cards(pri["sections"], "policy-heading", pri["section_title"], " policy", play_label=item["play_label"])
 
 
 def render(tr: dict[str, dict[str, Any]], locale: str | None, page: str) -> str:

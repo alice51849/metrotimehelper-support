@@ -324,3 +324,18 @@ ol.grid .card h3::before {
   .link-card { transition: none; }
   .link-card:hover { transform: none; }
 }
+
+.play-row { margin-block-start: 0.9rem; }
+.card .play-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0.5rem 1rem;
+  color: #fff;
+  background: linear-gradient(135deg, #d9539f, #7c4fe0 55%, #3a6fe0);
+  border-radius: 999px;
+  font-weight: 650;
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+.card .play-link:hover { filter: brightness(1.06); }

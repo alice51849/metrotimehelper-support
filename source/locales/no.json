@@ -11,12 +11,12 @@
   "footer": "Tidshjelp for metroen er en uavhengig app. Den er ikke tilknyttet, godkjent eller drevet av Taipei Rapid Transit Corporation. Rutetabeller og reisetider kommer fra Taipei Metros offisielle offentlige data.",
   "contact": {
     "title": "Kontakt oss",
-    "body": "Har du spørsmål, en rutetabell som ser feil ut, eller en idé til appen? Skriv til oss. Hvis du oppgir iPhone-modell, iOS-versjon, appversjon (vises i «Innstillinger») og hvilke stasjoner det gjelder, kan vi finne ut av det raskere.",
+    "body": "Har du spørsmål, en rutetabell som ser feil ut, eller en idé til appen? Skriv til oss. Hvis du oppgir telefonmodell, iOS- eller Android-versjon, appversjon (vises i «Innstillinger») og hvilke stasjoner det gjelder, kan vi finne ut av det raskere.",
     "button": "E-post"
   },
   "home": {
     "title": "Si når du må være fremme. Appen sier når du må gå.",
-    "summary": "En tidsplanlegger for T-banen i Taipei på iPhone. Velg stasjonene og når du må være der, så regner den baklengs ut det seneste tidspunktet du bør gå inn på stasjonen, bytter medregnet.",
+    "summary": "En tidsplanlegger for T-banen i Taipei på iPhone og Android. Velg stasjonene og når du må være der, så regner den baklengs ut det seneste tidspunktet du bør gå inn på stasjonen, bytter medregnet.",
     "section_title": "Dette gjør appen",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Wenhu, Tamsui-Xinyi med sidelinjen til Xinbeitou, Songshan-Xindian med sidelinjen til Xiaobitan, Zhonghe-Xinlu, Bannan og første byggetrinn av ringlinjen Circular. Taoyuan Airport MRT og bybanelinjene er ikke med."
       },
       {
+        "id": "platforms",
+        "title": "Finnes det en Android-versjon?",
+        "body": "Ja. Tidshjelp for metroen finnes for iPhone, iPad og Apple Watch i App Store, og for Android i Google Play. Android-versjonen bruker de samme offisielle dataene fra Taipei Metro, samler ikke inn personopplysninger og har widgeter på startskjermen for neste tog på sidelinjene til Xiaobitan og Beitou · Xinbeitou. Hvis påminnelser ikke kommer fram på Android, må du sjekke at varsler er tillatt for appen i systeminnstillingene. Prøveperioden og kjøpet på Android håndteres av Google Play."
+      },
+      {
         "id": "independence",
         "title": "Er dette en offisiell app fra Taipei Metro?",
         "body": "Nei. Tidshjelp for metroen er en uavhengig app og er ikke tilknyttet eller godkjent av Taipei Rapid Transit Corporation. Den bruker Taipei Metros offisielle offentlige data. Ved driftsforstyrrelser eller hittegods ber vi deg kontakte operatøren direkte."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Personvernerklæring",
-    "summary": "Tidshjelp for metroen samler ikke inn personopplysninger. Denne siden forklarer hva appen gjør på enhetene dine (iPhone, iPad og Apple Watch), og hva den aldri gjør.",
+    "summary": "Tidshjelp for metroen samler ikke inn personopplysninger. Denne siden forklarer hva appen gjør på iPhone, iPad, Apple Watch og Android-telefonen din, og hva den aldri gjør.",
     "updated_label": "Sist oppdatert",
     "section_title": "Våre løfter",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Widgeter, Live-aktiviteter og Apple Watch",
         "body": "Appen fungerer også på iPad og Apple Watch, med en widget for Hjem-skjermen og låst skjerm, en widget for urskiven på Apple Watch og, på iPhone, en Live-aktivitet som teller ned til påminnelsen din på låst skjerm og i Dynamic Island. For at en widget skal kunne vise den samme reisen som appen, deler appen og dens egne widgeter den siste reisen din (stasjoner og tider) via Apples deling av nøkkelringen; dette skjer bare på selve enheten, og ingenting lastes opp til noen server. Live-aktiviteter opprettes og oppdateres bare på enheten, uten at noen server sender dem oppdateringer, og når du sletter appen, fjernes alt dette."
+      },
+      {
+        "id": "android",
+        "title": "Android-versjon (Google Play)",
+        "body": "Tidshjelp for metroen finnes også for Android via Google Play, og alt på denne siden gjelder også der. Android-versjonen samler ikke inn eller sender personopplysninger, viser ingen reklame og bruker ingen analyse. Innstillingene dine, påminnelsene dine og starttidspunktet for prøveperioden lagres bare på enheten din. Betalingen håndteres av Google Play, og appen ser aldri betalingsopplysningene dine. Internett-tillatelsen brukes bare til å laste ned den offisielle rutetabellen i PDF fra nettstedet til Taipei Metro når du trykker for å åpne den. Appen ber også om tillatelse til varsler, som bare brukes til avgangspåminnelsene du stiller inn, og som du kan si nei til; til kringkastingen om at oppstarten er fullført, slik at påminnelsene dine planlegges på nytt etter at telefonen er startet på nytt; og til Google Play Billing, for å sjekke status for prøveperioden og kjøpet. Widgetene på startskjermen for neste tog på sidelinjene til Xiaobitan og Beitou · Xinbeitou bruker bare rutetabelldataene som ligger i appen."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Hvis måten appen håndterer data på, noen gang endres, oppdaterer vi denne siden og datoen «Sist oppdatert» før endringen trer i kraft, og forklarer endringen i appens versjonsmerknader."
       }
     ]
-  }
+  },
+  "play_label": "Android-versjon: Google Play"
 }

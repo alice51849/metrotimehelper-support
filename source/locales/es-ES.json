@@ -11,12 +11,12 @@
   "footer": "Metro a Tiempo es una app independiente. No está vinculada a Taipei Rapid Transit Corporation, ni cuenta con su respaldo, ni la gestiona esta empresa. Los horarios y tiempos de viaje proceden de los datos públicos oficiales del metro de Taipéi.",
   "contact": {
     "title": "Contacto",
-    "body": "¿Tienes alguna duda, un horario que parece incorrecto o una idea para la app? Escríbenos. Si nos indicas el modelo de tu iPhone, la versión de iOS, la versión de la app (aparece en «Ajustes») y las estaciones afectadas, podremos revisarlo antes.",
+    "body": "¿Tienes alguna duda, un horario que parece incorrecto o una idea para la app? Escríbenos. Si nos indicas el modelo de tu móvil, la versión de iOS o de Android, la versión de la app (aparece en «Ajustes») y las estaciones afectadas, podremos revisarlo antes.",
     "button": "Enviar correo"
   },
   "home": {
     "title": "Dile cuándo quieres llegar. Te dice cuándo salir.",
-    "summary": "Un planificador de horarios del metro de Taipéi para iPhone. Elige tus estaciones y la hora a la que tienes que estar allí, y calcula hacia atrás la hora límite para entrar en la estación, transbordos incluidos.",
+    "summary": "Un planificador de horarios del metro de Taipéi para iPhone y Android. Elige tus estaciones y la hora a la que tienes que estar allí, y calcula hacia atrás la hora límite para entrar en la estación, transbordos incluidos.",
     "section_title": "Qué hace",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Wenhu, Tamsui-Xinyi con el ramal de Xinbeitou, Songshan-Xindian con el ramal de Xiaobitan, Zhonghe-Xinlu, Bannan y la primera fase de la línea Circular. No se incluyen el metro del aeropuerto de Taoyuan ni las líneas de tren ligero."
       },
       {
+        "id": "platforms",
+        "title": "¿Hay versión para Android?",
+        "body": "Sí. Metro a Tiempo está disponible para iPhone, iPad y Apple Watch en el App Store, y para Android en Google Play. La versión para Android usa los mismos datos oficiales del metro de Taipéi, no recopila datos personales y tiene widgets para la pantalla de inicio con el próximo tren de los ramales de Xiaobitan y Beitou · Xinbeitou. Si en Android no te llegan los recordatorios, comprueba que las notificaciones estén permitidas para la app en los Ajustes del sistema. La prueba y la compra en Android las gestiona Google Play."
+      },
+      {
         "id": "independence",
         "title": "¿Es una app oficial del metro de Taipéi?",
         "body": "No. Metro a Tiempo es una app independiente y no está vinculada a Taipei Rapid Transit Corporation ni cuenta con su respaldo. Usa los datos públicos oficiales del metro de Taipéi. Para incidencias en el servicio u objetos perdidos, ponte en contacto directamente con el operador."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Política de privacidad",
-    "summary": "Metro a Tiempo no recopila datos personales. Esta página explica qué hace la app en tus dispositivos (iPhone, iPad y Apple Watch) y qué no hace nunca.",
+    "summary": "Metro a Tiempo no recopila datos personales. Esta página explica qué hace la app en tu iPhone, iPad, Apple Watch y móvil Android, y qué no hace nunca.",
     "updated_label": "Última actualización",
     "section_title": "Nuestros compromisos",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Widgets, Actividades en directo y Apple Watch",
         "body": "La app también funciona en iPad y en Apple Watch, con un widget para la pantalla de inicio y la pantalla bloqueada, un widget para la esfera del Apple Watch y, en el iPhone, una Actividad en directo que cuenta atrás hasta tu recordatorio en la pantalla bloqueada y en la Isla Dinámica. Para que un widget muestre el mismo trayecto que la app, la app y sus propios widgets comparten tu último trayecto (estaciones y horas) mediante la función de compartir llavero de Apple; esto ocurre solo en el mismo dispositivo y no se sube nada a ningún servidor. Las Actividades en directo se crean y se actualizan solo en el dispositivo, sin ningún servidor que les envíe actualizaciones, y al eliminar la app se borra todo esto."
+      },
+      {
+        "id": "android",
+        "title": "Versión para Android (Google Play)",
+        "body": "Metro a Tiempo también está disponible para Android en Google Play, y todo lo que dice esta página se aplica igualmente a esa versión. La versión para Android no recopila ni transmite datos personales, no muestra anuncios y no usa analítica. Tus ajustes, recordatorios y la hora de inicio de la prueba se guardan solo en tu dispositivo. El pago lo gestiona Google Play, y la app nunca ve tus datos de pago. El permiso de Internet se usa solo para descargar el PDF oficial del horario del sitio web del metro de Taipéi cuando lo tocas para abrirlo. La app también solicita permiso para las notificaciones, que se usan solo para los recordatorios de salida que configures y que puedes rechazar; para el aviso de arranque completado, de modo que tus recordatorios se vuelvan a programar tras reiniciar el móvil; y para Google Play Billing, con el fin de comprobar el estado de la prueba y de la compra. Los widgets de la pantalla de inicio con el próximo tren de los ramales de Xiaobitan y Beitou · Xinbeitou usan únicamente los datos de horarios que hay dentro de la app."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Si alguna vez cambia la forma en que la app trata los datos, actualizaremos esta página y la fecha de última actualización antes de que el cambio entre en vigor, y lo explicaremos en las notas de la versión de la app."
       }
     ]
-  }
+  },
+  "play_label": "Versión para Android: Google Play"
 }

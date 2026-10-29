@@ -11,12 +11,12 @@
   "footer": "Trợ lý giờ MRT là ứng dụng độc lập, không liên kết, không được bảo trợ và không do Taipei Rapid Transit Corporation vận hành. Lịch chạy và thời gian di chuyển được lấy từ dữ liệu công khai chính thức của MRT Đài Bắc.",
   "contact": {
     "title": "Liên hệ",
-    "body": "Bạn có thắc mắc, thấy lịch chạy có vẻ sai, hay có ý tưởng cho ứng dụng? Hãy viết cho chúng tôi. Nếu bạn ghi kèm mẫu iPhone, phiên bản iOS, phiên bản ứng dụng (xem trong “Cài đặt”) và các ga liên quan, chúng tôi sẽ kiểm tra nhanh hơn.",
+    "body": "Bạn có thắc mắc, thấy lịch chạy có vẻ sai, hay có ý tưởng cho ứng dụng? Hãy viết cho chúng tôi. Nếu bạn ghi kèm mẫu điện thoại, phiên bản iOS hoặc Android, phiên bản ứng dụng (xem trong “Cài đặt”) và các ga liên quan, chúng tôi sẽ kiểm tra nhanh hơn.",
     "button": "Gửi email"
   },
   "home": {
     "title": "Cho biết giờ cần đến. Ứng dụng sẽ cho bạn biết giờ cần đi.",
-    "summary": "Công cụ tính giờ đi MRT Đài Bắc dành cho iPhone. Chọn ga và thời điểm bạn cần có mặt, ứng dụng sẽ tính ngược ra giờ muộn nhất bạn nên vào ga, đã tính cả các lần đổi tuyến.",
+    "summary": "Công cụ tính giờ đi MRT Đài Bắc dành cho iPhone và Android. Chọn ga và thời điểm bạn cần có mặt, ứng dụng sẽ tính ngược ra giờ muộn nhất bạn nên vào ga, đã tính cả các lần đổi tuyến.",
     "section_title": "Ứng dụng làm được gì",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Tuyến Wenhu, tuyến Tamsui-Xinyi kèm tuyến nhánh Xinbeitou, tuyến Songshan-Xindian kèm tuyến nhánh Xiaobitan, tuyến Zhonghe-Xinlu, tuyến Bannan và giai đoạn một của tuyến Circular. Không bao gồm MRT sân bay Đào Viên và các tuyến đường sắt nhẹ."
       },
       {
+        "id": "platforms",
+        "title": "Có phiên bản Android không?",
+        "body": "Có. Trợ lý giờ MRT có cho iPhone, iPad và Apple Watch trên App Store, và cho Android trên Google Play. Phiên bản Android dùng cùng dữ liệu chính thức của MRT Đài Bắc, không thu thập dữ liệu cá nhân và có tiện ích trên màn hình chính cho chuyến tàu kế tiếp của tuyến nhánh Xiaobitan và Beitou · Xinbeitou. Nếu lời nhắc không đến trên Android, hãy đảm bảo thông báo được cho phép cho ứng dụng trong Cài đặt hệ thống. Việc dùng thử và mua trên Android do Google Play xử lý."
+      },
+      {
         "id": "independence",
         "title": "Đây có phải ứng dụng chính thức của MRT Đài Bắc không?",
         "body": "Không. Trợ lý giờ MRT là ứng dụng độc lập, không liên kết và không được Taipei Rapid Transit Corporation bảo trợ. Ứng dụng sử dụng dữ liệu công khai chính thức của MRT Đài Bắc. Khi gặp sự cố vận hành hoặc thất lạc đồ, vui lòng liên hệ trực tiếp với đơn vị vận hành."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Chính sách quyền riêng tư",
-    "summary": "Trợ lý giờ MRT không thu thập dữ liệu cá nhân. Trang này giải thích ứng dụng làm gì trên các thiết bị của bạn (iPhone, iPad và Apple Watch) và những gì nó không bao giờ làm.",
+    "summary": "Trợ lý giờ MRT không thu thập dữ liệu cá nhân. Trang này giải thích ứng dụng làm gì trên iPhone, iPad, Apple Watch và điện thoại Android của bạn, và những gì nó không bao giờ làm.",
     "updated_label": "Cập nhật lần cuối",
     "section_title": "Cam kết của chúng tôi",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Tiện ích, Hoạt động trực tiếp và Apple Watch",
         "body": "Ứng dụng cũng chạy trên iPad và Apple Watch, với tiện ích cho Màn hình chính và Màn hình khóa, tiện ích cho mặt đồng hồ Apple Watch, và trên iPhone có Hoạt động trực tiếp đếm ngược đến lời nhắc của bạn trên Màn hình khóa và trong Dynamic Island. Để tiện ích hiển thị đúng hành trình như trong ứng dụng, ứng dụng và các tiện ích riêng của nó chia sẻ hành trình gần nhất của bạn (ga và giờ) thông qua tính năng chia sẻ Chuỗi khóa của Apple; việc này chỉ diễn ra trên cùng một thiết bị và không có gì được tải lên bất kỳ máy chủ nào. Hoạt động trực tiếp chỉ được tạo và cập nhật trên thiết bị, không có máy chủ nào gửi cập nhật cho chúng, và xóa ứng dụng sẽ xóa tất cả những thứ này."
+      },
+      {
+        "id": "android",
+        "title": "Phiên bản Android (Google Play)",
+        "body": "Trợ lý giờ MRT cũng có cho Android trên Google Play, và mọi nội dung trên trang này đều áp dụng cho bản đó. Phiên bản Android không thu thập hay truyền dữ liệu cá nhân, không hiển thị quảng cáo và không dùng công cụ phân tích. Cài đặt, lời nhắc và thời điểm bắt đầu dùng thử chỉ được lưu trên thiết bị của bạn. Việc thanh toán do Google Play xử lý, và ứng dụng không bao giờ thấy thông tin thanh toán của bạn. Quyền Internet chỉ dùng để tải tệp PDF lịch chạy chính thức từ trang web của MRT Đài Bắc khi bạn chạm để mở. Ứng dụng cũng xin quyền thông báo, chỉ dùng cho các lời nhắc giờ khởi hành do bạn đặt và bạn có thể từ chối; quyền nhận tín hiệu hoàn tất khởi động, để lời nhắc của bạn được lên lịch lại sau khi điện thoại khởi động lại; và Google Play Billing, để kiểm tra trạng thái dùng thử và mua. Các tiện ích trên màn hình chính cho chuyến tàu kế tiếp của tuyến nhánh Xiaobitan và Beitou · Xinbeitou chỉ dùng dữ liệu lịch chạy có sẵn trong ứng dụng."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Nếu cách ứng dụng xử lý dữ liệu có thay đổi, chúng tôi sẽ cập nhật trang này và ngày “Cập nhật lần cuối” trước khi thay đổi có hiệu lực, đồng thời giải thích thay đổi trong ghi chú phát hành của ứng dụng."
       }
     ]
-  }
+  },
+  "play_label": "Phiên bản Android: Google Play"
 }

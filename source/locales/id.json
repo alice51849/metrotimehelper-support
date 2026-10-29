@@ -11,12 +11,12 @@
   "footer": "Metro Time Helper adalah aplikasi independen. Aplikasi ini tidak berafiliasi dengan, tidak didukung oleh, dan tidak dioperasikan oleh Taipei Rapid Transit Corporation. Jadwal dan waktu tempuh diambil dari data publik resmi MRT Taipei.",
   "contact": {
     "title": "Hubungi kami",
-    "body": "Ada pertanyaan, jadwal yang sepertinya keliru, atau ide untuk aplikasi ini? Kirimkan pesan kepada kami. Sertakan model iPhone, versi iOS, versi aplikasi (terlihat di “Pengaturan”), dan stasiun yang terkait agar kami bisa memeriksanya lebih cepat.",
+    "body": "Ada pertanyaan, jadwal yang sepertinya keliru, atau ide untuk aplikasi ini? Kirimkan pesan kepada kami. Sertakan model ponsel Anda, versi iOS atau Android, versi aplikasi (terlihat di “Pengaturan”), dan stasiun yang terkait agar kami bisa memeriksanya lebih cepat.",
     "button": "Kirim email"
   },
   "home": {
     "title": "Beri tahu kapan harus tiba. Aplikasi ini memberi tahu kapan harus berangkat.",
-    "summary": "Perencana waktu MRT Taipei untuk iPhone. Pilih stasiun dan jam Anda harus sampai, lalu aplikasi menghitung mundur waktu paling lambat Anda harus masuk stasiun, termasuk transit.",
+    "summary": "Perencana waktu MRT Taipei untuk iPhone dan Android. Pilih stasiun dan jam Anda harus sampai, lalu aplikasi menghitung mundur untuk menentukan waktu paling lambat Anda harus masuk stasiun, termasuk transit.",
     "section_title": "Fiturnya",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Jalur Wenhu, Tamsui-Xinyi beserta jalur cabang Xinbeitou, Songshan-Xindian beserta jalur cabang Xiaobitan, Zhonghe-Xinlu, Bannan, dan tahap pertama jalur Circular. MRT Bandara Taoyuan dan jalur kereta ringan tidak termasuk."
       },
       {
+        "id": "platforms",
+        "title": "Apakah ada versi Android?",
+        "body": "Ada. Metro Time Helper tersedia untuk iPhone, iPad, dan Apple Watch di App Store, serta untuk Android di Google Play. Versi Android menggunakan data resmi MRT Taipei yang sama, tidak mengumpulkan data pribadi, dan memiliki widget Layar Utama untuk kereta berikutnya di jalur cabang Xiaobitan dan Beitou · Xinbeitou. Jika pengingat tidak muncul di Android, pastikan notifikasi untuk aplikasi diizinkan di Pengaturan sistem. Uji coba dan pembelian di Android ditangani oleh Google Play."
+      },
+      {
         "id": "independence",
         "title": "Apakah ini aplikasi resmi MRT Taipei?",
         "body": "Bukan. Metro Time Helper adalah aplikasi independen dan tidak berafiliasi dengan atau didukung oleh Taipei Rapid Transit Corporation. Aplikasi ini memakai data publik resmi MRT Taipei. Untuk gangguan layanan atau barang hilang, silakan hubungi operator secara langsung."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Kebijakan Privasi",
-    "summary": "Metro Time Helper tidak mengumpulkan data pribadi. Halaman ini menjelaskan apa yang dilakukan aplikasi di perangkat Anda (iPhone, iPad, dan Apple Watch) dan apa yang tidak pernah dilakukannya.",
+    "summary": "Metro Time Helper tidak mengumpulkan data pribadi. Halaman ini menjelaskan apa yang dilakukan aplikasi di iPhone, iPad, Apple Watch, dan ponsel Android Anda serta apa yang tidak pernah dilakukannya.",
     "updated_label": "Terakhir Diperbarui",
     "section_title": "Komitmen kami",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Widget, Aktivitas Langsung, dan Apple Watch",
         "body": "Aplikasi ini juga berjalan di iPad dan Apple Watch, dengan widget untuk Layar Utama dan Layar Terkunci, widget untuk tampilan jam Apple Watch, serta Aktivitas Langsung di iPhone yang menghitung mundur menuju pengingat Anda di Layar Terkunci dan Dynamic Island. Agar widget dapat menampilkan perjalanan yang sama dengan aplikasi, aplikasi dan widget miliknya sendiri berbagi perjalanan terakhir Anda (stasiun dan waktu) melalui berbagi Rantai Kunci dari Apple; ini hanya terjadi di perangkat yang sama dan tidak ada yang diunggah ke server mana pun. Aktivitas Langsung dibuat dan diperbarui hanya di perangkat, tanpa server yang mengirimkan pembaruan kepadanya, dan menghapus aplikasi akan menghapus semua ini."
+      },
+      {
+        "id": "android",
+        "title": "Versi Android (Google Play)",
+        "body": "Metro Time Helper juga tersedia untuk Android melalui Google Play, dan semua yang tertulis di halaman ini berlaku juga untuk versi tersebut. Versi Android tidak mengumpulkan atau mengirimkan data pribadi, tidak menampilkan iklan, dan tidak menggunakan analitik. Pengaturan, pengingat, dan waktu mulai uji coba Anda hanya disimpan di perangkat Anda. Pembayaran ditangani oleh Google Play, dan aplikasi tidak pernah melihat detail pembayaran Anda. Izin Internet hanya digunakan untuk mengunduh PDF jadwal resmi dari situs web MRT Taipei saat Anda mengetuk untuk membukanya. Aplikasi juga meminta izin notifikasi, yang hanya digunakan untuk pengingat keberangkatan yang Anda atur dan boleh Anda tolak; izin untuk menerima sinyal selesai boot, agar pengingat Anda dijadwalkan ulang setelah ponsel dihidupkan ulang; dan izin Google Play Billing, untuk memeriksa status uji coba dan pembelian. Widget Layar Utama untuk kereta berikutnya di jalur cabang Xiaobitan dan Beitou · Xinbeitou hanya menggunakan data jadwal di dalam aplikasi."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Jika cara aplikasi menangani data berubah, kami akan memperbarui halaman ini dan tanggal Terakhir Diperbarui sebelum perubahan berlaku, serta menjelaskan perubahan tersebut di catatan rilis aplikasi."
       }
     ]
-  }
+  },
+  "play_label": "Versi Android: Google Play"
 }

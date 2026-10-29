@@ -11,12 +11,12 @@
   "footer": "Metro Tijdhelper is een onafhankelijke app. De app is niet verbonden aan, goedgekeurd door of beheerd door de Taipei Rapid Transit Corporation. Dienstregelingen en reistijden komen uit de officiële openbare gegevens van de metro van Taipei.",
   "contact": {
     "title": "Contact",
-    "body": "Een vraag, een dienstregeling die niet lijkt te kloppen of een idee voor de app? Mail ons. Vermeld je iPhone-model, iOS-versie, de appversie (te zien in “Instellingen”) en de stations waar het om gaat, dan kunnen we het sneller uitzoeken.",
+    "body": "Een vraag, een dienstregeling die niet lijkt te kloppen of een idee voor de app? Mail ons. Vermeld het model van je telefoon, je iOS- of Android-versie, de appversie (te zien in “Instellingen”) en de stations waar het om gaat, dan kunnen we het sneller uitzoeken.",
     "button": "E-mail"
   },
   "home": {
     "title": "Jij zegt wanneer je er moet zijn. De app zegt wanneer je moet gaan.",
-    "summary": "Een tijdplanner voor de metro van Taipei op je iPhone. Kies je stations en het tijdstip waarop je er moet zijn, en de app rekent terug naar het laatste moment waarop je het station in moet, overstappen inbegrepen.",
+    "summary": "Een tijdplanner voor de metro van Taipei op je iPhone en Android. Kies je stations en het tijdstip waarop je er moet zijn, en de app rekent terug naar het laatste moment waarop je het station in moet, overstappen inbegrepen.",
     "section_title": "Wat de app doet",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Wenhu, Tamsui-Xinyi met de zijlijn naar Xinbeitou, Songshan-Xindian met de zijlijn naar Xiaobitan, Zhonghe-Xinlu, Bannan en de eerste fase van de Circular-ringlijn. De Taoyuan Airport MRT en de lightraillijnen zijn niet inbegrepen."
       },
       {
+        "id": "platforms",
+        "title": "Is er een Android-versie?",
+        "body": "Ja. Metro Tijdhelper is er voor iPhone, iPad en Apple Watch in de App Store, en voor Android in Google Play. De Android-versie gebruikt dezelfde officiële gegevens van de metro van Taipei, verzamelt geen persoonsgegevens en heeft widgets voor het beginscherm met de volgende trein op de zijlijnen naar Xiaobitan en Beitou · Xinbeitou. Komen herinneringen op Android niet aan, controleer dan of meldingen voor de app zijn toegestaan in de systeeminstellingen. De proefperiode en de aankoop op Android worden afgehandeld door Google Play."
+      },
+      {
         "id": "independence",
         "title": "Is dit een officiële app van de metro van Taipei?",
         "body": "Nee. Metro Tijdhelper is een onafhankelijke app en is niet verbonden aan of goedgekeurd door de Taipei Rapid Transit Corporation. De app gebruikt de officiële openbare gegevens van de metro van Taipei. Neem bij storingen of gevonden voorwerpen rechtstreeks contact op met de vervoerder."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Privacybeleid",
-    "summary": "Metro Tijdhelper verzamelt geen persoonsgegevens. Deze pagina legt uit wat de app op je apparaten (iPhone, iPad en Apple Watch) doet en wat hij nooit doet.",
+    "summary": "Metro Tijdhelper verzamelt geen persoonsgegevens. Deze pagina legt uit wat de app doet op je iPhone, iPad, Apple Watch en Android-telefoon en wat hij nooit doet.",
     "updated_label": "Laatst bijgewerkt",
     "section_title": "Onze toezeggingen",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Widgets, Live-activiteiten en Apple Watch",
         "body": "De app werkt ook op iPad en Apple Watch, met een widget voor het beginscherm en het toegangsscherm, een widget voor de wijzerplaat van de Apple Watch en, op de iPhone, een Live-activiteit die op het toegangsscherm en in het Dynamic Island aftelt naar je herinnering. Zodat een widget dezelfde reis toont als de app, delen de app en zijn eigen widgets je laatste reis (stations en tijden) via het delen van de Sleutelhanger van Apple; dit gebeurt alleen op hetzelfde apparaat en er wordt niets naar een server geüpload. Live-activiteiten worden alleen op het apparaat gemaakt en bijgewerkt, zonder server die ze updates stuurt, en als je de app verwijdert, verdwijnt dit allemaal."
+      },
+      {
+        "id": "android",
+        "title": "Android-versie (Google Play)",
+        "body": "Metro Tijdhelper is ook voor Android verkrijgbaar via Google Play, en alles op deze pagina geldt ook daarvoor. De Android-versie verzamelt of verstuurt geen persoonsgegevens, toont geen advertenties en gebruikt geen analysediensten. Je instellingen, herinneringen en de starttijd van de proefperiode worden alleen op je apparaat bewaard. Betalen gaat via Google Play, en de app ziet je betaalgegevens nooit. De internettoestemming wordt alleen gebruikt om de officiële dienstregeling als PDF van de website van de metro van Taipei te downloaden wanneer je tikt om hem te openen. De app vraagt ook om toestemming voor meldingen, die alleen worden gebruikt voor de vertrekherinneringen die je instelt en die je mag weigeren; voor de melding dat het opstarten is voltooid, zodat je herinneringen na een herstart van de telefoon opnieuw worden ingepland; en voor Google Play Billing, om de status van de proefperiode en de aankoop te controleren. De widgets voor het beginscherm met de volgende trein op de zijlijnen naar Xiaobitan en Beitou · Xinbeitou gebruiken alleen de dienstregelingsgegevens in de app."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Als de manier waarop de app met gegevens omgaat ooit verandert, werken we deze pagina en de datum “Laatst bijgewerkt” bij voordat de wijziging ingaat, en lichten we de wijziging toe in de release-opmerkingen van de app."
       }
     ]
-  }
+  },
+  "play_label": "Android-versie: Google Play"
 }

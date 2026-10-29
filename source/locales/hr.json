@@ -11,12 +11,12 @@
   "footer": "Metro na vrijeme neovisna je aplikacija. Nije povezana s tvrtkom Taipei Rapid Transit Corporation, ona je ne podržava niti njome upravlja. Vozni redovi i trajanja vožnje potječu iz službenih javnih podataka metroa u Taipeiju.",
   "contact": {
     "title": "Kontakt",
-    "body": "Imate pitanje, čini vam se da vozni red nije točan ili imate ideju za aplikaciju? Pišite nam. Ako navedete model iPhonea, verziju iOS-a, verziju aplikacije (prikazana je u izborniku „Postavke“) i postaje o kojima je riječ, brže ćemo to provjeriti.",
+    "body": "Imate pitanje, vozni red koji vam se čini pogrešnim ili ideju za aplikaciju? Pišite nam. Ako navedete model telefona, verziju sustava iOS ili Android, verziju aplikacije (prikazuje se u Postavkama) i postaje o kojima je riječ, brže ćemo moći provjeriti.",
     "button": "E-pošta"
   },
   "home": {
     "title": "Recite kada morate stići. Ona će vam reći kada krenuti.",
-    "summary": "Planer vremena za metro u Taipeiju na iPhoneu. Odaberite postaje i vrijeme kada morate biti na odredištu, a aplikacija unatrag izračuna najkasnije vrijeme ulaska u postaju, uključujući presjedanja.",
+    "summary": "Planer vremena za metro u Taipeiju za iPhone i Android. Odaberite postaje i vrijeme do kojeg trebate stići, a aplikacija unatrag izračunava najkasnije vrijeme kada biste trebali ući na postaju, uključujući presjedanja.",
     "section_title": "Što može",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Wenhu, Tamsui-Xinyi s odvojkom Xinbeitou, Songshan-Xindian s odvojkom Xiaobitan, Zhonghe-Xinlu, Bannan te prva faza kružne linije Circular. Zračna linija Taoyuan Airport MRT i linije lake željeznice nisu uključene."
       },
       {
+        "id": "platforms",
+        "title": "Postoji li Android verzija?",
+        "body": "Da. Metro na vrijeme dostupan je za iPhone, iPad i Apple Watch u App Storeu te za Android u Google Playu. Android verzija koristi iste službene podatke metroa u Taipeiju, ne prikuplja osobne podatke i ima widgete početnog zaslona sa sljedećim vlakom na odvojcima Xiaobitan i Beitou · Xinbeitou. Ako podsjetnici ne stižu na Androidu, provjerite jesu li obavijesti za aplikaciju dopuštene u sistemskim Postavkama. Probu i kupnju na Androidu obrađuje Google Play."
+      },
+      {
         "id": "independence",
         "title": "Je li ovo službena aplikacija metroa u Taipeiju?",
         "body": "Nije. Metro na vrijeme neovisna je aplikacija i nije povezana s tvrtkom Taipei Rapid Transit Corporation niti je ona podržava. Koristi službene javne podatke metroa u Taipeiju. Za smetnje u prometu ili izgubljene stvari obratite se izravno prijevozniku."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Pravila o privatnosti",
-    "summary": "Metro na vrijeme ne prikuplja osobne podatke. Na ovoj stranici objašnjavamo što aplikacija radi na vašim uređajima (iPhone, iPad i Apple Watch), a što nikada ne radi.",
+    "summary": "Metro na vrijeme ne prikuplja osobne podatke. Na ovoj stranici objašnjavamo što aplikacija radi na vašem iPhoneu, iPadu, Apple Watchu i Android telefonu, a što nikada ne radi.",
     "updated_label": "Posljednje ažuriranje",
     "section_title": "Naše obveze",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Widgeti, Aktivnosti uživo i Apple Watch",
         "body": "Aplikacija radi i na iPadu i na Apple Watchu te nudi widget za početni i zaključani zaslon, widget za brojčanik Apple Watcha i, na iPhoneu, aktivnost uživo koja na zaključanom zaslonu i u Dynamic Islandu odbrojava do vašeg podsjetnika. Kako bi widget prikazivao isto putovanje kao aplikacija, aplikacija i njezini vlastiti widgeti dijele vaše posljednje putovanje (postaje i vremena) putem Appleova dijeljenja privjeska ključeva; to se događa samo na istom uređaju i ništa se ne prenosi ni na jedan poslužitelj. Aktivnosti uživo stvaraju se i ažuriraju samo na uređaju, bez poslužitelja koji bi im slao ažuriranja, a brisanjem aplikacije sve se to uklanja."
+      },
+      {
+        "id": "android",
+        "title": "Android verzija (Google Play)",
+        "body": "Metro na vrijeme dostupan je i za Android putem Google Playa, a sve što piše na ovoj stranici vrijedi i za tu verziju. Android verzija ne prikuplja niti prenosi osobne podatke, ne prikazuje oglase i ne koristi analitiku. Vaše postavke, podsjetnici i vrijeme početka probe pohranjuju se samo na vašem uređaju. Plaćanje obrađuje Google Play, a aplikacija nikada ne vidi vaše podatke o plaćanju. Dopuštenje za internet koristi se samo za preuzimanje službenog voznog reda u PDF-u s web-mjesta metroa u Taipeiju kada dodirnete da ga otvorite. Aplikacija traži i dopuštenje za obavijesti, koje se koristi samo za podsjetnike za polazak koje sami postavite i koje možete odbiti; dopuštenje za primanje poruke o dovršenom pokretanju telefona, kako bi se podsjetnici ponovno zakazali nakon ponovnog pokretanja telefona; te dopuštenje za Google Play Billing, radi provjere stanja probe i kupnje. Widgeti početnog zaslona sa sljedećim vlakom na odvojcima Xiaobitan i Beitou · Xinbeitou koriste samo podatke o voznim redovima unutar aplikacije."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Ako se način na koji aplikacija postupa s podacima ikada promijeni, ažurirat ćemo ovu stranicu i datum posljednjeg ažuriranja prije nego što izmjena stupi na snagu te je objasniti u bilješkama uz izdanje aplikacije."
       }
     ]
-  }
+  },
+  "play_label": "Android verzija: Google Play"
 }

@@ -11,12 +11,12 @@
   "footer": "Metro načas je nezávislá aplikácia. Nie je pridružená k spoločnosti Taipei Rapid Transit Corporation, nie je ňou podporovaná ani prevádzkovaná. Cestovné poriadky a časy jazdy pochádzajú z oficiálnych verejných údajov metra v Tchaj-peji.",
   "contact": {
     "title": "Kontakt",
-    "body": "Máte otázku, zdá sa vám cestovný poriadok nesprávny alebo máte nápad na aplikáciu? Napíšte nám. Ak uvediete model iPhonu, verziu iOS, verziu aplikácie (nájdete ju v časti „Nastavenia“) a stanice, ktorých sa to týka, pomôže nám to rýchlejšie to preveriť.",
+    "body": "Máte otázku, zdá sa vám cestovný poriadok nesprávny alebo máte nápad na aplikáciu? Napíšte nám. Ak uvediete model telefónu, verziu iOS alebo Androidu, verziu aplikácie (nájdete ju v časti „Nastavenia“) a stanice, ktorých sa to týka, pomôže nám to rýchlejšie to preveriť.",
     "button": "E-mail"
   },
   "home": {
     "title": "Povedzte, kedy tam máte byť. Poradí vám, kedy vyraziť.",
-    "summary": "Časový plánovač pre metro v Tchaj-peji na iPhone. Vyberte stanice a čas, kedy musíte byť na mieste, a aplikácia spätne vypočíta najneskorší čas vstupu do stanice vrátane prestupov.",
+    "summary": "Časový plánovač pre metro v Tchaj-peji na iPhone a Android. Vyberte stanice a čas, kedy musíte byť na mieste, a aplikácia spätne vypočíta najneskorší čas vstupu do stanice vrátane prestupov.",
     "section_title": "Čo dokáže",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Wenhu, Tamsui-Xinyi s odbočkou Xinbeitou, Songshan-Xindian s odbočkou Xiaobitan, Zhonghe-Xinlu, Bannan a prvá etapa okružnej linky Circular. Letisková linka Taoyuan Airport MRT a električkové linky zahrnuté nie sú."
       },
       {
+        "id": "platforms",
+        "title": "Existuje verzia pre Android?",
+        "body": "Áno. Metro načas je dostupná pre iPhone, iPad a Apple Watch v App Store a pre Android v Google Play. Verzia pre Android používa tie isté oficiálne údaje metra v Tchaj-peji, nezhromažďuje osobné údaje a má widgety na ploche s ďalším vlakom na odbočkách Xiaobitan a Beitou · Xinbeitou. Ak vám na Androide nechodia pripomienky, skontrolujte, či sú pre aplikáciu povolené hlásenia v systémových nastaveniach. Skúšobnú verziu a nákup na Androide spracúva Google Play."
+      },
+      {
         "id": "independence",
         "title": "Je to oficiálna aplikácia metra v Tchaj-peji?",
         "body": "Nie. Metro načas je nezávislá aplikácia a nie je pridružená k spoločnosti Taipei Rapid Transit Corporation ani ňou podporovaná. Využíva oficiálne verejné údaje metra v Tchaj-peji. S výpadkami prevádzky alebo stratenými vecami sa, prosím, obracajte priamo na dopravcu."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Zásady ochrany súkromia",
-    "summary": "Metro načas nezhromažďuje osobné údaje. Táto stránka vysvetľuje, čo aplikácia vo vašich zariadeniach (iPhone, iPad a Apple Watch) robí a čo nerobí nikdy.",
+    "summary": "Metro načas nezhromažďuje osobné údaje. Táto stránka vysvetľuje, čo aplikácia robí na iPhone, iPade, Apple Watch a telefóne s Androidom a čo nerobí nikdy.",
     "updated_label": "Posledná aktualizácia",
     "section_title": "Naše záväzky",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Widgety, Živé aktivity a Apple Watch",
         "body": "Aplikácia funguje aj na iPade a na Apple Watch a ponúka widget na plochu a zamknutú obrazovku, widget na ciferník Apple Watch a na iPhone Živú aktivitu, ktorá na zamknutej obrazovke a v Dynamic Island odpočítava čas do vašej pripomienky. Aby widget ukazoval rovnakú cestu ako aplikácia, aplikácia a jej vlastné widgety zdieľajú vašu poslednú cestu (stanice a časy) prostredníctvom zdieľania Kľúčenky od Apple; deje sa to len v rámci toho istého zariadenia a nič sa nenahráva na žiadny server. Živé aktivity sa vytvárajú a aktualizujú len v zariadení, bez servera, ktorý by im posielal aktualizácie, a vymazaním aplikácie sa to všetko odstráni."
+      },
+      {
+        "id": "android",
+        "title": "Verzia pre Android (Google Play)",
+        "body": "Metro načas je cez Google Play dostupná aj pre Android a všetko, čo je na tejto stránke, platí aj pre ňu. Verzia pre Android nezhromažďuje ani neodosiela osobné údaje, nezobrazuje reklamy a nepoužíva analytiku. Vaše nastavenia, pripomienky a začiatok skúšobnej verzie sa ukladajú iba vo vašom zariadení. Platbu spracúva Google Play a aplikácia nikdy nevidí vaše platobné údaje. Povolenie Internet sa používa iba na stiahnutie oficiálneho cestovného poriadku v PDF z webovej stránky metra v Tchaj-peji, keď naň klepnete, aby sa otvoril. Aplikácia tiež žiada o povolenie na hlásenia, ktoré sa používajú iba na pripomienky odchodu, ktoré si nastavíte, a ktoré môžete odmietnuť; o povolenie prijať signál o dokončení štartu systému, aby sa vaše pripomienky po reštarte telefónu naplánovali znova; a o povolenie Google Play Billing na kontrolu stavu skúšobnej verzie a nákupu. Widgety na ploche s ďalším vlakom na odbočkách Xiaobitan a Beitou · Xinbeitou používajú iba údaje cestovných poriadkov v aplikácii."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Ak sa spôsob, akým aplikácia narába s údajmi, niekedy zmení, aktualizujeme túto stránku aj dátum poslednej aktualizácie ešte predtým, ako zmena nadobudne účinnosť, a zmenu vysvetlíme v poznámkach k vydaniu aplikácie."
       }
     ]
-  }
+  },
+  "play_label": "Verzia pre Android: Google Play"
 }

@@ -11,12 +11,12 @@
   "footer": "Metro pravočasno je neodvisna aplikacija. Ni povezana z družbo Taipei Rapid Transit Corporation, ta je ne podpira in je ne upravlja. Vozni redi in časi vožnje izhajajo iz uradnih javnih podatkov tajpejskega metroja.",
   "contact": {
     "title": "Kontakt",
-    "body": "Imate vprašanje, se vam zdi vozni red napačen ali imate zamisel za aplikacijo? Pišite nam. Če navedete model iPhona, različico sistema iOS, različico aplikacije (prikazana je v razdelku „Nastavitve“) in postaje, za katere gre, bomo zadevo lahko hitreje preverili.",
+    "body": "Imate vprašanje, se vam zdi vozni red napačen ali imate zamisel za aplikacijo? Pišite nam. Če navedete model telefona, različico sistema iOS ali Android, različico aplikacije (prikazana je v razdelku „Nastavitve“) in postaje, za katere gre, bomo zadevo lahko hitreje preverili.",
     "button": "E-pošta"
   },
   "home": {
     "title": "Povejte, kdaj morate priti. Povedala vam bo, kdaj oditi.",
-    "summary": "Časovni načrtovalec za tajpejski metro za iPhone. Izberite postaje in čas, ko morate biti na cilju, aplikacija pa vzvratno izračuna najpoznejši čas vstopa na postajo, vključno s prestopi.",
+    "summary": "Časovni načrtovalec za tajpejski metro za iPhone in Android. Izberite postaje in čas, ko morate biti na cilju, aplikacija pa vzvratno izračuna najpoznejši čas vstopa na postajo, vključno s prestopi.",
     "section_title": "Kaj zna",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Wenhu, Tamsui-Xinyi z odcepom Xinbeitou, Songshan-Xindian z odcepom Xiaobitan, Zhonghe-Xinlu, Bannan in prva faza krožne proge Circular. Letališka proga Taoyuan Airport MRT in proge lahke železnice niso vključene."
       },
       {
+        "id": "platforms",
+        "title": "Ali obstaja različica za Android?",
+        "body": "Da. Metro pravočasno je na voljo za iPhone, iPad in Apple Watch v App Store ter za Android v Google Play. Različica za Android uporablja iste uradne podatke tajpejskega metroja, ne zbira osebnih podatkov in ima pripomočke na začetnem zaslonu za naslednji vlak na odcepih Xiaobitan in Beitou · Xinbeitou. Če opomniki v sistemu Android ne prispejo, preverite, ali so v sistemskih nastavitvah za aplikacijo dovoljena obvestila. Preizkus in nakup v sistemu Android obravnava Google Play."
+      },
+      {
         "id": "independence",
         "title": "Je to uradna aplikacija tajpejskega metroja?",
         "body": "Ne. Metro pravočasno je neodvisna aplikacija in ni povezana z družbo Taipei Rapid Transit Corporation niti je ta ne podpira. Uporablja uradne javne podatke tajpejskega metroja. Glede motenj v prometu ali izgubljenih predmetov se obrnite neposredno na upravljavca."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Pravilnik o zasebnosti",
-    "summary": "Metro pravočasno ne zbira osebnih podatkov. Ta stran pojasnjuje, kaj aplikacija počne v vaših napravah (iPhone, iPad in Apple Watch) in česa nikoli ne počne.",
+    "summary": "Metro pravočasno ne zbira osebnih podatkov. Ta stran pojasnjuje, kaj aplikacija počne na iPhonu, iPadu, Apple Watchu in telefonu Android ter česa nikoli ne počne.",
     "updated_label": "Zadnja posodobitev",
     "section_title": "Naše zaveze",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Pripomočki, Dejavnosti v živo in Apple Watch",
         "body": "Aplikacija deluje tudi na iPadu in Apple Watchu ter ponuja pripomoček za začetni in zaklenjeni zaslon, pripomoček za številčnico Apple Watcha in na iPhonu Dejavnost v živo, ki na zaklenjenem zaslonu in v Dynamic Islandu odšteva do vašega opomnika. Da pripomoček prikazuje isto pot kot aplikacija, aplikacija in njeni lastni pripomočki delijo vašo zadnjo pot (postaje in čase) prek deljenja obeska za ključe družbe Apple; to poteka samo v isti napravi in nič se ne nalaga na noben strežnik. Dejavnosti v živo se ustvarjajo in posodabljajo samo v napravi, brez strežnika, ki bi jim pošiljal posodobitve, z odstranitvijo aplikacije pa se vse to izbriše."
+      },
+      {
+        "id": "android",
+        "title": "Različica za Android (Google Play)",
+        "body": "Metro pravočasno je prek Google Play na voljo tudi za Android in vse, kar piše na tej strani, velja tudi zanjo. Različica za Android ne zbira in ne pošilja osebnih podatkov, ne prikazuje oglasov in ne uporablja analitike. Vaše nastavitve, opomniki in začetek preizkusa so shranjeni samo v vaši napravi. Plačilo obravnava Google Play, aplikacija pa plačilnih podatkov nikoli ne vidi. Dovoljenje Internet se uporablja samo za prenos uradnega voznega reda v PDF s spletnega mesta tajpejskega metroja, ko tapnete, da ga odprete. Aplikacija zaprosi tudi za dovoljenje za obvestila, ki se uporabljajo samo za opomnike za odhod, ki jih nastavite, in ga lahko zavrnete; za dovoljenje za prejem signala o zaključenem zagonu sistema, da se vaši opomniki po ponovnem zagonu telefona znova načrtujejo; in za Google Play Billing, da preveri stanje preizkusa in nakupa. Pripomočki na začetnem zaslonu za naslednji vlak na odcepih Xiaobitan in Beitou · Xinbeitou uporabljajo samo podatke voznega reda v aplikaciji."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Če se način, kako aplikacija ravna s podatki, kdaj spremeni, bomo to stran in datum zadnje posodobitve posodobili, preden začne sprememba veljati, ter spremembo pojasnili v opombah k izdaji aplikacije."
       }
     ]
-  }
+  },
+  "play_label": "Različica za Android: Google Play"
 }

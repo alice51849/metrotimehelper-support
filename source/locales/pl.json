@@ -11,12 +11,12 @@
   "footer": "Metro na czas to niezależna aplikacja. Nie jest powiązana z Taipei Rapid Transit Corporation, nie ma jej poparcia ani nie jest przez nią prowadzona. Rozkłady jazdy i czasy przejazdu pochodzą z oficjalnych danych publicznych metra w Tajpej.",
   "contact": {
     "title": "Kontakt",
-    "body": "Masz pytanie, rozkład wygląda na błędny albo masz pomysł na aplikację? Napisz do nas. Podaj model iPhone’a, wersję iOS, wersję aplikacji (widoczną w menu „Ustawienia”) oraz stacje, których dotyczy sprawa, a szybciej się temu przyjrzymy.",
+    "body": "Masz pytanie, rozkład wygląda na błędny albo masz pomysł na aplikację? Napisz do nas. Podaj model telefonu, wersję iOS lub Androida, wersję aplikacji (widoczną w menu „Ustawienia”) oraz stacje, których dotyczy sprawa, a szybciej się temu przyjrzymy.",
     "button": "E-mail"
   },
   "home": {
     "title": "Powiedz, na którą masz być. Podpowie, kiedy wyjść.",
-    "summary": "Planer czasu podróży metrem w Tajpej na iPhone’a. Wybierz stacje i godzinę, o której musisz być na miejscu, a aplikacja policzy wstecz najpóźniejszą porę wejścia na stację, z przesiadkami włącznie.",
+    "summary": "Planer czasu podróży metrem w Tajpej na iPhone’a i Androida. Wybierz stacje i godzinę, o której musisz być na miejscu, a aplikacja policzy wstecz najpóźniejszą porę wejścia na stację, z przesiadkami włącznie.",
     "section_title": "Co potrafi",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Wenhu, Tamsui-Xinyi z odgałęzieniem Xinbeitou, Songshan-Xindian z odgałęzieniem Xiaobitan, Zhonghe-Xinlu, Bannan oraz pierwszy etap linii Circular. Linia lotniskowa Taoyuan Airport MRT i linie tramwajowe nie są uwzględnione."
       },
       {
+        "id": "platforms",
+        "title": "Czy jest wersja na Androida?",
+        "body": "Tak. Metro na czas jest dostępne na iPhone’a, iPada i Apple Watcha w App Store oraz na Androida w Google Play. Wersja na Androida korzysta z tych samych oficjalnych danych metra w Tajpej, nie zbiera danych osobowych i ma widżety ekranu głównego z następnym pociągiem na odgałęzieniach Xiaobitan i Beitou · Xinbeitou. Jeśli przypomnienia nie docierają na Androidzie, sprawdź, czy w ustawieniach systemu zezwolono aplikacji na powiadomienia. Okresem próbnym i zakupem na Androidzie zajmuje się Google Play."
+      },
+      {
         "id": "independence",
         "title": "Czy to oficjalna aplikacja metra w Tajpej?",
         "body": "Nie. Metro na czas to niezależna aplikacja, niepowiązana z Taipei Rapid Transit Corporation ani przez nią niepopierana. Korzysta z oficjalnych danych publicznych metra w Tajpej. W sprawie zakłóceń w kursowaniu lub rzeczy znalezionych skontaktuj się bezpośrednio z przewoźnikiem."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Polityka prywatności",
-    "summary": "Metro na czas nie zbiera danych osobowych. Na tej stronie wyjaśniamy, co aplikacja robi na Twoich urządzeniach (iPhonie, iPadzie i Apple Watchu) i czego nie robi nigdy.",
+    "summary": "Metro na czas nie zbiera danych osobowych. Na tej stronie wyjaśniamy, co aplikacja robi na Twoim iPhonie, iPadzie, Apple Watchu i telefonie z Androidem oraz czego nie robi nigdy.",
     "updated_label": "Ostatnia aktualizacja",
     "section_title": "Nasze zobowiązania",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Widżety, Aktywności na żywo i Apple Watch",
         "body": "Aplikacja działa również na iPadzie i Apple Watchu, oferując widżet na ekran początkowy i ekran blokady, widżet na tarczę Apple Watcha oraz, na iPhonie, Aktywność na żywo, która na ekranie blokady i w Dynamic Island odlicza czas do Twojego przypomnienia. Aby widżet pokazywał tę samą podróż co aplikacja, aplikacja i jej własne widżety współdzielą Twoją ostatnią podróż (stacje i godziny) za pomocą udostępniania Pęku kluczy Apple; dzieje się to tylko na tym samym urządzeniu i nic nie jest wysyłane na żaden serwer. Aktywności na żywo są tworzone i aktualizowane tylko na urządzeniu, bez serwera, który wysyłałby im aktualizacje, a usunięcie aplikacji usuwa to wszystko."
+      },
+      {
+        "id": "android",
+        "title": "Wersja na Androida (Google Play)",
+        "body": "Metro na czas jest dostępne także na Androida w Google Play, a wszystko, co napisano na tej stronie, dotyczy również tej wersji. Wersja na Androida nie zbiera ani nie przesyła danych osobowych, nie wyświetla reklam i nie korzysta z analityki. Twoje ustawienia, przypomnienia i czas rozpoczęcia okresu próbnego są przechowywane wyłącznie na Twoim urządzeniu. Płatnościami zajmuje się Google Play, a aplikacja nigdy nie widzi Twoich danych płatniczych. Uprawnienie do internetu służy tylko do pobrania oficjalnego rozkładu jazdy w PDF ze strony internetowej metra w Tajpej, gdy stukniesz, aby go otworzyć. Aplikacja prosi też o zgodę na powiadomienia, używane wyłącznie do ustawionych przez Ciebie przypomnień o odjeździe i możliwe do odrzucenia; o uprawnienie do komunikatu o zakończeniu uruchamiania systemu, aby po ponownym uruchomieniu telefonu przypomnienia zostały zaplanowane na nowo; oraz o Google Play Billing, aby sprawdzać stan okresu próbnego i zakupu. Widżety ekranu głównego z następnym pociągiem na odgałęzieniach Xiaobitan i Beitou · Xinbeitou korzystają wyłącznie z danych rozkładowych zawartych w aplikacji."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Jeśli sposób, w jaki aplikacja obchodzi się z danymi, kiedykolwiek się zmieni, zaktualizujemy tę stronę i datę ostatniej aktualizacji, zanim zmiana wejdzie w życie, i wyjaśnimy ją w informacjach o wydaniu aplikacji."
       }
     ]
-  }
+  },
+  "play_label": "Wersja na Androida: Google Play"
 }

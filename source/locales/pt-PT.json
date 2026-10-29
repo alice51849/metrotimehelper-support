@@ -11,12 +11,12 @@
   "footer": "Metro a Horas é uma app independente. Não está associada à Taipei Rapid Transit Corporation, nem é aprovada ou gerida por esta empresa. Os horários e tempos de viagem provêm dos dados públicos oficiais do metro de Taipé.",
   "contact": {
     "title": "Contacte-nos",
-    "body": "Tem uma dúvida, encontrou um horário que parece errado ou tem uma ideia para a app? Escreva-nos. Indicar o modelo do iPhone, a versão do iOS, a versão da app (visível em «Definições») e as estações em causa ajuda-nos a analisar o assunto mais depressa.",
+    "body": "Tem uma dúvida, encontrou um horário que parece errado ou tem uma ideia para a app? Escreva-nos. Indicar o modelo do telemóvel, a versão do iOS ou do Android, a versão da app (visível em «Definições») e as estações em causa ajuda-nos a analisar o assunto mais depressa.",
     "button": "Enviar e-mail"
   },
   "home": {
     "title": "Diga-lhe quando quer chegar. Ela diz-lhe quando sair.",
-    "summary": "Um planeador de horários do metro de Taipé para iPhone. Escolha as estações e a hora a que precisa de lá estar, e a app calcula ao contrário a hora limite para entrar na estação, com os transbordos incluídos.",
+    "summary": "Um planeador de horários do metro de Taipé para iPhone e Android. Escolha as estações e a hora a que precisa de lá estar, e a app calcula ao contrário a hora limite para entrar na estação, com os transbordos incluídos.",
     "section_title": "O que faz",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Wenhu, Tamsui-Xinyi com o ramal de Xinbeitou, Songshan-Xindian com o ramal de Xiaobitan, Zhonghe-Xinlu, Bannan e a primeira fase da linha Circular. O metro do aeroporto de Taoyuan e as linhas de metro ligeiro não estão incluídos."
       },
       {
+        "id": "platforms",
+        "title": "Existe uma versão para Android?",
+        "body": "Sim. Metro a Horas está disponível para iPhone, iPad e Apple Watch na App Store e para Android no Google Play. A versão para Android usa os mesmos dados oficiais do metro de Taipé, não recolhe dados pessoais e tem widgets no ecrã principal com o próximo comboio nos ramais de Xiaobitan e Beitou · Xinbeitou. Se os lembretes não chegarem no Android, confirme que as notificações estão permitidas para a app nas Definições do sistema. O teste e a compra no Android são geridos pelo Google Play."
+      },
+      {
         "id": "independence",
         "title": "Esta é uma app oficial do metro de Taipé?",
         "body": "Não. Metro a Horas é uma app independente e não está associada à Taipei Rapid Transit Corporation nem é aprovada por ela. Utiliza os dados públicos oficiais do metro de Taipé. Para perturbações no serviço ou perdidos e achados, contacte diretamente o operador."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Política de Privacidade",
-    "summary": "Metro a Horas não recolhe dados pessoais. Esta página explica o que a app faz nos seus dispositivos (iPhone, iPad e Apple Watch) e o que nunca faz.",
+    "summary": "Metro a Horas não recolhe dados pessoais. Esta página explica o que a app faz no seu iPhone, iPad, Apple Watch e telemóvel Android e o que nunca faz.",
     "updated_label": "Última atualização",
     "section_title": "Os nossos compromissos",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Widgets, Atividades em Direto e Apple Watch",
         "body": "A app também funciona no iPad e no Apple Watch, com um widget para o ecrã principal e o ecrã bloqueado, um widget para o mostrador do Apple Watch e, no iPhone, uma Atividade em Direto que faz a contagem decrescente até ao seu lembrete no ecrã bloqueado e na Dynamic Island. Para que um widget mostre a mesma viagem que a app, a app e os seus próprios widgets partilham a sua última viagem (estações e horas) através da partilha do Porta-chaves da Apple; isto acontece apenas no mesmo dispositivo e nada é enviado para nenhum servidor. As Atividades em Direto são criadas e atualizadas apenas no dispositivo, sem nenhum servidor que lhes envie atualizações, e apagar a app remove tudo isto."
+      },
+      {
+        "id": "android",
+        "title": "Versão para Android (Google Play)",
+        "body": "Metro a Horas também está disponível para Android através do Google Play, e tudo o que consta nesta página se aplica igualmente a essa versão. A versão para Android não recolhe nem transmite dados pessoais, não mostra anúncios e não usa ferramentas de análise. As suas definições, os lembretes e a hora de início do teste ficam guardados apenas no seu dispositivo. O pagamento é tratado pelo Google Play, e a app nunca vê os seus dados de pagamento. A permissão de Internet é usada apenas para descarregar o PDF oficial do horário a partir do site do metro de Taipé quando toca para o abrir. A app também pede permissão para notificações, usadas apenas para os lembretes de partida que definir e que pode recusar; para o aviso de arranque concluído, para que os seus lembretes sejam agendados de novo depois de o telemóvel reiniciar; e para o Google Play Billing, a fim de verificar o estado do teste e da compra. Os widgets do ecrã principal com o próximo comboio nos ramais de Xiaobitan e Beitou · Xinbeitou usam apenas os dados de horários que estão na app."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Se a forma como a app trata os dados vier a mudar, atualizaremos esta página e a data da última atualização antes de a alteração entrar em vigor, e explicaremos a alteração nas notas de versão da app."
       }
     ]
-  }
+  },
+  "play_label": "Versão para Android: Google Play"
 }

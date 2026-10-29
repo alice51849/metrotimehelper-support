@@ -11,12 +11,12 @@
   "footer": "Metro Saat Yardımcısı bağımsız bir uygulamadır. Taipei Rapid Transit Corporation ile bağlantılı değildir, bu kuruluş tarafından onaylanmamıştır ve işletilmemektedir. Tarifeler ve yolculuk süreleri Taipei Metrosu'nun resmî açık verilerinden alınır.",
   "contact": {
     "title": "Bize ulaşın",
-    "body": "Bir sorunuz mu var, bir tarife yanlış mı görünüyor ya da uygulama için bir fikriniz mi var? Bize yazın. iPhone modelinizi, iOS sürümünüzü, uygulama sürümünü (“Ayarlar”da görünür) ve ilgili istasyonları belirtirseniz konuyu daha hızlı inceleyebiliriz.",
+    "body": "Bir sorunuz mu var, bir tarife yanlış mı görünüyor ya da uygulama için bir fikriniz mi var? Bize yazın. Telefon modelinizi, iOS veya Android sürümünüzü, uygulama sürümünü (“Ayarlar”da görünür) ve ilgili istasyonları belirtirseniz konuyu daha hızlı inceleyebiliriz.",
     "button": "E-posta gönder"
   },
   "home": {
     "title": "Ne zaman varmanız gerektiğini söyleyin, ne zaman çıkmanız gerektiğini o söylesin.",
-    "summary": "iPhone için bir Taipei metro saat planlayıcısı. İstasyonlarınızı ve orada olmanız gereken saati seçin; uygulama aktarmalar dahil geriye doğru hesaplayarak istasyona en geç ne zaman girmeniz gerektiğini bulur.",
+    "summary": "iPhone ve Android için bir Taipei metro saat planlayıcısı. İstasyonlarınızı ve orada olmanız gereken saati seçin; uygulama aktarmalar dahil geriye doğru hesaplayarak istasyona en geç ne zaman girmeniz gerektiğini bulur.",
     "section_title": "Neler yapar",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Wenhu, Xinbeitou yan hattıyla birlikte Tamsui-Xinyi, Xiaobitan yan hattıyla birlikte Songshan-Xindian, Zhonghe-Xinlu, Bannan ve Çevre hattının (Circular) ilk etabı. Taoyuan Havalimanı metrosu ve hafif raylı hatlar dahil değildir."
       },
       {
+        "id": "platforms",
+        "title": "Android sürümü var mı?",
+        "body": "Evet. Metro Saat Yardımcısı iPhone, iPad ve Apple Watch için App Store'da, Android için Google Play'de sunulmaktadır. Android sürümü aynı resmî Taipei Metrosu verilerini kullanır, kişisel veri toplamaz ve Xiaobitan ile Beitou · Xinbeitou yan hatlarındaki sonraki tren için Ana Ekran widget'ları vardır. Android'de hatırlatıcılar gelmiyorsa sistem Ayarlar'ında uygulama için bildirimlere izin verildiğinden emin olun. Android'deki deneme ve satın alma Google Play tarafından yönetilir."
+      },
+      {
         "id": "independence",
         "title": "Bu resmî bir Taipei Metrosu uygulaması mı?",
         "body": "Hayır. Metro Saat Yardımcısı bağımsız bir uygulamadır; Taipei Rapid Transit Corporation ile bağlantılı değildir ve bu kuruluş tarafından onaylanmamıştır. Taipei Metrosu'nun resmî açık verilerini kullanır. Sefer aksaklıkları veya kayıp eşyalar için lütfen doğrudan işletmeciyle iletişime geçin."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Gizlilik Politikası",
-    "summary": "Metro Saat Yardımcısı kişisel veri toplamaz. Bu sayfa, uygulamanın cihazlarınızda (iPhone, iPad ve Apple Watch) ne yaptığını ve asla ne yapmadığını açıklar.",
+    "summary": "Metro Saat Yardımcısı kişisel veri toplamaz. Bu sayfa, uygulamanın iPhone, iPad, Apple Watch ve Android telefonunuzda ne yaptığını ve asla ne yapmadığını açıklar.",
     "updated_label": "Son Güncelleme",
     "section_title": "Taahhütlerimiz",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Widget'lar, Canlı Etkinlikler ve Apple Watch",
         "body": "Uygulama iPad ve Apple Watch'ta da çalışır; Ana Ekran ve Kilitli Ekran için bir widget, Apple Watch kadranı için bir widget ve iPhone'da hatırlatıcınıza kadar Kilitli Ekran'da ve Dynamic Island'da geri sayım yapan bir Canlı Etkinlik sunar. Bir widget'ın uygulamayla aynı yolculuğu gösterebilmesi için uygulama ve kendi widget'ları son yolculuğunuzu (istasyonlar ve saatler) Apple'ın Anahtar Zinciri paylaşımı üzerinden paylaşır; bu yalnızca aynı cihazda gerçekleşir ve hiçbir sunucuya hiçbir şey yüklenmez. Canlı Etkinlikler yalnızca cihazda oluşturulur ve güncellenir, onlara güncelleme gönderen bir sunucu yoktur ve uygulamayı sildiğinizde bunların hepsi kaldırılır."
+      },
+      {
+        "id": "android",
+        "title": "Android sürümü (Google Play)",
+        "body": "Metro Saat Yardımcısı, Google Play üzerinden Android için de sunulmaktadır ve bu sayfadaki her şey onun için de geçerlidir. Android sürümü kişisel veri toplamaz veya iletmez, reklam göstermez ve analiz aracı kullanmaz. Ayarlarınız, hatırlatıcılarınız ve denemenin başlangıç zamanı yalnızca cihazınızda saklanır. Ödemeyi Google Play yürütür; uygulama ödeme bilgilerinizi hiçbir zaman görmez. İnternet izni, yalnızca siz açmak için dokunduğunuzda Taipei Metrosu'nun web sitesinden resmî tarife PDF'ini indirmek için kullanılır. Uygulama ayrıca şunları ister: bildirimler, ki bunlar yalnızca sizin kurduğunuz kalkış hatırlatıcıları için kullanılır ve reddedebilirsiniz; telefon yeniden başladıktan sonra hatırlatıcılarınızın yeniden planlanması için önyükleme tamamlandı yayını; ve deneme ile satın alma durumunu denetlemek için Google Play Faturalandırma. Xiaobitan ve Beitou · Xinbeitou yan hatlarındaki sonraki tren için Ana Ekran widget'ları yalnızca uygulamanın içindeki tarife verilerini kullanır."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Uygulamanın verileri işleme biçimi bir gün değişirse, değişiklik yürürlüğe girmeden önce bu sayfayı ve Son Güncelleme tarihini güncelleyecek, değişikliği uygulamanın sürüm notlarında açıklayacağız."
       }
     ]
-  }
+  },
+  "play_label": "Android sürümü: Google Play"
 }

@@ -11,12 +11,12 @@
   "footer": "Az Időtervező a metróhoz független alkalmazás. Nem áll kapcsolatban a Taipei Rapid Transit Corporation vállalattal, az nem támogatja és nem üzemelteti. A menetrendek és a menetidők a tajpeji metró hivatalos nyilvános adataiból származnak.",
   "contact": {
     "title": "Kapcsolat",
-    "body": "Kérdése van, hibásnak tűnik egy menetrend, vagy ötlete van az alkalmazáshoz? Írjon nekünk. Ha megadja iPhone-ja típusát, az iOS verzióját, az alkalmazás verzióját (a „Beállítások” menüben látható) és az érintett állomásokat, gyorsabban utánajárhatunk.",
+    "body": "Kérdése van, hibásnak tűnik egy menetrend, vagy ötlete van az alkalmazáshoz? Írjon nekünk. Ha megadja a telefonja típusát, az iOS vagy Android verzióját, az alkalmazás verzióját (a „Beállítások” menüben látható) és az érintett állomásokat, gyorsabban utánajárhatunk.",
     "button": "E-mail"
   },
   "home": {
     "title": "Mondja meg, mikorra kell odaérnie. Megmondja, mikor induljon.",
-    "summary": "Időtervező a tajpeji metróhoz iPhone-ra. Válassza ki az állomásokat és azt az időpontot, amikorra oda kell érnie, az alkalmazás pedig visszafelé kiszámolja, legkésőbb mikor kell belépnie az állomásra, az átszállásokkal együtt.",
+    "summary": "Tajpeji metró időtervező iPhone-ra és Androidra. Válassza ki az állomásokat és azt az időpontot, amikorra oda kell érnie, az alkalmazás pedig visszafelé kiszámolja, legkésőbb mikor kell belépnie az állomásra, az átszállásokkal együtt.",
     "section_title": "Mire képes",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Wenhu, Tamsui-Xinyi a Xinbeitou szárnyvonallal, Songshan-Xindian a Xiaobitan szárnyvonallal, Zhonghe-Xinlu, Bannan, valamint a Circular körvonal első szakasza. A Taoyuan Airport MRT reptéri vonal és a könnyűvasúti vonalak nem szerepelnek benne."
       },
       {
+        "id": "platforms",
+        "title": "Van Android-verzió?",
+        "body": "Igen. Az Időtervező a metróhoz iPhone-ra, iPadre és Apple Watchra az App Store-ban, Androidra pedig a Google Play révén érhető el. Az Android-verzió ugyanazokat a hivatalos tajpeji metróadatokat használja, nem gyűjt személyes adatokat, és kezdőképernyő-widgetekkel mutatja a Xiaobitan és a Beitou · Xinbeitou szárnyvonal következő vonatát. Ha Androidon nem érkeznek meg az emlékeztetők, ellenőrizze, hogy a rendszerbeállításokban engedélyezve vannak-e az alkalmazás értesítései. A próbaidőszakot és a vásárlást Androidon a Google Play kezeli."
+      },
+      {
         "id": "independence",
         "title": "Ez a tajpeji metró hivatalos alkalmazása?",
         "body": "Nem. Az Időtervező a metróhoz független alkalmazás, és nem áll kapcsolatban a Taipei Rapid Transit Corporation vállalattal, amely nem is támogatja. A tajpeji metró hivatalos nyilvános adatait használja. Forgalmi zavarok vagy elveszett tárgyak ügyében forduljon közvetlenül az üzemeltetőhöz."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Adatvédelmi irányelvek",
-    "summary": "Az Időtervező a metróhoz nem gyűjt személyes adatokat. Ez az oldal elmagyarázza, mit végez az alkalmazás az Ön eszközein (iPhone, iPad és Apple Watch), és mit nem tesz soha.",
+    "summary": "Az Időtervező a metróhoz nem gyűjt személyes adatokat. Ez az oldal elmagyarázza, mit végez az alkalmazás az Ön iPhone-ján, iPadjén, Apple Watchán és Android-telefonján, és mit nem tesz soha.",
     "updated_label": "Utolsó frissítés",
     "section_title": "Vállalásaink",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Widgetek, Élő tevékenységek és Apple Watch",
         "body": "Az alkalmazás iPaden és Apple Watchon is működik, és kínál widgetet a kezdőképernyőre és a zárolási képernyőre, widgetet az Apple Watch számlapjára, valamint iPhone-on egy Élő tevékenységet, amely a zárolási képernyőn és a Dynamic Islanden visszaszámol az emlékeztetőjéig. Hogy a widget ugyanazt az utat mutassa, mint az alkalmazás, az alkalmazás és a saját widgetjei az Apple Kulcstartó-megosztásán keresztül megosztják az Ön legutóbbi útját (az állomásokat és az időpontokat); ez kizárólag ugyanazon az eszközön történik, és semmi sem kerül feltöltésre egyetlen szerverre sem. Az Élő tevékenységek kizárólag az eszközön jönnek létre és frissülnek, szerver nélkül, amely frissítéseket küldene nekik, és az alkalmazás törlésével mindez eltávolításra kerül."
+      },
+      {
+        "id": "android",
+        "title": "Android-verzió (Google Play)",
+        "body": "Az Időtervező a metróhoz a Google Play révén Androidra is elérhető, és az ezen az oldalon leírtak erre is vonatkoznak. Az Android-verzió nem gyűjt és nem küld el személyes adatokat, nem jelenít meg hirdetéseket, és nem használ analitikát. A beállításait, az emlékeztetőit és a próbaidőszak kezdetét kizárólag az Ön eszközén tárolja. A fizetést a Google Play kezeli, az alkalmazás soha nem látja a fizetési adatait. Az internet-engedélyt az alkalmazás kizárólag arra használja, hogy letöltse a hivatalos menetrend PDF-jét a tajpeji metró webhelyéről, amikor Ön megérinti a megnyitására szolgáló gombot. Az alkalmazás értesítési engedélyt is kér, amelyet kizárólag az Ön által beállított indulási emlékeztetőkhöz használ, és amelyet elutasíthat; engedélyt kér az indítás befejezését jelző üzenet fogadására is, hogy az emlékeztetők a telefon újraindítása után újra be legyenek ütemezve; továbbá a Google Play Billinghez, a próbaidőszak és a vásárlás állapotának ellenőrzésére. A Xiaobitan és a Beitou · Xinbeitou szárnyvonal következő vonatát mutató kezdőképernyő-widgetek kizárólag az alkalmazásban lévő menetrendi adatokat használják."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Ha az alkalmazás adatkezelési módja valaha megváltozik, a változás hatálybalépése előtt frissítjük ezt az oldalt és az utolsó frissítés dátumát, a változást pedig az alkalmazás kiadási megjegyzéseiben ismertetjük."
       }
     ]
-  }
+  },
+  "play_label": "Android-verzió: Google Play"
 }

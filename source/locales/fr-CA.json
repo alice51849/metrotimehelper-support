@@ -11,12 +11,12 @@
   "footer": "Assistant Métro est une application indépendante. Elle n’est ni affiliée à Taipei Rapid Transit Corporation, ni approuvée ou exploitée par celle-ci. Les horaires et les temps de déplacement proviennent des données publiques officielles du métro de Taipei.",
   "contact": {
     "title": "Nous joindre",
-    "body": "Une question, un horaire qui semble erroné ou une idée pour l’application? Écrivez-nous. Mentionnez votre modèle d’iPhone, votre version d’iOS, la version de l’application (affichée dans « Réglages ») et les stations concernées : ça nous aidera à vérifier plus vite.",
+    "body": "Une question, un horaire qui semble erroné ou une idée pour l’application? Écrivez-nous. Si vous nous indiquez le modèle de votre téléphone, la version d’iOS ou d’Android, la version de l’application (affichée dans « Réglages ») et les stations concernées, nous pourrons vérifier plus rapidement.",
     "button": "Courriel"
   },
   "home": {
     "title": "Dites-lui quand arriver. Il vous dit quand partir.",
-    "summary": "Un planificateur d’horaires pour le métro de Taipei sur iPhone. Choisissez vos stations et l’heure à laquelle vous devez être rendu : l’application calcule à rebours l’heure limite pour entrer dans la station, correspondances comprises.",
+    "summary": "Un planificateur d’horaires du métro de Taipei pour iPhone et Android. Choisissez vos stations et l’heure à laquelle vous devez être rendu, et l’application calcule à rebours l’heure limite à laquelle entrer dans la station, correspondances comprises.",
     "section_title": "Ce qu’elle fait",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Wenhu, Tamsui-Xinyi avec l’antenne Xinbeitou, Songshan-Xindian avec l’antenne Xiaobitan, Zhonghe-Xinlu, Bannan et la première phase de la ligne Circulaire. Le métro de l’aéroport de Taoyuan et les lignes de train léger ne sont pas inclus."
       },
       {
+        "id": "platforms",
+        "title": "Y a-t-il une version Android?",
+        "body": "Oui. Assistant Métro est offert pour iPhone, iPad et Apple Watch sur l’App Store, et pour Android sur Google Play. La version Android utilise les mêmes données officielles du métro de Taipei, ne recueille aucune donnée personnelle et propose des widgets d’écran d’accueil pour le prochain train des antennes de Xiaobitan et de Beitou · Xinbeitou. Si les rappels n’arrivent pas sur Android, assurez-vous que les notifications sont autorisées pour l’application dans les réglages du système. L’essai et l’achat sur Android sont gérés par Google Play."
+      },
+      {
         "id": "independence",
         "title": "Est-ce une application officielle du métro de Taipei?",
         "body": "Non. Assistant Métro est une application indépendante, qui n’est ni affiliée à Taipei Rapid Transit Corporation ni approuvée par celle-ci. Elle utilise les données publiques officielles du métro de Taipei. Pour les interruptions de service ou les objets perdus, veuillez communiquer directement avec l’exploitant."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Politique de confidentialité",
-    "summary": "Assistant Métro ne recueille aucune donnée personnelle. Cette page explique ce que l’application fait sur vos appareils (iPhone, iPad et Apple Watch) et ce qu’elle ne fait jamais.",
+    "summary": "Assistant Métro ne recueille aucune donnée personnelle. Cette page explique ce que l’application fait sur votre iPhone, votre iPad, votre Apple Watch et votre téléphone Android, et ce qu’elle ne fait jamais.",
     "updated_label": "Dernière mise à jour",
     "section_title": "Nos engagements",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Widgets, Live Activities et Apple Watch",
         "body": "L’application fonctionne aussi sur iPad et sur Apple Watch, avec un widget pour l’écran d’accueil et l’écran verrouillé, un widget pour le cadran de l’Apple Watch et, sur iPhone, une Live Activity qui effectue un compte à rebours jusqu’à votre rappel sur l’écran verrouillé et dans la Dynamic Island. Pour qu’un widget affiche le même trajet que l’application, l’application et ses propres widgets se partagent votre dernier trajet (stations et heures) au moyen du partage du trousseau d’Apple; cela se fait uniquement sur le même appareil, et rien n’est téléversé vers un serveur. Les Live Activities sont créées et mises à jour uniquement sur l’appareil, sans qu’aucun serveur ne leur envoie de mises à jour, et supprimer l’application efface tout cela."
+      },
+      {
+        "id": "android",
+        "title": "Version Android (Google Play)",
+        "body": "Assistant Métro est aussi offert pour Android sur Google Play, et tout ce que dit cette page s’y applique également. La version Android ne recueille ni ne transmet aucune donnée personnelle, n’affiche aucune publicité et n’utilise aucun outil d’analyse. Vos réglages, vos rappels et l’heure de début de l’essai sont enregistrés uniquement sur votre appareil. Le paiement est géré par Google Play, et l’application ne voit jamais vos renseignements de paiement. L’autorisation Internet sert uniquement à télécharger le PDF officiel de l’horaire depuis le site Web du métro de Taipei lorsque vous touchez pour l’ouvrir. L’application demande aussi l’autorisation d’envoyer des notifications, utilisées seulement pour les rappels de départ que vous programmez et que vous pouvez refuser; l’autorisation de recevoir l’avis de fin de démarrage du téléphone, afin que vos rappels soient programmés de nouveau après un redémarrage; et l’autorisation pour Google Play Billing, afin de vérifier l’état de l’essai et de l’achat. Les widgets de l’écran d’accueil qui affichent le prochain train des antennes de Xiaobitan et de Beitou · Xinbeitou utilisent uniquement les données d’horaires intégrées à l’application."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Si la façon dont l’application traite les données devait changer, nous mettrons à jour cette page et la date de dernière mise à jour avant l’entrée en vigueur du changement, et nous l’expliquerons dans les notes de version de l’application."
       }
     ]
-  }
+  },
+  "play_label": "Version Android : Google Play"
 }

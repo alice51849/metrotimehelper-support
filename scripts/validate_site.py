@@ -233,7 +233,7 @@ def check_page(tr: dict, locale: str | None, page: str) -> None:
             continue
         parsed = urllib.parse.urlparse(ref)
         if parsed.scheme or parsed.netloc:
-            allowed = tag == "link" and ref.startswith(gen.BASE_URL)
+            allowed = (tag == "link" and ref.startswith(gen.BASE_URL)) or (tag == "a" and ref == gen.PLAY_URL)
             if not allowed:
                 fail(f"{label}: external resource {ref}")
             continue
@@ -254,8 +254,8 @@ def check_page(tr: dict, locale: str | None, page: str) -> None:
             fail(f"{label}: forbidden text {word}")
     item = tr[content_locale]
     if page == "privacy":
-        if gen.UPDATED != "2026-10-05" or "2026-10-05" not in parser.time_values:
-            fail(f"{label}: Last Updated must be 2026-10-05")
+        if gen.UPDATED != "2026-10-29" or "2026-10-29" not in parser.time_values:
+            fail(f"{label}: Last Updated must be 2026-10-29")
         if item["privacy"]["updated_label"] not in text:
             fail(f"{label}: Last Updated label missing")
         needed = gen.SECTION_IDS[("privacy", "sections")]

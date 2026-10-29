@@ -11,12 +11,12 @@
   "footer": "Metrou la Timp este o aplicație independentă. Nu este afiliată cu Taipei Rapid Transit Corporation și nici aprobată sau operată de aceasta. Orarele și duratele călătoriilor provin din datele publice oficiale ale metroului din Taipei.",
   "contact": {
     "title": "Contactați-ne",
-    "body": "Aveți o întrebare, ați găsit un orar care pare greșit sau aveți o idee pentru aplicație? Scrieți-ne. Dacă ne spuneți modelul iPhone-ului, versiunea iOS, versiunea aplicației (afișată în „Configurări”) și stațiile în cauză, vom putea verifica mai repede.",
+    "body": "Aveți o întrebare, ați găsit un orar care pare greșit sau aveți o idee pentru aplicație? Scrieți-ne. Dacă ne spuneți modelul telefonului, versiunea iOS sau Android, versiunea aplicației (afișată în „Configurări”) și stațiile în cauză, vom putea verifica mai repede.",
     "button": "Trimiteți un e-mail"
   },
   "home": {
     "title": "Spuneți-i când vreți să ajungeți. Vă spune când să plecați.",
-    "summary": "Un planificator de orar pentru metroul din Taipei, pe iPhone. Alegeți stațiile și ora la care trebuie să fiți acolo, iar aplicația calculează invers cea mai târzie oră la care trebuie să intrați în stație, inclusiv cu schimbările de linie.",
+    "summary": "Un planificator de timp pentru metroul din Taipei, pe iPhone și Android. Alegeți stațiile și ora la care trebuie să fiți acolo, iar aplicația calculează invers cea mai târzie oră la care trebuie să intrați în stație, inclusiv cu schimbările de linie.",
     "section_title": "Ce face",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Wenhu, Tamsui-Xinyi cu ramura Xinbeitou, Songshan-Xindian cu ramura Xiaobitan, Zhonghe-Xinlu, Bannan și prima etapă a liniei Circulare. Metroul aeroportului Taoyuan și liniile de metrou ușor nu sunt incluse."
       },
       {
+        "id": "platforms",
+        "title": "Există o versiune pentru Android?",
+        "body": "Da. Metrou la Timp este oferită pentru iPhone, iPad și Apple Watch în App Store și pentru Android în Google Play. Versiunea pentru Android folosește aceleași date oficiale ale metroului din Taipei, nu colectează date personale și are widgeturi pe ecranul principal pentru următorul tren pe ramurile Xiaobitan și Beitou · Xinbeitou. Dacă mementourile nu ajung pe Android, verificați dacă notificările sunt permise pentru aplicație în Configurările sistemului. Perioada de probă și achiziția pe Android sunt gestionate de Google Play."
+      },
+      {
         "id": "independence",
         "title": "Este o aplicație oficială a metroului din Taipei?",
         "body": "Nu. Metrou la Timp este o aplicație independentă și nu este afiliată cu Taipei Rapid Transit Corporation și nici aprobată de aceasta. Folosește datele publice oficiale ale metroului din Taipei. Pentru întreruperi ale serviciului sau obiecte pierdute, vă rugăm să contactați direct operatorul."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Politica de confidențialitate",
-    "summary": "Metrou la Timp nu colectează date personale. Această pagină explică ce face aplicația pe dispozitivele dvs. (iPhone, iPad și Apple Watch) și ce nu face niciodată.",
+    "summary": "Metrou la Timp nu colectează date personale. Această pagină explică ce face aplicația pe iPhone, iPad, Apple Watch și pe telefonul Android și ce nu face niciodată.",
     "updated_label": "Ultima actualizare",
     "section_title": "Angajamentele noastre",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Widgeturi, Activități live și Apple Watch",
         "body": "Aplicația funcționează și pe iPad și pe Apple Watch, cu un widget pentru ecranul principal și ecranul de blocare, un widget pentru cadranul Apple Watch și, pe iPhone, o Activitate live care numără invers până la mementoul dvs. pe ecranul de blocare și în Dynamic Island. Pentru ca un widget să afișeze aceeași călătorie ca aplicația, aplicația și propriile ei widgeturi partajează ultima dvs. călătorie (stații și ore) prin partajarea Brelocului Apple; acest lucru se întâmplă doar pe același dispozitiv și nimic nu este încărcat pe vreun server. Activitățile live sunt create și actualizate doar pe dispozitiv, fără un server care să le trimită actualizări, iar ștergerea aplicației elimină toate acestea."
+      },
+      {
+        "id": "android",
+        "title": "Versiunea pentru Android (Google Play)",
+        "body": "Metrou la Timp este oferită și pentru Android prin Google Play, iar tot ce se spune pe această pagină se aplică și acesteia. Versiunea pentru Android nu colectează și nu transmite date personale, nu afișează reclame și nu folosește analiză. Configurările, mementourile și momentul de început al perioadei de probă sunt stocate doar pe dispozitivul dvs. Plata este gestionată de Google Play, iar aplicația nu vede niciodată datele dvs. de plată. Permisiunea Internet este folosită doar pentru a descărca PDF-ul oficial al orarului de pe site-ul metroului din Taipei, atunci când atingeți pentru a-l deschide. Aplicația mai solicită permisiunea pentru notificări, folosită doar pentru mementourile de plecare pe care le setați și pe care o puteți refuza; permisiunea de a primi semnalul de finalizare a pornirii, pentru ca mementourile dvs. să fie programate din nou după repornirea telefonului; și permisiunea pentru Google Play Billing, pentru a verifica starea perioadei de probă și a achiziției. Widgeturile de pe ecranul principal pentru următorul tren pe ramurile Xiaobitan și Beitou · Xinbeitou folosesc doar datele de orar din aplicație."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Dacă modul în care aplicația gestionează datele se va schimba vreodată, vom actualiza această pagină și data ultimei actualizări înainte ca schimbarea să intre în vigoare și vom explica modificarea în notele de versiune ale aplicației."
       }
     ]
-  }
+  },
+  "play_label": "Versiunea pentru Android: Google Play"
 }

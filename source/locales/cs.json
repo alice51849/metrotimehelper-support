@@ -11,12 +11,12 @@
   "footer": "Metro včas je nezávislá aplikace. Není přidružena ke společnosti Taipei Rapid Transit Corporation, není jí podporována ani provozována. Jízdní řády a doby jízdy pocházejí z oficiálních veřejných dat tchajpejského metra.",
   "contact": {
     "title": "Kontakt",
-    "body": "Máte dotaz, zdá se vám jízdní řád chybný, nebo máte nápad na vylepšení aplikace? Napište nám. Když uvedete model iPhonu, verzi iOS, verzi aplikace (najdete ji v „Nastavení“) a stanice, o které jde, budeme se tím moci zabývat rychleji.",
+    "body": "Máte dotaz, zdá se vám jízdní řád chybný, nebo máte nápad na vylepšení aplikace? Napište nám. Když uvedete model telefonu, verzi iOS nebo Android, verzi aplikace (najdete ji v „Nastavení“) a stanice, o které jde, budeme se tím moci zabývat rychleji.",
     "button": "E-mail"
   },
   "home": {
     "title": "Řekněte, kdy tam máte být. Poradí vám, kdy vyrazit.",
-    "summary": "Časový plánovač pro tchajpejské metro na iPhone. Zvolte stanice a čas, kdy musíte být na místě, a aplikace zpětně spočítá nejzazší čas, kdy vstoupit do stanice, včetně přestupů.",
+    "summary": "Časový plánovač pro tchajpejské metro na iPhone a Android. Zvolte stanice a čas, kdy musíte být na místě, a aplikace zpětně spočítá nejzazší čas, kdy vstoupit do stanice, včetně přestupů.",
     "section_title": "Co umí",
     "sections": [
       {
@@ -129,6 +129,11 @@
         "body": "Wenhu, Tamsui-Xinyi s odbočkou Xinbeitou, Songshan-Xindian s odbočkou Xiaobitan, Zhonghe-Xinlu, Bannan a první etapa okružní linky Circular. Letištní linka Taoyuan Airport MRT a tramvajové linky zahrnuty nejsou."
       },
       {
+        "id": "platforms",
+        "title": "Existuje verze pro Android?",
+        "body": "Ano. Metro včas je k dispozici pro iPhone, iPad a Apple Watch v App Storu a pro Android v Google Play. Verze pro Android využívá stejná oficiální data tchajpejského metra, neshromažďuje osobní údaje a má widgety na ploše s dalším vlakem na odbočkách Xiaobitan a Beitou · Xinbeitou. Pokud vám na Androidu nechodí připomínky, zkontrolujte, zda jsou pro aplikaci v nastavení systému povolena oznámení. Zkušební verzi a nákup na Androidu zajišťuje Google Play."
+      },
+      {
         "id": "independence",
         "title": "Je to oficiální aplikace tchajpejského metra?",
         "body": "Ne. Metro včas je nezávislá aplikace a není přidružena ke společnosti Taipei Rapid Transit Corporation ani jí podporována. Využívá oficiální veřejná data tchajpejského metra. S výpadky provozu nebo ztrátami a nálezy se prosím obracejte přímo na dopravce."
@@ -137,7 +142,7 @@
   },
   "privacy": {
     "title": "Zásady ochrany soukromí",
-    "summary": "Metro včas neshromažďuje osobní údaje. Tato stránka vysvětluje, co aplikace dělá ve vašich zařízeních (iPhone, iPad a Apple Watch) a co nedělá nikdy.",
+    "summary": "Metro včas neshromažďuje osobní údaje. Tato stránka vysvětluje, co aplikace dělá na iPhonu, iPadu, Apple Watch a telefonu s Androidem a co nedělá nikdy.",
     "updated_label": "Poslední aktualizace",
     "section_title": "Naše závazky",
     "sections": [
@@ -160,6 +165,11 @@
         "id": "widgets_watch",
         "title": "Widgety, Živé aktivity a Apple Watch",
         "body": "Aplikace funguje také na iPadu a na Apple Watch a nabízí widget pro plochu a zamčenou obrazovku, widget pro ciferník Apple Watch a na iPhonu Živou aktivitu, která na zamčené obrazovce a v Dynamic Island odpočítává čas do vaší připomínky. Aby widget ukazoval stejnou cestu jako aplikace, sdílejí aplikace a její vlastní widgety vaši poslední cestu (stanice a časy) pomocí sdílení klíčenky od Apple; děje se to jen v rámci téhož zařízení a nic se nenahrává na žádný server. Živé aktivity se vytvářejí a aktualizují jen v zařízení, bez serveru, který by jim posílal aktualizace, a smazáním aplikace se to všechno odstraní."
+      },
+      {
+        "id": "android",
+        "title": "Verze pro Android (Google Play)",
+        "body": "Metro včas je k dispozici také pro Android v Google Play a vše, co je na této stránce, platí i pro ni. Verze pro Android neshromažďuje ani neodesílá osobní údaje, nezobrazuje reklamy a nepoužívá žádnou analytiku. Vaše nastavení, připomínky a čas zahájení zkušební verze se ukládají pouze ve vašem zařízení. Platbu zpracovává Google Play a aplikace vaše platební údaje nikdy nevidí. Oprávnění k internetu se používá pouze ke stažení oficiálního jízdního řádu v PDF z webu tchajpejského metra, když na něj klepnete, abyste ho otevřeli. Aplikace dále žádá o oznámení, která se používají jen pro připomínky odjezdu, které si nastavíte, a můžete je odmítnout; o příjem zprávy o dokončení spuštění systému, aby se připomínky po restartu telefonu naplánovaly znovu; a o Google Play Billing, aby mohla ověřit stav zkušební verze a nákupu. Widgety na ploše s dalším vlakem na odbočkách Xiaobitan a Beitou · Xinbeitou používají jen data jízdních řádů uvnitř aplikace."
       },
       {
         "id": "notifications",
@@ -192,5 +202,6 @@
         "body": "Pokud se způsob, jakým aplikace nakládá s údaji, někdy změní, aktualizujeme tuto stránku i datum poslední aktualizace ještě předtím, než změna nabude účinnosti, a změnu vysvětlíme v poznámkách k vydání aplikace."
       }
     ]
-  }
+  },
+  "play_label": "Verze pro Android: Google Play"
 }
