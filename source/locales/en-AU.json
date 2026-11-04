@@ -47,7 +47,7 @@
       {
         "id": "paid_download",
         "title": "Pay once, everything included",
-        "body": "This is a paid download. Buy the app once on the App Store and every feature works from the very first launch. There are no in-app purchases, no subscription, and no ads, and nothing renews."
+        "body": "The iPhone, iPad, and Apple Watch version is a paid download. Buy the app once on the App Store and every feature works from the very first launch. There are no in-app purchases, no subscription, and no ads, and nothing renews."
       }
     ],
     "links_title": "Need help?",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Do I have to pay again on a new phone?",
+        "title": "Do I have to pay again on a new iPhone?",
         "body": "No. When you set up a new iPhone, sign in to the App Store with the same Apple Account and download the app again; you will not have to pay a second time. There is nothing to restore inside the app."
       },
       {
         "id": "paid_model",
         "title": "What do I get when I buy the app?",
-        "body": "The app is a paid download. Once it is on your device, every feature works right away, including the branch timetables, reminders, widgets, and the Apple Watch app. There is nothing more to buy inside the app: no in-app purchases, no subscription, and no ads, and nothing renews."
+        "body": "On iPhone, iPad, and Apple Watch, the app is a paid download. Once it is on your device, every feature works right away, including the branch timetables, reminders, widgets, and the Apple Watch app. There is nothing more to buy inside the app: no in-app purchases, no subscription, and no ads, and nothing renews."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Is there an Android version?",
-        "body": "Yes. Metro Time Helper is offered for iPhone, iPad, and Apple Watch on the App Store, and for Android on Google Play. The Android version uses the same official Taipei Metro data, collects no personal data, and has home screen widgets for the next train on the Xiaobitan and Beitou · Xinbeitou branches. If reminders do not arrive on Android, make sure notifications are allowed for the app in the system Settings."
+        "body": "Yes. Metro Time Helper is offered for iPhone, iPad, and Apple Watch on the App Store, and for Android on Google Play. The Android version uses the same official Taipei Metro data, collects no personal data, and has home screen widgets for the next train on the Xiaobitan and Beitou · Xinbeitou branches. If reminders do not arrive on Android, make sure notifications are allowed for the app in the system Settings. The trial and the purchase on Android are handled by Google Play."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Android version (Google Play)",
-        "body": "Metro Time Helper is also offered for Android through Google Play, and everything on this page applies to it as well. The Android version does not collect or transmit personal data, shows no ads, and uses no analytics. Your settings and reminders are stored only on your device. Payment is handled by Google Play, and the app never sees your payment details. The Internet permission is used only to download the official timetable PDF from Taipei Metro's website when you tap to open it. The app also asks for notifications, used only for the departure reminders you set and which you may decline; and for the boot-completed broadcast, so that your reminders are scheduled again after the phone restarts. The home screen widgets for the next train on the Xiaobitan and Beitou · Xinbeitou branches use only the timetable data inside the app."
+        "body": "Metro Time Helper is also offered for Android through Google Play, and everything on this page applies to it as well. The Android version does not collect or transmit personal data, shows no ads, and uses no analytics. Your settings, reminders, and the start time of the trial are stored only on your device. Payment is handled by Google Play, and the app never sees your payment details. The Internet permission is used only to download the official timetable PDF from Taipei Metro's website when you tap to open it. The app also asks for notifications, used only for the departure reminders you set and which you may decline; for the boot-completed broadcast, so that your reminders are scheduled again after the phone restarts; and for Google Play Billing, to check the trial and purchase status. The home screen widgets for the next train on the Xiaobitan and Beitou · Xinbeitou branches use only the timetable data inside the app."
       },
       {
         "id": "notifications",

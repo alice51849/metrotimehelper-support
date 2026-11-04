@@ -47,7 +47,7 @@
       {
         "id": "paid_download",
         "title": "Einmal bezahlen, alles inklusive",
-        "body": "Das ist eine kostenpflichtige App. Einmal im App Store gekauft, stehen ab dem ersten Start alle Funktionen zur Verfügung. Es gibt keine In-App-Käufe, kein Abo und keine Werbung, und nichts verlängert sich."
+        "body": "Die Version für iPhone, iPad und Apple Watch ist kostenpflichtig. Einmal im App Store gekauft, stehen ab dem ersten Start alle Funktionen zur Verfügung. Es gibt keine In-App-Käufe, kein Abo und keine Werbung, und nichts verlängert sich."
       }
     ],
     "links_title": "Brauchst du Hilfe?",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Muss ich auf einem neuen Telefon noch einmal bezahlen?",
+        "title": "Muss ich auf einem neuen iPhone noch einmal bezahlen?",
         "body": "Nein. Melde dich beim Einrichten eines neuen iPhones mit demselben Apple-Account im App Store an und lade die App erneut herunter; du musst nicht noch einmal zahlen. In der App gibt es nichts wiederherzustellen."
       },
       {
         "id": "paid_model",
         "title": "Was bekomme ich, wenn ich die App kaufe?",
-        "body": "Die App ist kostenpflichtig. Sobald sie auf deinem Gerät ist, funktionieren alle Funktionen sofort, darunter die Fahrpläne der Zweiglinien, Erinnerungen, Widgets und die Apple-Watch-App. In der App gibt es nichts weiter zu kaufen: keine In-App-Käufe, kein Abo und keine Werbung, und nichts verlängert sich."
+        "body": "Auf iPhone, iPad und Apple Watch ist die App kostenpflichtig. Sobald sie auf deinem Gerät ist, funktionieren alle Funktionen sofort, darunter die Fahrpläne der Zweiglinien, Erinnerungen, Widgets und die Apple-Watch-App. In der App gibt es nichts weiter zu kaufen: keine In-App-Käufe, kein Abo und keine Werbung, und nichts verlängert sich."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Gibt es eine Android-Version?",
-        "body": "Ja. Metro-Zeithelfer gibt es für iPhone, iPad und Apple Watch im App Store und für Android bei Google Play. Die Android-Version nutzt dieselben offiziellen Daten der Metro Taipeh, erfasst keine personenbezogenen Daten und hat Home-Bildschirm-Widgets für den nächsten Zug auf den Zweiglinien Xiaobitan und Beitou · Xinbeitou. Wenn auf Android keine Erinnerungen ankommen, prüfe, ob Mitteilungen für die App in den Systemeinstellungen erlaubt sind."
+        "body": "Ja. Metro-Zeithelfer gibt es für iPhone, iPad und Apple Watch im App Store und für Android bei Google Play. Die Android-Version nutzt dieselben offiziellen Daten der Metro Taipeh, erfasst keine personenbezogenen Daten und hat Home-Bildschirm-Widgets für den nächsten Zug auf den Zweiglinien Xiaobitan und Beitou · Xinbeitou. Wenn auf Android keine Erinnerungen ankommen, prüfe, ob Mitteilungen für die App in den Systemeinstellungen erlaubt sind. Test und Kauf auf Android wickelt Google Play ab."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Android-Version (Google Play)",
-        "body": "Metro-Zeithelfer gibt es auch für Android über Google Play, und alles auf dieser Seite gilt auch dafür. Die Android-Version erfasst oder übermittelt keine personenbezogenen Daten, zeigt keine Werbung und nutzt keine Analyse. Deine Einstellungen und Erinnerungen werden nur auf deinem Gerät gespeichert. Die Zahlung wickelt Google Play ab, und die App sieht deine Zahlungsdaten nie. Die Internet-Berechtigung wird nur genutzt, um das offizielle Fahrplan-PDF von der Website der Metro Taipeh zu laden, wenn du zum Öffnen tippst. Außerdem fragt die App nach Mitteilungen, die nur für die von dir eingerichteten Abfahrtserinnerungen genutzt werden und die du ablehnen kannst; und nach dem Broadcast „Start abgeschlossen“, damit deine Erinnerungen nach einem Neustart des Handys neu geplant werden. Die Home-Bildschirm-Widgets für den nächsten Zug auf den Zweiglinien Xiaobitan und Beitou · Xinbeitou verwenden nur die Fahrplandaten in der App."
+        "body": "Metro-Zeithelfer gibt es auch für Android über Google Play, und alles auf dieser Seite gilt auch dafür. Die Android-Version erfasst oder übermittelt keine personenbezogenen Daten, zeigt keine Werbung und nutzt keine Analyse. Deine Einstellungen, Erinnerungen und der Startzeitpunkt des Tests werden nur auf deinem Gerät gespeichert. Die Zahlung wickelt Google Play ab, und die App sieht deine Zahlungsdaten nie. Die Internet-Berechtigung wird nur genutzt, um das offizielle Fahrplan-PDF von der Website der Metro Taipeh zu laden, wenn du zum Öffnen tippst. Außerdem fragt die App nach Mitteilungen, die nur für die von dir eingerichteten Abfahrtserinnerungen genutzt werden und die du ablehnen kannst; nach dem Broadcast „Start abgeschlossen“, damit deine Erinnerungen nach einem Neustart des Handys neu geplant werden; und nach Google Play Billing, um den Status von Test und Kauf zu prüfen. Die Home-Bildschirm-Widgets für den nächsten Zug auf den Zweiglinien Xiaobitan und Beitou · Xinbeitou verwenden nur die Fahrplandaten in der App."
       },
       {
         "id": "notifications",

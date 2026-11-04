@@ -47,7 +47,7 @@
       {
         "id": "paid_download",
         "title": "Betal én gang, få alt",
-        "body": "Dette er en betalt app. Kjøp den én gang i App Store, så fungerer alle funksjoner fra første åpning. Det finnes ingen kjøp i appen, ikke noe abonnement og ingen reklame, og ingenting fornyes."
+        "body": "Versjonen for iPhone, iPad og Apple Watch er betalt. Kjøp den én gang i App Store, så fungerer alle funksjoner fra første åpning. Det finnes ingen kjøp i appen, ikke noe abonnement og ingen reklame, og ingenting fornyes."
       }
     ],
     "links_title": "Trenger du hjelp?",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Må jeg betale igjen på en ny telefon?",
+        "title": "Må jeg betale igjen på en ny iPhone?",
         "body": "Nei. Når du setter opp en ny iPhone, logger du på App Store med den samme Apple-kontoen og laster ned appen på nytt; du slipper å betale en gang til. Det er ingenting å gjenopprette i appen."
       },
       {
         "id": "paid_model",
         "title": "Hva får jeg når jeg kjøper appen?",
-        "body": "Appen er betalt. Så snart den er på enheten din, fungerer alle funksjoner med en gang, blant annet rutetabellene for sidebanene, påminnelser, widgeter og Apple Watch-appen. Det er ikke mer å kjøpe i appen: ingen kjøp i appen, ikke noe abonnement og ingen reklame, og ingenting fornyes."
+        "body": "På iPhone, iPad og Apple Watch er appen betalt. Så snart den er på enheten din, fungerer alle funksjoner med en gang, blant annet rutetabellene for sidebanene, påminnelser, widgeter og Apple Watch-appen. Det er ikke mer å kjøpe i appen: ingen kjøp i appen, ikke noe abonnement og ingen reklame, og ingenting fornyes."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Finnes det en Android-versjon?",
-        "body": "Ja. Tidshjelp for metroen finnes for iPhone, iPad og Apple Watch i App Store, og for Android i Google Play. Android-versjonen bruker de samme offisielle dataene fra Taipei Metro, samler ikke inn personopplysninger og har widgeter på startskjermen for neste tog på sidelinjene til Xiaobitan og Beitou · Xinbeitou. Hvis påminnelser ikke kommer fram på Android, må du sjekke at varsler er tillatt for appen i systeminnstillingene."
+        "body": "Ja. Tidshjelp for metroen finnes for iPhone, iPad og Apple Watch i App Store, og for Android i Google Play. Android-versjonen bruker de samme offisielle dataene fra Taipei Metro, samler ikke inn personopplysninger og har widgeter på startskjermen for neste tog på sidelinjene til Xiaobitan og Beitou · Xinbeitou. Hvis påminnelser ikke kommer fram på Android, må du sjekke at varsler er tillatt for appen i systeminnstillingene. Prøveperioden og kjøpet på Android håndteres av Google Play."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Android-versjon (Google Play)",
-        "body": "Tidshjelp for metroen finnes også for Android via Google Play, og alt på denne siden gjelder også der. Android-versjonen samler ikke inn eller sender personopplysninger, viser ingen reklame og bruker ingen analyse. Innstillingene og påminnelsene dine lagres bare på enheten din. Betalingen håndteres av Google Play, og appen ser aldri betalingsopplysningene dine. Internett-tillatelsen brukes bare til å laste ned den offisielle rutetabellen i PDF fra nettstedet til Taipei Metro når du trykker for å åpne den. Appen ber også om tillatelse til varsler, som bare brukes til avgangspåminnelsene du stiller inn, og som du kan si nei til; og til kringkastingen om at oppstarten er fullført, slik at påminnelsene dine planlegges på nytt etter at telefonen er startet på nytt. Widgetene på startskjermen for neste tog på sidelinjene til Xiaobitan og Beitou · Xinbeitou bruker bare rutetabelldataene som ligger i appen."
+        "body": "Tidshjelp for metroen finnes også for Android via Google Play, og alt på denne siden gjelder også der. Android-versjonen samler ikke inn eller sender personopplysninger, viser ingen reklame og bruker ingen analyse. Innstillingene dine, påminnelsene dine og starttidspunktet for prøveperioden lagres bare på enheten din. Betalingen håndteres av Google Play, og appen ser aldri betalingsopplysningene dine. Internett-tillatelsen brukes bare til å laste ned den offisielle rutetabellen i PDF fra nettstedet til Taipei Metro når du trykker for å åpne den. Appen ber også om tillatelse til varsler, som bare brukes til avgangspåminnelsene du stiller inn, og som du kan si nei til; til kringkastingen om at oppstarten er fullført, slik at påminnelsene dine planlegges på nytt etter at telefonen er startet på nytt; og til Google Play Billing, for å sjekke status for prøveperioden og kjøpet. Widgetene på startskjermen for neste tog på sidelinjene til Xiaobitan og Beitou · Xinbeitou bruker bare rutetabelldataene som ligger i appen."
       },
       {
         "id": "notifications",

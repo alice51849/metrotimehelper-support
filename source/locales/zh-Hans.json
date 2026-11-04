@@ -47,7 +47,7 @@
       {
         "id": "paid_download",
         "title": "买一次，全部功能直接用",
-        "body": "这是付费下载的 App。在 App Store 买一次，第一次打开就能使用所有功能。App 内没有内购、没有订阅、没有广告，也不会自动续费。"
+        "body": "iPhone、iPad 和 Apple Watch 版是付费下载的 App。在 App Store 买一次，第一次打开就能使用所有功能。App 内没有内购、没有订阅、没有广告，也不会自动续费。"
       }
     ],
     "links_title": "需要帮助？",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "换了新手机，需要再付一次费吗？",
+        "title": "换了新 iPhone，需要再付一次费吗？",
         "body": "不用。设置新 iPhone 时，用同一个 Apple 账户登录 App Store，重新下载这个 App 即可，不必再付费。App 内没有需要恢复的项目。"
       },
       {
         "id": "paid_model",
         "title": "买了这个 App 可以用到什么？",
-        "body": "这是付费下载的 App。装到设备上就能直接使用所有功能，包括支线时刻表、提醒、小组件和 Apple Watch App。App 内没有其他需要另外购买的项目：没有内购、没有订阅、没有广告，也不会自动续费。"
+        "body": "在 iPhone、iPad 和 Apple Watch 上，这是付费下载的 App。装到设备上就能直接使用所有功能，包括支线时刻表、提醒、小组件和 Apple Watch App。App 内没有其他需要另外购买的项目：没有内购、没有订阅、没有广告，也不会自动续费。"
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "有 Android 版本吗？",
-        "body": "有。捷运时间助手在 App Store 提供 iPhone、iPad 和 Apple Watch 版本，在 Google Play 提供 Android 版本。Android 版本使用同样的台北捷运官方数据，不收集个人数据，并提供小碧潭与北投 · 新北投支线下一班车的主屏幕小组件。如果在 Android 上收不到提醒，请确认已在系统“设置”中允许该 App 发送通知。"
+        "body": "有。捷运时间助手在 App Store 提供 iPhone、iPad 和 Apple Watch 版本，在 Google Play 提供 Android 版本。Android 版本使用同样的台北捷运官方数据，不收集个人数据，并提供小碧潭与北投 · 新北投支线下一班车的主屏幕小组件。如果在 Android 上收不到提醒，请确认已在系统“设置”中允许该 App 发送通知。Android 上的试用和购买由 Google Play 处理。"
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Android 版本（Google Play）",
-        "body": "捷运时间助手也通过 Google Play 提供 Android 版本，本页内容同样适用于该版本。Android 版本不收集也不传输个人数据，不显示广告，也不使用分析工具。你的设置和提醒只保存在你的设备上。付款由 Google Play 处理，App 不会看到你的付款信息。网络权限只用于在你点击打开时，从台北捷运网站下载官方时刻表 PDF。App 还会请求通知权限，仅用于你自己设置的发车提醒，你也可以拒绝；以及请求开机完成广播，以便手机重启后重新安排你的提醒。小碧潭与北投 · 新北投支线下一班车的主屏幕小组件，只使用 App 内置的时刻表数据。"
+        "body": "捷运时间助手也通过 Google Play 提供 Android 版本，本页内容同样适用于该版本。Android 版本不收集也不传输个人数据，不显示广告，也不使用分析工具。你的设置、提醒以及试用的开始时间只保存在你的设备上。付款由 Google Play 处理，App 不会看到你的付款信息。网络权限只用于在你点击打开时，从台北捷运网站下载官方时刻表 PDF。App 还会请求通知权限，仅用于你自己设置的发车提醒，你也可以拒绝；请求开机完成广播，以便手机重启后重新安排你的提醒；以及使用 Google Play 结算，用来检查试用和购买状态。小碧潭与北投 · 新北投支线下一班车的主屏幕小组件，只使用 App 内置的时刻表数据。"
       },
       {
         "id": "notifications",

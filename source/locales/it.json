@@ -47,7 +47,7 @@
       {
         "id": "paid_download",
         "title": "Paghi una volta, hai tutto",
-        "body": "È un’app a pagamento. La acquisti una sola volta sull’App Store e tutte le funzioni sono attive dal primo avvio. Non ci sono acquisti in-app, abbonamenti né pubblicità, e nulla si rinnova."
+        "body": "La versione per iPhone, iPad e Apple Watch è a pagamento. La acquisti una sola volta sull’App Store e tutte le funzioni sono attive dal primo avvio. Non ci sono acquisti in-app, abbonamenti né pubblicità, e nulla si rinnova."
       }
     ],
     "links_title": "Serve aiuto?",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Devo pagare di nuovo su un nuovo telefono?",
+        "title": "Devo pagare di nuovo su un nuovo iPhone?",
         "body": "No. Quando configuri un nuovo iPhone, accedi all’App Store con lo stesso ID Apple e scarica di nuovo l’app; non dovrai pagare una seconda volta. Nell’app non c’è nulla da ripristinare."
       },
       {
         "id": "paid_model",
         "title": "Cosa ottengo acquistando l’app?",
-        "body": "L’app è a pagamento. Appena è sul tuo dispositivo, tutte le funzioni sono subito attive, compresi gli orari delle diramazioni, i promemoria, i widget e l’app per Apple Watch. Nell’app non c’è altro da comprare: niente acquisti in-app, niente abbonamenti né pubblicità, e nulla si rinnova."
+        "body": "Su iPhone, iPad e Apple Watch l’app è a pagamento. Appena è sul tuo dispositivo, tutte le funzioni sono subito attive, compresi gli orari delle diramazioni, i promemoria, i widget e l’app per Apple Watch. Nell’app non c’è altro da comprare: niente acquisti in-app, niente abbonamenti né pubblicità, e nulla si rinnova."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Esiste una versione per Android?",
-        "body": "Sì. Assistente Orari Metro è disponibile per iPhone, iPad e Apple Watch sull’App Store e per Android su Google Play. La versione Android usa gli stessi dati ufficiali della metropolitana di Taipei, non raccoglie dati personali e offre widget per la schermata Home con la prossima corsa sulle diramazioni di Xiaobitan e Beitou · Xinbeitou. Se su Android i promemoria non arrivano, controlla che le notifiche siano consentite per l’app nelle Impostazioni di sistema."
+        "body": "Sì. Assistente Orari Metro è disponibile per iPhone, iPad e Apple Watch sull’App Store e per Android su Google Play. La versione Android usa gli stessi dati ufficiali della metropolitana di Taipei, non raccoglie dati personali e offre widget per la schermata Home con la prossima corsa sulle diramazioni di Xiaobitan e Beitou · Xinbeitou. Se su Android i promemoria non arrivano, controlla che le notifiche siano consentite per l’app nelle Impostazioni di sistema. La prova e l’acquisto su Android sono gestiti da Google Play."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Versione Android (Google Play)",
-        "body": "Assistente Orari Metro è disponibile anche per Android tramite Google Play, e tutto ciò che è scritto in questa pagina vale anche per quella versione. La versione Android non raccoglie né trasmette dati personali, non mostra pubblicità e non usa strumenti di analisi. Le impostazioni e i promemoria sono salvati solo sul tuo dispositivo. Il pagamento è gestito da Google Play e l’app non vede mai i tuoi dati di pagamento. L’autorizzazione Internet serve solo a scaricare il PDF ufficiale dell’orario dal sito della metropolitana di Taipei quando tocchi per aprirlo. L’app chiede anche l’autorizzazione per le notifiche, usata solo per i promemoria di partenza che imposti e che puoi rifiutare; e quella per il segnale di completamento dell’avvio, così che i promemoria vengano programmati di nuovo dopo il riavvio del telefono. I widget della schermata Home con la prossima corsa sulle diramazioni di Xiaobitan e Beitou · Xinbeitou usano solo i dati degli orari presenti nell’app."
+        "body": "Assistente Orari Metro è disponibile anche per Android tramite Google Play, e tutto ciò che è scritto in questa pagina vale anche per quella versione. La versione Android non raccoglie né trasmette dati personali, non mostra pubblicità e non usa strumenti di analisi. Le impostazioni, i promemoria e l’inizio della prova sono salvati solo sul tuo dispositivo. Il pagamento è gestito da Google Play e l’app non vede mai i tuoi dati di pagamento. L’autorizzazione Internet serve solo a scaricare il PDF ufficiale dell’orario dal sito della metropolitana di Taipei quando tocchi per aprirlo. L’app chiede anche l’autorizzazione per le notifiche, usata solo per i promemoria di partenza che imposti e che puoi rifiutare; quella per il segnale di completamento dell’avvio, così che i promemoria vengano programmati di nuovo dopo il riavvio del telefono; e quella per Google Play Billing, per verificare lo stato della prova e dell’acquisto. I widget della schermata Home con la prossima corsa sulle diramazioni di Xiaobitan e Beitou · Xinbeitou usano solo i dati degli orari presenti nell’app."
       },
       {
         "id": "notifications",

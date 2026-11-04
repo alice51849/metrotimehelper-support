@@ -47,7 +47,7 @@
       {
         "id": "paid_download",
         "title": "Trả một lần, dùng đủ mọi thứ",
-        "body": "Đây là ứng dụng tải về có phí. Chỉ cần mua một lần trên App Store, mọi tính năng hoạt động ngay từ lần mở đầu tiên. Không có giao dịch mua trong ứng dụng, không có gói đăng ký, không có quảng cáo, và không có gì tự động gia hạn."
+        "body": "Phiên bản iPhone, iPad và Apple Watch là ứng dụng tải về có phí. Chỉ cần mua một lần trên App Store, mọi tính năng hoạt động ngay từ lần mở đầu tiên. Không có giao dịch mua trong ứng dụng, không có gói đăng ký, không có quảng cáo, và không có gì tự động gia hạn."
       }
     ],
     "links_title": "Cần trợ giúp?",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Tôi có phải trả tiền lại khi dùng điện thoại mới không?",
+        "title": "Tôi có phải trả tiền lại khi dùng iPhone mới không?",
         "body": "Không. Khi thiết lập iPhone mới, hãy đăng nhập App Store bằng cùng Tài khoản Apple và tải lại ứng dụng; bạn không phải trả tiền lần thứ hai. Bên trong ứng dụng không có gì cần khôi phục."
       },
       {
         "id": "paid_model",
         "title": "Mua ứng dụng thì tôi nhận được gì?",
-        "body": "Ứng dụng này tải về có phí. Ngay khi có trên thiết bị, mọi tính năng hoạt động liền, gồm lịch chạy các nhánh tuyến, lời nhắc, tiện ích và ứng dụng Apple Watch. Bên trong ứng dụng không còn gì để mua thêm: không mua trong ứng dụng, không đăng ký, không quảng cáo, và không có gì tự động gia hạn."
+        "body": "Trên iPhone, iPad và Apple Watch, ứng dụng này tải về có phí. Ngay khi có trên thiết bị, mọi tính năng hoạt động liền, gồm lịch chạy các nhánh tuyến, lời nhắc, tiện ích và ứng dụng Apple Watch. Bên trong ứng dụng không còn gì để mua thêm: không mua trong ứng dụng, không đăng ký, không quảng cáo, và không có gì tự động gia hạn."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Có phiên bản Android không?",
-        "body": "Có. Trợ lý giờ MRT có cho iPhone, iPad và Apple Watch trên App Store, và cho Android trên Google Play. Phiên bản Android dùng cùng dữ liệu chính thức của MRT Đài Bắc, không thu thập dữ liệu cá nhân và có tiện ích trên màn hình chính cho chuyến tàu kế tiếp của tuyến nhánh Xiaobitan và Beitou · Xinbeitou. Nếu lời nhắc không đến trên Android, hãy đảm bảo thông báo được cho phép cho ứng dụng trong Cài đặt hệ thống."
+        "body": "Có. Trợ lý giờ MRT có cho iPhone, iPad và Apple Watch trên App Store, và cho Android trên Google Play. Phiên bản Android dùng cùng dữ liệu chính thức của MRT Đài Bắc, không thu thập dữ liệu cá nhân và có tiện ích trên màn hình chính cho chuyến tàu kế tiếp của tuyến nhánh Xiaobitan và Beitou · Xinbeitou. Nếu lời nhắc không đến trên Android, hãy đảm bảo thông báo được cho phép cho ứng dụng trong Cài đặt hệ thống. Việc dùng thử và mua trên Android do Google Play xử lý."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Phiên bản Android (Google Play)",
-        "body": "Trợ lý giờ MRT cũng có cho Android trên Google Play, và mọi nội dung trên trang này đều áp dụng cho bản đó. Phiên bản Android không thu thập hay truyền dữ liệu cá nhân, không hiển thị quảng cáo và không dùng công cụ phân tích. Cài đặt và lời nhắc chỉ được lưu trên thiết bị của bạn. Việc thanh toán do Google Play xử lý, và ứng dụng không bao giờ thấy thông tin thanh toán của bạn. Quyền Internet chỉ dùng để tải tệp PDF lịch chạy chính thức từ trang web của MRT Đài Bắc khi bạn chạm để mở. Ứng dụng cũng xin quyền thông báo, chỉ dùng cho các lời nhắc giờ khởi hành do bạn đặt và bạn có thể từ chối; và quyền nhận tín hiệu hoàn tất khởi động, để lời nhắc của bạn được lên lịch lại sau khi điện thoại khởi động lại. Các tiện ích trên màn hình chính cho chuyến tàu kế tiếp của tuyến nhánh Xiaobitan và Beitou · Xinbeitou chỉ dùng dữ liệu lịch chạy có sẵn trong ứng dụng."
+        "body": "Trợ lý giờ MRT cũng có cho Android trên Google Play, và mọi nội dung trên trang này đều áp dụng cho bản đó. Phiên bản Android không thu thập hay truyền dữ liệu cá nhân, không hiển thị quảng cáo và không dùng công cụ phân tích. Cài đặt, lời nhắc và thời điểm bắt đầu dùng thử chỉ được lưu trên thiết bị của bạn. Việc thanh toán do Google Play xử lý, và ứng dụng không bao giờ thấy thông tin thanh toán của bạn. Quyền Internet chỉ dùng để tải tệp PDF lịch chạy chính thức từ trang web của MRT Đài Bắc khi bạn chạm để mở. Ứng dụng cũng xin quyền thông báo, chỉ dùng cho các lời nhắc giờ khởi hành do bạn đặt và bạn có thể từ chối; quyền nhận tín hiệu hoàn tất khởi động, để lời nhắc của bạn được lên lịch lại sau khi điện thoại khởi động lại; và Google Play Billing, để kiểm tra trạng thái dùng thử và mua. Các tiện ích trên màn hình chính cho chuyến tàu kế tiếp của tuyến nhánh Xiaobitan và Beitou · Xinbeitou chỉ dùng dữ liệu lịch chạy có sẵn trong ứng dụng."
       },
       {
         "id": "notifications",

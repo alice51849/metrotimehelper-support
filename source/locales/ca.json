@@ -47,7 +47,7 @@
       {
         "id": "paid_download",
         "title": "Paga un cop i ho tens tot",
-        "body": "Aquesta és una app de descàrrega de pagament. Compra-la una sola vegada a l'App Store i totes les funcions van des del primer inici. No hi ha compres dins l'app, ni subscripcions, ni anuncis, i res no es renova."
+        "body": "La versió per a iPhone, iPad i Apple Watch és de descàrrega de pagament. Compra-la una sola vegada a l'App Store i totes les funcions van des del primer inici. No hi ha compres dins l'app, ni subscripcions, ni anuncis, i res no es renova."
       }
     ],
     "links_title": "Necessites ajuda?",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "He de tornar a pagar en un telèfon nou?",
+        "title": "He de tornar a pagar en un iPhone nou?",
         "body": "No. En configurar un iPhone nou, inicia la sessió a l'App Store amb el mateix compte d'Apple i descarrega l'app una altra vegada; no hauràs de pagar de nou. Dins l'app no hi ha res per restaurar."
       },
       {
         "id": "paid_model",
         "title": "Què obtinc en comprar l'app?",
-        "body": "L'app és de descàrrega de pagament. Quan ja és al dispositiu, totes les funcions van a l'instant, incloses els horaris dels ramals, els recordatoris, els ginys i l'app per a l'Apple Watch. Dins l'app no hi ha res més per comprar: ni compres dins l'app, ni subscripcions, ni anuncis, i res no es renova."
+        "body": "A l'iPhone, l'iPad i l'Apple Watch, l'app és de descàrrega de pagament. Quan ja és al dispositiu, totes les funcions van a l'instant, incloses els horaris dels ramals, els recordatoris, els ginys i l'app per a l'Apple Watch. Dins l'app no hi ha res més per comprar: ni compres dins l'app, ni subscripcions, ni anuncis, i res no es renova."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Hi ha versió per a Android?",
-        "body": "Sí. Assistent del Metro es pot obtenir per a iPhone, iPad i Apple Watch a l'App Store, i per a Android a Google Play. La versió per a Android fa servir les mateixes dades oficials del metro de Taipei, no recull dades personals i inclou ginys per a la pantalla d'inici amb el proper tren dels ramals de Xiaobitan i Beitou · Xinbeitou. Si a l'Android no t'arriben els recordatoris, comprova que les notificacions de l'app estiguin permeses a la Configuració del sistema."
+        "body": "Sí. Assistent del Metro es pot obtenir per a iPhone, iPad i Apple Watch a l'App Store, i per a Android a Google Play. La versió per a Android fa servir les mateixes dades oficials del metro de Taipei, no recull dades personals i inclou ginys per a la pantalla d'inici amb el proper tren dels ramals de Xiaobitan i Beitou · Xinbeitou. Si a l'Android no t'arriben els recordatoris, comprova que les notificacions de l'app estiguin permeses a la Configuració del sistema. La prova i la compra a Android les gestiona Google Play."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Versió per a Android (Google Play)",
-        "body": "Assistent del Metro també es pot obtenir per a Android a Google Play, i tot el que diu aquesta pàgina també s'hi aplica. La versió per a Android no recull ni envia dades personals, no mostra anuncis i no fa servir cap eina d'analítica. La configuració i els recordatoris es desen només al teu dispositiu. El pagament el gestiona Google Play, i l'app no veu mai les teves dades de pagament. El permís d'Internet només s'utilitza per baixar el PDF oficial de l'horari del web del metro de Taipei quan el toques per obrir-lo. L'app també demana permís per a les notificacions, que només s'usen per als recordatoris de sortida que configures i que pots denegar; i per a la difusió de finalització de l'arrencada, perquè els recordatoris es tornin a programar després de reiniciar el telèfon. Els ginys de la pantalla d'inici del proper tren dels ramals de Xiaobitan i Beitou · Xinbeitou només fan servir les dades d'horaris que hi ha dins l'app."
+        "body": "Assistent del Metro també es pot obtenir per a Android a Google Play, i tot el que diu aquesta pàgina també s'hi aplica. La versió per a Android no recull ni envia dades personals, no mostra anuncis i no fa servir cap eina d'analítica. La configuració, els recordatoris i l'hora d'inici de la prova es desen només al teu dispositiu. El pagament el gestiona Google Play, i l'app no veu mai les teves dades de pagament. El permís d'Internet només s'utilitza per baixar el PDF oficial de l'horari del web del metro de Taipei quan el toques per obrir-lo. L'app també demana permís per a les notificacions, que només s'usen per als recordatoris de sortida que configures i que pots denegar; per a la difusió de finalització de l'arrencada, perquè els recordatoris es tornin a programar després de reiniciar el telèfon; i per a Google Play Billing, per comprovar l'estat de la prova i de la compra. Els ginys de la pantalla d'inici del proper tren dels ramals de Xiaobitan i Beitou · Xinbeitou només fan servir les dades d'horaris que hi ha dins l'app."
       },
       {
         "id": "notifications",

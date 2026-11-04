@@ -47,7 +47,7 @@
       {
         "id": "paid_download",
         "title": "Payez une fois, tout est inclus",
-        "body": "C’est une app payante. Achetez-la une seule fois sur l’App Store et toutes les fonctions sont disponibles dès le premier lancement. Il n’y a ni achats intégrés, ni abonnement, ni publicité, et rien ne se renouvelle."
+        "body": "La version pour iPhone, iPad et Apple Watch est payante. Achetez-la une seule fois sur l’App Store et toutes les fonctions sont disponibles dès le premier lancement. Il n’y a ni achats intégrés, ni abonnement, ni publicité, et rien ne se renouvelle."
       }
     ],
     "links_title": "Besoin d’aide?",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Dois-je payer de nouveau sur un nouveau téléphone?",
+        "title": "Dois-je payer de nouveau sur un nouvel iPhone?",
         "body": "Non. En configurant un nouvel iPhone, connectez-vous à l’App Store avec le même compte Apple et téléchargez de nouveau l’app; vous n’aurez pas à payer une deuxième fois. Il n’y a rien à restaurer dans l’app."
       },
       {
         "id": "paid_model",
         "title": "Qu’obtiens-je en achetant l’app?",
-        "body": "L’app est payante. Dès qu’elle est sur votre appareil, toutes les fonctions marchent aussitôt, y compris les horaires des antennes, les rappels, les widgets et l’app pour l’Apple Watch. Il n’y a plus rien à acheter dans l’app : ni achats intégrés, ni abonnement, ni publicité, et rien ne se renouvelle."
+        "body": "Sur iPhone, iPad et Apple Watch, l’app est payante. Dès qu’elle est sur votre appareil, toutes les fonctions marchent aussitôt, y compris les horaires des antennes, les rappels, les widgets et l’app pour l’Apple Watch. Il n’y a plus rien à acheter dans l’app : ni achats intégrés, ni abonnement, ni publicité, et rien ne se renouvelle."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Y a-t-il une version Android?",
-        "body": "Oui. Assistant Métro est offert pour iPhone, iPad et Apple Watch sur l’App Store, et pour Android sur Google Play. La version Android utilise les mêmes données officielles du métro de Taipei, ne recueille aucune donnée personnelle et propose des widgets d’écran d’accueil pour le prochain train des antennes de Xiaobitan et de Beitou · Xinbeitou. Si les rappels n’arrivent pas sur Android, assurez-vous que les notifications sont autorisées pour l’application dans les réglages du système."
+        "body": "Oui. Assistant Métro est offert pour iPhone, iPad et Apple Watch sur l’App Store, et pour Android sur Google Play. La version Android utilise les mêmes données officielles du métro de Taipei, ne recueille aucune donnée personnelle et propose des widgets d’écran d’accueil pour le prochain train des antennes de Xiaobitan et de Beitou · Xinbeitou. Si les rappels n’arrivent pas sur Android, assurez-vous que les notifications sont autorisées pour l’application dans les réglages du système. L’essai et l’achat sur Android sont gérés par Google Play."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Version Android (Google Play)",
-        "body": "Assistant Métro est aussi offert pour Android sur Google Play, et tout ce que dit cette page s’y applique également. La version Android ne recueille ni ne transmet aucune donnée personnelle, n’affiche aucune publicité et n’utilise aucun outil d’analyse. Vos réglages et vos rappels sont enregistrés uniquement sur votre appareil. Le paiement est géré par Google Play, et l’application ne voit jamais vos renseignements de paiement. L’autorisation Internet sert uniquement à télécharger le PDF officiel de l’horaire depuis le site Web du métro de Taipei lorsque vous touchez pour l’ouvrir. L’application demande aussi l’autorisation d’envoyer des notifications, utilisées seulement pour les rappels de départ que vous programmez et que vous pouvez refuser; et l’autorisation de recevoir l’avis de fin de démarrage du téléphone, afin que vos rappels soient programmés de nouveau après un redémarrage. Les widgets de l’écran d’accueil qui affichent le prochain train des antennes de Xiaobitan et de Beitou · Xinbeitou utilisent uniquement les données d’horaires intégrées à l’application."
+        "body": "Assistant Métro est aussi offert pour Android sur Google Play, et tout ce que dit cette page s’y applique également. La version Android ne recueille ni ne transmet aucune donnée personnelle, n’affiche aucune publicité et n’utilise aucun outil d’analyse. Vos réglages, vos rappels et l’heure de début de l’essai sont enregistrés uniquement sur votre appareil. Le paiement est géré par Google Play, et l’application ne voit jamais vos renseignements de paiement. L’autorisation Internet sert uniquement à télécharger le PDF officiel de l’horaire depuis le site Web du métro de Taipei lorsque vous touchez pour l’ouvrir. L’application demande aussi l’autorisation d’envoyer des notifications, utilisées seulement pour les rappels de départ que vous programmez et que vous pouvez refuser; l’autorisation de recevoir l’avis de fin de démarrage du téléphone, afin que vos rappels soient programmés de nouveau après un redémarrage; et l’autorisation pour Google Play Billing, afin de vérifier l’état de l’essai et de l’achat. Les widgets de l’écran d’accueil qui affichent le prochain train des antennes de Xiaobitan et de Beitou · Xinbeitou utilisent uniquement les données d’horaires intégrées à l’application."
       },
       {
         "id": "notifications",

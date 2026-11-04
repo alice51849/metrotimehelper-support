@@ -47,7 +47,7 @@
       {
         "id": "paid_download",
         "title": "Zapłać raz i korzystaj ze wszystkiego",
-        "body": "To aplikacja płatna. Kupujesz ją raz w App Store i wszystkie funkcje działają od pierwszego uruchomienia. Nie ma zakupów w aplikacji, subskrypcji ani reklam, a nic się nie odnawia."
+        "body": "Wersja na iPhone’a, iPada i Apple Watch jest płatna. Kupujesz ją raz w App Store i wszystkie funkcje działają od pierwszego uruchomienia. Nie ma zakupów w aplikacji, subskrypcji ani reklam, a nic się nie odnawia."
       }
     ],
     "links_title": "Potrzebujesz pomocy?",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Czy na nowym telefonie muszę płacić ponownie?",
+        "title": "Czy na nowym iPhonie muszę płacić ponownie?",
         "body": "Nie. Podczas konfiguracji nowego iPhone’a zaloguj się do App Store tym samym kontem Apple i pobierz aplikację jeszcze raz; nie zapłacisz drugi raz. W aplikacji nie ma nic do przywracania."
       },
       {
         "id": "paid_model",
         "title": "Co dostaję po zakupie aplikacji?",
-        "body": "Aplikacja jest płatna. Gdy tylko znajdzie się na urządzeniu, od razu działają wszystkie funkcje, w tym rozkłady jazdy linii odgałęzień, przypomnienia, widżety i aplikacja na Apple Watch. W aplikacji nie ma już niczego do dokupienia: żadnych zakupów w aplikacji, subskrypcji ani reklam, a nic się nie odnawia."
+        "body": "Na iPhonie, iPadzie i Apple Watch aplikacja jest płatna. Gdy tylko znajdzie się na urządzeniu, od razu działają wszystkie funkcje, w tym rozkłady jazdy linii odgałęzień, przypomnienia, widżety i aplikacja na Apple Watch. W aplikacji nie ma już niczego do dokupienia: żadnych zakupów w aplikacji, subskrypcji ani reklam, a nic się nie odnawia."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Czy jest wersja na Androida?",
-        "body": "Tak. Metro na czas jest dostępne na iPhone’a, iPada i Apple Watcha w App Store oraz na Androida w Google Play. Wersja na Androida korzysta z tych samych oficjalnych danych metra w Tajpej, nie zbiera danych osobowych i ma widżety ekranu głównego z następnym pociągiem na odgałęzieniach Xiaobitan i Beitou · Xinbeitou. Jeśli przypomnienia nie docierają na Androidzie, sprawdź, czy w ustawieniach systemu zezwolono aplikacji na powiadomienia."
+        "body": "Tak. Metro na czas jest dostępne na iPhone’a, iPada i Apple Watcha w App Store oraz na Androida w Google Play. Wersja na Androida korzysta z tych samych oficjalnych danych metra w Tajpej, nie zbiera danych osobowych i ma widżety ekranu głównego z następnym pociągiem na odgałęzieniach Xiaobitan i Beitou · Xinbeitou. Jeśli przypomnienia nie docierają na Androidzie, sprawdź, czy w ustawieniach systemu zezwolono aplikacji na powiadomienia. Okresem próbnym i zakupem na Androidzie zajmuje się Google Play."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Wersja na Androida (Google Play)",
-        "body": "Metro na czas jest dostępne także na Androida w Google Play, a wszystko, co napisano na tej stronie, dotyczy również tej wersji. Wersja na Androida nie zbiera ani nie przesyła danych osobowych, nie wyświetla reklam i nie korzysta z analityki. Twoje ustawienia i przypomnienia są przechowywane wyłącznie na Twoim urządzeniu. Płatnościami zajmuje się Google Play, a aplikacja nigdy nie widzi Twoich danych płatniczych. Uprawnienie do internetu służy tylko do pobrania oficjalnego rozkładu jazdy w PDF ze strony internetowej metra w Tajpej, gdy stukniesz, aby go otworzyć. Aplikacja prosi też o zgodę na powiadomienia, używane wyłącznie do ustawionych przez Ciebie przypomnień o odjeździe i możliwe do odrzucenia; oraz o uprawnienie do komunikatu o zakończeniu uruchamiania systemu, aby po ponownym uruchomieniu telefonu przypomnienia zostały zaplanowane na nowo. Widżety ekranu głównego z następnym pociągiem na odgałęzieniach Xiaobitan i Beitou · Xinbeitou korzystają wyłącznie z danych rozkładowych zawartych w aplikacji."
+        "body": "Metro na czas jest dostępne także na Androida w Google Play, a wszystko, co napisano na tej stronie, dotyczy również tej wersji. Wersja na Androida nie zbiera ani nie przesyła danych osobowych, nie wyświetla reklam i nie korzysta z analityki. Twoje ustawienia, przypomnienia i czas rozpoczęcia okresu próbnego są przechowywane wyłącznie na Twoim urządzeniu. Płatnościami zajmuje się Google Play, a aplikacja nigdy nie widzi Twoich danych płatniczych. Uprawnienie do internetu służy tylko do pobrania oficjalnego rozkładu jazdy w PDF ze strony internetowej metra w Tajpej, gdy stukniesz, aby go otworzyć. Aplikacja prosi też o zgodę na powiadomienia, używane wyłącznie do ustawionych przez Ciebie przypomnień o odjeździe i możliwe do odrzucenia; o uprawnienie do komunikatu o zakończeniu uruchamiania systemu, aby po ponownym uruchomieniu telefonu przypomnienia zostały zaplanowane na nowo; oraz o Google Play Billing, aby sprawdzać stan okresu próbnego i zakupu. Widżety ekranu głównego z następnym pociągiem na odgałęzieniach Xiaobitan i Beitou · Xinbeitou korzystają wyłącznie z danych rozkładowych zawartych w aplikacji."
       },
       {
         "id": "notifications",

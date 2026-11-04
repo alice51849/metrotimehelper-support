@@ -47,7 +47,7 @@
       {
         "id": "paid_download",
         "title": "Bayar sekali, semuanya termasuk",
-        "body": "Ini ialah apl muat turun berbayar. Beli sekali di App Store dan semua ciri berfungsi sejak pelancaran pertama. Tiada pembelian dalam apl, langganan atau iklan, dan tiada apa-apa yang diperbaharui secara automatik."
+        "body": "Versi iPhone, iPad dan Apple Watch ialah muat turun berbayar. Beli sekali di App Store dan semua ciri berfungsi sejak pelancaran pertama. Tiada pembelian dalam apl, langganan atau iklan, dan tiada apa-apa yang diperbaharui secara automatik."
       }
     ],
     "links_title": "Perlukan bantuan?",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Perlukah saya membayar lagi pada telefon baharu?",
+        "title": "Perlukah saya membayar lagi pada iPhone baharu?",
         "body": "Tidak. Apabila menyediakan iPhone baharu, log masuk ke App Store dengan Akaun Apple yang sama dan muat turun apl itu semula; anda tidak perlu membayar kali kedua. Tiada apa-apa untuk dipulihkan di dalam apl."
       },
       {
         "id": "paid_model",
         "title": "Apakah yang saya dapat apabila membeli apl ini?",
-        "body": "Apl ini ialah muat turun berbayar. Sebaik sahaja berada pada peranti anda, semua ciri terus berfungsi, termasuk jadual masa laluan cabang, peringatan, widget dan apl Apple Watch. Tiada apa-apa lagi untuk dibeli di dalam apl: tiada pembelian dalam apl, tiada langganan dan tiada iklan, dan tiada apa-apa yang diperbaharui secara automatik."
+        "body": "Pada iPhone, iPad dan Apple Watch, apl ini ialah muat turun berbayar. Sebaik sahaja berada pada peranti anda, semua ciri terus berfungsi, termasuk jadual masa laluan cabang, peringatan, widget dan apl Apple Watch. Tiada apa-apa lagi untuk dibeli di dalam apl: tiada pembelian dalam apl, tiada langganan dan tiada iklan, dan tiada apa-apa yang diperbaharui secara automatik."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Adakah terdapat versi Android?",
-        "body": "Ya. Metro Time Helper ditawarkan untuk iPhone, iPad dan Apple Watch di App Store, dan untuk Android di Google Play. Versi Android menggunakan data rasmi MRT Taipei yang sama, tidak mengumpul data peribadi, dan mempunyai widget Skrin Utama untuk tren seterusnya di laluan cabang Xiaobitan dan Beitou · Xinbeitou. Jika peringatan tidak sampai pada Android, pastikan pemberitahuan dibenarkan untuk aplikasi ini dalam Seting sistem."
+        "body": "Ya. Metro Time Helper ditawarkan untuk iPhone, iPad dan Apple Watch di App Store, dan untuk Android di Google Play. Versi Android menggunakan data rasmi MRT Taipei yang sama, tidak mengumpul data peribadi, dan mempunyai widget Skrin Utama untuk tren seterusnya di laluan cabang Xiaobitan dan Beitou · Xinbeitou. Jika peringatan tidak sampai pada Android, pastikan pemberitahuan dibenarkan untuk aplikasi ini dalam Seting sistem. Percubaan dan pembelian pada Android dikendalikan oleh Google Play."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Versi Android (Google Play)",
-        "body": "Metro Time Helper turut ditawarkan untuk Android melalui Google Play, dan semua yang terdapat pada halaman ini terpakai juga pada versi tersebut. Versi Android tidak mengumpul atau menghantar data peribadi, tidak memaparkan iklan dan tidak menggunakan analitik. Seting dan peringatan anda disimpan pada peranti anda sahaja. Pembayaran dikendalikan oleh Google Play, dan aplikasi tidak pernah melihat butiran pembayaran anda. Kebenaran Internet hanya digunakan untuk memuat turun PDF jadual rasmi daripada laman web MRT Taipei apabila anda mengetik untuk membukanya. Aplikasi juga meminta kebenaran untuk pemberitahuan, yang hanya digunakan untuk peringatan bertolak yang anda tetapkan dan boleh anda tolak; dan untuk siaran selesai but, supaya peringatan anda dijadualkan semula selepas telefon dimulakan semula. Widget Skrin Utama untuk tren seterusnya di laluan cabang Xiaobitan dan Beitou · Xinbeitou hanya menggunakan data jadual di dalam aplikasi."
+        "body": "Metro Time Helper turut ditawarkan untuk Android melalui Google Play, dan semua yang terdapat pada halaman ini terpakai juga pada versi tersebut. Versi Android tidak mengumpul atau menghantar data peribadi, tidak memaparkan iklan dan tidak menggunakan analitik. Seting, peringatan dan masa mula percubaan anda disimpan pada peranti anda sahaja. Pembayaran dikendalikan oleh Google Play, dan aplikasi tidak pernah melihat butiran pembayaran anda. Kebenaran Internet hanya digunakan untuk memuat turun PDF jadual rasmi daripada laman web MRT Taipei apabila anda mengetik untuk membukanya. Aplikasi juga meminta kebenaran untuk pemberitahuan, yang hanya digunakan untuk peringatan bertolak yang anda tetapkan dan boleh anda tolak; untuk siaran selesai but, supaya peringatan anda dijadualkan semula selepas telefon dimulakan semula; dan untuk Google Play Billing, bagi menyemak status percubaan dan pembelian. Widget Skrin Utama untuk tren seterusnya di laluan cabang Xiaobitan dan Beitou · Xinbeitou hanya menggunakan data jadual di dalam aplikasi."
       },
       {
         "id": "notifications",

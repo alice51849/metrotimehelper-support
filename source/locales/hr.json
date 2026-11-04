@@ -47,7 +47,7 @@
       {
         "id": "paid_download",
         "title": "Platite jednom, imate sve",
-        "body": "Ovo je plaćena aplikacija. Kupite je jednom u App Storeu i sve funkcije rade od prvog pokretanja. Nema kupnji unutar aplikacije, pretplate ni oglasa, a ništa se ne obnavlja."
+        "body": "Verzija za iPhone, iPad i Apple Watch je plaćena. Kupite je jednom u App Storeu i sve funkcije rade od prvog pokretanja. Nema kupnji unutar aplikacije, pretplate ni oglasa, a ništa se ne obnavlja."
       }
     ],
     "links_title": "Trebate pomoć?",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Moram li ponovno platiti na novom telefonu?",
+        "title": "Moram li ponovno platiti na novom iPhoneu?",
         "body": "Ne. Kad postavljate novi iPhone, prijavite se u App Store istim Apple računom i ponovno preuzmite aplikaciju; ne morate platiti drugi put. U aplikaciji nema ničega što bi trebalo vraćati."
       },
       {
         "id": "paid_model",
         "title": "Što dobivam kupnjom aplikacije?",
-        "body": "Aplikacija je plaćena. Čim se nađe na vašem uređaju, odmah rade sve funkcije, uključujući vozne redove krakova, podsjetnike, widgete i aplikaciju za Apple Watch. U aplikaciji nema ničega dodatnog za kupnju: nema kupnji unutar aplikacije, pretplate ni oglasa, a ništa se ne obnavlja."
+        "body": "Na iPhoneu, iPadu i Apple Watchu aplikacija je plaćena. Čim se nađe na vašem uređaju, odmah rade sve funkcije, uključujući vozne redove krakova, podsjetnike, widgete i aplikaciju za Apple Watch. U aplikaciji nema ničega dodatnog za kupnju: nema kupnji unutar aplikacije, pretplate ni oglasa, a ništa se ne obnavlja."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Postoji li Android verzija?",
-        "body": "Da. Metro na vrijeme dostupan je za iPhone, iPad i Apple Watch u App Storeu te za Android u Google Playu. Android verzija koristi iste službene podatke metroa u Taipeiju, ne prikuplja osobne podatke i ima widgete početnog zaslona sa sljedećim vlakom na odvojcima Xiaobitan i Beitou · Xinbeitou. Ako podsjetnici ne stižu na Androidu, provjerite jesu li obavijesti za aplikaciju dopuštene u sistemskim Postavkama."
+        "body": "Da. Metro na vrijeme dostupan je za iPhone, iPad i Apple Watch u App Storeu te za Android u Google Playu. Android verzija koristi iste službene podatke metroa u Taipeiju, ne prikuplja osobne podatke i ima widgete početnog zaslona sa sljedećim vlakom na odvojcima Xiaobitan i Beitou · Xinbeitou. Ako podsjetnici ne stižu na Androidu, provjerite jesu li obavijesti za aplikaciju dopuštene u sistemskim Postavkama. Probu i kupnju na Androidu obrađuje Google Play."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Android verzija (Google Play)",
-        "body": "Metro na vrijeme dostupan je i za Android putem Google Playa, a sve što piše na ovoj stranici vrijedi i za tu verziju. Android verzija ne prikuplja niti prenosi osobne podatke, ne prikazuje oglase i ne koristi analitiku. Vaše postavke i podsjetnici pohranjuju se samo na vašem uređaju. Plaćanje obrađuje Google Play, a aplikacija nikada ne vidi vaše podatke o plaćanju. Dopuštenje za internet koristi se samo za preuzimanje službenog voznog reda u PDF-u s web-mjesta metroa u Taipeiju kada dodirnete da ga otvorite. Aplikacija traži i dopuštenje za obavijesti, koje se koristi samo za podsjetnike za polazak koje sami postavite i koje možete odbiti; te dopuštenje za primanje poruke o dovršenom pokretanju telefona, kako bi se podsjetnici ponovno zakazali nakon ponovnog pokretanja telefona. Widgeti početnog zaslona sa sljedećim vlakom na odvojcima Xiaobitan i Beitou · Xinbeitou koriste samo podatke o voznim redovima unutar aplikacije."
+        "body": "Metro na vrijeme dostupan je i za Android putem Google Playa, a sve što piše na ovoj stranici vrijedi i za tu verziju. Android verzija ne prikuplja niti prenosi osobne podatke, ne prikazuje oglase i ne koristi analitiku. Vaše postavke, podsjetnici i vrijeme početka probe pohranjuju se samo na vašem uređaju. Plaćanje obrađuje Google Play, a aplikacija nikada ne vidi vaše podatke o plaćanju. Dopuštenje za internet koristi se samo za preuzimanje službenog voznog reda u PDF-u s web-mjesta metroa u Taipeiju kada dodirnete da ga otvorite. Aplikacija traži i dopuštenje za obavijesti, koje se koristi samo za podsjetnike za polazak koje sami postavite i koje možete odbiti; dopuštenje za primanje poruke o dovršenom pokretanju telefona, kako bi se podsjetnici ponovno zakazali nakon ponovnog pokretanja telefona; te dopuštenje za Google Play Billing, radi provjere stanja probe i kupnje. Widgeti početnog zaslona sa sljedećim vlakom na odvojcima Xiaobitan i Beitou · Xinbeitou koriste samo podatke o voznim redovima unutar aplikacije."
       },
       {
         "id": "notifications",

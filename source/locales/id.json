@@ -47,7 +47,7 @@
       {
         "id": "paid_download",
         "title": "Bayar sekali, semua fitur termasuk",
-        "body": "Ini adalah aplikasi berbayar. Beli sekali di App Store dan semua fitur langsung berfungsi sejak pertama dibuka. Tidak ada pembelian dalam aplikasi, langganan, maupun iklan, dan tidak ada yang diperpanjang otomatis."
+        "body": "Versi iPhone, iPad, dan Apple Watch adalah aplikasi berbayar. Beli sekali di App Store dan semua fitur langsung berfungsi sejak pertama dibuka. Tidak ada pembelian dalam aplikasi, langganan, maupun iklan, dan tidak ada yang diperpanjang otomatis."
       }
     ],
     "links_title": "Butuh bantuan?",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Apakah saya harus membayar lagi di ponsel baru?",
+        "title": "Apakah saya harus membayar lagi di iPhone baru?",
         "body": "Tidak. Saat menyiapkan iPhone baru, masuk ke App Store dengan Akun Apple yang sama lalu unduh aplikasi lagi; Anda tidak perlu membayar untuk kedua kalinya. Tidak ada yang perlu dipulihkan di dalam aplikasi."
       },
       {
         "id": "paid_model",
         "title": "Apa yang saya dapatkan saat membeli aplikasi ini?",
-        "body": "Aplikasi ini berbayar. Begitu terpasang di perangkat Anda, semua fitur langsung berfungsi, termasuk jadwal jalur cabang, pengingat, widget, dan aplikasi Apple Watch. Di dalam aplikasi tidak ada lagi yang perlu dibeli: tanpa pembelian dalam aplikasi, tanpa langganan, tanpa iklan, dan tidak ada yang diperpanjang otomatis."
+        "body": "Di iPhone, iPad, dan Apple Watch, aplikasi ini berbayar. Begitu terpasang di perangkat Anda, semua fitur langsung berfungsi, termasuk jadwal jalur cabang, pengingat, widget, dan aplikasi Apple Watch. Di dalam aplikasi tidak ada lagi yang perlu dibeli: tanpa pembelian dalam aplikasi, tanpa langganan, tanpa iklan, dan tidak ada yang diperpanjang otomatis."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Apakah ada versi Android?",
-        "body": "Ada. Metro Time Helper tersedia untuk iPhone, iPad, dan Apple Watch di App Store, serta untuk Android di Google Play. Versi Android menggunakan data resmi MRT Taipei yang sama, tidak mengumpulkan data pribadi, dan memiliki widget Layar Utama untuk kereta berikutnya di jalur cabang Xiaobitan dan Beitou · Xinbeitou. Jika pengingat tidak muncul di Android, pastikan notifikasi untuk aplikasi diizinkan di Pengaturan sistem."
+        "body": "Ada. Metro Time Helper tersedia untuk iPhone, iPad, dan Apple Watch di App Store, serta untuk Android di Google Play. Versi Android menggunakan data resmi MRT Taipei yang sama, tidak mengumpulkan data pribadi, dan memiliki widget Layar Utama untuk kereta berikutnya di jalur cabang Xiaobitan dan Beitou · Xinbeitou. Jika pengingat tidak muncul di Android, pastikan notifikasi untuk aplikasi diizinkan di Pengaturan sistem. Uji coba dan pembelian di Android ditangani oleh Google Play."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Versi Android (Google Play)",
-        "body": "Metro Time Helper juga tersedia untuk Android melalui Google Play, dan semua yang tertulis di halaman ini berlaku juga untuk versi tersebut. Versi Android tidak mengumpulkan atau mengirimkan data pribadi, tidak menampilkan iklan, dan tidak menggunakan analitik. Pengaturan dan pengingat Anda hanya disimpan di perangkat Anda. Pembayaran ditangani oleh Google Play, dan aplikasi tidak pernah melihat detail pembayaran Anda. Izin Internet hanya digunakan untuk mengunduh PDF jadwal resmi dari situs web MRT Taipei saat Anda mengetuk untuk membukanya. Aplikasi juga meminta izin notifikasi, yang hanya digunakan untuk pengingat keberangkatan yang Anda atur dan boleh Anda tolak; dan izin untuk menerima sinyal selesai boot, agar pengingat Anda dijadwalkan ulang setelah ponsel dihidupkan ulang. Widget Layar Utama untuk kereta berikutnya di jalur cabang Xiaobitan dan Beitou · Xinbeitou hanya menggunakan data jadwal di dalam aplikasi."
+        "body": "Metro Time Helper juga tersedia untuk Android melalui Google Play, dan semua yang tertulis di halaman ini berlaku juga untuk versi tersebut. Versi Android tidak mengumpulkan atau mengirimkan data pribadi, tidak menampilkan iklan, dan tidak menggunakan analitik. Pengaturan, pengingat, dan waktu mulai uji coba Anda hanya disimpan di perangkat Anda. Pembayaran ditangani oleh Google Play, dan aplikasi tidak pernah melihat detail pembayaran Anda. Izin Internet hanya digunakan untuk mengunduh PDF jadwal resmi dari situs web MRT Taipei saat Anda mengetuk untuk membukanya. Aplikasi juga meminta izin notifikasi, yang hanya digunakan untuk pengingat keberangkatan yang Anda atur dan boleh Anda tolak; izin untuk menerima sinyal selesai boot, agar pengingat Anda dijadwalkan ulang setelah ponsel dihidupkan ulang; dan izin Google Play Billing, untuk memeriksa status uji coba dan pembelian. Widget Layar Utama untuk kereta berikutnya di jalur cabang Xiaobitan dan Beitou · Xinbeitou hanya menggunakan data jadwal di dalam aplikasi."
       },
       {
         "id": "notifications",

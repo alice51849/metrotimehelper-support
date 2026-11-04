@@ -47,7 +47,7 @@
       {
         "id": "paid_download",
         "title": "Pague uma vez e tenha tudo",
-        "body": "É uma app de transferência paga. Compre-a uma única vez na App Store e todas as funcionalidades funcionam desde a primeira abertura. Não há compras na app, subscrições nem anúncios, e nada é renovado."
+        "body": "A versão para iPhone, iPad e Apple Watch é de transferência paga. Compre-a uma única vez na App Store e todas as funcionalidades funcionam desde a primeira abertura. Não há compras na app, subscrições nem anúncios, e nada é renovado."
       }
     ],
     "links_title": "Precisa de ajuda?",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Tenho de pagar outra vez num telemóvel novo?",
+        "title": "Tenho de pagar outra vez num iPhone novo?",
         "body": "Não. Ao configurar um iPhone novo, inicie sessão na App Store com o mesmo ID Apple e transfira a app de novo; não terá de pagar uma segunda vez. Dentro da app não há nada para restaurar."
       },
       {
         "id": "paid_model",
         "title": "O que obtenho ao comprar a app?",
-        "body": "A app é de transferência paga. Assim que está no seu dispositivo, todas as funcionalidades funcionam logo, incluindo os horários dos ramais, os lembretes, os widgets e a app para o Apple Watch. Dentro da app não há mais nada para comprar: sem compras na app, sem subscrições e sem anúncios, e nada é renovado."
+        "body": "No iPhone, no iPad e no Apple Watch, a app é de transferência paga. Assim que está no seu dispositivo, todas as funcionalidades funcionam logo, incluindo os horários dos ramais, os lembretes, os widgets e a app para o Apple Watch. Dentro da app não há mais nada para comprar: sem compras na app, sem subscrições e sem anúncios, e nada é renovado."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Existe uma versão para Android?",
-        "body": "Sim. Metro a Horas está disponível para iPhone, iPad e Apple Watch na App Store e para Android no Google Play. A versão para Android usa os mesmos dados oficiais do metro de Taipé, não recolhe dados pessoais e tem widgets no ecrã principal com o próximo comboio nos ramais de Xiaobitan e Beitou · Xinbeitou. Se os lembretes não chegarem no Android, confirme que as notificações estão permitidas para a app nas Definições do sistema."
+        "body": "Sim. Metro a Horas está disponível para iPhone, iPad e Apple Watch na App Store e para Android no Google Play. A versão para Android usa os mesmos dados oficiais do metro de Taipé, não recolhe dados pessoais e tem widgets no ecrã principal com o próximo comboio nos ramais de Xiaobitan e Beitou · Xinbeitou. Se os lembretes não chegarem no Android, confirme que as notificações estão permitidas para a app nas Definições do sistema. O teste e a compra no Android são geridos pelo Google Play."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Versão para Android (Google Play)",
-        "body": "Metro a Horas também está disponível para Android através do Google Play, e tudo o que consta nesta página se aplica igualmente a essa versão. A versão para Android não recolhe nem transmite dados pessoais, não mostra anúncios e não usa ferramentas de análise. As suas definições e os lembretes ficam guardados apenas no seu dispositivo. O pagamento é tratado pelo Google Play, e a app nunca vê os seus dados de pagamento. A permissão de Internet é usada apenas para descarregar o PDF oficial do horário a partir do site do metro de Taipé quando toca para o abrir. A app também pede permissão para notificações, usadas apenas para os lembretes de partida que definir e que pode recusar; e para o aviso de arranque concluído, para que os seus lembretes sejam agendados de novo depois de o telemóvel reiniciar. Os widgets do ecrã principal com o próximo comboio nos ramais de Xiaobitan e Beitou · Xinbeitou usam apenas os dados de horários que estão na app."
+        "body": "Metro a Horas também está disponível para Android através do Google Play, e tudo o que consta nesta página se aplica igualmente a essa versão. A versão para Android não recolhe nem transmite dados pessoais, não mostra anúncios e não usa ferramentas de análise. As suas definições, os lembretes e a hora de início do teste ficam guardados apenas no seu dispositivo. O pagamento é tratado pelo Google Play, e a app nunca vê os seus dados de pagamento. A permissão de Internet é usada apenas para descarregar o PDF oficial do horário a partir do site do metro de Taipé quando toca para o abrir. A app também pede permissão para notificações, usadas apenas para os lembretes de partida que definir e que pode recusar; para o aviso de arranque concluído, para que os seus lembretes sejam agendados de novo depois de o telemóvel reiniciar; e para o Google Play Billing, a fim de verificar o estado do teste e da compra. Os widgets do ecrã principal com o próximo comboio nos ramais de Xiaobitan e Beitou · Xinbeitou usam apenas os dados de horários que estão na app."
       },
       {
         "id": "notifications",

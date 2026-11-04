@@ -47,7 +47,7 @@
       {
         "id": "paid_download",
         "title": "Maksa kerran, saat kaiken",
-        "body": "Tämä on maksullinen sovellus. Osta se kerran App Storesta, niin kaikki ominaisuudet toimivat heti ensimmäisestä käynnistyksestä alkaen. Sovelluksessa ei ole sovelluksen sisäisiä ostoksia, tilausta eikä mainoksia, eikä mikään uusiudu."
+        "body": "iPhone-, iPad- ja Apple Watch -versio on maksullinen. Osta se kerran App Storesta, niin kaikki ominaisuudet toimivat heti ensimmäisestä käynnistyksestä alkaen. Sovelluksessa ei ole sovelluksen sisäisiä ostoksia, tilausta eikä mainoksia, eikä mikään uusiudu."
       }
     ],
     "links_title": "Tarvitsetko apua?",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Pitääkö uudella puhelimella maksaa uudelleen?",
+        "title": "Pitääkö uudella iPhonella maksaa uudelleen?",
         "body": "Ei. Kun otat käyttöön uuden iPhonen, kirjaudu App Storeen samalla Apple-tilillä ja lataa sovellus uudelleen; sinun ei tarvitse maksaa toista kertaa. Sovelluksessa ei ole mitään palautettavaa."
       },
       {
         "id": "paid_model",
         "title": "Mitä saan, kun ostan sovelluksen?",
-        "body": "Sovellus on maksullinen. Kun se on laitteellasi, kaikki ominaisuudet toimivat heti, myös sivulinjojen aikataulut, muistutukset, widgetit ja Apple Watch -sovellus. Sovelluksessa ei ole mitään lisättävää ostettavaksi: ei sovelluksen sisäisiä ostoksia, ei tilausta eikä mainoksia, eikä mikään uusiudu."
+        "body": "iPhonessa, iPadissa ja Apple Watchissa sovellus on maksullinen. Kun se on laitteellasi, kaikki ominaisuudet toimivat heti, myös sivulinjojen aikataulut, muistutukset, widgetit ja Apple Watch -sovellus. Sovelluksessa ei ole mitään lisättävää ostettavaksi: ei sovelluksen sisäisiä ostoksia, ei tilausta eikä mainoksia, eikä mikään uusiudu."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Onko Android-versiota?",
-        "body": "On. Metron aika-apuri on saatavilla iPhonelle, iPadille ja Apple Watchille App Storessa sekä Androidille Google Playssa. Android-versio käyttää samoja Taipein metron virallisia tietoja, ei kerää henkilötietoja ja siinä on Koti-valikon widgetit, jotka näyttävät seuraavan junan Xiaobitanin ja Beitou · Xinbeitoun haararadoilla. Jos muistutukset eivät tule perille Androidilla, varmista, että ilmoitukset on sallittu sovellukselle järjestelmän Asetuksissa."
+        "body": "On. Metron aika-apuri on saatavilla iPhonelle, iPadille ja Apple Watchille App Storessa sekä Androidille Google Playssa. Android-versio käyttää samoja Taipein metron virallisia tietoja, ei kerää henkilötietoja ja siinä on Koti-valikon widgetit, jotka näyttävät seuraavan junan Xiaobitanin ja Beitou · Xinbeitoun haararadoilla. Jos muistutukset eivät tule perille Androidilla, varmista, että ilmoitukset on sallittu sovellukselle järjestelmän Asetuksissa. Kokeilun ja oston Androidilla hoitaa Google Play."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Android-versio (Google Play)",
-        "body": "Metron aika-apuri on saatavilla myös Androidille Google Playn kautta, ja kaikki tällä sivulla kerrottu koskee myös sitä. Android-versio ei kerää eikä lähetä henkilötietoja, ei näytä mainoksia eikä käytä analytiikkaa. Asetuksesi ja muistutuksesi tallennetaan vain laitteellesi. Maksun hoitaa Google Play, eikä sovellus koskaan näe maksutietojasi. Internet-oikeutta käytetään vain virallisen aikataulun PDF-tiedoston lataamiseen Taipein metron verkkosivustolta, kun napautat sen avaamista. Sovellus pyytää myös lupaa ilmoituksiin, joita käytetään vain itse asettamiisi lähtömuistutuksiin ja joista voit kieltäytyä; sekä lupaa vastaanottaa puhelimen käynnistymisen valmistumisen ilmoitus, jotta muistutuksesi ajastetaan uudelleen puhelimen käynnistyttyä uudelleen. Koti-valikon widgetit, jotka näyttävät seuraavan junan Xiaobitanin ja Beitou · Xinbeitoun haararadoilla, käyttävät vain sovelluksen sisällä olevia aikataulutietoja."
+        "body": "Metron aika-apuri on saatavilla myös Androidille Google Playn kautta, ja kaikki tällä sivulla kerrottu koskee myös sitä. Android-versio ei kerää eikä lähetä henkilötietoja, ei näytä mainoksia eikä käytä analytiikkaa. Asetuksesi, muistutuksesi ja kokeilun alkamisaika tallennetaan vain laitteellesi. Maksun hoitaa Google Play, eikä sovellus koskaan näe maksutietojasi. Internet-oikeutta käytetään vain virallisen aikataulun PDF-tiedoston lataamiseen Taipein metron verkkosivustolta, kun napautat sen avaamista. Sovellus pyytää myös lupaa ilmoituksiin, joita käytetään vain itse asettamiisi lähtömuistutuksiin ja joista voit kieltäytyä; lupaa vastaanottaa puhelimen käynnistymisen valmistumisen ilmoitus, jotta muistutuksesi ajastetaan uudelleen puhelimen käynnistyttyä uudelleen; sekä lupaa Google Play Billingiin kokeilun ja oston tilan tarkistamista varten. Koti-valikon widgetit, jotka näyttävät seuraavan junan Xiaobitanin ja Beitou · Xinbeitoun haararadoilla, käyttävät vain sovelluksen sisällä olevia aikataulutietoja."
       },
       {
         "id": "notifications",
