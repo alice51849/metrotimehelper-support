@@ -45,15 +45,15 @@
         "body": "Sin cuenta y sin registro. Sin anuncios, sin analíticas de terceros y sin recopilar datos personales. Todos los cálculos se hacen en tu iPhone y los recordatorios se programan localmente en el dispositivo."
       },
       {
-        "id": "trial",
-        "title": "Pruébalo todo durante 24 horas",
-        "body": "Descarga la app e inicia una prueba de 24 horas con todas las funciones desbloqueadas. Después, una única compra te permite quedártelo todo para siempre. No hay suscripción y nada se renueva."
+        "id": "paid_download",
+        "title": "Paga una vez y lo tienes todo",
+        "body": "Es una app de descarga de pago. Cómprala una sola vez en la App Store y todas las funciones están disponibles desde el primer arranque. No hay compras dentro de la app, ni suscripciones, ni anuncios, y nada se renueva."
       }
     ],
     "links_title": "¿Necesitas ayuda?",
     "support_card": {
       "title": "Soporte y preguntas frecuentes",
-      "body": "Cómo funcionan los tres modos, cómo elegir la pantalla de inicio y el idioma, los recordatorios, cómo restaurar una compra y mucho más."
+      "body": "Cómo funcionan los tres modos, cómo elegir la pantalla de inicio y el idioma, los recordatorios, cómo usar la app en un teléfono nuevo y mucho más."
     },
     "privacy_card": {
       "title": "Política de privacidad",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "¿Cómo restauro mi compra?",
-        "body": "Abre «Ajustes» en la app y toca «Restaurar». Asegúrate de haber iniciado sesión en el App Store con la misma cuenta de Apple que usaste para comprarla. El desbloqueo también se recupera automáticamente al reinstalar la app o al configurar un iPhone nuevo con esa cuenta."
+        "title": "¿Tengo que volver a pagar en un teléfono nuevo?",
+        "body": "No. Al configurar un iPhone nuevo, inicia sesión en la App Store con el mismo ID de Apple y vuelve a descargar la app; no tendrás que pagar otra vez. Dentro de la app no hay nada que restaurar."
       },
       {
-        "id": "trial_unlock",
-        "title": "¿Cómo funcionan la prueba de 24 horas y el desbloqueo?",
-        "body": "Inicia la prueba desde la app cuando quieras y tendrás todas las funciones disponibles durante 24 horas. El App Store registra la prueba, así que reinstalar la app no la reinicia. Cuando termina, puedes seguir viendo la app, y una única compra lo desbloquea todo para siempre. No es una suscripción y nunca se renueva. El precio aparece en el App Store en tu moneda local."
+        "id": "paid_model",
+        "title": "¿Qué obtengo al comprar la app?",
+        "body": "La app es de descarga de pago. En cuanto está en tu dispositivo, todas las funciones funcionan al instante, incluidos los horarios de los ramales, los recordatorios, los widgets y la app para el Apple Watch. Dentro de la app no hay nada más que comprar: ni compras dentro de la app, ni suscripciones, ni anuncios, y nada se renueva."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "¿Hay versión para Android?",
-        "body": "Sí. Metro a Tiempo está disponible para iPhone, iPad y Apple Watch en el App Store, y para Android en Google Play. La versión para Android usa los mismos datos oficiales del metro de Taipéi, no recopila datos personales y tiene widgets para la pantalla de inicio con el próximo tren de los ramales de Xiaobitan y Beitou · Xinbeitou. Si en Android no te llegan los recordatorios, comprueba que las notificaciones estén permitidas para la app en los Ajustes del sistema. La prueba y la compra en Android las gestiona Google Play."
+        "body": "Sí. Metro a Tiempo está disponible para iPhone, iPad y Apple Watch en el App Store, y para Android en Google Play. La versión para Android usa los mismos datos oficiales del metro de Taipéi, no recopila datos personales y tiene widgets para la pantalla de inicio con el próximo tren de los ramales de Xiaobitan y Beitou · Xinbeitou. Si en Android no te llegan los recordatorios, comprueba que las notificaciones estén permitidas para la app en los Ajustes del sistema."
       },
       {
         "id": "independence",
@@ -169,17 +169,12 @@
       {
         "id": "android",
         "title": "Versión para Android (Google Play)",
-        "body": "Metro a Tiempo también está disponible para Android en Google Play, y todo lo que dice esta página se aplica igualmente a esa versión. La versión para Android no recopila ni transmite datos personales, no muestra anuncios y no usa analítica. Tus ajustes, recordatorios y la hora de inicio de la prueba se guardan solo en tu dispositivo. El pago lo gestiona Google Play, y la app nunca ve tus datos de pago. El permiso de Internet se usa solo para descargar el PDF oficial del horario del sitio web del metro de Taipéi cuando lo tocas para abrirlo. La app también solicita permiso para las notificaciones, que se usan solo para los recordatorios de salida que configures y que puedes rechazar; para el aviso de arranque completado, de modo que tus recordatorios se vuelvan a programar tras reiniciar el móvil; y para Google Play Billing, con el fin de comprobar el estado de la prueba y de la compra. Los widgets de la pantalla de inicio con el próximo tren de los ramales de Xiaobitan y Beitou · Xinbeitou usan únicamente los datos de horarios que hay dentro de la app."
+        "body": "Metro a Tiempo también está disponible para Android en Google Play, y todo lo que dice esta página se aplica igualmente a esa versión. La versión para Android no recopila ni transmite datos personales, no muestra anuncios y no usa analítica. Tus ajustes y recordatorios se guardan solo en tu dispositivo. El pago lo gestiona Google Play, y la app nunca ve tus datos de pago. El permiso de Internet se usa solo para descargar el PDF oficial del horario del sitio web del metro de Taipéi cuando lo tocas para abrirlo. La app también solicita permiso para las notificaciones, que se usan solo para los recordatorios de salida que configures y que puedes rechazar; y para el aviso de arranque completado, de modo que tus recordatorios se vuelvan a programar tras reiniciar el móvil. Los widgets de la pantalla de inicio con el próximo tren de los ramales de Xiaobitan y Beitou · Xinbeitou usan únicamente los datos de horarios que hay dentro de la app."
       },
       {
         "id": "notifications",
         "title": "Notificaciones",
         "body": "Si permites las notificaciones, la app solo las usa para los recordatorios que configures tú. Cada recordatorio se programa localmente en tu dispositivo; no interviene ningún servidor y ningún contenido de las notificaciones sale de tu dispositivo. Puedes desactivarlas en cualquier momento en la app Ajustes de iOS."
-      },
-      {
-        "id": "storekit",
-        "title": "Compras a través de Apple",
-        "body": "Apple gestiona la prueba de 24 horas y el desbloqueo único a través del App Store mediante StoreKit. El pago lo procesa íntegramente Apple, y la app nunca ve ni guarda tus datos de pago. La app solo consulta al App Store si la prueba está activa o si se ha comprado el desbloqueo."
       },
       {
         "id": "no_ads_analytics",

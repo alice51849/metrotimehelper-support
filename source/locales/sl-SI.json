@@ -45,15 +45,15 @@
         "body": "Brez računa in brez registracije. Brez oglasov, brez analitike tretjih oseb in brez zbiranja osebnih podatkov. Vsi izračuni potekajo v vašem iPhonu, opomniki pa so načrtovani lokalno v napravi."
       },
       {
-        "id": "trial",
-        "title": "Preizkusite vse 24 ur",
-        "body": "Prenesite aplikacijo in začnite 24-urni preizkus z vsemi odklenjenimi funkcijami. Nato z enkratnim nakupom vse obdržite za vedno. Naročnine ni in nič se ne podaljšuje."
+        "id": "paid_download",
+        "title": "Plačate enkrat in imate vse",
+        "body": "To je plačljiva aplikacija. Enkrat jo kupite v App Storu in vse funkcije delujejo že ob prvem zagonu. V aplikaciji ni nakupov, naročnine ali oglasov in nič se ne obnavlja."
       }
     ],
     "links_title": "Potrebujete pomoč?",
     "support_card": {
       "title": "Podpora in pogosta vprašanja",
-      "body": "Kako delujejo trije načini, nastavitev strani ob zagonu in jezika, opomniki, obnovitev nakupa in drugo."
+      "body": "Kako delujejo trije načini, nastavitev strani ob zagonu in jezika, opomniki, uporaba aplikacije na novem telefonu in drugo."
     },
     "privacy_card": {
       "title": "Pravilnik o zasebnosti",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Kako obnovim nakup?",
-        "body": "V aplikaciji odprite „Nastavitve“ in tapnite „Obnovi“. Prepričajte se, da ste v App Store prijavljeni z istim Apple računom, s katerim ste opravili nakup. Odklepanje se samodejno vrne tudi, ko aplikacijo znova namestite ali s tem računom nastavite nov iPhone."
+        "title": "Ali moram na novem telefonu znova plačati?",
+        "body": "Ne. Ko nastavljate nov iPhone, se v App Store prijavite z istim računom Apple in aplikacijo znova prenesite; drugič vam ni treba plačati. V aplikaciji ni ničesar za obnovitev."
       },
       {
-        "id": "trial_unlock",
-        "title": "Kako delujeta 24-urni preizkus in odklepanje?",
-        "body": "Preizkus začnete v aplikaciji, kadar ste pripravljeni, in vse funkcije so na voljo 24 ur. Preizkus beleži App Store, zato ga ponovna namestitev ne začne znova. Ko se izteče, aplikacijo še vedno vidite, z enkratnim nakupom pa vse odklenete za vedno. To ni naročnina in se nikoli ne podaljša. Cena je prikazana v App Store v vaši lokalni valuti."
+        "id": "paid_model",
+        "title": "Kaj dobim, ko kupim aplikacijo?",
+        "body": "Aplikacija je plačljiva. Takoj ko je v napravi, delujejo vse funkcije, tudi vozni redi odcepov, opomniki, pripomočki in aplikacija za Apple Watch. V aplikaciji ni več ničesar za dokup: brez nakupov v aplikaciji, brez naročnine in brez oglasov, nič pa se ne obnavlja."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Ali obstaja različica za Android?",
-        "body": "Da. Metro pravočasno je na voljo za iPhone, iPad in Apple Watch v App Store ter za Android v Google Play. Različica za Android uporablja iste uradne podatke tajpejskega metroja, ne zbira osebnih podatkov in ima pripomočke na začetnem zaslonu za naslednji vlak na odcepih Xiaobitan in Beitou · Xinbeitou. Če opomniki v sistemu Android ne prispejo, preverite, ali so v sistemskih nastavitvah za aplikacijo dovoljena obvestila. Preizkus in nakup v sistemu Android obravnava Google Play."
+        "body": "Da. Metro pravočasno je na voljo za iPhone, iPad in Apple Watch v App Store ter za Android v Google Play. Različica za Android uporablja iste uradne podatke tajpejskega metroja, ne zbira osebnih podatkov in ima pripomočke na začetnem zaslonu za naslednji vlak na odcepih Xiaobitan in Beitou · Xinbeitou. Če opomniki v sistemu Android ne prispejo, preverite, ali so v sistemskih nastavitvah za aplikacijo dovoljena obvestila."
       },
       {
         "id": "independence",
@@ -169,17 +169,12 @@
       {
         "id": "android",
         "title": "Različica za Android (Google Play)",
-        "body": "Metro pravočasno je prek Google Play na voljo tudi za Android in vse, kar piše na tej strani, velja tudi zanjo. Različica za Android ne zbira in ne pošilja osebnih podatkov, ne prikazuje oglasov in ne uporablja analitike. Vaše nastavitve, opomniki in začetek preizkusa so shranjeni samo v vaši napravi. Plačilo obravnava Google Play, aplikacija pa plačilnih podatkov nikoli ne vidi. Dovoljenje Internet se uporablja samo za prenos uradnega voznega reda v PDF s spletnega mesta tajpejskega metroja, ko tapnete, da ga odprete. Aplikacija zaprosi tudi za dovoljenje za obvestila, ki se uporabljajo samo za opomnike za odhod, ki jih nastavite, in ga lahko zavrnete; za dovoljenje za prejem signala o zaključenem zagonu sistema, da se vaši opomniki po ponovnem zagonu telefona znova načrtujejo; in za Google Play Billing, da preveri stanje preizkusa in nakupa. Pripomočki na začetnem zaslonu za naslednji vlak na odcepih Xiaobitan in Beitou · Xinbeitou uporabljajo samo podatke voznega reda v aplikaciji."
+        "body": "Metro pravočasno je prek Google Play na voljo tudi za Android in vse, kar piše na tej strani, velja tudi zanjo. Različica za Android ne zbira in ne pošilja osebnih podatkov, ne prikazuje oglasov in ne uporablja analitike. Vaše nastavitve in opomniki so shranjeni samo v vaši napravi. Plačilo obravnava Google Play, aplikacija pa plačilnih podatkov nikoli ne vidi. Dovoljenje Internet se uporablja samo za prenos uradnega voznega reda v PDF s spletnega mesta tajpejskega metroja, ko tapnete, da ga odprete. Aplikacija zaprosi tudi za dovoljenje za obvestila, ki se uporabljajo samo za opomnike za odhod, ki jih nastavite, in ga lahko zavrnete; in za dovoljenje za prejem signala o zaključenem zagonu sistema, da se vaši opomniki po ponovnem zagonu telefona znova načrtujejo. Pripomočki na začetnem zaslonu za naslednji vlak na odcepih Xiaobitan in Beitou · Xinbeitou uporabljajo samo podatke voznega reda v aplikaciji."
       },
       {
         "id": "notifications",
         "title": "Obvestila",
         "body": "Če obvestila dovolite, jih aplikacija uporablja samo za opomnike, ki jih nastavite sami. Vsak opomnik je načrtovan lokalno v vaši napravi; noben strežnik ni vključen in vsebina obvestil ne zapusti vaše naprave. Obvestila lahko kadar koli izklopite v aplikaciji Nastavitve v sistemu iOS."
-      },
-      {
-        "id": "storekit",
-        "title": "Nakupi prek družbe Apple",
-        "body": "24-urni preizkus in enkratno odklepanje ureja Apple prek trgovine App Store z ogrodjem StoreKit. Plačilo v celoti obdela Apple, aplikacija pa vaših plačilnih podatkov nikoli ne vidi in ne shranjuje. Aplikacija pri trgovini App Store le preveri, ali je preizkus aktiven oziroma ali je bilo odklepanje kupljeno."
       },
       {
         "id": "no_ads_analytics",

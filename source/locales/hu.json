@@ -45,15 +45,15 @@
         "body": "Nincs fiók és nincs regisztráció. Nincsenek hirdetések, nincs külső analitika, és semmilyen személyes adatot nem gyűjt. Minden számítás az Ön iPhone-ján fut, az emlékeztetők ütemezése pedig helyben, az eszközön történik."
       },
       {
-        "id": "trial",
-        "title": "Próbáljon ki mindent 24 órán át",
-        "body": "Töltse le az alkalmazást, és indítson egy 24 órás próbaidőszakot, amelyben minden funkció elérhető. Utána egyetlen egyszeri vásárlással mindent véglegesen megtarthat. Nincs előfizetés, és semmi sem újul meg."
+        "id": "paid_download",
+        "title": "Egyszer fizet, mindent megkap",
+        "body": "Ez egy fizetős alkalmazás. Egyszer megvásárolja az App Store-ban, és minden funkció az első indítástól működik. Nincs alkalmazáson belüli vásárlás, előfizetés vagy hirdetés, és semmi sem újul meg."
       }
     ],
     "links_title": "Segítségre van szüksége?",
     "support_card": {
       "title": "Támogatás és GYIK",
-      "body": "Hogyan működik a három mód, a kezdőoldal és a nyelv beállítása, emlékeztetők, a vásárlás visszaállítása és még sok más."
+      "body": "Hogyan működik a három mód, a kezdőoldal és a nyelv beállítása, emlékeztetők, az alkalmazás használata új telefonon és még sok más."
     },
     "privacy_card": {
       "title": "Adatvédelmi irányelvek",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Hogyan állíthatom vissza a vásárlást?",
-        "body": "Nyissa meg az alkalmazásban a „Beállítások” menüt, és koppintson a „Visszaállítás” gombra. Győződjön meg róla, hogy ugyanazzal az Apple-fiókkal van bejelentkezve az App Store-ba, amellyel a vásárlást végezte. A feloldás akkor is automatikusan visszatér, ha újratelepíti az alkalmazást, vagy ezzel a fiókkal állít be egy új iPhone-t."
+        "title": "Új telefonon újra fizetnem kell?",
+        "body": "Nem. Új iPhone beállításakor jelentkezzen be az App Store-ba ugyanazzal az Apple-fiókkal, és töltse le újra az alkalmazást; nem kell másodszor is fizetnie. Az alkalmazásban nincs mit visszaállítani."
       },
       {
-        "id": "trial_unlock",
-        "title": "Hogyan működik a 24 órás próbaidőszak és a feloldás?",
-        "body": "A próbaidőszakot az alkalmazásban indíthatja el, amikor készen áll, és ezután 24 órán át minden funkció elérhető. A próbaidőszakot az App Store tartja nyilván, így az újratelepítés nem indítja újra. Lejárta után az alkalmazás továbbra is látható, egy egyszeri vásárlás pedig mindent véglegesen felold. Ez nem előfizetés, és soha nem újul meg. Az árat az App Store a helyi pénznemben mutatja."
+        "id": "paid_model",
+        "title": "Mit kapok, ha megvásárolom az alkalmazást?",
+        "body": "Az alkalmazás fizetős. Amint az eszközén van, minden funkció azonnal működik, köztük a szárnyvonalak menetrendje, az emlékeztetők, a widgetek és az Apple Watch-alkalmazás. Az alkalmazásban nincs mit többet vásárolni: nincs alkalmazáson belüli vásárlás, előfizetés vagy hirdetés, és semmi sem újul meg."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Van Android-verzió?",
-        "body": "Igen. Az Időtervező a metróhoz iPhone-ra, iPadre és Apple Watchra az App Store-ban, Androidra pedig a Google Play révén érhető el. Az Android-verzió ugyanazokat a hivatalos tajpeji metróadatokat használja, nem gyűjt személyes adatokat, és kezdőképernyő-widgetekkel mutatja a Xiaobitan és a Beitou · Xinbeitou szárnyvonal következő vonatát. Ha Androidon nem érkeznek meg az emlékeztetők, ellenőrizze, hogy a rendszerbeállításokban engedélyezve vannak-e az alkalmazás értesítései. A próbaidőszakot és a vásárlást Androidon a Google Play kezeli."
+        "body": "Igen. Az Időtervező a metróhoz iPhone-ra, iPadre és Apple Watchra az App Store-ban, Androidra pedig a Google Play révén érhető el. Az Android-verzió ugyanazokat a hivatalos tajpeji metróadatokat használja, nem gyűjt személyes adatokat, és kezdőképernyő-widgetekkel mutatja a Xiaobitan és a Beitou · Xinbeitou szárnyvonal következő vonatát. Ha Androidon nem érkeznek meg az emlékeztetők, ellenőrizze, hogy a rendszerbeállításokban engedélyezve vannak-e az alkalmazás értesítései."
       },
       {
         "id": "independence",
@@ -169,17 +169,12 @@
       {
         "id": "android",
         "title": "Android-verzió (Google Play)",
-        "body": "Az Időtervező a metróhoz a Google Play révén Androidra is elérhető, és az ezen az oldalon leírtak erre is vonatkoznak. Az Android-verzió nem gyűjt és nem küld el személyes adatokat, nem jelenít meg hirdetéseket, és nem használ analitikát. A beállításait, az emlékeztetőit és a próbaidőszak kezdetét kizárólag az Ön eszközén tárolja. A fizetést a Google Play kezeli, az alkalmazás soha nem látja a fizetési adatait. Az internet-engedélyt az alkalmazás kizárólag arra használja, hogy letöltse a hivatalos menetrend PDF-jét a tajpeji metró webhelyéről, amikor Ön megérinti a megnyitására szolgáló gombot. Az alkalmazás értesítési engedélyt is kér, amelyet kizárólag az Ön által beállított indulási emlékeztetőkhöz használ, és amelyet elutasíthat; engedélyt kér az indítás befejezését jelző üzenet fogadására is, hogy az emlékeztetők a telefon újraindítása után újra be legyenek ütemezve; továbbá a Google Play Billinghez, a próbaidőszak és a vásárlás állapotának ellenőrzésére. A Xiaobitan és a Beitou · Xinbeitou szárnyvonal következő vonatát mutató kezdőképernyő-widgetek kizárólag az alkalmazásban lévő menetrendi adatokat használják."
+        "body": "Az Időtervező a metróhoz a Google Play révén Androidra is elérhető, és az ezen az oldalon leírtak erre is vonatkoznak. Az Android-verzió nem gyűjt és nem küld el személyes adatokat, nem jelenít meg hirdetéseket, és nem használ analitikát. A beállításait és az emlékeztetőit kizárólag az Ön eszközén tárolja. A fizetést a Google Play kezeli, az alkalmazás soha nem látja a fizetési adatait. Az internet-engedélyt az alkalmazás kizárólag arra használja, hogy letöltse a hivatalos menetrend PDF-jét a tajpeji metró webhelyéről, amikor Ön megérinti a megnyitására szolgáló gombot. Az alkalmazás értesítési engedélyt is kér, amelyet kizárólag az Ön által beállított indulási emlékeztetőkhöz használ, és amelyet elutasíthat; továbbá engedélyt kér az indítás befejezését jelző üzenet fogadására is, hogy az emlékeztetők a telefon újraindítása után újra be legyenek ütemezve. A Xiaobitan és a Beitou · Xinbeitou szárnyvonal következő vonatát mutató kezdőképernyő-widgetek kizárólag az alkalmazásban lévő menetrendi adatokat használják."
       },
       {
         "id": "notifications",
         "title": "Értesítések",
         "body": "Ha engedélyezi az értesítéseket, az alkalmazás kizárólag az Ön által beállított emlékeztetőkhöz használja őket. Minden emlékeztető ütemezése helyben, az eszközén történik; nem vesz részt benne szerver, és az értesítések tartalma nem hagyja el az eszközt. Az értesítéseket bármikor kikapcsolhatja az iOS Beállítások alkalmazásában."
-      },
-      {
-        "id": "storekit",
-        "title": "Vásárlás az Apple-ön keresztül",
-        "body": "A 24 órás próbaidőszakot és az egyszeri feloldást az Apple kezeli az App Store-on keresztül, a StoreKit segítségével. A fizetést teljes egészében az Apple dolgozza fel, az alkalmazás soha nem látja és nem tárolja a fizetési adatait. Az alkalmazás csupán azt ellenőrzi az App Store-nál, hogy aktív-e a próbaidőszak, illetve megvásárolta-e a feloldást."
       },
       {
         "id": "no_ads_analytics",

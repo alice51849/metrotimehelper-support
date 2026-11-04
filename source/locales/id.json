@@ -45,15 +45,15 @@
         "body": "Tanpa akun dan tanpa pendaftaran. Tanpa iklan, tanpa analitik pihak ketiga, dan tidak ada data pribadi yang dikumpulkan. Semua perhitungan berjalan di iPhone Anda, dan pengingat dijadwalkan secara lokal di perangkat."
       },
       {
-        "id": "trial",
-        "title": "Coba semuanya selama 24 jam",
-        "body": "Unduh aplikasinya dan mulai uji coba 24 jam dengan semua fitur terbuka. Setelah itu, cukup satu kali pembelian untuk memakai semuanya selamanya. Tidak ada langganan, dan tidak ada yang diperpanjang otomatis."
+        "id": "paid_download",
+        "title": "Bayar sekali, semua fitur termasuk",
+        "body": "Ini adalah aplikasi berbayar. Beli sekali di App Store dan semua fitur langsung berfungsi sejak pertama dibuka. Tidak ada pembelian dalam aplikasi, langganan, maupun iklan, dan tidak ada yang diperpanjang otomatis."
       }
     ],
     "links_title": "Butuh bantuan?",
     "support_card": {
       "title": "Bantuan dan FAQ",
-      "body": "Cara kerja ketiga mode, mengatur halaman awal dan bahasa, pengingat, memulihkan pembelian, dan lainnya."
+      "body": "Cara kerja ketiga mode, mengatur halaman awal dan bahasa, pengingat, memakai aplikasi di ponsel baru, dan lainnya."
     },
     "privacy_card": {
       "title": "Kebijakan Privasi",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Bagaimana cara memulihkan pembelian saya?",
-        "body": "Buka “Pengaturan” di aplikasi dan ketuk “Pulihkan Pembelian”. Pastikan Anda masuk ke App Store dengan Akun Apple yang sama dengan yang dipakai untuk membeli. Akses yang sudah terbuka juga kembali otomatis saat Anda menginstal ulang aplikasi atau menyiapkan iPhone baru dengan akun tersebut."
+        "title": "Apakah saya harus membayar lagi di ponsel baru?",
+        "body": "Tidak. Saat menyiapkan iPhone baru, masuk ke App Store dengan Akun Apple yang sama lalu unduh aplikasi lagi; Anda tidak perlu membayar untuk kedua kalinya. Tidak ada yang perlu dipulihkan di dalam aplikasi."
       },
       {
-        "id": "trial_unlock",
-        "title": "Bagaimana uji coba 24 jam dan pembukaan kunci bekerja?",
-        "body": "Mulai uji coba dari dalam aplikasi kapan pun Anda siap, dan semua fitur terbuka selama 24 jam. Uji coba dicatat oleh App Store, jadi menginstal ulang tidak akan memulainya kembali. Setelah berakhir, Anda tetap bisa melihat aplikasi, dan satu kali pembelian membuka semuanya selamanya. Ini bukan langganan dan tidak pernah diperpanjang. Harga ditampilkan di App Store dalam mata uang lokal Anda."
+        "id": "paid_model",
+        "title": "Apa yang saya dapatkan saat membeli aplikasi ini?",
+        "body": "Aplikasi ini berbayar. Begitu terpasang di perangkat Anda, semua fitur langsung berfungsi, termasuk jadwal jalur cabang, pengingat, widget, dan aplikasi Apple Watch. Di dalam aplikasi tidak ada lagi yang perlu dibeli: tanpa pembelian dalam aplikasi, tanpa langganan, tanpa iklan, dan tidak ada yang diperpanjang otomatis."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Apakah ada versi Android?",
-        "body": "Ada. Metro Time Helper tersedia untuk iPhone, iPad, dan Apple Watch di App Store, serta untuk Android di Google Play. Versi Android menggunakan data resmi MRT Taipei yang sama, tidak mengumpulkan data pribadi, dan memiliki widget Layar Utama untuk kereta berikutnya di jalur cabang Xiaobitan dan Beitou · Xinbeitou. Jika pengingat tidak muncul di Android, pastikan notifikasi untuk aplikasi diizinkan di Pengaturan sistem. Uji coba dan pembelian di Android ditangani oleh Google Play."
+        "body": "Ada. Metro Time Helper tersedia untuk iPhone, iPad, dan Apple Watch di App Store, serta untuk Android di Google Play. Versi Android menggunakan data resmi MRT Taipei yang sama, tidak mengumpulkan data pribadi, dan memiliki widget Layar Utama untuk kereta berikutnya di jalur cabang Xiaobitan dan Beitou · Xinbeitou. Jika pengingat tidak muncul di Android, pastikan notifikasi untuk aplikasi diizinkan di Pengaturan sistem."
       },
       {
         "id": "independence",
@@ -169,17 +169,12 @@
       {
         "id": "android",
         "title": "Versi Android (Google Play)",
-        "body": "Metro Time Helper juga tersedia untuk Android melalui Google Play, dan semua yang tertulis di halaman ini berlaku juga untuk versi tersebut. Versi Android tidak mengumpulkan atau mengirimkan data pribadi, tidak menampilkan iklan, dan tidak menggunakan analitik. Pengaturan, pengingat, dan waktu mulai uji coba Anda hanya disimpan di perangkat Anda. Pembayaran ditangani oleh Google Play, dan aplikasi tidak pernah melihat detail pembayaran Anda. Izin Internet hanya digunakan untuk mengunduh PDF jadwal resmi dari situs web MRT Taipei saat Anda mengetuk untuk membukanya. Aplikasi juga meminta izin notifikasi, yang hanya digunakan untuk pengingat keberangkatan yang Anda atur dan boleh Anda tolak; izin untuk menerima sinyal selesai boot, agar pengingat Anda dijadwalkan ulang setelah ponsel dihidupkan ulang; dan izin Google Play Billing, untuk memeriksa status uji coba dan pembelian. Widget Layar Utama untuk kereta berikutnya di jalur cabang Xiaobitan dan Beitou · Xinbeitou hanya menggunakan data jadwal di dalam aplikasi."
+        "body": "Metro Time Helper juga tersedia untuk Android melalui Google Play, dan semua yang tertulis di halaman ini berlaku juga untuk versi tersebut. Versi Android tidak mengumpulkan atau mengirimkan data pribadi, tidak menampilkan iklan, dan tidak menggunakan analitik. Pengaturan dan pengingat Anda hanya disimpan di perangkat Anda. Pembayaran ditangani oleh Google Play, dan aplikasi tidak pernah melihat detail pembayaran Anda. Izin Internet hanya digunakan untuk mengunduh PDF jadwal resmi dari situs web MRT Taipei saat Anda mengetuk untuk membukanya. Aplikasi juga meminta izin notifikasi, yang hanya digunakan untuk pengingat keberangkatan yang Anda atur dan boleh Anda tolak; dan izin untuk menerima sinyal selesai boot, agar pengingat Anda dijadwalkan ulang setelah ponsel dihidupkan ulang. Widget Layar Utama untuk kereta berikutnya di jalur cabang Xiaobitan dan Beitou · Xinbeitou hanya menggunakan data jadwal di dalam aplikasi."
       },
       {
         "id": "notifications",
         "title": "Notifikasi",
         "body": "Jika Anda mengizinkan notifikasi, aplikasi hanya menggunakannya untuk pengingat yang Anda atur sendiri. Setiap pengingat dijadwalkan secara lokal di perangkat Anda; tidak ada server yang terlibat dan tidak ada isi notifikasi yang keluar dari perangkat Anda. Anda bisa mematikan notifikasi kapan saja di app “Pengaturan” iOS."
-      },
-      {
-        "id": "storekit",
-        "title": "Pembelian melalui Apple",
-        "body": "Uji coba 24 jam dan pembukaan kunci sekali bayar ditangani oleh Apple melalui App Store menggunakan StoreKit. Pembayaran sepenuhnya diproses oleh Apple, dan aplikasi tidak pernah melihat atau menyimpan detail pembayaran Anda. Aplikasi hanya menanyakan ke App Store apakah uji coba masih aktif atau pembukaan kunci sudah dibeli."
       },
       {
         "id": "no_ads_analytics",

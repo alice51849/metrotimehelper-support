@@ -51,11 +51,9 @@ ENGLISH = {"en-US", "en-GB", "en-AU", "en-CA"}
 # Sections whose body must state these numbers (digits in any script are normalized).
 REQUIRED_NUMBERS = {
     ("home", "sections", "xiaobitan"): {"12", "16", "1", "30"},
-    ("home", "sections", "trial"): {"24"},
     ("support", "howto", "plan_trip"): {"15"},
     ("support", "howto", "branch_reminders"): {"1", "30"},
     ("support", "howto", "language"): {"50"},
-    ("support", "faq", "trial_unlock"): {"24"},
 }
 
 

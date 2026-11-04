@@ -45,15 +45,15 @@
         "body": "Bez računa i bez registracije. Bez oglasa, bez analitike trećih strana i bez prikupljanja osobnih podataka. Svi se izračuni izvode na vašem iPhoneu, a podsjetnici se zakazuju lokalno na uređaju."
       },
       {
-        "id": "trial",
-        "title": "Isprobajte sve 24 sata",
-        "body": "Preuzmite aplikaciju i pokrenite 24-satnu probu sa svim otključanim značajkama. Nakon toga jednom jednokratnom kupnjom sve zadržavate zauvijek. Nema pretplate i ništa se ne obnavlja."
+        "id": "paid_download",
+        "title": "Platite jednom, imate sve",
+        "body": "Ovo je plaćena aplikacija. Kupite je jednom u App Storeu i sve funkcije rade od prvog pokretanja. Nema kupnji unutar aplikacije, pretplate ni oglasa, a ništa se ne obnavlja."
       }
     ],
     "links_title": "Trebate pomoć?",
     "support_card": {
       "title": "Podrška i česta pitanja",
-      "body": "Kako rade tri načina rada, postavljanje početne stranice i jezika, podsjetnici, vraćanje kupnje i još mnogo toga."
+      "body": "Kako rade tri načina rada, postavljanje početne stranice i jezika, podsjetnici, korištenje aplikacije na novom telefonu i još mnogo toga."
     },
     "privacy_card": {
       "title": "Pravila o privatnosti",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Kako vratiti kupnju?",
-        "body": "U aplikaciji otvorite „Postavke“ i dodirnite „Vrati“. Provjerite jeste li u App Storeu prijavljeni istim Apple računom kojim ste obavili kupnju. Otključavanje se vraća i automatski kada ponovno instalirate aplikaciju ili postavite novi iPhone s tim računom."
+        "title": "Moram li ponovno platiti na novom telefonu?",
+        "body": "Ne. Kad postavljate novi iPhone, prijavite se u App Store istim Apple računom i ponovno preuzmite aplikaciju; ne morate platiti drugi put. U aplikaciji nema ničega što bi trebalo vraćati."
       },
       {
-        "id": "trial_unlock",
-        "title": "Kako funkcioniraju 24-satna proba i otključavanje?",
-        "body": "Probu pokrenite u aplikaciji kad god budete spremni i sve će značajke biti dostupne 24 sata. Probu bilježi App Store, pa je ponovna instalacija ne pokreće iznova. Kada istekne, aplikaciju i dalje možete vidjeti, a jednokratna kupnja sve otključava zauvijek. To nije pretplata i nikada se ne obnavlja. Cijena je prikazana u App Storeu u vašoj lokalnoj valuti."
+        "id": "paid_model",
+        "title": "Što dobivam kupnjom aplikacije?",
+        "body": "Aplikacija je plaćena. Čim se nađe na vašem uređaju, odmah rade sve funkcije, uključujući vozne redove krakova, podsjetnike, widgete i aplikaciju za Apple Watch. U aplikaciji nema ničega dodatnog za kupnju: nema kupnji unutar aplikacije, pretplate ni oglasa, a ništa se ne obnavlja."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Postoji li Android verzija?",
-        "body": "Da. Metro na vrijeme dostupan je za iPhone, iPad i Apple Watch u App Storeu te za Android u Google Playu. Android verzija koristi iste službene podatke metroa u Taipeiju, ne prikuplja osobne podatke i ima widgete početnog zaslona sa sljedećim vlakom na odvojcima Xiaobitan i Beitou · Xinbeitou. Ako podsjetnici ne stižu na Androidu, provjerite jesu li obavijesti za aplikaciju dopuštene u sistemskim Postavkama. Probu i kupnju na Androidu obrađuje Google Play."
+        "body": "Da. Metro na vrijeme dostupan je za iPhone, iPad i Apple Watch u App Storeu te za Android u Google Playu. Android verzija koristi iste službene podatke metroa u Taipeiju, ne prikuplja osobne podatke i ima widgete početnog zaslona sa sljedećim vlakom na odvojcima Xiaobitan i Beitou · Xinbeitou. Ako podsjetnici ne stižu na Androidu, provjerite jesu li obavijesti za aplikaciju dopuštene u sistemskim Postavkama."
       },
       {
         "id": "independence",
@@ -169,17 +169,12 @@
       {
         "id": "android",
         "title": "Android verzija (Google Play)",
-        "body": "Metro na vrijeme dostupan je i za Android putem Google Playa, a sve što piše na ovoj stranici vrijedi i za tu verziju. Android verzija ne prikuplja niti prenosi osobne podatke, ne prikazuje oglase i ne koristi analitiku. Vaše postavke, podsjetnici i vrijeme početka probe pohranjuju se samo na vašem uređaju. Plaćanje obrađuje Google Play, a aplikacija nikada ne vidi vaše podatke o plaćanju. Dopuštenje za internet koristi se samo za preuzimanje službenog voznog reda u PDF-u s web-mjesta metroa u Taipeiju kada dodirnete da ga otvorite. Aplikacija traži i dopuštenje za obavijesti, koje se koristi samo za podsjetnike za polazak koje sami postavite i koje možete odbiti; dopuštenje za primanje poruke o dovršenom pokretanju telefona, kako bi se podsjetnici ponovno zakazali nakon ponovnog pokretanja telefona; te dopuštenje za Google Play Billing, radi provjere stanja probe i kupnje. Widgeti početnog zaslona sa sljedećim vlakom na odvojcima Xiaobitan i Beitou · Xinbeitou koriste samo podatke o voznim redovima unutar aplikacije."
+        "body": "Metro na vrijeme dostupan je i za Android putem Google Playa, a sve što piše na ovoj stranici vrijedi i za tu verziju. Android verzija ne prikuplja niti prenosi osobne podatke, ne prikazuje oglase i ne koristi analitiku. Vaše postavke i podsjetnici pohranjuju se samo na vašem uređaju. Plaćanje obrađuje Google Play, a aplikacija nikada ne vidi vaše podatke o plaćanju. Dopuštenje za internet koristi se samo za preuzimanje službenog voznog reda u PDF-u s web-mjesta metroa u Taipeiju kada dodirnete da ga otvorite. Aplikacija traži i dopuštenje za obavijesti, koje se koristi samo za podsjetnike za polazak koje sami postavite i koje možete odbiti; te dopuštenje za primanje poruke o dovršenom pokretanju telefona, kako bi se podsjetnici ponovno zakazali nakon ponovnog pokretanja telefona. Widgeti početnog zaslona sa sljedećim vlakom na odvojcima Xiaobitan i Beitou · Xinbeitou koriste samo podatke o voznim redovima unutar aplikacije."
       },
       {
         "id": "notifications",
         "title": "Obavijesti",
         "body": "Ako dopustite obavijesti, aplikacija ih koristi samo za podsjetnike koje sami postavite. Svaki se podsjetnik zakazuje lokalno na vašem uređaju; nije uključen nikakav poslužitelj i sadržaj obavijesti ne napušta vaš uređaj. Obavijesti možete isključiti u bilo kojem trenutku u aplikaciji Postavke sustava iOS."
-      },
-      {
-        "id": "storekit",
-        "title": "Kupnje putem Applea",
-        "body": "24-satnu probu i jednokratno otključavanje obrađuje Apple putem App Storea pomoću StoreKita. Plaćanje u cijelosti obrađuje Apple, a aplikacija nikada ne vidi niti pohranjuje vaše podatke o plaćanju. Aplikacija samo provjerava u App Storeu je li proba aktivna ili je otključavanje kupljeno."
       },
       {
         "id": "no_ads_analytics",

@@ -45,15 +45,15 @@
         "body": "Sem conta e sem registo. Sem anúncios, sem ferramentas de análise de terceiros e sem recolha de dados pessoais. Todos os cálculos são feitos no seu iPhone e os lembretes são agendados localmente no dispositivo."
       },
       {
-        "id": "trial",
-        "title": "Experimente tudo durante 24 horas",
-        "body": "Descarregue a app e inicie um teste de 24 horas com todas as funcionalidades desbloqueadas. Depois disso, uma única compra permite-lhe ficar com tudo para sempre. Não há subscrição e nada é renovado."
+        "id": "paid_download",
+        "title": "Pague uma vez e tenha tudo",
+        "body": "É uma app de transferência paga. Compre-a uma única vez na App Store e todas as funcionalidades funcionam desde a primeira abertura. Não há compras na app, subscrições nem anúncios, e nada é renovado."
       }
     ],
     "links_title": "Precisa de ajuda?",
     "support_card": {
       "title": "Apoio e perguntas frequentes",
-      "body": "Como funcionam os três modos, como escolher o ecrã inicial e o idioma, os lembretes, como restaurar uma compra e muito mais."
+      "body": "Como funcionam os três modos, como escolher o ecrã inicial e o idioma, os lembretes, como usar a app num telemóvel novo e muito mais."
     },
     "privacy_card": {
       "title": "Política de Privacidade",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Como restauro a minha compra?",
-        "body": "Abra «Definições» na app e toque em «Restaurar». Confirme que tem sessão iniciada na App Store com a mesma Conta Apple que usou na compra. O desbloqueio também é reposto automaticamente quando reinstala a app ou configura um novo iPhone com essa conta."
+        "title": "Tenho de pagar outra vez num telemóvel novo?",
+        "body": "Não. Ao configurar um iPhone novo, inicie sessão na App Store com o mesmo ID Apple e transfira a app de novo; não terá de pagar uma segunda vez. Dentro da app não há nada para restaurar."
       },
       {
-        "id": "trial_unlock",
-        "title": "Como funcionam o teste de 24 horas e o desbloqueio?",
-        "body": "Inicie o teste dentro da app quando quiser e todas as funcionalidades ficam disponíveis durante 24 horas. O teste fica registado na App Store, por isso reinstalar a app não o reinicia. Quando termina, continua a poder ver a app, e uma compra única desbloqueia tudo para sempre. Não é uma subscrição e nunca é renovada. O preço é apresentado na App Store na sua moeda local."
+        "id": "paid_model",
+        "title": "O que obtenho ao comprar a app?",
+        "body": "A app é de transferência paga. Assim que está no seu dispositivo, todas as funcionalidades funcionam logo, incluindo os horários dos ramais, os lembretes, os widgets e a app para o Apple Watch. Dentro da app não há mais nada para comprar: sem compras na app, sem subscrições e sem anúncios, e nada é renovado."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Existe uma versão para Android?",
-        "body": "Sim. Metro a Horas está disponível para iPhone, iPad e Apple Watch na App Store e para Android no Google Play. A versão para Android usa os mesmos dados oficiais do metro de Taipé, não recolhe dados pessoais e tem widgets no ecrã principal com o próximo comboio nos ramais de Xiaobitan e Beitou · Xinbeitou. Se os lembretes não chegarem no Android, confirme que as notificações estão permitidas para a app nas Definições do sistema. O teste e a compra no Android são geridos pelo Google Play."
+        "body": "Sim. Metro a Horas está disponível para iPhone, iPad e Apple Watch na App Store e para Android no Google Play. A versão para Android usa os mesmos dados oficiais do metro de Taipé, não recolhe dados pessoais e tem widgets no ecrã principal com o próximo comboio nos ramais de Xiaobitan e Beitou · Xinbeitou. Se os lembretes não chegarem no Android, confirme que as notificações estão permitidas para a app nas Definições do sistema."
       },
       {
         "id": "independence",
@@ -169,17 +169,12 @@
       {
         "id": "android",
         "title": "Versão para Android (Google Play)",
-        "body": "Metro a Horas também está disponível para Android através do Google Play, e tudo o que consta nesta página se aplica igualmente a essa versão. A versão para Android não recolhe nem transmite dados pessoais, não mostra anúncios e não usa ferramentas de análise. As suas definições, os lembretes e a hora de início do teste ficam guardados apenas no seu dispositivo. O pagamento é tratado pelo Google Play, e a app nunca vê os seus dados de pagamento. A permissão de Internet é usada apenas para descarregar o PDF oficial do horário a partir do site do metro de Taipé quando toca para o abrir. A app também pede permissão para notificações, usadas apenas para os lembretes de partida que definir e que pode recusar; para o aviso de arranque concluído, para que os seus lembretes sejam agendados de novo depois de o telemóvel reiniciar; e para o Google Play Billing, a fim de verificar o estado do teste e da compra. Os widgets do ecrã principal com o próximo comboio nos ramais de Xiaobitan e Beitou · Xinbeitou usam apenas os dados de horários que estão na app."
+        "body": "Metro a Horas também está disponível para Android através do Google Play, e tudo o que consta nesta página se aplica igualmente a essa versão. A versão para Android não recolhe nem transmite dados pessoais, não mostra anúncios e não usa ferramentas de análise. As suas definições e os lembretes ficam guardados apenas no seu dispositivo. O pagamento é tratado pelo Google Play, e a app nunca vê os seus dados de pagamento. A permissão de Internet é usada apenas para descarregar o PDF oficial do horário a partir do site do metro de Taipé quando toca para o abrir. A app também pede permissão para notificações, usadas apenas para os lembretes de partida que definir e que pode recusar; e para o aviso de arranque concluído, para que os seus lembretes sejam agendados de novo depois de o telemóvel reiniciar. Os widgets do ecrã principal com o próximo comboio nos ramais de Xiaobitan e Beitou · Xinbeitou usam apenas os dados de horários que estão na app."
       },
       {
         "id": "notifications",
         "title": "Notificações",
         "body": "Se permitir notificações, a app usa-as apenas para os lembretes que definir. Cada lembrete é agendado localmente no seu dispositivo; não intervém nenhum servidor e nenhum conteúdo das notificações sai do seu dispositivo. Pode desativar as notificações a qualquer momento na app Definições do iOS."
-      },
-      {
-        "id": "storekit",
-        "title": "Compras através da Apple",
-        "body": "O teste de 24 horas e o desbloqueio único são geridos pela Apple através da App Store, com StoreKit. O pagamento é processado inteiramente pela Apple, e a app nunca vê nem guarda os seus dados de pagamento. A app limita-se a verificar junto da App Store se o teste está ativo ou se o desbloqueio foi comprado."
       },
       {
         "id": "no_ads_analytics",

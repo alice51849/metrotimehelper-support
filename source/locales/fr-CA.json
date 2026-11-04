@@ -45,15 +45,15 @@
         "body": "Aucun compte, aucune inscription. Pas de publicité, pas d’outils d’analyse de tiers et aucune donnée personnelle recueillie. Tous les calculs se font sur votre iPhone, et les rappels sont programmés localement sur l’appareil."
       },
       {
-        "id": "trial",
-        "title": "Essayez tout pendant 24 heures",
-        "body": "Téléchargez l’application et lancez un essai de 24 heures avec toutes les fonctions déverrouillées. Ensuite, un achat unique vous permet de tout garder pour de bon. Il n’y a pas d’abonnement, et rien ne se renouvelle."
+        "id": "paid_download",
+        "title": "Payez une fois, tout est inclus",
+        "body": "C’est une app payante. Achetez-la une seule fois sur l’App Store et toutes les fonctions sont disponibles dès le premier lancement. Il n’y a ni achats intégrés, ni abonnement, ni publicité, et rien ne se renouvelle."
       }
     ],
     "links_title": "Besoin d’aide?",
     "support_card": {
       "title": "Soutien et FAQ",
-      "body": "Le fonctionnement des trois modes, le choix de la page d’ouverture et de la langue, les rappels, la restauration d’un achat et plus encore."
+      "body": "Le fonctionnement des trois modes, le choix de la page d’ouverture et de la langue, les rappels, l’utilisation de l’app sur un nouveau téléphone et plus encore."
     },
     "privacy_card": {
       "title": "Politique de confidentialité",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Comment restaurer mon achat?",
-        "body": "Ouvrez « Réglages » dans l’application et touchez « Restaurer ». Assurez-vous d’être connecté à l’App Store avec le même compte Apple que celui utilisé pour l’achat. Votre déverrouillage revient aussi automatiquement quand vous réinstallez l’application ou configurez un nouvel iPhone avec ce compte."
+        "title": "Dois-je payer de nouveau sur un nouveau téléphone?",
+        "body": "Non. En configurant un nouvel iPhone, connectez-vous à l’App Store avec le même compte Apple et téléchargez de nouveau l’app; vous n’aurez pas à payer une deuxième fois. Il n’y a rien à restaurer dans l’app."
       },
       {
-        "id": "trial_unlock",
-        "title": "Comment fonctionnent l’essai de 24 heures et le déverrouillage?",
-        "body": "Lancez l’essai dans l’application quand vous êtes prêt : toutes les fonctions sont accessibles pendant 24 heures. L’essai est enregistré par l’App Store, donc réinstaller l’application ne le relance pas. Une fois l’essai terminé, vous pouvez toujours voir l’application, et un achat unique déverrouille tout pour de bon. Ce n’est pas un abonnement et ça ne se renouvelle jamais. Le prix est affiché dans l’App Store dans votre devise locale."
+        "id": "paid_model",
+        "title": "Qu’obtiens-je en achetant l’app?",
+        "body": "L’app est payante. Dès qu’elle est sur votre appareil, toutes les fonctions marchent aussitôt, y compris les horaires des antennes, les rappels, les widgets et l’app pour l’Apple Watch. Il n’y a plus rien à acheter dans l’app : ni achats intégrés, ni abonnement, ni publicité, et rien ne se renouvelle."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Y a-t-il une version Android?",
-        "body": "Oui. Assistant Métro est offert pour iPhone, iPad et Apple Watch sur l’App Store, et pour Android sur Google Play. La version Android utilise les mêmes données officielles du métro de Taipei, ne recueille aucune donnée personnelle et propose des widgets d’écran d’accueil pour le prochain train des antennes de Xiaobitan et de Beitou · Xinbeitou. Si les rappels n’arrivent pas sur Android, assurez-vous que les notifications sont autorisées pour l’application dans les réglages du système. L’essai et l’achat sur Android sont gérés par Google Play."
+        "body": "Oui. Assistant Métro est offert pour iPhone, iPad et Apple Watch sur l’App Store, et pour Android sur Google Play. La version Android utilise les mêmes données officielles du métro de Taipei, ne recueille aucune donnée personnelle et propose des widgets d’écran d’accueil pour le prochain train des antennes de Xiaobitan et de Beitou · Xinbeitou. Si les rappels n’arrivent pas sur Android, assurez-vous que les notifications sont autorisées pour l’application dans les réglages du système."
       },
       {
         "id": "independence",
@@ -169,17 +169,12 @@
       {
         "id": "android",
         "title": "Version Android (Google Play)",
-        "body": "Assistant Métro est aussi offert pour Android sur Google Play, et tout ce que dit cette page s’y applique également. La version Android ne recueille ni ne transmet aucune donnée personnelle, n’affiche aucune publicité et n’utilise aucun outil d’analyse. Vos réglages, vos rappels et l’heure de début de l’essai sont enregistrés uniquement sur votre appareil. Le paiement est géré par Google Play, et l’application ne voit jamais vos renseignements de paiement. L’autorisation Internet sert uniquement à télécharger le PDF officiel de l’horaire depuis le site Web du métro de Taipei lorsque vous touchez pour l’ouvrir. L’application demande aussi l’autorisation d’envoyer des notifications, utilisées seulement pour les rappels de départ que vous programmez et que vous pouvez refuser; l’autorisation de recevoir l’avis de fin de démarrage du téléphone, afin que vos rappels soient programmés de nouveau après un redémarrage; et l’autorisation pour Google Play Billing, afin de vérifier l’état de l’essai et de l’achat. Les widgets de l’écran d’accueil qui affichent le prochain train des antennes de Xiaobitan et de Beitou · Xinbeitou utilisent uniquement les données d’horaires intégrées à l’application."
+        "body": "Assistant Métro est aussi offert pour Android sur Google Play, et tout ce que dit cette page s’y applique également. La version Android ne recueille ni ne transmet aucune donnée personnelle, n’affiche aucune publicité et n’utilise aucun outil d’analyse. Vos réglages et vos rappels sont enregistrés uniquement sur votre appareil. Le paiement est géré par Google Play, et l’application ne voit jamais vos renseignements de paiement. L’autorisation Internet sert uniquement à télécharger le PDF officiel de l’horaire depuis le site Web du métro de Taipei lorsque vous touchez pour l’ouvrir. L’application demande aussi l’autorisation d’envoyer des notifications, utilisées seulement pour les rappels de départ que vous programmez et que vous pouvez refuser; et l’autorisation de recevoir l’avis de fin de démarrage du téléphone, afin que vos rappels soient programmés de nouveau après un redémarrage. Les widgets de l’écran d’accueil qui affichent le prochain train des antennes de Xiaobitan et de Beitou · Xinbeitou utilisent uniquement les données d’horaires intégrées à l’application."
       },
       {
         "id": "notifications",
         "title": "Utilisation des notifications",
         "body": "Si vous autorisez les notifications, l’application s’en sert uniquement pour les rappels que vous programmez vous-même. Chaque rappel est programmé localement sur votre appareil; aucun serveur n’intervient et aucun contenu de notification ne quitte votre appareil. Vous pouvez désactiver les notifications en tout temps dans l’app Réglages d’iOS."
-      },
-      {
-        "id": "storekit",
-        "title": "Achats par l’entremise d’Apple",
-        "body": "L’essai de 24 heures et le déverrouillage unique sont gérés par Apple dans l’App Store au moyen de StoreKit. Le paiement est entièrement traité par Apple, et l’application ne voit ni ne conserve jamais vos renseignements de paiement. Elle vérifie seulement auprès de l’App Store si l’essai est actif ou si le déverrouillage a été acheté."
       },
       {
         "id": "no_ads_analytics",

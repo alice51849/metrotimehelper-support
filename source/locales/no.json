@@ -45,15 +45,15 @@
         "body": "Ingen konto og ingen registrering. Ingen reklame, ingen analyse fra tredjeparter og ingen innsamling av personopplysninger. Alle beregninger skjer på iPhonen din, og påminnelser planlegges lokalt på enheten."
       },
       {
-        "id": "trial",
-        "title": "Prøv alt i 24 timer",
-        "body": "Last ned appen og start en prøveperiode på 24 timer med alle funksjoner låst opp. Etter det beholder du alt for godt med ett enkelt engangskjøp. Det finnes ikke noe abonnement, og ingenting fornyes."
+        "id": "paid_download",
+        "title": "Betal én gang, få alt",
+        "body": "Dette er en betalt app. Kjøp den én gang i App Store, så fungerer alle funksjoner fra første åpning. Det finnes ingen kjøp i appen, ikke noe abonnement og ingen reklame, og ingenting fornyes."
       }
     ],
     "links_title": "Trenger du hjelp?",
     "support_card": {
       "title": "Hjelp og vanlige spørsmål",
-      "body": "Hvordan de tre modusene fungerer, valg av startside og språk, påminnelser, gjenoppretting av kjøp og mer."
+      "body": "Hvordan de tre modusene fungerer, valg av startside og språk, påminnelser, bruk av appen på en ny telefon og mer."
     },
     "privacy_card": {
       "title": "Personvernerklæring",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Hvordan gjenoppretter jeg kjøpet mitt?",
-        "body": "Åpne «Innstillinger» i appen og trykk på «Gjenopprett». Sørg for at du er logget på App Store med den samme Apple-kontoen som du kjøpte med. Opplåsingen kommer også automatisk tilbake når du installerer appen på nytt eller konfigurerer en ny iPhone med den kontoen."
+        "title": "Må jeg betale igjen på en ny telefon?",
+        "body": "Nei. Når du setter opp en ny iPhone, logger du på App Store med den samme Apple-kontoen og laster ned appen på nytt; du slipper å betale en gang til. Det er ingenting å gjenopprette i appen."
       },
       {
-        "id": "trial_unlock",
-        "title": "Hvordan fungerer prøveperioden på 24 timer og opplåsingen?",
-        "body": "Start prøveperioden inne i appen når du er klar, så er alle funksjoner åpne i 24 timer. Prøveperioden registreres av App Store, så en ny installasjon starter den ikke på nytt. Når den er over, kan du fortsatt se appen, og et engangskjøp låser opp alt for godt. Det er ikke et abonnement og fornyes aldri. Prisen vises i App Store i din lokale valuta."
+        "id": "paid_model",
+        "title": "Hva får jeg når jeg kjøper appen?",
+        "body": "Appen er betalt. Så snart den er på enheten din, fungerer alle funksjoner med en gang, blant annet rutetabellene for sidebanene, påminnelser, widgeter og Apple Watch-appen. Det er ikke mer å kjøpe i appen: ingen kjøp i appen, ikke noe abonnement og ingen reklame, og ingenting fornyes."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Finnes det en Android-versjon?",
-        "body": "Ja. Tidshjelp for metroen finnes for iPhone, iPad og Apple Watch i App Store, og for Android i Google Play. Android-versjonen bruker de samme offisielle dataene fra Taipei Metro, samler ikke inn personopplysninger og har widgeter på startskjermen for neste tog på sidelinjene til Xiaobitan og Beitou · Xinbeitou. Hvis påminnelser ikke kommer fram på Android, må du sjekke at varsler er tillatt for appen i systeminnstillingene. Prøveperioden og kjøpet på Android håndteres av Google Play."
+        "body": "Ja. Tidshjelp for metroen finnes for iPhone, iPad og Apple Watch i App Store, og for Android i Google Play. Android-versjonen bruker de samme offisielle dataene fra Taipei Metro, samler ikke inn personopplysninger og har widgeter på startskjermen for neste tog på sidelinjene til Xiaobitan og Beitou · Xinbeitou. Hvis påminnelser ikke kommer fram på Android, må du sjekke at varsler er tillatt for appen i systeminnstillingene."
       },
       {
         "id": "independence",
@@ -169,17 +169,12 @@
       {
         "id": "android",
         "title": "Android-versjon (Google Play)",
-        "body": "Tidshjelp for metroen finnes også for Android via Google Play, og alt på denne siden gjelder også der. Android-versjonen samler ikke inn eller sender personopplysninger, viser ingen reklame og bruker ingen analyse. Innstillingene dine, påminnelsene dine og starttidspunktet for prøveperioden lagres bare på enheten din. Betalingen håndteres av Google Play, og appen ser aldri betalingsopplysningene dine. Internett-tillatelsen brukes bare til å laste ned den offisielle rutetabellen i PDF fra nettstedet til Taipei Metro når du trykker for å åpne den. Appen ber også om tillatelse til varsler, som bare brukes til avgangspåminnelsene du stiller inn, og som du kan si nei til; til kringkastingen om at oppstarten er fullført, slik at påminnelsene dine planlegges på nytt etter at telefonen er startet på nytt; og til Google Play Billing, for å sjekke status for prøveperioden og kjøpet. Widgetene på startskjermen for neste tog på sidelinjene til Xiaobitan og Beitou · Xinbeitou bruker bare rutetabelldataene som ligger i appen."
+        "body": "Tidshjelp for metroen finnes også for Android via Google Play, og alt på denne siden gjelder også der. Android-versjonen samler ikke inn eller sender personopplysninger, viser ingen reklame og bruker ingen analyse. Innstillingene og påminnelsene dine lagres bare på enheten din. Betalingen håndteres av Google Play, og appen ser aldri betalingsopplysningene dine. Internett-tillatelsen brukes bare til å laste ned den offisielle rutetabellen i PDF fra nettstedet til Taipei Metro når du trykker for å åpne den. Appen ber også om tillatelse til varsler, som bare brukes til avgangspåminnelsene du stiller inn, og som du kan si nei til; og til kringkastingen om at oppstarten er fullført, slik at påminnelsene dine planlegges på nytt etter at telefonen er startet på nytt. Widgetene på startskjermen for neste tog på sidelinjene til Xiaobitan og Beitou · Xinbeitou bruker bare rutetabelldataene som ligger i appen."
       },
       {
         "id": "notifications",
         "title": "Varsler",
         "body": "Hvis du tillater varsler, bruker appen dem bare til påminnelser du selv stiller inn. Hver påminnelse planlegges lokalt på enheten din; ingen server er involvert, og ikke noe innhold fra varslene forlater enheten din. Du kan når som helst slå av varsler i iOS-appen Innstillinger."
-      },
-      {
-        "id": "storekit",
-        "title": "Kjøp gjennom Apple",
-        "body": "Prøveperioden på 24 timer og engangsopplåsingen håndteres av Apple gjennom App Store med StoreKit. Betalingen behandles i sin helhet av Apple, og appen ser eller lagrer aldri betalingsopplysningene dine. Appen sjekker bare med App Store om prøveperioden er aktiv eller om opplåsingen er kjøpt."
       },
       {
         "id": "no_ads_analytics",

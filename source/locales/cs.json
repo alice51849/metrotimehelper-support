@@ -45,15 +45,15 @@
         "body": "Žádný účet a žádná registrace. Žádné reklamy, žádná analytika třetích stran a žádné shromažďování osobních údajů. Veškeré výpočty probíhají ve vašem iPhonu a připomínky se plánují místně v zařízení."
       },
       {
-        "id": "trial",
-        "title": "Vyzkoušejte vše na 24 hodin",
-        "body": "Stáhněte si aplikaci a spusťte 24hodinovou zkušební verzi se všemi funkcemi odemčenými. Pak si jediným jednorázovým nákupem ponecháte vše natrvalo. Není to předplatné a nic se neobnovuje."
+        "id": "paid_download",
+        "title": "Zaplaťte jednou a máte vše",
+        "body": "Toto je placená aplikace ke stažení. Jednou ji koupíte v App Storu a všechny funkce fungují hned od prvního spuštění. Nejsou v ní žádné nákupy v aplikaci, předplatné ani reklamy a nic se neobnovuje."
       }
     ],
     "links_title": "Potřebujete pomoc?",
     "support_card": {
       "title": "Podpora a časté dotazy",
-      "body": "Jak fungují tři režimy, nastavení stránky po spuštění a jazyka, připomínky, obnovení nákupu a další."
+      "body": "Jak fungují tři režimy, nastavení stránky po spuštění a jazyka, připomínky, používání aplikace na novém telefonu a další."
     },
     "privacy_card": {
       "title": "Zásady ochrany soukromí",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Jak obnovím nákup?",
-        "body": "V aplikaci otevřete „Nastavení“ a klepněte na „Obnovit“. Ujistěte se, že jste v App Storu přihlášeni stejným účtem Apple, kterým jste nákup provedli. Odemčení se také obnoví automaticky, když aplikaci znovu nainstalujete nebo s tímto účtem nastavíte nový iPhone."
+        "title": "Musím na novém telefonu platit znovu?",
+        "body": "Ne. Při nastavení nového iPhonu se v App Storu přihlaste stejným účtem Apple a aplikaci si stáhněte znovu; podruhé platit nemusíte. V aplikaci není co obnovovat."
       },
       {
-        "id": "trial_unlock",
-        "title": "Jak funguje 24hodinová zkušební verze a odemčení?",
-        "body": "Zkušební verzi spustíte v aplikaci, kdykoli budete připraveni, a všechny funkce budou 24 hodin dostupné. Zkušební verzi eviduje App Store, takže ji opětovná instalace znovu nespustí. Po jejím skončení aplikaci stále uvidíte a jednorázový nákup vše odemkne natrvalo. Nejde o předplatné a nikdy se neobnovuje. Cena se zobrazuje v App Storu ve vaší místní měně."
+        "id": "paid_model",
+        "title": "Co získám koupí aplikace?",
+        "body": "Aplikace je placená ke stažení. Jakmile je v zařízení, fungují hned všechny funkce, včetně jízdních řádů odbočných tratí, připomínek, widgetů a aplikace pro Apple Watch. V aplikaci už není nic dalšího k dokoupení: žádné nákupy v aplikaci, žádné předplatné ani reklamy a nic se neobnovuje."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Existuje verze pro Android?",
-        "body": "Ano. Metro včas je k dispozici pro iPhone, iPad a Apple Watch v App Storu a pro Android v Google Play. Verze pro Android využívá stejná oficiální data tchajpejského metra, neshromažďuje osobní údaje a má widgety na ploše s dalším vlakem na odbočkách Xiaobitan a Beitou · Xinbeitou. Pokud vám na Androidu nechodí připomínky, zkontrolujte, zda jsou pro aplikaci v nastavení systému povolena oznámení. Zkušební verzi a nákup na Androidu zajišťuje Google Play."
+        "body": "Ano. Metro včas je k dispozici pro iPhone, iPad a Apple Watch v App Storu a pro Android v Google Play. Verze pro Android využívá stejná oficiální data tchajpejského metra, neshromažďuje osobní údaje a má widgety na ploše s dalším vlakem na odbočkách Xiaobitan a Beitou · Xinbeitou. Pokud vám na Androidu nechodí připomínky, zkontrolujte, zda jsou pro aplikaci v nastavení systému povolena oznámení."
       },
       {
         "id": "independence",
@@ -169,17 +169,12 @@
       {
         "id": "android",
         "title": "Verze pro Android (Google Play)",
-        "body": "Metro včas je k dispozici také pro Android v Google Play a vše, co je na této stránce, platí i pro ni. Verze pro Android neshromažďuje ani neodesílá osobní údaje, nezobrazuje reklamy a nepoužívá žádnou analytiku. Vaše nastavení, připomínky a čas zahájení zkušební verze se ukládají pouze ve vašem zařízení. Platbu zpracovává Google Play a aplikace vaše platební údaje nikdy nevidí. Oprávnění k internetu se používá pouze ke stažení oficiálního jízdního řádu v PDF z webu tchajpejského metra, když na něj klepnete, abyste ho otevřeli. Aplikace dále žádá o oznámení, která se používají jen pro připomínky odjezdu, které si nastavíte, a můžete je odmítnout; o příjem zprávy o dokončení spuštění systému, aby se připomínky po restartu telefonu naplánovaly znovu; a o Google Play Billing, aby mohla ověřit stav zkušební verze a nákupu. Widgety na ploše s dalším vlakem na odbočkách Xiaobitan a Beitou · Xinbeitou používají jen data jízdních řádů uvnitř aplikace."
+        "body": "Metro včas je k dispozici také pro Android v Google Play a vše, co je na této stránce, platí i pro ni. Verze pro Android neshromažďuje ani neodesílá osobní údaje, nezobrazuje reklamy a nepoužívá žádnou analytiku. Vaše nastavení a připomínky se ukládají pouze ve vašem zařízení. Platbu zpracovává Google Play a aplikace vaše platební údaje nikdy nevidí. Oprávnění k internetu se používá pouze ke stažení oficiálního jízdního řádu v PDF z webu tchajpejského metra, když na něj klepnete, abyste ho otevřeli. Aplikace dále žádá o oznámení, která se používají jen pro připomínky odjezdu, které si nastavíte, a můžete je odmítnout; a o příjem zprávy o dokončení spuštění systému, aby se připomínky po restartu telefonu naplánovaly znovu. Widgety na ploše s dalším vlakem na odbočkách Xiaobitan a Beitou · Xinbeitou používají jen data jízdních řádů uvnitř aplikace."
       },
       {
         "id": "notifications",
         "title": "Oznámení",
         "body": "Pokud oznámení povolíte, aplikace je používá jen pro připomínky, které si sami nastavíte. Každá připomínka se plánuje místně ve vašem zařízení; nepodílí se na tom žádný server a obsah oznámení vaše zařízení neopouští. Oznámení můžete kdykoli vypnout v aplikaci Nastavení v iOS."
-      },
-      {
-        "id": "storekit",
-        "title": "Nákupy přes Apple",
-        "body": "24hodinovou zkušební verzi a jednorázové odemčení zajišťuje Apple prostřednictvím App Storu pomocí StoreKit. Platbu zpracovává výhradně Apple a aplikace vaše platební údaje nikdy nevidí ani neukládá. Aplikace si u App Storu pouze ověřuje, zda je zkušební verze aktivní nebo zda bylo odemčení zakoupeno."
       },
       {
         "id": "no_ads_analytics",

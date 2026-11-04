@@ -46,11 +46,11 @@ OG_LOCALES = {
     "tr": "tr_TR", "uk": "uk_UA", "ur-PK": "ur_PK", "vi": "vi_VN",
 }
 SECTION_IDS = {
-    ("home", "sections"): ("reverse_planner", "xiaobitan", "xinbeitou", "map_widget", "privacy_first", "trial"),
+    ("home", "sections"): ("reverse_planner", "xiaobitan", "xinbeitou", "map_widget", "privacy_first", "paid_download"),
     ("support", "howto"): ("three_modes", "switch_mode", "plan_trip", "branch_reminders", "default_page", "language"),
-    ("support", "faq"): ("why_estimate", "branch_timetable", "notifications", "restore", "trial_unlock", "coverage", "platforms", "independence"),
+    ("support", "faq"): ("why_estimate", "branch_timetable", "notifications", "restore", "paid_model", "coverage", "platforms", "independence"),
     ("privacy", "sections"): (
-        "no_account", "data_collection", "on_device", "widgets_watch", "android", "notifications", "storekit",
+        "no_account", "data_collection", "on_device", "widgets_watch", "android", "notifications",
         "no_ads_analytics", "data_sources", "contact_requests", "policy_changes",
     ),
 }

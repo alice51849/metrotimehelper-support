@@ -45,15 +45,15 @@
         "body": "Tiada akaun dan tiada pendaftaran. Tiada iklan, tiada analitik pihak ketiga dan tiada data peribadi dikumpul. Setiap pengiraan dijalankan pada iPhone anda, dan peringatan dijadualkan secara setempat pada peranti."
       },
       {
-        "id": "trial",
-        "title": "Cuba semuanya selama 24 jam",
-        "body": "Muat turun aplikasi dan mulakan percubaan 24 jam dengan semua ciri dibuka. Selepas itu, satu pembelian sekali sahaja membolehkan anda menggunakan semuanya selama-lamanya. Tiada langganan dan tiada apa-apa yang diperbaharui."
+        "id": "paid_download",
+        "title": "Bayar sekali, semuanya termasuk",
+        "body": "Ini ialah apl muat turun berbayar. Beli sekali di App Store dan semua ciri berfungsi sejak pelancaran pertama. Tiada pembelian dalam apl, langganan atau iklan, dan tiada apa-apa yang diperbaharui secara automatik."
       }
     ],
     "links_title": "Perlukan bantuan?",
     "support_card": {
       "title": "Sokongan dan Soalan Lazim",
-      "body": "Cara tiga mod berfungsi, menetapkan halaman semasa dibuka dan bahasa, peringatan, memulihkan pembelian dan banyak lagi."
+      "body": "Cara tiga mod berfungsi, menetapkan halaman semasa dibuka dan bahasa, peringatan, menggunakan apl pada telefon baharu dan banyak lagi."
     },
     "privacy_card": {
       "title": "Dasar Privasi",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Bagaimana saya memulihkan pembelian?",
-        "body": "Buka “Seting” dalam aplikasi dan ketik “Pulihkan Pembelian”. Pastikan anda log masuk ke App Store dengan Akaun Apple yang sama yang anda gunakan untuk membelinya. Akses yang telah dibuka juga kembali secara automatik apabila anda memasang semula aplikasi atau menyediakan iPhone baharu dengan akaun itu."
+        "title": "Perlukah saya membayar lagi pada telefon baharu?",
+        "body": "Tidak. Apabila menyediakan iPhone baharu, log masuk ke App Store dengan Akaun Apple yang sama dan muat turun apl itu semula; anda tidak perlu membayar kali kedua. Tiada apa-apa untuk dipulihkan di dalam apl."
       },
       {
-        "id": "trial_unlock",
-        "title": "Bagaimana percubaan 24 jam dan buka kunci berfungsi?",
-        "body": "Mulakan percubaan dari dalam aplikasi bila-bila masa anda bersedia, dan setiap ciri dibuka selama 24 jam. Percubaan direkodkan oleh App Store, jadi memasang semula tidak akan memulakannya semula. Apabila tamat, anda masih boleh melihat aplikasi, dan satu pembelian sekali sahaja membuka semuanya selama-lamanya. Ia bukan langganan dan tidak pernah diperbaharui. Harga dipaparkan di App Store dalam mata wang tempatan anda."
+        "id": "paid_model",
+        "title": "Apakah yang saya dapat apabila membeli apl ini?",
+        "body": "Apl ini ialah muat turun berbayar. Sebaik sahaja berada pada peranti anda, semua ciri terus berfungsi, termasuk jadual masa laluan cabang, peringatan, widget dan apl Apple Watch. Tiada apa-apa lagi untuk dibeli di dalam apl: tiada pembelian dalam apl, tiada langganan dan tiada iklan, dan tiada apa-apa yang diperbaharui secara automatik."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Adakah terdapat versi Android?",
-        "body": "Ya. Metro Time Helper ditawarkan untuk iPhone, iPad dan Apple Watch di App Store, dan untuk Android di Google Play. Versi Android menggunakan data rasmi MRT Taipei yang sama, tidak mengumpul data peribadi, dan mempunyai widget Skrin Utama untuk tren seterusnya di laluan cabang Xiaobitan dan Beitou · Xinbeitou. Jika peringatan tidak sampai pada Android, pastikan pemberitahuan dibenarkan untuk aplikasi ini dalam Seting sistem. Percubaan dan pembelian pada Android dikendalikan oleh Google Play."
+        "body": "Ya. Metro Time Helper ditawarkan untuk iPhone, iPad dan Apple Watch di App Store, dan untuk Android di Google Play. Versi Android menggunakan data rasmi MRT Taipei yang sama, tidak mengumpul data peribadi, dan mempunyai widget Skrin Utama untuk tren seterusnya di laluan cabang Xiaobitan dan Beitou · Xinbeitou. Jika peringatan tidak sampai pada Android, pastikan pemberitahuan dibenarkan untuk aplikasi ini dalam Seting sistem."
       },
       {
         "id": "independence",
@@ -169,17 +169,12 @@
       {
         "id": "android",
         "title": "Versi Android (Google Play)",
-        "body": "Metro Time Helper turut ditawarkan untuk Android melalui Google Play, dan semua yang terdapat pada halaman ini terpakai juga pada versi tersebut. Versi Android tidak mengumpul atau menghantar data peribadi, tidak memaparkan iklan dan tidak menggunakan analitik. Seting, peringatan dan masa mula percubaan anda disimpan pada peranti anda sahaja. Pembayaran dikendalikan oleh Google Play, dan aplikasi tidak pernah melihat butiran pembayaran anda. Kebenaran Internet hanya digunakan untuk memuat turun PDF jadual rasmi daripada laman web MRT Taipei apabila anda mengetik untuk membukanya. Aplikasi juga meminta kebenaran untuk pemberitahuan, yang hanya digunakan untuk peringatan bertolak yang anda tetapkan dan boleh anda tolak; untuk siaran selesai but, supaya peringatan anda dijadualkan semula selepas telefon dimulakan semula; dan untuk Google Play Billing, bagi menyemak status percubaan dan pembelian. Widget Skrin Utama untuk tren seterusnya di laluan cabang Xiaobitan dan Beitou · Xinbeitou hanya menggunakan data jadual di dalam aplikasi."
+        "body": "Metro Time Helper turut ditawarkan untuk Android melalui Google Play, dan semua yang terdapat pada halaman ini terpakai juga pada versi tersebut. Versi Android tidak mengumpul atau menghantar data peribadi, tidak memaparkan iklan dan tidak menggunakan analitik. Seting dan peringatan anda disimpan pada peranti anda sahaja. Pembayaran dikendalikan oleh Google Play, dan aplikasi tidak pernah melihat butiran pembayaran anda. Kebenaran Internet hanya digunakan untuk memuat turun PDF jadual rasmi daripada laman web MRT Taipei apabila anda mengetik untuk membukanya. Aplikasi juga meminta kebenaran untuk pemberitahuan, yang hanya digunakan untuk peringatan bertolak yang anda tetapkan dan boleh anda tolak; dan untuk siaran selesai but, supaya peringatan anda dijadualkan semula selepas telefon dimulakan semula. Widget Skrin Utama untuk tren seterusnya di laluan cabang Xiaobitan dan Beitou · Xinbeitou hanya menggunakan data jadual di dalam aplikasi."
       },
       {
         "id": "notifications",
         "title": "Pemberitahuan",
         "body": "Jika anda membenarkan pemberitahuan, aplikasi menggunakannya hanya untuk peringatan yang anda tetapkan sendiri. Setiap peringatan dijadualkan secara setempat pada peranti anda; tiada pelayan terlibat dan tiada kandungan pemberitahuan yang keluar dari peranti anda. Anda boleh mematikan pemberitahuan pada bila-bila masa dalam app “Seting” iOS."
-      },
-      {
-        "id": "storekit",
-        "title": "Pembelian melalui Apple",
-        "body": "Percubaan 24 jam dan buka kunci sekali beli dikendalikan oleh Apple melalui App Store menggunakan StoreKit. Pembayaran diproses sepenuhnya oleh Apple, dan aplikasi tidak pernah melihat atau menyimpan butiran pembayaran anda. Aplikasi hanya menyemak dengan App Store sama ada percubaan masih aktif atau buka kunci telah dibeli."
       },
       {
         "id": "no_ads_analytics",

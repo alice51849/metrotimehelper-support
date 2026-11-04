@@ -45,15 +45,15 @@
         "body": "Kein Konto, keine Registrierung. Keine Werbung, keine Analysedienste von Drittanbietern und keine Erfassung personenbezogener Daten. Alle Berechnungen laufen auf deinem iPhone, und Erinnerungen werden lokal auf dem Gerät geplant."
       },
       {
-        "id": "trial",
-        "title": "24 Stunden alles ausprobieren",
-        "body": "Lade die App und starte einen 24-stündigen Test, bei dem alle Funktionen freigeschaltet sind. Danach gehört dir mit einem einmaligen Kauf alles dauerhaft. Es gibt kein Abo, und nichts verlängert sich."
+        "id": "paid_download",
+        "title": "Einmal bezahlen, alles inklusive",
+        "body": "Das ist eine kostenpflichtige App. Einmal im App Store gekauft, stehen ab dem ersten Start alle Funktionen zur Verfügung. Es gibt keine In-App-Käufe, kein Abo und keine Werbung, und nichts verlängert sich."
       }
     ],
     "links_title": "Brauchst du Hilfe?",
     "support_card": {
       "title": "Hilfe und FAQ",
-      "body": "Wie die drei Modi funktionieren, Startseite und Sprache festlegen, Erinnerungen, Kauf wiederherstellen und mehr."
+      "body": "Wie die drei Modi funktionieren, Startseite und Sprache festlegen, Erinnerungen, die App auf einem neuen iPhone nutzen und mehr."
     },
     "privacy_card": {
       "title": "Datenschutzerklärung",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Wie stelle ich meinen Kauf wieder her?",
-        "body": "Öffne in der App die „Einstellungen“ und tippe auf „Wiederherstellen“. Achte darauf, dass du im App Store mit demselben Apple Account angemeldet bist, mit dem du gekauft hast. Die Freischaltung kommt auch automatisch zurück, wenn du die App neu installierst oder ein neues iPhone mit diesem Account einrichtest."
+        "title": "Muss ich auf einem neuen Telefon noch einmal bezahlen?",
+        "body": "Nein. Melde dich beim Einrichten eines neuen iPhones mit demselben Apple-Account im App Store an und lade die App erneut herunter; du musst nicht noch einmal zahlen. In der App gibt es nichts wiederherzustellen."
       },
       {
-        "id": "trial_unlock",
-        "title": "Wie funktionieren der 24-Stunden-Test und die Freischaltung?",
-        "body": "Starte den Test in der App, wann immer du bereit bist, und alle Funktionen stehen 24 Stunden lang offen. Der Test wird vom App Store erfasst, eine Neuinstallation startet ihn also nicht neu. Danach kannst du die App weiterhin sehen, und ein einmaliger Kauf schaltet alles dauerhaft frei. Es ist kein Abo und verlängert sich nie. Den Preis siehst du im App Store in deiner Landeswährung."
+        "id": "paid_model",
+        "title": "Was bekomme ich, wenn ich die App kaufe?",
+        "body": "Die App ist kostenpflichtig. Sobald sie auf deinem Gerät ist, funktionieren alle Funktionen sofort, darunter die Fahrpläne der Zweiglinien, Erinnerungen, Widgets und die Apple-Watch-App. In der App gibt es nichts weiter zu kaufen: keine In-App-Käufe, kein Abo und keine Werbung, und nichts verlängert sich."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Gibt es eine Android-Version?",
-        "body": "Ja. Metro-Zeithelfer gibt es für iPhone, iPad und Apple Watch im App Store und für Android bei Google Play. Die Android-Version nutzt dieselben offiziellen Daten der Metro Taipeh, erfasst keine personenbezogenen Daten und hat Home-Bildschirm-Widgets für den nächsten Zug auf den Zweiglinien Xiaobitan und Beitou · Xinbeitou. Wenn auf Android keine Erinnerungen ankommen, prüfe, ob Mitteilungen für die App in den Systemeinstellungen erlaubt sind. Test und Kauf auf Android wickelt Google Play ab."
+        "body": "Ja. Metro-Zeithelfer gibt es für iPhone, iPad und Apple Watch im App Store und für Android bei Google Play. Die Android-Version nutzt dieselben offiziellen Daten der Metro Taipeh, erfasst keine personenbezogenen Daten und hat Home-Bildschirm-Widgets für den nächsten Zug auf den Zweiglinien Xiaobitan und Beitou · Xinbeitou. Wenn auf Android keine Erinnerungen ankommen, prüfe, ob Mitteilungen für die App in den Systemeinstellungen erlaubt sind."
       },
       {
         "id": "independence",
@@ -169,17 +169,12 @@
       {
         "id": "android",
         "title": "Android-Version (Google Play)",
-        "body": "Metro-Zeithelfer gibt es auch für Android über Google Play, und alles auf dieser Seite gilt auch dafür. Die Android-Version erfasst oder übermittelt keine personenbezogenen Daten, zeigt keine Werbung und nutzt keine Analyse. Deine Einstellungen, Erinnerungen und der Startzeitpunkt des Tests werden nur auf deinem Gerät gespeichert. Die Zahlung wickelt Google Play ab, und die App sieht deine Zahlungsdaten nie. Die Internet-Berechtigung wird nur genutzt, um das offizielle Fahrplan-PDF von der Website der Metro Taipeh zu laden, wenn du zum Öffnen tippst. Außerdem fragt die App nach Mitteilungen, die nur für die von dir eingerichteten Abfahrtserinnerungen genutzt werden und die du ablehnen kannst; nach dem Broadcast „Start abgeschlossen“, damit deine Erinnerungen nach einem Neustart des Handys neu geplant werden; und nach Google Play Billing, um den Status von Test und Kauf zu prüfen. Die Home-Bildschirm-Widgets für den nächsten Zug auf den Zweiglinien Xiaobitan und Beitou · Xinbeitou verwenden nur die Fahrplandaten in der App."
+        "body": "Metro-Zeithelfer gibt es auch für Android über Google Play, und alles auf dieser Seite gilt auch dafür. Die Android-Version erfasst oder übermittelt keine personenbezogenen Daten, zeigt keine Werbung und nutzt keine Analyse. Deine Einstellungen und Erinnerungen werden nur auf deinem Gerät gespeichert. Die Zahlung wickelt Google Play ab, und die App sieht deine Zahlungsdaten nie. Die Internet-Berechtigung wird nur genutzt, um das offizielle Fahrplan-PDF von der Website der Metro Taipeh zu laden, wenn du zum Öffnen tippst. Außerdem fragt die App nach Mitteilungen, die nur für die von dir eingerichteten Abfahrtserinnerungen genutzt werden und die du ablehnen kannst; und nach dem Broadcast „Start abgeschlossen“, damit deine Erinnerungen nach einem Neustart des Handys neu geplant werden. Die Home-Bildschirm-Widgets für den nächsten Zug auf den Zweiglinien Xiaobitan und Beitou · Xinbeitou verwenden nur die Fahrplandaten in der App."
       },
       {
         "id": "notifications",
         "title": "Mitteilungen",
         "body": "Wenn du Mitteilungen erlaubst, nutzt die App sie nur für Erinnerungen, die du selbst einrichtest. Jede Erinnerung wird lokal auf deinem Gerät geplant; es ist kein Server beteiligt, und kein Inhalt einer Mitteilung verlässt dein Gerät. Du kannst Mitteilungen jederzeit in der iOS-App „Einstellungen“ ausschalten."
-      },
-      {
-        "id": "storekit",
-        "title": "Käufe über Apple",
-        "body": "Der 24-Stunden-Test und die einmalige Freischaltung werden von Apple über den App Store mit StoreKit abgewickelt. Die Zahlung verarbeitet ausschließlich Apple, und die App sieht oder speichert deine Zahlungsdaten nie. Die App fragt beim App Store nur ab, ob der Test aktiv ist oder die Freischaltung gekauft wurde."
       },
       {
         "id": "no_ads_analytics",

@@ -45,15 +45,15 @@
         "body": "Inget konto och ingen registrering. Ingen reklam, ingen analys från tredje part och ingen insamling av personuppgifter. Alla beräkningar görs på din iPhone, och påminnelser schemaläggs lokalt på enheten."
       },
       {
-        "id": "trial",
-        "title": "Testa allt i 24 timmar",
-        "body": "Ladda ner appen och starta en provperiod på 24 timmar med alla funktioner upplåsta. Därefter behåller du allt för alltid med ett enda engångsköp. Det finns ingen prenumeration och inget förnyas."
+        "id": "paid_download",
+        "title": "Betala en gång, få allt",
+        "body": "Det här är en betald app. Köp den en gång i App Store så fungerar alla funktioner från första start. Det finns inga köp i appen, ingen prenumeration och inga annonser, och inget förnyas."
       }
     ],
     "links_title": "Behöver du hjälp?",
     "support_card": {
       "title": "Hjälp och vanliga frågor",
-      "body": "Hur de tre lägena fungerar, hur du väljer startsida och språk, påminnelser, hur du återställer ett köp och mer."
+      "body": "Hur de tre lägena fungerar, hur du väljer startsida och språk, påminnelser, hur du använder appen på en ny telefon och mer."
     },
     "privacy_card": {
       "title": "Integritetspolicy",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Hur återställer jag mitt köp?",
-        "body": "Öppna ”Inställningar” i appen och tryck på ”Återställ”. Se till att du är inloggad i App Store med samma Apple-konto som du köpte med. Din upplåsning kommer också tillbaka automatiskt när du installerar om appen eller konfigurerar en ny iPhone med det kontot."
+        "title": "Måste jag betala igen på en ny telefon?",
+        "body": "Nej. När du ställer in en ny iPhone loggar du in i App Store med samma Apple-konto och laddar ner appen igen; du behöver inte betala en gång till. Det finns inget att återställa i appen."
       },
       {
-        "id": "trial_unlock",
-        "title": "Hur fungerar provperioden på 24 timmar och upplåsningen?",
-        "body": "Starta provperioden i appen när du är redo, så är alla funktioner öppna i 24 timmar. Provperioden registreras av App Store, så en ominstallation startar den inte om. När den är slut kan du fortfarande se appen, och ett engångsköp låser upp allt för alltid. Det är ingen prenumeration och förnyas aldrig. Priset visas i App Store i din lokala valuta."
+        "id": "paid_model",
+        "title": "Vad får jag när jag köper appen?",
+        "body": "Appen är betald. Så snart den finns på din enhet fungerar alla funktioner direkt, bland annat tidtabellerna för sidolinjerna, påminnelser, widgetar och Apple Watch-appen. Det finns inget mer att köpa i appen: inga köp i appen, ingen prenumeration och inga annonser, och inget förnyas."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Finns det en Android-version?",
-        "body": "Ja. Tidshjälp för metron finns för iPhone, iPad och Apple Watch i App Store och för Android i Google Play. Android-versionen använder samma officiella data från Taipei Metro, samlar inte in några personuppgifter och har hemskärmswidgetar för nästa tåg på grenlinjerna till Xiaobitan och Beitou · Xinbeitou. Om påminnelserna inte kommer fram på Android, kontrollera att notiser är tillåtna för appen i systeminställningarna. Provperioden och köpet på Android hanteras av Google Play."
+        "body": "Ja. Tidshjälp för metron finns för iPhone, iPad och Apple Watch i App Store och för Android i Google Play. Android-versionen använder samma officiella data från Taipei Metro, samlar inte in några personuppgifter och har hemskärmswidgetar för nästa tåg på grenlinjerna till Xiaobitan och Beitou · Xinbeitou. Om påminnelserna inte kommer fram på Android, kontrollera att notiser är tillåtna för appen i systeminställningarna."
       },
       {
         "id": "independence",
@@ -169,17 +169,12 @@
       {
         "id": "android",
         "title": "Android-version (Google Play)",
-        "body": "Tidshjälp för metron finns även för Android via Google Play, och allt som står på den här sidan gäller även den. Android-versionen samlar inte in eller skickar några personuppgifter, visar ingen reklam och använder ingen analys. Dina inställningar, påminnelser och starttiden för provperioden lagras bara på din enhet. Betalningen hanteras av Google Play, och appen ser aldrig dina betalningsuppgifter. Internetbehörigheten används bara för att ladda ner den officiella tidtabellen som PDF från Taipei Metros webbplats när du trycker för att öppna den. Appen ber också om behörighet för notiser, som bara används för de avgångspåminnelser du ställer in och som du får avböja; behörighet att ta emot signalen om att telefonen har startat klart, så att dina påminnelser schemaläggs igen efter en omstart; och Google Play Billing, för att kontrollera status för provperiod och köp. Hemskärmswidgetarna för nästa tåg på grenlinjerna till Xiaobitan och Beitou · Xinbeitou använder bara tidtabellsdata i appen."
+        "body": "Tidshjälp för metron finns även för Android via Google Play, och allt som står på den här sidan gäller även den. Android-versionen samlar inte in eller skickar några personuppgifter, visar ingen reklam och använder ingen analys. Dina inställningar och påminnelser lagras bara på din enhet. Betalningen hanteras av Google Play, och appen ser aldrig dina betalningsuppgifter. Internetbehörigheten används bara för att ladda ner den officiella tidtabellen som PDF från Taipei Metros webbplats när du trycker för att öppna den. Appen ber också om behörighet för notiser, som bara används för de avgångspåminnelser du ställer in och som du får avböja; och behörighet att ta emot signalen om att telefonen har startat klart, så att dina påminnelser schemaläggs igen efter en omstart. Hemskärmswidgetarna för nästa tåg på grenlinjerna till Xiaobitan och Beitou · Xinbeitou använder bara tidtabellsdata i appen."
       },
       {
         "id": "notifications",
         "title": "Notiser",
         "body": "Om du tillåter notiser använder appen dem bara för påminnelser som du själv ställer in. Varje påminnelse schemaläggs lokalt på din enhet; ingen server är inblandad och inget innehåll i notiserna lämnar din enhet. Du kan när som helst stänga av notiser i iOS-appen Inställningar."
-      },
-      {
-        "id": "storekit",
-        "title": "Köp via Apple",
-        "body": "Provperioden på 24 timmar och engångsupplåsningen hanteras av Apple via App Store med StoreKit. Betalningen hanteras helt av Apple, och appen ser eller sparar aldrig dina betalningsuppgifter. Appen frågar bara App Store om provperioden är aktiv eller om upplåsningen har köpts."
       },
       {
         "id": "no_ads_analytics",

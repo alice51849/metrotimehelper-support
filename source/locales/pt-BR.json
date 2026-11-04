@@ -45,15 +45,15 @@
         "body": "Sem conta e sem cadastro. Sem anúncios, sem ferramentas de análise de terceiros e sem coleta de dados pessoais. Todos os cálculos são feitos no seu iPhone, e os lembretes são agendados localmente no aparelho."
       },
       {
-        "id": "trial",
-        "title": "Teste tudo por 24 horas",
-        "body": "Baixe o app e comece um teste de 24 horas com todos os recursos liberados. Depois disso, uma única compra deixa tudo liberado para sempre. Não há assinatura, e nada é renovado."
+        "id": "paid_download",
+        "title": "Pague uma vez e tenha tudo",
+        "body": "É um app de download pago. Compre uma única vez na App Store e todos os recursos funcionam desde a primeira abertura. Não há compras dentro do app, assinatura nem anúncios, e nada é renovado."
       }
     ],
     "links_title": "Precisa de ajuda?",
     "support_card": {
       "title": "Suporte e perguntas frequentes",
-      "body": "Como funcionam os três modos, como escolher a tela inicial e o idioma, lembretes, como restaurar uma compra e mais."
+      "body": "Como funcionam os três modos, como escolher a tela inicial e o idioma, lembretes, como usar o app em um celular novo e mais."
     },
     "privacy_card": {
       "title": "Política de Privacidade",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Como restauro minha compra?",
-        "body": "Abra “Ajustes” no app e toque em “Restaurar”. Confira se você está conectado à App Store com a mesma Conta Apple usada na compra. A liberação também volta automaticamente quando você reinstala o app ou configura um iPhone novo com essa conta."
+        "title": "Preciso pagar de novo em um celular novo?",
+        "body": "Não. Ao configurar um iPhone novo, entre na App Store com o mesmo ID Apple e baixe o app de novo; você não vai precisar pagar uma segunda vez. Dentro do app não há nada para restaurar."
       },
       {
-        "id": "trial_unlock",
-        "title": "Como funcionam o teste de 24 horas e a liberação?",
-        "body": "Comece o teste dentro do app quando quiser, e todos os recursos ficam liberados por 24 horas. O teste fica registrado na App Store, então reinstalar o app não reinicia o teste. Quando ele termina, você continua vendo o app, e uma compra única libera tudo para sempre. Não é uma assinatura e nunca é renovada. O preço aparece na App Store na sua moeda local."
+        "id": "paid_model",
+        "title": "O que eu recebo ao comprar o app?",
+        "body": "O app é de download pago. Assim que ele está no seu aparelho, todos os recursos funcionam na hora, incluindo os horários dos ramais, os lembretes, os widgets e o app para o Apple Watch. Dentro do app não há mais nada para comprar: sem compras no app, sem assinatura e sem anúncios, e nada é renovado."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Existe uma versão para Android?",
-        "body": "Sim. Hora do Metrô está disponível para iPhone, iPad e Apple Watch na App Store e para Android no Google Play. A versão para Android usa os mesmos dados oficiais do metrô de Taipei, não coleta dados pessoais e tem widgets na tela inicial com o próximo trem nos ramais de Xiaobitan e Beitou · Xinbeitou. Se os lembretes não chegarem no Android, confira se as notificações estão permitidas para o app nos Ajustes do sistema. O teste e a compra no Android são gerenciados pelo Google Play."
+        "body": "Sim. Hora do Metrô está disponível para iPhone, iPad e Apple Watch na App Store e para Android no Google Play. A versão para Android usa os mesmos dados oficiais do metrô de Taipei, não coleta dados pessoais e tem widgets na tela inicial com o próximo trem nos ramais de Xiaobitan e Beitou · Xinbeitou. Se os lembretes não chegarem no Android, confira se as notificações estão permitidas para o app nos Ajustes do sistema."
       },
       {
         "id": "independence",
@@ -169,17 +169,12 @@
       {
         "id": "android",
         "title": "Versão para Android (Google Play)",
-        "body": "Hora do Metrô também está disponível para Android pelo Google Play, e tudo o que consta nesta página vale para essa versão também. A versão para Android não coleta nem transmite dados pessoais, não mostra anúncios e não usa ferramentas de análise. Seus ajustes, lembretes e o horário de início do teste ficam guardados somente no seu aparelho. O pagamento é feito pelo Google Play, e o app nunca vê seus dados de pagamento. A permissão de Internet é usada somente para baixar o PDF oficial do horário do site do metrô de Taipei quando você toca para abri-lo. O app também pede permissão para notificações, usadas somente para os lembretes de partida que você cria e que você pode recusar; para o aviso de inicialização concluída, para que seus lembretes sejam agendados de novo depois que o celular for reiniciado; e para o Google Play Billing, a fim de verificar o status do teste e da compra. Os widgets da tela inicial com o próximo trem nos ramais de Xiaobitan e Beitou · Xinbeitou usam somente os dados de horários que já estão no app."
+        "body": "Hora do Metrô também está disponível para Android pelo Google Play, e tudo o que consta nesta página vale para essa versão também. A versão para Android não coleta nem transmite dados pessoais, não mostra anúncios e não usa ferramentas de análise. Seus ajustes e lembretes ficam guardados somente no seu aparelho. O pagamento é feito pelo Google Play, e o app nunca vê seus dados de pagamento. A permissão de Internet é usada somente para baixar o PDF oficial do horário do site do metrô de Taipei quando você toca para abri-lo. O app também pede permissão para notificações, usadas somente para os lembretes de partida que você cria e que você pode recusar; e para o aviso de inicialização concluída, para que seus lembretes sejam agendados de novo depois que o celular for reiniciado. Os widgets da tela inicial com o próximo trem nos ramais de Xiaobitan e Beitou · Xinbeitou usam somente os dados de horários que já estão no app."
       },
       {
         "id": "notifications",
         "title": "Notificações",
         "body": "Se você permitir notificações, o app as usa somente para os lembretes que você mesmo cria. Cada lembrete é agendado localmente no seu aparelho; nenhum servidor participa e nenhum conteúdo de notificação sai do seu aparelho. Você pode desativar as notificações a qualquer momento no app Ajustes do iOS."
-      },
-      {
-        "id": "storekit",
-        "title": "Compras pela Apple",
-        "body": "O teste de 24 horas e a liberação única são gerenciados pela Apple na App Store, por meio do StoreKit. O pagamento é processado inteiramente pela Apple, e o app nunca vê nem armazena seus dados de pagamento. O app só consulta a App Store para saber se o teste está ativo ou se a liberação foi comprada."
       },
       {
         "id": "no_ads_analytics",

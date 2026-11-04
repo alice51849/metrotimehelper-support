@@ -45,15 +45,15 @@
         "body": "Geen account en geen registratie. Geen advertenties, geen analysediensten van derden en geen verzameling van persoonsgegevens. Alle berekeningen gebeuren op je iPhone, en herinneringen worden lokaal op het apparaat ingepland."
       },
       {
-        "id": "trial",
-        "title": "Probeer alles 24 uur lang",
-        "body": "Download de app en start een proefperiode van 24 uur met alle functies ontgrendeld. Daarna houd je met één eenmalige aankoop alles voorgoed. Er is geen abonnement en er wordt niets verlengd."
+        "id": "paid_download",
+        "title": "Eén keer betalen, alles inbegrepen",
+        "body": "Dit is een betaalde app. Koop hem één keer in de App Store en alle functies werken vanaf de eerste start. Er zijn geen aankopen in de app, geen abonnement en geen advertenties, en niets wordt verlengd."
       }
     ],
     "links_title": "Hulp nodig?",
     "support_card": {
       "title": "Hulp en veelgestelde vragen",
-      "body": "Hoe de drie modi werken, je startpagina en taal instellen, herinneringen, een aankoop herstellen en meer."
+      "body": "Hoe de drie modi werken, je startpagina en taal instellen, herinneringen, de app op een nieuwe telefoon gebruiken en meer."
     },
     "privacy_card": {
       "title": "Privacybeleid",
@@ -115,13 +115,13 @@
       },
       {
         "id": "restore",
-        "title": "Hoe herstel ik mijn aankoop?",
-        "body": "Open “Instellingen” in de app en tik op “Herstel”. Zorg dat je in de App Store bent ingelogd met dezelfde Apple Account waarmee je de aankoop hebt gedaan. Je ontgrendeling komt ook automatisch terug als je de app opnieuw installeert of een nieuwe iPhone met die account instelt."
+        "title": "Moet ik op een nieuwe telefoon opnieuw betalen?",
+        "body": "Nee. Log bij het instellen van een nieuwe iPhone in bij de App Store met hetzelfde Apple-account en download de app opnieuw; je hoeft niet nog een keer te betalen. In de app valt niets te herstellen."
       },
       {
-        "id": "trial_unlock",
-        "title": "Hoe werken de proefperiode van 24 uur en de ontgrendeling?",
-        "body": "Start de proefperiode in de app wanneer jij er klaar voor bent, en alle functies zijn 24 uur lang beschikbaar. De proefperiode wordt door de App Store vastgelegd, dus opnieuw installeren start hem niet opnieuw. Als hij afloopt, kun je de app nog steeds bekijken, en ontgrendelt een eenmalige aankoop alles voorgoed. Het is geen abonnement en wordt nooit verlengd. De prijs zie je in de App Store in je eigen valuta."
+        "id": "paid_model",
+        "title": "Wat krijg ik als ik de app koop?",
+        "body": "De app is betaald. Zodra hij op je apparaat staat, werken alle functies meteen, waaronder de dienstregelingen van de zijlijnen, herinneringen, widgets en de Apple Watch-app. In de app valt niets meer bij te kopen: geen aankopen in de app, geen abonnement en geen advertenties, en niets wordt verlengd."
       },
       {
         "id": "coverage",
@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Is er een Android-versie?",
-        "body": "Ja. Metro Tijdhelper is er voor iPhone, iPad en Apple Watch in de App Store, en voor Android in Google Play. De Android-versie gebruikt dezelfde officiële gegevens van de metro van Taipei, verzamelt geen persoonsgegevens en heeft widgets voor het beginscherm met de volgende trein op de zijlijnen naar Xiaobitan en Beitou · Xinbeitou. Komen herinneringen op Android niet aan, controleer dan of meldingen voor de app zijn toegestaan in de systeeminstellingen. De proefperiode en de aankoop op Android worden afgehandeld door Google Play."
+        "body": "Ja. Metro Tijdhelper is er voor iPhone, iPad en Apple Watch in de App Store, en voor Android in Google Play. De Android-versie gebruikt dezelfde officiële gegevens van de metro van Taipei, verzamelt geen persoonsgegevens en heeft widgets voor het beginscherm met de volgende trein op de zijlijnen naar Xiaobitan en Beitou · Xinbeitou. Komen herinneringen op Android niet aan, controleer dan of meldingen voor de app zijn toegestaan in de systeeminstellingen."
       },
       {
         "id": "independence",
@@ -169,17 +169,12 @@
       {
         "id": "android",
         "title": "Android-versie (Google Play)",
-        "body": "Metro Tijdhelper is ook voor Android verkrijgbaar via Google Play, en alles op deze pagina geldt ook daarvoor. De Android-versie verzamelt of verstuurt geen persoonsgegevens, toont geen advertenties en gebruikt geen analysediensten. Je instellingen, herinneringen en de starttijd van de proefperiode worden alleen op je apparaat bewaard. Betalen gaat via Google Play, en de app ziet je betaalgegevens nooit. De internettoestemming wordt alleen gebruikt om de officiële dienstregeling als PDF van de website van de metro van Taipei te downloaden wanneer je tikt om hem te openen. De app vraagt ook om toestemming voor meldingen, die alleen worden gebruikt voor de vertrekherinneringen die je instelt en die je mag weigeren; voor de melding dat het opstarten is voltooid, zodat je herinneringen na een herstart van de telefoon opnieuw worden ingepland; en voor Google Play Billing, om de status van de proefperiode en de aankoop te controleren. De widgets voor het beginscherm met de volgende trein op de zijlijnen naar Xiaobitan en Beitou · Xinbeitou gebruiken alleen de dienstregelingsgegevens in de app."
+        "body": "Metro Tijdhelper is ook voor Android verkrijgbaar via Google Play, en alles op deze pagina geldt ook daarvoor. De Android-versie verzamelt of verstuurt geen persoonsgegevens, toont geen advertenties en gebruikt geen analysediensten. Je instellingen en herinneringen worden alleen op je apparaat bewaard. Betalen gaat via Google Play, en de app ziet je betaalgegevens nooit. De internettoestemming wordt alleen gebruikt om de officiële dienstregeling als PDF van de website van de metro van Taipei te downloaden wanneer je tikt om hem te openen. De app vraagt ook om toestemming voor meldingen, die alleen worden gebruikt voor de vertrekherinneringen die je instelt en die je mag weigeren; en voor de melding dat het opstarten is voltooid, zodat je herinneringen na een herstart van de telefoon opnieuw worden ingepland. De widgets voor het beginscherm met de volgende trein op de zijlijnen naar Xiaobitan en Beitou · Xinbeitou gebruiken alleen de dienstregelingsgegevens in de app."
       },
       {
         "id": "notifications",
         "title": "Meldingen",
         "body": "Als je meldingen toestaat, gebruikt de app ze alleen voor herinneringen die je zelf instelt. Elke herinnering wordt lokaal op je apparaat ingepland; er komt geen server aan te pas en geen inhoud van een melding verlaat je apparaat. Je kunt meldingen op elk moment uitzetten in de iOS-app Instellingen."
-      },
-      {
-        "id": "storekit",
-        "title": "Aankopen via Apple",
-        "body": "De proefperiode van 24 uur en de eenmalige ontgrendeling worden door Apple afgehandeld via de App Store met StoreKit. De betaling wordt volledig door Apple verwerkt, en de app ziet of bewaart nooit je betaalgegevens. De app vraagt bij de App Store alleen na of de proefperiode actief is of de ontgrendeling is gekocht."
       },
       {
         "id": "no_ads_analytics",
