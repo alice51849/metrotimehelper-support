@@ -12,4 +12,6 @@ The root pages are the `x-default` versions (English); the root `index.html` sen
 2. `python3 scripts/generate_site.py` to rebuild every page, `sitemap.xml` and `robots.txt`.
 3. `python3 scripts/validate_site.py` must print `PASS` before committing.
 
+Hand-written standalone pages (not generated, not in the sitemap) are listed in `source/standalone_pages.json` so the generator check accepts them.
+
 No third-party fonts, scripts, analytics or trackers. Public contact: hourstag.app@gmail.com.

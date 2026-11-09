@@ -379,6 +379,15 @@ def main() -> None:
         fails = [f"missing {p.relative_to(ROOT)}" for p in outputs if not p.is_file()]
         fails += [f"stale {p.relative_to(ROOT)}" for p, t in outputs.items() if p.is_file() and p.read_text(encoding="utf-8") != t]
         expected_html = {p.resolve() for p in outputs if p.suffix == ".html"}
+        # Hand-written standalone pages (e.g. pre-download Q&A) are listed in
+        # source/standalone_pages.json; they are not generated and not in the sitemap.
+        standalone = ROOT / "source" / "standalone_pages.json"
+        if standalone.is_file():
+            for rel in json.loads(standalone.read_text(encoding="utf-8")):
+                sp = (ROOT / rel).resolve()
+                if not sp.is_file():
+                    fails.append(f"missing standalone {rel}")
+                expected_html.add(sp)
         fails += [f"unexpected {p}" for p in sorted({p.resolve() for p in ROOT.rglob("*.html") if ".git" not in p.parts} - expected_html)]
         if fails:
             raise SystemExit("\n".join(f"FAIL: {f}" for f in fails))
