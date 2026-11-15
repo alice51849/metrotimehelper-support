@@ -62,7 +62,7 @@ BLOCK_KEYS = {
     "privacy": {"title", "summary", "updated_label", "section_title", "sections"},
 }
 EMAIL = "hourstag.app@gmail.com"
-PLAY_URL = "https://play.google.com/store/apps/details?id=com.alice51849.MetroTimeHelper"
+PLAY_URL = "https://play.google.com/store/apps/details?id=com.alice51849.metrotimehelper.paid"
 PLAY_CARD_IDS = ("platforms", "android")
 X_DEFAULT_CONTENT = "en-US"
 
