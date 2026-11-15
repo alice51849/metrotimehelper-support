@@ -13,6 +13,7 @@ import datetime
 import html
 import json
 import pathlib
+import re
 import urllib.parse
 from typing import Any
 
@@ -245,6 +246,50 @@ def contact_markup(item: dict[str, Any]) -> str:
     )
 
 
+STANDALONE_LIST = ROOT / "source" / "standalone_pages.json"
+GUIDE_HEADINGS: dict[str, str] = {
+    "zh-Hant": "台北捷運使用指南", "ko": "타이베이 지하철 가이드", "ja": "台北MRTガイド",
+    "en": "Taipei MRT guides", "th": "คู่มือ MRT ไทเป", "vi": "Hướng dẫn MRT Đài Bắc",
+    "id": "Panduan MRT Taipei", "ms": "Panduan MRT Taipei",
+}
+
+
+def standalone_pages() -> list[tuple[str, str, str]]:
+    """Hand-written pages: (file, title html, language suffix). Listed in the sitemap and on matching home pages."""
+    if not STANDALONE_LIST.is_file():
+        return []
+    out = []
+    for rel in json.loads(STANDALONE_LIST.read_text(encoding="utf-8")):
+        text = (ROOT / rel).read_text(encoding="utf-8")
+        m = re.search(r"<title>([^<]+)</title>", text)
+        title = m.group(1).strip() if m else rel
+        lang = rel[:-len(".html")].rsplit(".", 1)[-1]
+        out.append((rel, title, lang))
+    return out
+
+
+def guide_lang_matches(lang: str, locale: str | None) -> bool:
+    if locale is None:
+        return True
+    return locale == lang or locale.split("-")[0] == lang
+
+
+def guides_markup(locale: str | None) -> str:
+    items = [(rel, title) for rel, title, lang in standalone_pages() if guide_lang_matches(lang, locale)]
+    if not items:
+        return ""
+    lang = next(l for _, _, l in standalone_pages() if guide_lang_matches(l, locale)) if locale else None
+    heading = GUIDE_HEADINGS.get(lang or "", "Taipei MRT guides · 台北捷運使用指南")
+    prefix = "" if locale is None else "../"
+    rows = "\n".join(f'      <li><a href="{esc(prefix + rel)}">{title}</a></li>' for rel, title in items)
+    return (
+        '<section class="block" aria-labelledby="guides-heading">\n'
+        f'    <h2 class="section-heading" id="guides-heading">{esc(heading)}</h2>\n'
+        f'    <ul class="guides">\n{rows}\n    </ul>\n'
+        "  </section>"
+    )
+
+
 def body_markup(item: dict[str, Any], locale: str | None, page: str) -> str:
     if page == "index":
         home = item["home"]
@@ -257,7 +302,11 @@ def body_markup(item: dict[str, Any], locale: str | None, page: str) -> str:
             "    </div>\n"
             "  </section>"
         )
-        return "\n  ".join([cards(home["sections"], "features-heading", home["section_title"]), links])
+        parts = [cards(home["sections"], "features-heading", home["section_title"]), links]
+        guides = guides_markup(locale)
+        if guides:
+            parts.append(guides)
+        return "\n  ".join(parts)
     if page == "support":
         sup = item["support"]
         return "\n  ".join([
@@ -358,6 +407,7 @@ def render(tr: dict[str, dict[str, Any]], locale: str | None, page: str) -> str:
 
 def sitemap() -> str:
     urls = [page_url(None, p) for p in PAGES] + [page_url(l, p) for l in LOCALES for p in PAGES]
+    urls += [f"{BASE_URL}{rel}" for rel, _, _ in standalone_pages()]
     rows = "\n".join(f"  <url><loc>{esc(u)}</loc><lastmod>{UPDATED}</lastmod></url>" for u in urls)
     return f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{rows}\n</urlset>\n'
 
@@ -380,7 +430,8 @@ def main() -> None:
         fails += [f"stale {p.relative_to(ROOT)}" for p, t in outputs.items() if p.is_file() and p.read_text(encoding="utf-8") != t]
         expected_html = {p.resolve() for p in outputs if p.suffix == ".html"}
         # Hand-written standalone pages (e.g. pre-download Q&A) are listed in
-        # source/standalone_pages.json; they are not generated and not in the sitemap.
+        # source/standalone_pages.json; they are not generated but are listed in the sitemap
+        # and linked from matching home pages.
         standalone = ROOT / "source" / "standalone_pages.json"
         if standalone.is_file():
             for rel in json.loads(standalone.read_text(encoding="utf-8")):

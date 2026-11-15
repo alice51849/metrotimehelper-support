@@ -286,6 +286,7 @@ def main() -> int:
     sitemap = (ROOT / "sitemap.xml").read_text(encoding="utf-8") if (ROOT / "sitemap.xml").is_file() else ""
     locs = re.findall(r"<loc>([^<]+)</loc>", sitemap)
     want = [gen.page_url(None, p) for p in gen.PAGES] + [gen.page_url(l, p) for l in gen.LOCALES for p in gen.PAGES]
+    want += [f"{gen.BASE_URL}{rel}" for rel, _, _ in gen.standalone_pages()]
     if locs != want:
         fail(f"sitemap.xml: expected {len(want)} URLs, found {len(locs)}")
     robots = (ROOT / "robots.txt").read_text(encoding="utf-8") if (ROOT / "robots.txt").is_file() else ""
