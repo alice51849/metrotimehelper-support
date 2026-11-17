@@ -8,7 +8,7 @@
     "support": "Bantuan",
     "privacy": "Privasi"
   },
-  "footer": "Metro Time Helper adalah aplikasi independen. Aplikasi ini tidak berafiliasi dengan, tidak didukung oleh, dan tidak dioperasikan oleh Taipei Rapid Transit Corporation. Jadwal dan waktu tempuh diambil dari data publik resmi MRT Taipei.",
+  "footer": "Aplikasi ini dikembangkan secara independen dan tidak berafiliasi dengan operator MRT Taipei. Tidak resmi. Jadwal dan waktu tempuh diambil dari data publik resmi MRT Taipei.",
   "contact": {
     "title": "Hubungi kami",
     "body": "Ada pertanyaan, jadwal yang sepertinya keliru, atau ide untuk aplikasi ini? Kirimkan pesan kepada kami. Sertakan model ponsel Anda, versi iOS atau Android, versi aplikasi (terlihat di “Pengaturan”), dan stasiun yang terkait agar kami bisa memeriksanya lebih cepat.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Apakah ini aplikasi resmi MRT Taipei?",
-        "body": "Bukan. Metro Time Helper adalah aplikasi independen dan tidak berafiliasi dengan atau didukung oleh Taipei Rapid Transit Corporation. Aplikasi ini memakai data publik resmi MRT Taipei. Untuk gangguan layanan atau barang hilang, silakan hubungi operator secara langsung."
+        "body": "Bukan. Aplikasi ini dikembangkan secara independen dan tidak berafiliasi dengan operator MRT Taipei. Tidak resmi. Aplikasi ini memakai data publik resmi MRT Taipei. Untuk gangguan layanan atau barang hilang, silakan hubungi operator secara langsung."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Data jadwal",
-        "body": "Jadwal, selang kereta, dan waktu tempuh berasal dari data publik resmi MRT Taipei dan sudah disertakan di dalam aplikasi, jadi mencari perjalanan tidak memerlukan koneksi internet. Pengecualiannya adalah PDF jadwal resmi dan peta jaringan resmi (peta vektor yang diterbitkan MRT Taipei, dalam bahasa Mandarin atau Inggris): keduanya tidak disertakan di dalam aplikasi dan masing-masing diunduh dari situs web MRT Taipei hanya saat Anda mengetuk tombolnya, sebagai permintaan web biasa, dan kami tidak menerima informasi apa pun tentangnya. Metro Time Helper adalah aplikasi independen dan tidak berafiliasi dengan Taipei Rapid Transit Corporation."
+        "body": "Jadwal, selang kereta, dan waktu tempuh berasal dari data publik resmi MRT Taipei dan sudah disertakan di dalam aplikasi, jadi mencari perjalanan tidak memerlukan koneksi internet. Pengecualiannya adalah PDF jadwal resmi dan peta jaringan resmi (peta vektor yang diterbitkan MRT Taipei, dalam bahasa Mandarin atau Inggris): keduanya tidak disertakan di dalam aplikasi dan masing-masing diunduh dari situs web MRT Taipei hanya saat Anda mengetuk tombolnya, sebagai permintaan web biasa, dan kami tidak menerima informasi apa pun tentangnya. Aplikasi ini dikembangkan secara independen dan tidak berafiliasi dengan operator MRT Taipei. Tidak resmi."
       },
       {
         "id": "contact_requests",

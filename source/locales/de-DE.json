@@ -8,7 +8,7 @@
     "support": "Hilfe",
     "privacy": "Datenschutz"
   },
-  "footer": "Metro-Zeithelfer ist eine unabhängige App. Sie steht in keiner Verbindung zur Taipei Rapid Transit Corporation, wird von ihr weder unterstützt noch betrieben. Fahrpläne und Fahrzeiten stammen aus den offiziellen öffentlichen Daten der Metro Taipeh.",
+  "footer": "Diese App wird unabhängig entwickelt und steht in keiner Verbindung zum Betreiber der Metro Taipeh. Inoffiziell. Fahrpläne und Fahrzeiten stammen aus den offiziellen öffentlichen Daten der Metro Taipeh.",
   "contact": {
     "title": "Kontakt",
     "body": "Fragen, ein Fahrplan, der nicht zu stimmen scheint, oder eine Idee für die App? Schreib uns. Wenn du dein Handymodell, die iOS- oder Android-Version, die App-Version (steht in den „Einstellungen“) und die betroffenen Stationen angibst, können wir schneller helfen.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Ist das eine offizielle App der Metro Taipeh?",
-        "body": "Nein. Metro-Zeithelfer ist eine unabhängige App und steht in keiner Verbindung zur Taipei Rapid Transit Corporation, die sie auch nicht unterstützt. Sie nutzt die offiziellen öffentlichen Daten der Metro Taipeh. Bei Betriebsstörungen oder Fundsachen wende dich bitte direkt an den Betreiber."
+        "body": "Nein. Diese App wird unabhängig entwickelt und steht in keiner Verbindung zum Betreiber der Metro Taipeh. Inoffiziell. Sie nutzt die offiziellen öffentlichen Daten der Metro Taipeh. Bei Betriebsstörungen oder Fundsachen wende dich bitte direkt an den Betreiber."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Fahrplandaten",
-        "body": "Fahrpläne, Takte und Fahrzeiten stammen aus den offiziellen öffentlichen Daten der Metro Taipeh und sind in der App selbst enthalten, daher brauchst du für die Abfrage einer Fahrt keine Internetverbindung. Ausnahmen sind das offizielle Fahrplan-PDF und der offizielle Netzplan (die von der Metro Taipeh veröffentlichte Vektorgrafik, auf Chinesisch oder Englisch): Beides ist nicht in der App enthalten und wird nur dann von der Website der Metro Taipeh geladen, wenn du auf die jeweilige Schaltfläche tippst – als gewöhnliche Webanfrage, und wir erhalten darüber keinerlei Informationen. Metro-Zeithelfer ist unabhängig und steht in keiner Verbindung zur Taipei Rapid Transit Corporation."
+        "body": "Fahrpläne, Takte und Fahrzeiten stammen aus den offiziellen öffentlichen Daten der Metro Taipeh und sind in der App selbst enthalten, daher brauchst du für die Abfrage einer Fahrt keine Internetverbindung. Ausnahmen sind das offizielle Fahrplan-PDF und der offizielle Netzplan (die von der Metro Taipeh veröffentlichte Vektorgrafik, auf Chinesisch oder Englisch): Beides ist nicht in der App enthalten und wird nur dann von der Website der Metro Taipeh geladen, wenn du auf die jeweilige Schaltfläche tippst – als gewöhnliche Webanfrage, und wir erhalten darüber keinerlei Informationen. Diese App wird unabhängig entwickelt und steht in keiner Verbindung zum Betreiber der Metro Taipeh. Inoffiziell."
       },
       {
         "id": "contact_requests",

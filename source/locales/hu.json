@@ -8,7 +8,7 @@
     "support": "Támogatás",
     "privacy": "Adatvédelem"
   },
-  "footer": "Az Időtervező a metróhoz független alkalmazás. Nem áll kapcsolatban a Taipei Rapid Transit Corporation vállalattal, az nem támogatja és nem üzemelteti. A menetrendek és a menetidők a tajpeji metró hivatalos nyilvános adataiból származnak.",
+  "footer": "Ezt az alkalmazást függetlenül fejlesztik, és nem áll kapcsolatban a tajpeji metró üzemeltetőjével. Nem hivatalos. A menetrendek és a menetidők a tajpeji metró hivatalos nyilvános adataiból származnak.",
   "contact": {
     "title": "Kapcsolat",
     "body": "Kérdése van, hibásnak tűnik egy menetrend, vagy ötlete van az alkalmazáshoz? Írjon nekünk. Ha megadja a telefonja típusát, az iOS vagy Android verzióját, az alkalmazás verzióját (a „Beállítások” menüben látható) és az érintett állomásokat, gyorsabban utánajárhatunk.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Ez a tajpeji metró hivatalos alkalmazása?",
-        "body": "Nem. Az Időtervező a metróhoz független alkalmazás, és nem áll kapcsolatban a Taipei Rapid Transit Corporation vállalattal, amely nem is támogatja. A tajpeji metró hivatalos nyilvános adatait használja. Forgalmi zavarok vagy elveszett tárgyak ügyében forduljon közvetlenül az üzemeltetőhöz."
+        "body": "Nem. Ezt az alkalmazást függetlenül fejlesztik, és nem áll kapcsolatban a tajpeji metró üzemeltetőjével. Nem hivatalos. A tajpeji metró hivatalos nyilvános adatait használja. Forgalmi zavarok vagy elveszett tárgyak ügyében forduljon közvetlenül az üzemeltetőhöz."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Menetrendadatok",
-        "body": "A menetrendek, a követési idők és a menetidők a tajpeji metró hivatalos nyilvános adataiból származnak, és magában az alkalmazásban találhatók, így az utak lekérdezéséhez nincs szükség internetkapcsolatra. A kivételek a hivatalos menetrend PDF-je és a hivatalos hálózati térkép (a tajpeji metró által közzétett vektoros térkép kínai vagy angol nyelven): egyik sem része az alkalmazásnak, és mindkettőt csak akkor tölti le az alkalmazás a tajpeji metró webhelyéről, amikor megérinti a hozzájuk tartozó gombot, szokásos webes kéréssel, és mi erről semmilyen információt nem kapunk. Az Időtervező a metróhoz független alkalmazás, és nem áll kapcsolatban a Taipei Rapid Transit Corporation vállalattal."
+        "body": "A menetrendek, a követési idők és a menetidők a tajpeji metró hivatalos nyilvános adataiból származnak, és magában az alkalmazásban találhatók, így az utak lekérdezéséhez nincs szükség internetkapcsolatra. A kivételek a hivatalos menetrend PDF-je és a hivatalos hálózati térkép (a tajpeji metró által közzétett vektoros térkép kínai vagy angol nyelven): egyik sem része az alkalmazásnak, és mindkettőt csak akkor tölti le az alkalmazás a tajpeji metró webhelyéről, amikor megérinti a hozzájuk tartozó gombot, szokásos webes kéréssel, és mi erről semmilyen információt nem kapunk. Ezt az alkalmazást függetlenül fejlesztik, és nem áll kapcsolatban a tajpeji metró üzemeltetőjével. Nem hivatalos."
       },
       {
         "id": "contact_requests",

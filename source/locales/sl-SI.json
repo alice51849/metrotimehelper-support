@@ -8,7 +8,7 @@
     "support": "Podpora",
     "privacy": "Zasebnost"
   },
-  "footer": "Metro pravočasno je neodvisna aplikacija. Ni povezana z družbo Taipei Rapid Transit Corporation, ta je ne podpira in je ne upravlja. Vozni redi in časi vožnje izhajajo iz uradnih javnih podatkov tajpejskega metroja.",
+  "footer": "Ta aplikacija je razvita neodvisno in ni povezana z upravljavcem tajpejskega metroja. Neuradna. Vozni redi in časi vožnje izhajajo iz uradnih javnih podatkov tajpejskega metroja.",
   "contact": {
     "title": "Kontakt",
     "body": "Imate vprašanje, se vam zdi vozni red napačen ali imate zamisel za aplikacijo? Pišite nam. Če navedete model telefona, različico sistema iOS ali Android, različico aplikacije (prikazana je v razdelku „Nastavitve“) in postaje, za katere gre, bomo zadevo lahko hitreje preverili.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Je to uradna aplikacija tajpejskega metroja?",
-        "body": "Ne. Metro pravočasno je neodvisna aplikacija in ni povezana z družbo Taipei Rapid Transit Corporation niti je ta ne podpira. Uporablja uradne javne podatke tajpejskega metroja. Glede motenj v prometu ali izgubljenih predmetov se obrnite neposredno na upravljavca."
+        "body": "Ne. Ta aplikacija je razvita neodvisno in ni povezana z upravljavcem tajpejskega metroja. Neuradna. Uporablja uradne javne podatke tajpejskega metroja. Glede motenj v prometu ali izgubljenih predmetov se obrnite neposredno na upravljavca."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Podatki o voznih redih",
-        "body": "Vozni redi, intervali in časi vožnje izhajajo iz uradnih javnih podatkov tajpejskega metroja in so vključeni v samo aplikacijo, zato iskanje poti ne zahteva internetne povezave. Izjemi sta uradni vozni red v PDF in uradni zemljevid omrežja (vektorski zemljevid, ki ga objavlja tajpejski metro, v kitajščini ali angleščini): nobeden ni vključen v aplikacijo, vsak pa se prenese s spletnega mesta tajpejskega metroja šele, ko tapnete ustrezni gumb, kot običajna spletna zahteva, mi pa o tem ne prejmemo nobenih podatkov. Metro pravočasno je neodvisna aplikacija in ni povezana z družbo Taipei Rapid Transit Corporation."
+        "body": "Vozni redi, intervali in časi vožnje izhajajo iz uradnih javnih podatkov tajpejskega metroja in so vključeni v samo aplikacijo, zato iskanje poti ne zahteva internetne povezave. Izjemi sta uradni vozni red v PDF in uradni zemljevid omrežja (vektorski zemljevid, ki ga objavlja tajpejski metro, v kitajščini ali angleščini): nobeden ni vključen v aplikacijo, vsak pa se prenese s spletnega mesta tajpejskega metroja šele, ko tapnete ustrezni gumb, kot običajna spletna zahteva, mi pa o tem ne prejmemo nobenih podatkov. Ta aplikacija je razvita neodvisno in ni povezana z upravljavcem tajpejskega metroja. Neuradna."
       },
       {
         "id": "contact_requests",

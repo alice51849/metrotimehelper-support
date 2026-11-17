@@ -8,7 +8,7 @@
     "support": "Assistenza",
     "privacy": "Privacy e dati"
   },
-  "footer": "Assistente Orari Metro è un’app indipendente. Non è affiliata a Taipei Rapid Transit Corporation, né approvata o gestita da essa. Orari e tempi di percorrenza provengono dai dati pubblici ufficiali della metropolitana di Taipei.",
+  "footer": "Questa app è sviluppata in modo indipendente e non è affiliata al gestore della metropolitana di Taipei. Non ufficiale. Orari e tempi di percorrenza provengono dai dati pubblici ufficiali della metropolitana di Taipei.",
   "contact": {
     "title": "Contattaci",
     "body": "Hai una domanda, hai notato un orario che sembra sbagliato o hai un’idea per l’app? Scrivici. Se ci indichi il modello del telefono, la versione di iOS o Android, la versione dell’app (la trovi in «Impostazioni») e le stazioni interessate, potremo verificare più in fretta.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "È un’app ufficiale della metropolitana di Taipei?",
-        "body": "No. Assistente Orari Metro è un’app indipendente e non è affiliata a Taipei Rapid Transit Corporation né approvata da essa. Utilizza i dati pubblici ufficiali della metropolitana di Taipei. Per interruzioni del servizio od oggetti smarriti, contatta direttamente il gestore."
+        "body": "No. Questa app è sviluppata in modo indipendente e non è affiliata al gestore della metropolitana di Taipei. Non ufficiale. Utilizza i dati pubblici ufficiali della metropolitana di Taipei. Per interruzioni del servizio od oggetti smarriti, contatta direttamente il gestore."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Dati degli orari",
-        "body": "Orari, frequenze e tempi di percorrenza provengono dai dati pubblici ufficiali della metropolitana di Taipei e sono inclusi nell’app stessa, quindi per cercare un viaggio non serve una connessione a Internet. Le eccezioni sono il PDF ufficiale dell’orario e la mappa ufficiale della rete (la mappa vettoriale pubblicata dalla metropolitana di Taipei, in cinese o in inglese): nessuno dei due è incluso nell’app e ciascuno viene scaricato dal sito della metropolitana di Taipei solo quando tocchi il relativo pulsante, come una normale richiesta web, e noi non riceviamo nulla al riguardo. Assistente Orari Metro è indipendente e non è affiliata a Taipei Rapid Transit Corporation."
+        "body": "Orari, frequenze e tempi di percorrenza provengono dai dati pubblici ufficiali della metropolitana di Taipei e sono inclusi nell’app stessa, quindi per cercare un viaggio non serve una connessione a Internet. Le eccezioni sono il PDF ufficiale dell’orario e la mappa ufficiale della rete (la mappa vettoriale pubblicata dalla metropolitana di Taipei, in cinese o in inglese): nessuno dei due è incluso nell’app e ciascuno viene scaricato dal sito della metropolitana di Taipei solo quando tocchi il relativo pulsante, come una normale richiesta web, e noi non riceviamo nulla al riguardo. Questa app è sviluppata in modo indipendente e non è affiliata al gestore della metropolitana di Taipei. Non ufficiale."
       },
       {
         "id": "contact_requests",

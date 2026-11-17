@@ -8,7 +8,7 @@
     "support": "Tuki",
     "privacy": "Tietosuoja"
   },
-  "footer": "Metron aika-apuri on itsenäinen sovellus. Se ei ole Taipei Rapid Transit Corporationin omistama, hyväksymä eikä ylläpitämä, eikä sillä ole yhteyttä yhtiöön. Aikataulut ja matka-ajat perustuvat Taipein metron virallisiin julkisiin tietoihin.",
+  "footer": "Tämä sovellus on kehitetty itsenäisesti, eikä se liity Taipein metron liikennöitsijään. Epävirallinen. Aikataulut ja matka-ajat perustuvat Taipein metron virallisiin julkisiin tietoihin.",
   "contact": {
     "title": "Ota yhteyttä",
     "body": "Onko sinulla kysyttävää, näyttääkö jokin aikataulu väärältä tai onko sinulla idea sovellukseen? Kirjoita meille. Kun kerrot puhelimesi mallin, iOS- tai Android-version, sovelluksen version (näkyy kohdassa ”Asetukset”) ja asiaan liittyvät asemat, pääsemme selvittämään asiaa nopeammin.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Onko tämä Taipein metron virallinen sovellus?",
-        "body": "Ei. Metron aika-apuri on itsenäinen sovellus, eikä se liity Taipei Rapid Transit Corporationiin tai ole sen hyväksymä. Se käyttää Taipein metron virallisia julkisia tietoja. Liikennehäiriöissä ja löytötavara-asioissa ota yhteyttä suoraan liikennöitsijään."
+        "body": "Ei. Tämä sovellus on kehitetty itsenäisesti, eikä se liity Taipein metron liikennöitsijään. Epävirallinen. Se käyttää Taipein metron virallisia julkisia tietoja. Liikennehäiriöissä ja löytötavara-asioissa ota yhteyttä suoraan liikennöitsijään."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Aikataulutiedot",
-        "body": "Aikataulut, vuorovälit ja ajoajat perustuvat Taipein metron virallisiin julkisiin tietoihin ja sisältyvät itse sovellukseen, joten matkan hakeminen ei vaadi internetyhteyttä. Poikkeuksia ovat virallinen aikataulu PDF-tiedostona ja virallinen verkkokartta (Taipein metron julkaisema vektorikartta kiinaksi tai englanniksi): kumpikaan ei sisälly sovellukseen, ja kumpikin ladataan Taipein metron verkkosivustolta vain, kun napautat sen painiketta. Kyse on tavallisesta verkkopyynnöstä, emmekä saa siitä mitään tietoja. Metron aika-apuri on itsenäinen, eikä se liity Taipei Rapid Transit Corporationiin."
+        "body": "Aikataulut, vuorovälit ja ajoajat perustuvat Taipein metron virallisiin julkisiin tietoihin ja sisältyvät itse sovellukseen, joten matkan hakeminen ei vaadi internetyhteyttä. Poikkeuksia ovat virallinen aikataulu PDF-tiedostona ja virallinen verkkokartta (Taipein metron julkaisema vektorikartta kiinaksi tai englanniksi): kumpikaan ei sisälly sovellukseen, ja kumpikin ladataan Taipein metron verkkosivustolta vain, kun napautat sen painiketta. Kyse on tavallisesta verkkopyynnöstä, emmekä saa siitä mitään tietoja. Tämä sovellus on kehitetty itsenäisesti, eikä se liity Taipein metron liikennöitsijään. Epävirallinen."
       },
       {
         "id": "contact_requests",

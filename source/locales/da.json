@@ -8,7 +8,7 @@
     "support": "Hjælp",
     "privacy": "Privatliv"
   },
-  "footer": "Tidshjælp til metroen er en uafhængig app. Den er ikke tilknyttet, godkendt eller drevet af Taipei Rapid Transit Corporation. Køreplaner og rejsetider kommer fra Taipei Metros officielle offentlige data.",
+  "footer": "Denne app er udviklet uafhængigt og er ikke tilknyttet operatøren af Taipei Metro. Uofficiel. Køreplaner og rejsetider kommer fra Taipei Metros officielle offentlige data.",
   "contact": {
     "title": "Kontakt os",
     "body": "Har du spørgsmål, en køreplan der ser forkert ud, eller en idé til appen? Skriv til os. Hvis du nævner din telefonmodel, iOS- eller Android-version, appens version (vises i »Indstillinger«) og de stationer, det drejer sig om, kan vi hurtigere finde ud af det.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Er det en officiel app fra Taipei Metro?",
-        "body": "Nej. Tidshjælp til metroen er en uafhængig app og er ikke tilknyttet eller godkendt af Taipei Rapid Transit Corporation. Den bruger Taipei Metros officielle offentlige data. Ved driftsforstyrrelser eller glemte genstande skal du kontakte operatøren direkte."
+        "body": "Nej. Denne app er udviklet uafhængigt og er ikke tilknyttet operatøren af Taipei Metro. Uofficiel. Den bruger Taipei Metros officielle offentlige data. Ved driftsforstyrrelser eller glemte genstande skal du kontakte operatøren direkte."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Køreplansdata",
-        "body": "Køreplaner, togafstande og køretider kommer fra Taipei Metros officielle offentlige data og er indbygget i selve appen, så du behøver ingen internetforbindelse for at slå en rejse op. Undtagelserne er den officielle køreplan som PDF og det officielle linjekort (det vektorkort, som Taipei Metro udgiver, på kinesisk eller engelsk): Ingen af dem er indbygget i appen, og hver af dem hentes fra Taipei Metros websted, først når du trykker på den tilhørende knap, som en almindelig webforespørgsel, og vi modtager intet om det. Tidshjælp til metroen er uafhængig og ikke tilknyttet Taipei Rapid Transit Corporation."
+        "body": "Køreplaner, togafstande og køretider kommer fra Taipei Metros officielle offentlige data og er indbygget i selve appen, så du behøver ingen internetforbindelse for at slå en rejse op. Undtagelserne er den officielle køreplan som PDF og det officielle linjekort (det vektorkort, som Taipei Metro udgiver, på kinesisk eller engelsk): Ingen af dem er indbygget i appen, og hver af dem hentes fra Taipei Metros websted, først når du trykker på den tilhørende knap, som en almindelig webforespørgsel, og vi modtager intet om det. Denne app er udviklet uafhængigt og er ikke tilknyttet operatøren af Taipei Metro. Uofficiel."
       },
       {
         "id": "contact_requests",

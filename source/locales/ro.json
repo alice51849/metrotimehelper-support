@@ -8,7 +8,7 @@
     "support": "Asistență",
     "privacy": "Confidențialitate"
   },
-  "footer": "Metrou la Timp este o aplicație independentă. Nu este afiliată cu Taipei Rapid Transit Corporation și nici aprobată sau operată de aceasta. Orarele și duratele călătoriilor provin din datele publice oficiale ale metroului din Taipei.",
+  "footer": "Această aplicație este dezvoltată independent și nu este afiliată cu operatorul metroului din Taipei. Neoficială. Orarele și duratele călătoriilor provin din datele publice oficiale ale metroului din Taipei.",
   "contact": {
     "title": "Contactați-ne",
     "body": "Aveți o întrebare, ați găsit un orar care pare greșit sau aveți o idee pentru aplicație? Scrieți-ne. Dacă ne spuneți modelul telefonului, versiunea iOS sau Android, versiunea aplicației (afișată în „Configurări”) și stațiile în cauză, vom putea verifica mai repede.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Este o aplicație oficială a metroului din Taipei?",
-        "body": "Nu. Metrou la Timp este o aplicație independentă și nu este afiliată cu Taipei Rapid Transit Corporation și nici aprobată de aceasta. Folosește datele publice oficiale ale metroului din Taipei. Pentru întreruperi ale serviciului sau obiecte pierdute, vă rugăm să contactați direct operatorul."
+        "body": "Nu. Această aplicație este dezvoltată independent și nu este afiliată cu operatorul metroului din Taipei. Neoficială. Folosește datele publice oficiale ale metroului din Taipei. Pentru întreruperi ale serviciului sau obiecte pierdute, vă rugăm să contactați direct operatorul."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Datele orarelor",
-        "body": "Orarele, intervalele și duratele de parcurs provin din datele publice oficiale ale metroului din Taipei și sunt incluse în aplicație, așa că pentru a căuta o călătorie nu aveți nevoie de conexiune la internet. Excepțiile sunt PDF-ul oficial al orarului și harta oficială a rețelei (harta vectorială publicată de metroul din Taipei, în chineză sau în engleză): niciuna nu este inclusă în aplicație, iar fiecare se descarcă de pe site-ul metroului din Taipei doar când atingeți butonul ei, printr-o solicitare web obișnuită, iar noi nu primim nicio informație despre aceasta. Metrou la Timp este independentă și nu este afiliată cu Taipei Rapid Transit Corporation."
+        "body": "Orarele, intervalele și duratele de parcurs provin din datele publice oficiale ale metroului din Taipei și sunt incluse în aplicație, așa că pentru a căuta o călătorie nu aveți nevoie de conexiune la internet. Excepțiile sunt PDF-ul oficial al orarului și harta oficială a rețelei (harta vectorială publicată de metroul din Taipei, în chineză sau în engleză): niciuna nu este inclusă în aplicație, iar fiecare se descarcă de pe site-ul metroului din Taipei doar când atingeți butonul ei, printr-o solicitare web obișnuită, iar noi nu primim nicio informație despre aceasta. Această aplicație este dezvoltată independent și nu este afiliată cu operatorul metroului din Taipei. Neoficială."
       },
       {
         "id": "contact_requests",

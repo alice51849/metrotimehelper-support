@@ -8,7 +8,7 @@
     "support": "Hjälp",
     "privacy": "Integritet"
   },
-  "footer": "Tidshjälp för metron är en oberoende app. Den är inte knuten till, godkänd av eller driven av Taipei Rapid Transit Corporation. Tidtabeller och restider kommer från Taipei Metros officiella öppna data.",
+  "footer": "Den här appen är oberoende utvecklad och inte knuten till operatören av Taipei Metro. Inofficiell. Tidtabeller och restider kommer från Taipei Metros officiella öppna data.",
   "contact": {
     "title": "Kontakta oss",
     "body": "Har du frågor, en tidtabell som verkar fel eller en idé till appen? Skriv till oss. Om du anger telefonmodell, iOS- eller Android-version, appens version (visas i ”Inställningar”) och vilka stationer det gäller kan vi reda ut det snabbare.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Är det här en officiell app från Taipei Metro?",
-        "body": "Nej. Tidshjälp för metron är en oberoende app och är inte knuten till eller godkänd av Taipei Rapid Transit Corporation. Den använder Taipei Metros officiella öppna data. Vid trafikstörningar eller hittegods, kontakta operatören direkt."
+        "body": "Nej. Den här appen är oberoende utvecklad och inte knuten till operatören av Taipei Metro. Inofficiell. Den använder Taipei Metros officiella öppna data. Vid trafikstörningar eller hittegods, kontakta operatören direkt."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Tidtabellsdata",
-        "body": "Tidtabeller, turtäthet och körtider kommer från Taipei Metros officiella öppna data och ingår i själva appen, så du behöver ingen internetanslutning för att slå upp en resa. Undantagen är den officiella tidtabellen som PDF och den officiella nätkartan (vektorkartan som Taipei Metro publicerar, på kinesiska eller engelska): ingen av dem ingår i appen, och var och en laddas ner från Taipei Metros webbplats först när du trycker på dess knapp, som en vanlig webbförfrågan, och vi får inte veta något om det. Tidshjälp för metron är oberoende och inte knuten till Taipei Rapid Transit Corporation."
+        "body": "Tidtabeller, turtäthet och körtider kommer från Taipei Metros officiella öppna data och ingår i själva appen, så du behöver ingen internetanslutning för att slå upp en resa. Undantagen är den officiella tidtabellen som PDF och den officiella nätkartan (vektorkartan som Taipei Metro publicerar, på kinesiska eller engelska): ingen av dem ingår i appen, och var och en laddas ner från Taipei Metros webbplats först när du trycker på dess knapp, som en vanlig webbförfrågan, och vi får inte veta något om det. Den här appen är oberoende utvecklad och inte knuten till operatören av Taipei Metro. Inofficiell."
       },
       {
         "id": "contact_requests",

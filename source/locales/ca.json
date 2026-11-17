@@ -8,7 +8,7 @@
     "support": "Assistència",
     "privacy": "Privadesa"
   },
-  "footer": "Assistent del Metro és una app independent. No està vinculada a Taipei Rapid Transit Corporation, ni té el seu aval, ni la gestiona aquesta empresa. Els horaris i els temps de trajecte provenen de les dades públiques oficials del metro de Taipei.",
+  "footer": "Aquesta app s'ha desenvolupat de manera independent i no té cap vinculació amb l'operador del metro de Taipei. No oficial. Els horaris i els temps de trajecte provenen de les dades públiques oficials del metro de Taipei.",
   "contact": {
     "title": "Contacta amb nosaltres",
     "body": "Tens algun dubte, has vist un horari que sembla incorrecte o tens una idea per a l'app? Escriu-nos. Si ens indiques el model del teu telèfon, la versió d'iOS o d'Android, la versió de l'app (la trobaràs a «Configuració») i les estacions afectades, ho podrem revisar més de pressa.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "És una app oficial del metro de Taipei?",
-        "body": "No. Assistent del Metro és una app independent i no està vinculada a Taipei Rapid Transit Corporation ni té el seu aval. Fa servir les dades públiques oficials del metro de Taipei. Per a incidències del servei o objectes perduts, posa't en contacte directament amb l'operador."
+        "body": "No. Aquesta app s'ha desenvolupat de manera independent i no té cap vinculació amb l'operador del metro de Taipei. No oficial. Fa servir les dades públiques oficials del metro de Taipei. Per a incidències del servei o objectes perduts, posa't en contacte directament amb l'operador."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Dades dels horaris",
-        "body": "Els horaris, les freqüències i els temps de recorregut provenen de les dades públiques oficials del metro de Taipei i estan inclosos a la mateixa app, així que consultar un trajecte no requereix connexió a internet. Les excepcions són el PDF oficial de l'horari i el mapa oficial de la xarxa (el mapa vectorial que publica el metro de Taipei, en xinès o en anglès): cap dels dos no està inclòs a l'app i cadascun es baixa del web del metro de Taipei només quan toques el seu botó, com una sol·licitud web normal, i no en rebem cap informació. Assistent del Metro és independent i no està vinculada a Taipei Rapid Transit Corporation."
+        "body": "Els horaris, les freqüències i els temps de recorregut provenen de les dades públiques oficials del metro de Taipei i estan inclosos a la mateixa app, així que consultar un trajecte no requereix connexió a internet. Les excepcions són el PDF oficial de l'horari i el mapa oficial de la xarxa (el mapa vectorial que publica el metro de Taipei, en xinès o en anglès): cap dels dos no està inclòs a l'app i cadascun es baixa del web del metro de Taipei només quan toques el seu botó, com una sol·licitud web normal, i no en rebem cap informació. Aquesta app s'ha desenvolupat de manera independent i no té cap vinculació amb l'operador del metro de Taipei. No oficial."
       },
       {
         "id": "contact_requests",

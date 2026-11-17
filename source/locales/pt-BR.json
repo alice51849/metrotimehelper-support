@@ -8,7 +8,7 @@
     "support": "Suporte",
     "privacy": "Privacidade"
   },
-  "footer": "Hora do Metrô é um app independente. Ele não é afiliado à Taipei Rapid Transit Corporation, nem endossado ou operado por ela. Os horários e tempos de viagem vêm dos dados públicos oficiais do metrô de Taipei.",
+  "footer": "Este app é desenvolvido de forma independente e não é afiliado à operadora do metrô de Taipei. Não oficial. Os horários e tempos de viagem vêm dos dados públicos oficiais do metrô de Taipei.",
   "contact": {
     "title": "Fale conosco",
     "body": "Tem alguma dúvida, viu um horário que parece errado ou tem uma ideia para o app? Escreva para a gente. Informar o modelo do seu celular, a versão do iOS ou do Android, a versão do app (mostrada em “Ajustes”) e as estações envolvidas ajuda a gente a verificar mais rápido.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Este é um app oficial do metrô de Taipei?",
-        "body": "Não. Hora do Metrô é um app independente e não é afiliado à Taipei Rapid Transit Corporation nem endossado por ela. Ele usa os dados públicos oficiais do metrô de Taipei. Para interrupções no serviço ou objetos perdidos, entre em contato diretamente com a operadora."
+        "body": "Não. Este app é desenvolvido de forma independente e não é afiliado à operadora do metrô de Taipei. Não oficial. Ele usa os dados públicos oficiais do metrô de Taipei. Para interrupções no serviço ou objetos perdidos, entre em contato diretamente com a operadora."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Dados de horários",
-        "body": "Os horários, intervalos e tempos de percurso vêm dos dados públicos oficiais do metrô de Taipei e já estão incluídos no próprio app, então consultar uma viagem não exige conexão com a internet. As exceções são o PDF oficial do horário e o mapa oficial da rede (o mapa vetorial publicado pelo metrô de Taipei, em chinês ou em inglês): nenhum dos dois está incluído no app e cada um é baixado do site do metrô de Taipei somente quando você toca no botão correspondente, como uma requisição comum da web, e nós não recebemos nada sobre isso. Hora do Metrô é independente e não é afiliado à Taipei Rapid Transit Corporation."
+        "body": "Os horários, intervalos e tempos de percurso vêm dos dados públicos oficiais do metrô de Taipei e já estão incluídos no próprio app, então consultar uma viagem não exige conexão com a internet. As exceções são o PDF oficial do horário e o mapa oficial da rede (o mapa vetorial publicado pelo metrô de Taipei, em chinês ou em inglês): nenhum dos dois está incluído no app e cada um é baixado do site do metrô de Taipei somente quando você toca no botão correspondente, como uma requisição comum da web, e nós não recebemos nada sobre isso. Este app é desenvolvido de forma independente e não é afiliado à operadora do metrô de Taipei. Não oficial."
       },
       {
         "id": "contact_requests",

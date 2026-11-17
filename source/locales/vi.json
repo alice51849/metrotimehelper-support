@@ -8,7 +8,7 @@
     "support": "Hỗ trợ",
     "privacy": "Quyền riêng tư"
   },
-  "footer": "Trợ lý giờ MRT là ứng dụng độc lập, không liên kết, không được bảo trợ và không do Taipei Rapid Transit Corporation vận hành. Lịch chạy và thời gian di chuyển được lấy từ dữ liệu công khai chính thức của MRT Đài Bắc.",
+  "footer": "Ứng dụng này được phát triển độc lập và không liên kết với đơn vị vận hành MRT Đài Bắc. Không chính thức. Lịch chạy và thời gian di chuyển được lấy từ dữ liệu công khai chính thức của MRT Đài Bắc.",
   "contact": {
     "title": "Liên hệ",
     "body": "Bạn có thắc mắc, thấy lịch chạy có vẻ sai, hay có ý tưởng cho ứng dụng? Hãy viết cho chúng tôi. Nếu bạn ghi kèm mẫu điện thoại, phiên bản iOS hoặc Android, phiên bản ứng dụng (xem trong “Cài đặt”) và các ga liên quan, chúng tôi sẽ kiểm tra nhanh hơn.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Đây có phải ứng dụng chính thức của MRT Đài Bắc không?",
-        "body": "Không. Trợ lý giờ MRT là ứng dụng độc lập, không liên kết và không được Taipei Rapid Transit Corporation bảo trợ. Ứng dụng sử dụng dữ liệu công khai chính thức của MRT Đài Bắc. Khi gặp sự cố vận hành hoặc thất lạc đồ, vui lòng liên hệ trực tiếp với đơn vị vận hành."
+        "body": "Không. Ứng dụng này được phát triển độc lập và không liên kết với đơn vị vận hành MRT Đài Bắc. Không chính thức. Ứng dụng sử dụng dữ liệu công khai chính thức của MRT Đài Bắc. Khi gặp sự cố vận hành hoặc thất lạc đồ, vui lòng liên hệ trực tiếp với đơn vị vận hành."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Dữ liệu lịch chạy",
-        "body": "Lịch chạy, khoảng cách giữa các chuyến và thời gian chạy được lấy từ dữ liệu công khai chính thức của MRT Đài Bắc và có sẵn ngay trong ứng dụng, nên tra cứu hành trình không cần kết nối internet. Ngoại lệ là tệp PDF lịch chạy chính thức và sơ đồ mạng lưới chính thức (sơ đồ vector do MRT Đài Bắc phát hành, bản tiếng Trung và bản tiếng Anh): cả hai đều không có sẵn trong ứng dụng và chỉ được tải xuống từ trang web của MRT Đài Bắc khi bạn chạm vào nút tương ứng, như một yêu cầu web thông thường, và chúng tôi không nhận được bất kỳ thông tin nào về việc này. Trợ lý giờ MRT là ứng dụng độc lập và không liên kết với Taipei Rapid Transit Corporation."
+        "body": "Lịch chạy, khoảng cách giữa các chuyến và thời gian chạy được lấy từ dữ liệu công khai chính thức của MRT Đài Bắc và có sẵn ngay trong ứng dụng, nên tra cứu hành trình không cần kết nối internet. Ngoại lệ là tệp PDF lịch chạy chính thức và sơ đồ mạng lưới chính thức (sơ đồ vector do MRT Đài Bắc phát hành, bản tiếng Trung và bản tiếng Anh): cả hai đều không có sẵn trong ứng dụng và chỉ được tải xuống từ trang web của MRT Đài Bắc khi bạn chạm vào nút tương ứng, như một yêu cầu web thông thường, và chúng tôi không nhận được bất kỳ thông tin nào về việc này. Ứng dụng này được phát triển độc lập và không liên kết với đơn vị vận hành MRT Đài Bắc. Không chính thức."
       },
       {
         "id": "contact_requests",

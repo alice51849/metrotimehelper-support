@@ -8,7 +8,7 @@
     "support": "Podpora",
     "privacy": "Soukromí"
   },
-  "footer": "Metro včas je nezávislá aplikace. Není přidružena ke společnosti Taipei Rapid Transit Corporation, není jí podporována ani provozována. Jízdní řády a doby jízdy pocházejí z oficiálních veřejných dat tchajpejského metra.",
+  "footer": "Tato aplikace je vyvíjena nezávisle a nemá žádnou spojitost s provozovatelem tchajpejského metra. Neoficiální. Jízdní řády a doby jízdy pocházejí z oficiálních veřejných dat tchajpejského metra.",
   "contact": {
     "title": "Kontakt",
     "body": "Máte dotaz, zdá se vám jízdní řád chybný, nebo máte nápad na vylepšení aplikace? Napište nám. Když uvedete model telefonu, verzi iOS nebo Android, verzi aplikace (najdete ji v „Nastavení“) a stanice, o které jde, budeme se tím moci zabývat rychleji.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Je to oficiální aplikace tchajpejského metra?",
-        "body": "Ne. Metro včas je nezávislá aplikace a není přidružena ke společnosti Taipei Rapid Transit Corporation ani jí podporována. Využívá oficiální veřejná data tchajpejského metra. S výpadky provozu nebo ztrátami a nálezy se prosím obracejte přímo na dopravce."
+        "body": "Ne. Tato aplikace je vyvíjena nezávisle a nemá žádnou spojitost s provozovatelem tchajpejského metra. Neoficiální. Využívá oficiální veřejná data tchajpejského metra. S výpadky provozu nebo ztrátami a nálezy se prosím obracejte přímo na dopravce."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Data jízdních řádů",
-        "body": "Jízdní řády, intervaly a jízdní doby pocházejí z oficiálních veřejných dat tchajpejského metra a jsou přímo součástí aplikace, takže vyhledání cesty nevyžaduje připojení k internetu. Výjimkou jsou oficiální jízdní řád v PDF a oficiální schéma sítě (vektorová mapa, kterou zveřejňuje tchajpejské metro, v čínštině nebo angličtině): ani jedno není součástí aplikace a každé se stáhne z webu tchajpejského metra, až když klepnete na příslušné tlačítko, jako běžný webový požadavek, a my o tom nedostáváme žádné informace. Metro včas je nezávislá aplikace a není přidružena ke společnosti Taipei Rapid Transit Corporation."
+        "body": "Jízdní řády, intervaly a jízdní doby pocházejí z oficiálních veřejných dat tchajpejského metra a jsou přímo součástí aplikace, takže vyhledání cesty nevyžaduje připojení k internetu. Výjimkou jsou oficiální jízdní řád v PDF a oficiální schéma sítě (vektorová mapa, kterou zveřejňuje tchajpejské metro, v čínštině nebo angličtině): ani jedno není součástí aplikace a každé se stáhne z webu tchajpejského metra, až když klepnete na příslušné tlačítko, jako běžný webový požadavek, a my o tom nedostáváme žádné informace. Tato aplikace je vyvíjena nezávisle a nemá žádnou spojitost s provozovatelem tchajpejského metra. Neoficiální."
       },
       {
         "id": "contact_requests",

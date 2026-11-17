@@ -8,7 +8,7 @@
     "support": "Soporte",
     "privacy": "Privacidad"
   },
-  "footer": "Metro a Tiempo es una app independiente. No está vinculada a Taipei Rapid Transit Corporation, ni cuenta con su respaldo, ni la gestiona esta empresa. Los horarios y tiempos de viaje proceden de los datos públicos oficiales del metro de Taipéi.",
+  "footer": "Esta app se ha desarrollado de forma independiente y no está vinculada al operador del metro de Taipéi. No oficial. Los horarios y tiempos de viaje proceden de los datos públicos oficiales del metro de Taipéi.",
   "contact": {
     "title": "Contacto",
     "body": "¿Tienes alguna duda, un horario que parece incorrecto o una idea para la app? Escríbenos. Si nos indicas el modelo de tu móvil, la versión de iOS o de Android, la versión de la app (aparece en «Ajustes») y las estaciones afectadas, podremos revisarlo antes.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "¿Es una app oficial del metro de Taipéi?",
-        "body": "No. Metro a Tiempo es una app independiente y no está vinculada a Taipei Rapid Transit Corporation ni cuenta con su respaldo. Usa los datos públicos oficiales del metro de Taipéi. Para incidencias en el servicio u objetos perdidos, ponte en contacto directamente con el operador."
+        "body": "No. Esta app se ha desarrollado de forma independiente y no está vinculada al operador del metro de Taipéi. No oficial. Usa los datos públicos oficiales del metro de Taipéi. Para incidencias en el servicio u objetos perdidos, ponte en contacto directamente con el operador."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Datos de horarios",
-        "body": "Los horarios, las frecuencias y los tiempos de recorrido proceden de los datos públicos oficiales del metro de Taipéi y vienen incluidos en la propia app, así que consultar un trayecto no requiere conexión a Internet. Las excepciones son el PDF oficial del horario y el plano oficial de la red (el plano vectorial que publica el metro de Taipéi, en chino o en inglés): ninguno viene incluido en la app y cada uno se descarga de la web del metro de Taipéi solo cuando tocas su botón, como una petición web normal, y nosotros no recibimos ninguna información al respecto. Metro a Tiempo es independiente y no está vinculada a Taipei Rapid Transit Corporation."
+        "body": "Los horarios, las frecuencias y los tiempos de recorrido proceden de los datos públicos oficiales del metro de Taipéi y vienen incluidos en la propia app, así que consultar un trayecto no requiere conexión a Internet. Las excepciones son el PDF oficial del horario y el plano oficial de la red (el plano vectorial que publica el metro de Taipéi, en chino o en inglés): ninguno viene incluido en la app y cada uno se descarga de la web del metro de Taipéi solo cuando tocas su botón, como una petición web normal, y nosotros no recibimos ninguna información al respecto. Esta app se ha desarrollado de forma independiente y no está vinculada al operador del metro de Taipéi. No oficial."
       },
       {
         "id": "contact_requests",

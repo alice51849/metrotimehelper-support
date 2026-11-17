@@ -8,7 +8,7 @@
     "support": "Podrška",
     "privacy": "Privatnost"
   },
-  "footer": "Metro na vrijeme neovisna je aplikacija. Nije povezana s tvrtkom Taipei Rapid Transit Corporation, ona je ne podržava niti njome upravlja. Vozni redovi i trajanja vožnje potječu iz službenih javnih podataka metroa u Taipeiju.",
+  "footer": "Ova je aplikacija razvijena neovisno i nije povezana s upraviteljem metroa u Taipeiju. Neslužbeno. Vozni redovi i trajanja vožnje potječu iz službenih javnih podataka metroa u Taipeiju.",
   "contact": {
     "title": "Kontakt",
     "body": "Imate pitanje, vozni red koji vam se čini pogrešnim ili ideju za aplikaciju? Pišite nam. Ako navedete model telefona, verziju sustava iOS ili Android, verziju aplikacije (prikazuje se u Postavkama) i postaje o kojima je riječ, brže ćemo moći provjeriti.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Je li ovo službena aplikacija metroa u Taipeiju?",
-        "body": "Nije. Metro na vrijeme neovisna je aplikacija i nije povezana s tvrtkom Taipei Rapid Transit Corporation niti je ona podržava. Koristi službene javne podatke metroa u Taipeiju. Za smetnje u prometu ili izgubljene stvari obratite se izravno prijevozniku."
+        "body": "Nije. Ova je aplikacija razvijena neovisno i nije povezana s upraviteljem metroa u Taipeiju. Neslužbeno. Koristi službene javne podatke metroa u Taipeiju. Za smetnje u prometu ili izgubljene stvari obratite se izravno prijevozniku."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Podaci o voznom redu",
-        "body": "Vozni redovi, intervali i trajanja vožnje potječu iz službenih javnih podataka metroa u Taipeiju i sadržani su u samoj aplikaciji, pa za pretraživanje putovanja nije potrebna internetska veza. Iznimke su službeni vozni red u PDF-u i službena karta mreže (vektorska karta koju objavljuje metro u Taipeiju, na kineskom ili engleskom): nijedno od toga nije ugrađeno u aplikaciju, a svako se preuzima s web-stranice metroa u Taipeiju tek kada dodirnete pripadajući gumb, kao običan web-zahtjev, a mi o tome ne primamo nikakve podatke. Metro na vrijeme neovisna je aplikacija i nije povezana s tvrtkom Taipei Rapid Transit Corporation."
+        "body": "Vozni redovi, intervali i trajanja vožnje potječu iz službenih javnih podataka metroa u Taipeiju i sadržani su u samoj aplikaciji, pa za pretraživanje putovanja nije potrebna internetska veza. Iznimke su službeni vozni red u PDF-u i službena karta mreže (vektorska karta koju objavljuje metro u Taipeiju, na kineskom ili engleskom): nijedno od toga nije ugrađeno u aplikaciju, a svako se preuzima s web-stranice metroa u Taipeiju tek kada dodirnete pripadajući gumb, kao običan web-zahtjev, a mi o tome ne primamo nikakve podatke. Ova je aplikacija razvijena neovisno i nije povezana s upraviteljem metroa u Taipeiju. Neslužbeno."
       },
       {
         "id": "contact_requests",

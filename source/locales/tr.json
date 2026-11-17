@@ -8,7 +8,7 @@
     "support": "Destek",
     "privacy": "Gizlilik"
   },
-  "footer": "Metro Saat Yardımcısı bağımsız bir uygulamadır. Taipei Rapid Transit Corporation ile bağlantılı değildir, bu kuruluş tarafından onaylanmamıştır ve işletilmemektedir. Tarifeler ve yolculuk süreleri Taipei Metrosu'nun resmî açık verilerinden alınır.",
+  "footer": "Bu uygulama bağımsız olarak geliştirilmiştir ve Taipei Metrosu'nun işletmecisiyle bağlantılı değildir. Resmî değildir. Tarifeler ve yolculuk süreleri Taipei Metrosu'nun resmî açık verilerinden alınır.",
   "contact": {
     "title": "Bize ulaşın",
     "body": "Bir sorunuz mu var, bir tarife yanlış mı görünüyor ya da uygulama için bir fikriniz mi var? Bize yazın. Telefon modelinizi, iOS veya Android sürümünüzü, uygulama sürümünü (“Ayarlar”da görünür) ve ilgili istasyonları belirtirseniz konuyu daha hızlı inceleyebiliriz.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Bu resmî bir Taipei Metrosu uygulaması mı?",
-        "body": "Hayır. Metro Saat Yardımcısı bağımsız bir uygulamadır; Taipei Rapid Transit Corporation ile bağlantılı değildir ve bu kuruluş tarafından onaylanmamıştır. Taipei Metrosu'nun resmî açık verilerini kullanır. Sefer aksaklıkları veya kayıp eşyalar için lütfen doğrudan işletmeciyle iletişime geçin."
+        "body": "Hayır. Bu uygulama bağımsız olarak geliştirilmiştir ve Taipei Metrosu'nun işletmecisiyle bağlantılı değildir. Resmî değildir. Taipei Metrosu'nun resmî açık verilerini kullanır. Sefer aksaklıkları veya kayıp eşyalar için lütfen doğrudan işletmeciyle iletişime geçin."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Tarife verileri",
-        "body": "Tarifeler, sefer aralıkları ve seyahat süreleri Taipei Metrosu'nun resmî açık verilerinden alınır ve uygulamanın içinde yer alır; bu yüzden bir yolculuğa bakmak için internet bağlantısı gerekmez. İstisnalar resmî tarife PDF'i ile resmî ağ haritasıdır (Taipei Metrosu'nun yayımladığı vektör harita, Çince veya İngilizce): hiçbiri uygulamanın içinde yer almaz ve her biri, ilgili düğmeye dokunduğunuzda sıradan bir web isteğiyle Taipei Metrosu'nun web sitesinden indirilir ve biz bununla ilgili hiçbir bilgi almayız. Metro Saat Yardımcısı bağımsızdır ve Taipei Rapid Transit Corporation ile bağlantılı değildir."
+        "body": "Tarifeler, sefer aralıkları ve seyahat süreleri Taipei Metrosu'nun resmî açık verilerinden alınır ve uygulamanın içinde yer alır; bu yüzden bir yolculuğa bakmak için internet bağlantısı gerekmez. İstisnalar resmî tarife PDF'i ile resmî ağ haritasıdır (Taipei Metrosu'nun yayımladığı vektör harita, Çince veya İngilizce): hiçbiri uygulamanın içinde yer almaz ve her biri, ilgili düğmeye dokunduğunuzda sıradan bir web isteğiyle Taipei Metrosu'nun web sitesinden indirilir ve biz bununla ilgili hiçbir bilgi almayız. Bu uygulama bağımsız olarak geliştirilmiştir ve Taipei Metrosu'nun işletmecisiyle bağlantılı değildir. Resmî değildir."
       },
       {
         "id": "contact_requests",

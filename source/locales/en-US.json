@@ -8,7 +8,7 @@
     "support": "Support",
     "privacy": "Privacy"
   },
-  "footer": "Metro Time Helper is an independent app. It is not affiliated with, endorsed by, or operated by Taipei Rapid Transit Corporation. Timetables and travel times come from Taipei Metro's official public data.",
+  "footer": "This app is independently developed and is not affiliated with the operator of the Taipei Metro. Unofficial. Timetables and travel times come from Taipei Metro's official public data.",
   "contact": {
     "title": "Contact us",
     "body": "Questions, a timetable that looks wrong, or an idea for the app? Write to us. Mentioning your phone model, iOS or Android version, the app version (shown in Settings), and the stations involved helps us look into it faster.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Is this an official Taipei Metro app?",
-        "body": "No. Metro Time Helper is an independent app and is not affiliated with or endorsed by Taipei Rapid Transit Corporation. It uses Taipei Metro's official public data. For service disruptions or lost property, please contact the operator directly."
+        "body": "No. This app is independently developed and is not affiliated with the operator of the Taipei Metro. Unofficial. It uses Taipei Metro's official public data. For service disruptions or lost property, please contact the operator directly."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Timetable data",
-        "body": "Timetables, headways, and run times come from Taipei Metro's official public data and are included in the app itself, so looking up a trip does not require an internet connection. The exceptions are the official timetable PDF and the official network map (the vector map published by Taipei Metro, in Chinese or English): each is downloaded from Taipei Metro's website only when you tap its button, as an ordinary web request, and we receive nothing about it. Metro Time Helper is independent and not affiliated with Taipei Rapid Transit Corporation."
+        "body": "Timetables, headways, and run times come from Taipei Metro's official public data and are included in the app itself, so looking up a trip does not require an internet connection. The exceptions are the official timetable PDF and the official network map (the vector map published by Taipei Metro, in Chinese or English): each is downloaded from Taipei Metro's website only when you tap its button, as an ordinary web request, and we receive nothing about it. This app is independently developed and is not affiliated with the operator of the Taipei Metro. Unofficial."
       },
       {
         "id": "contact_requests",

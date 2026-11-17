@@ -8,7 +8,7 @@
     "support": "Pomoc",
     "privacy": "Prywatność"
   },
-  "footer": "Metro na czas to niezależna aplikacja. Nie jest powiązana z Taipei Rapid Transit Corporation, nie ma jej poparcia ani nie jest przez nią prowadzona. Rozkłady jazdy i czasy przejazdu pochodzą z oficjalnych danych publicznych metra w Tajpej.",
+  "footer": "Ta aplikacja jest rozwijana niezależnie i nie jest powiązana z operatorem metra w Tajpej. Nieoficjalna. Rozkłady jazdy i czasy przejazdu pochodzą z oficjalnych danych publicznych metra w Tajpej.",
   "contact": {
     "title": "Kontakt",
     "body": "Masz pytanie, rozkład wygląda na błędny albo masz pomysł na aplikację? Napisz do nas. Podaj model telefonu, wersję iOS lub Androida, wersję aplikacji (widoczną w menu „Ustawienia”) oraz stacje, których dotyczy sprawa, a szybciej się temu przyjrzymy.",
@@ -136,7 +136,7 @@
       {
         "id": "independence",
         "title": "Czy to oficjalna aplikacja metra w Tajpej?",
-        "body": "Nie. Metro na czas to niezależna aplikacja, niepowiązana z Taipei Rapid Transit Corporation ani przez nią niepopierana. Korzysta z oficjalnych danych publicznych metra w Tajpej. W sprawie zakłóceń w kursowaniu lub rzeczy znalezionych skontaktuj się bezpośrednio z przewoźnikiem."
+        "body": "Nie. Ta aplikacja jest rozwijana niezależnie i nie jest powiązana z operatorem metra w Tajpej. Nieoficjalna. Korzysta z oficjalnych danych publicznych metra w Tajpej. W sprawie zakłóceń w kursowaniu lub rzeczy znalezionych skontaktuj się bezpośrednio z przewoźnikiem."
       }
     ]
   },
@@ -184,7 +184,7 @@
       {
         "id": "data_sources",
         "title": "Dane rozkładowe",
-        "body": "Rozkłady jazdy, odstępy między pociągami i czasy przejazdu pochodzą z oficjalnych danych publicznych metra w Tajpej i są zawarte w samej aplikacji, więc sprawdzenie podróży nie wymaga połączenia z internetem. Wyjątkami są oficjalny rozkład jazdy w PDF i oficjalna mapa sieci (mapa wektorowa publikowana przez metro w Tajpej, po chińsku lub angielsku): żadne z nich nie jest wbudowane w aplikację, a każde jest pobierane ze strony internetowej metra w Tajpej dopiero po dotknięciu odpowiedniego przycisku, jako zwykłe zapytanie do strony, a my nie otrzymujemy na ten temat żadnych informacji. Metro na czas jest aplikacją niezależną i niepowiązaną z Taipei Rapid Transit Corporation."
+        "body": "Rozkłady jazdy, odstępy między pociągami i czasy przejazdu pochodzą z oficjalnych danych publicznych metra w Tajpej i są zawarte w samej aplikacji, więc sprawdzenie podróży nie wymaga połączenia z internetem. Wyjątkami są oficjalny rozkład jazdy w PDF i oficjalna mapa sieci (mapa wektorowa publikowana przez metro w Tajpej, po chińsku lub angielsku): żadne z nich nie jest wbudowane w aplikację, a każde jest pobierane ze strony internetowej metra w Tajpej dopiero po dotknięciu odpowiedniego przycisku, jako zwykłe zapytanie do strony, a my nie otrzymujemy na ten temat żadnych informacji. Ta aplikacja jest rozwijana niezależnie i nie jest powiązana z operatorem metra w Tajpej. Nieoficjalna."
       },
       {
         "id": "contact_requests",
