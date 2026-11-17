@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Findes der en Android-version?",
-        "body": "Ja. Tidshjælp til metroen fås til iPhone, iPad og Apple Watch i App Store og til Android i Google Play. Android-versionen bruger de samme officielle data fra Taipei Metro, indsamler ingen personoplysninger og har widgets til hjemmeskærmen med det næste tog på sidelinjerne til Xiaobitan og Beitou · Xinbeitou. Hvis påmindelserne ikke kommer frem på Android, så tjek, at notifikationer er tilladt for appen i systemets indstillinger. Prøveperioden og købet på Android håndteres af Google Play."
+        "body": "Ja. Tidshjælp til metroen fås til iPhone, iPad og Apple Watch i App Store og til Android i Google Play. Android-versionen bruger de samme officielle data fra Taipei Metro, indsamler ingen personoplysninger og har widgets til hjemmeskærmen med det næste tog på sidelinjerne til Xiaobitan og Beitou · Xinbeitou. Hvis påmindelserne ikke kommer frem på Android, så tjek, at notifikationer er tilladt for appen i systemets indstillinger. Android-versionen er en betalt download, og betalingen håndteres af Google Play."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Android-version (Google Play)",
-        "body": "Tidshjælp til metroen fås også til Android via Google Play, og alt på denne side gælder også for den. Android-versionen indsamler eller sender ingen personoplysninger, viser ingen reklamer og bruger ingen analyse. Dine indstillinger, påmindelser og starttidspunktet for prøveperioden gemmes kun på din enhed. Betalingen håndteres af Google Play, og appen ser aldrig dine betalingsoplysninger. Tilladelsen til internet bruges kun til at hente den officielle køreplan som PDF fra Taipei Metros websted, når du trykker for at åbne den. Appen beder også om tilladelse til notifikationer, som kun bruges til de afgangspåmindelser, du selv indstiller, og som du kan afvise; til broadcasten om, at opstarten er færdig, så dine påmindelser planlægges igen, når telefonen er genstartet; og til Google Play Billing, så appen kan tjekke status for prøveperioden og købet. Widgets på hjemmeskærmen med det næste tog på sidelinjerne til Xiaobitan og Beitou · Xinbeitou bruger kun køreplansdata inde i appen."
+        "body": "Tidshjælp til metroen fås også til Android via Google Play, og alt på denne side gælder også for den. Android-versionen indsamler eller sender ingen personoplysninger, viser ingen reklamer og bruger ingen analyse. Dine indstillinger og påmindelser gemmes kun på din enhed. Betalingen håndteres af Google Play, og appen ser aldrig dine betalingsoplysninger. Tilladelsen til internet bruges kun til at hente den officielle køreplan som PDF fra Taipei Metros websted, når du trykker for at åbne den. Appen beder også om tilladelse til notifikationer, som kun bruges til de afgangspåmindelser, du selv indstiller, og som du kan afvise; og til broadcasten om, at opstarten er færdig, så dine påmindelser planlægges igen, når telefonen er genstartet. Widgets på hjemmeskærmen med det næste tog på sidelinjerne til Xiaobitan og Beitou · Xinbeitou bruger kun køreplansdata inde i appen."
       },
       {
         "id": "notifications",

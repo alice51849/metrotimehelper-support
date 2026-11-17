@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Ali obstaja različica za Android?",
-        "body": "Da. Metro pravočasno je na voljo za iPhone, iPad in Apple Watch v App Store ter za Android v Google Play. Različica za Android uporablja iste uradne podatke tajpejskega metroja, ne zbira osebnih podatkov in ima pripomočke na začetnem zaslonu za naslednji vlak na odcepih Xiaobitan in Beitou · Xinbeitou. Če opomniki v sistemu Android ne prispejo, preverite, ali so v sistemskih nastavitvah za aplikacijo dovoljena obvestila. Preizkus in nakup v sistemu Android obravnava Google Play."
+        "body": "Da. Metro pravočasno je na voljo za iPhone, iPad in Apple Watch v App Store ter za Android v Google Play. Različica za Android uporablja iste uradne podatke tajpejskega metroja, ne zbira osebnih podatkov in ima pripomočke na začetnem zaslonu za naslednji vlak na odcepih Xiaobitan in Beitou · Xinbeitou. Če opomniki v sistemu Android ne prispejo, preverite, ali so v sistemskih nastavitvah za aplikacijo dovoljena obvestila. Različica za Android je plačljiv prenos, plačilo pa obravnava Google Play."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Različica za Android (Google Play)",
-        "body": "Metro pravočasno je prek Google Play na voljo tudi za Android in vse, kar piše na tej strani, velja tudi zanjo. Različica za Android ne zbira in ne pošilja osebnih podatkov, ne prikazuje oglasov in ne uporablja analitike. Vaše nastavitve, opomniki in začetek preizkusa so shranjeni samo v vaši napravi. Plačilo obravnava Google Play, aplikacija pa plačilnih podatkov nikoli ne vidi. Dovoljenje Internet se uporablja samo za prenos uradnega voznega reda v PDF s spletnega mesta tajpejskega metroja, ko tapnete, da ga odprete. Aplikacija zaprosi tudi za dovoljenje za obvestila, ki se uporabljajo samo za opomnike za odhod, ki jih nastavite, in ga lahko zavrnete; za dovoljenje za prejem signala o zaključenem zagonu sistema, da se vaši opomniki po ponovnem zagonu telefona znova načrtujejo; in za Google Play Billing, da preveri stanje preizkusa in nakupa. Pripomočki na začetnem zaslonu za naslednji vlak na odcepih Xiaobitan in Beitou · Xinbeitou uporabljajo samo podatke voznega reda v aplikaciji."
+        "body": "Metro pravočasno je prek Google Play na voljo tudi za Android in vse, kar piše na tej strani, velja tudi zanjo. Različica za Android ne zbira in ne pošilja osebnih podatkov, ne prikazuje oglasov in ne uporablja analitike. Vaše nastavitve in opomniki so shranjeni samo v vaši napravi. Plačilo obravnava Google Play, aplikacija pa plačilnih podatkov nikoli ne vidi. Dovoljenje Internet se uporablja samo za prenos uradnega voznega reda v PDF s spletnega mesta tajpejskega metroja, ko tapnete, da ga odprete. Aplikacija zaprosi tudi za dovoljenje za obvestila, ki se uporabljajo samo za opomnike za odhod, ki jih nastavite, in ga lahko zavrnete; in za dovoljenje za prejem signala o zaključenem zagonu sistema, da se vaši opomniki po ponovnem zagonu telefona znova načrtujejo. Pripomočki na začetnem zaslonu za naslednji vlak na odcepih Xiaobitan in Beitou · Xinbeitou uporabljajo samo podatke voznega reda v aplikaciji."
       },
       {
         "id": "notifications",

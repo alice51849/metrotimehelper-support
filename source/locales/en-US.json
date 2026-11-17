@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Is there an Android version?",
-        "body": "Yes. Metro Time Helper is offered for iPhone, iPad, and Apple Watch on the App Store, and for Android on Google Play. The Android version uses the same official Taipei Metro data, collects no personal data, and has home screen widgets for the next train on the Xiaobitan and Beitou · Xinbeitou branches. If reminders do not arrive on Android, make sure notifications are allowed for the app in the system Settings. The trial and the purchase on Android are handled by Google Play."
+        "body": "Yes. Metro Time Helper is offered for iPhone, iPad, and Apple Watch on the App Store, and for Android on Google Play. The Android version uses the same official Taipei Metro data, collects no personal data, and has home screen widgets for the next train on the Xiaobitan and Beitou · Xinbeitou branches. If reminders do not arrive on Android, make sure notifications are allowed for the app in the system Settings. On Android the app is a paid download, and payment is handled by Google Play."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Android version (Google Play)",
-        "body": "Metro Time Helper is also offered for Android through Google Play, and everything on this page applies to it as well. The Android version does not collect or transmit personal data, shows no ads, and uses no analytics. Your settings, reminders, and the start time of the trial are stored only on your device. Payment is handled by Google Play, and the app never sees your payment details. The Internet permission is used only to download the official timetable PDF from Taipei Metro's website when you tap to open it. The app also asks for notifications, used only for the departure reminders you set and which you may decline; for the boot-completed broadcast, so that your reminders are scheduled again after the phone restarts; and for Google Play Billing, to check the trial and purchase status. The home screen widgets for the next train on the Xiaobitan and Beitou · Xinbeitou branches use only the timetable data inside the app."
+        "body": "Metro Time Helper is also offered for Android through Google Play, and everything on this page applies to it as well. The Android version does not collect or transmit personal data, shows no ads, and uses no analytics. Your settings and reminders are stored only on your device. Payment is handled by Google Play, and the app never sees your payment details. The Internet permission is used only to download the official timetable PDF from Taipei Metro's website when you tap to open it. The app also asks for notifications, used only for the departure reminders you set and which you may decline; and for the boot-completed broadcast, so that your reminders are scheduled again after the phone restarts. The home screen widgets for the next train on the Xiaobitan and Beitou · Xinbeitou branches use only the timetable data inside the app."
       },
       {
         "id": "notifications",

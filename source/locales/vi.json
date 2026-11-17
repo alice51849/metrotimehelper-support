@@ -131,7 +131,7 @@
       {
         "id": "platforms",
         "title": "Có phiên bản Android không?",
-        "body": "Có. Trợ lý giờ MRT có cho iPhone, iPad và Apple Watch trên App Store, và cho Android trên Google Play. Phiên bản Android dùng cùng dữ liệu chính thức của MRT Đài Bắc, không thu thập dữ liệu cá nhân và có tiện ích trên màn hình chính cho chuyến tàu kế tiếp của tuyến nhánh Xiaobitan và Beitou · Xinbeitou. Nếu lời nhắc không đến trên Android, hãy đảm bảo thông báo được cho phép cho ứng dụng trong Cài đặt hệ thống. Việc dùng thử và mua trên Android do Google Play xử lý."
+        "body": "Có. Trợ lý giờ MRT có cho iPhone, iPad và Apple Watch trên App Store, và cho Android trên Google Play. Phiên bản Android dùng cùng dữ liệu chính thức của MRT Đài Bắc, không thu thập dữ liệu cá nhân và có tiện ích trên màn hình chính cho chuyến tàu kế tiếp của tuyến nhánh Xiaobitan và Beitou · Xinbeitou. Nếu lời nhắc không đến trên Android, hãy đảm bảo thông báo được cho phép cho ứng dụng trong Cài đặt hệ thống. Phiên bản Android là bản tải về có trả phí, và việc thanh toán do Google Play xử lý."
       },
       {
         "id": "independence",
@@ -169,7 +169,7 @@
       {
         "id": "android",
         "title": "Phiên bản Android (Google Play)",
-        "body": "Trợ lý giờ MRT cũng có cho Android trên Google Play, và mọi nội dung trên trang này đều áp dụng cho bản đó. Phiên bản Android không thu thập hay truyền dữ liệu cá nhân, không hiển thị quảng cáo và không dùng công cụ phân tích. Cài đặt, lời nhắc và thời điểm bắt đầu dùng thử chỉ được lưu trên thiết bị của bạn. Việc thanh toán do Google Play xử lý, và ứng dụng không bao giờ thấy thông tin thanh toán của bạn. Quyền Internet chỉ dùng để tải tệp PDF lịch chạy chính thức từ trang web của MRT Đài Bắc khi bạn chạm để mở. Ứng dụng cũng xin quyền thông báo, chỉ dùng cho các lời nhắc giờ khởi hành do bạn đặt và bạn có thể từ chối; quyền nhận tín hiệu hoàn tất khởi động, để lời nhắc của bạn được lên lịch lại sau khi điện thoại khởi động lại; và Google Play Billing, để kiểm tra trạng thái dùng thử và mua. Các tiện ích trên màn hình chính cho chuyến tàu kế tiếp của tuyến nhánh Xiaobitan và Beitou · Xinbeitou chỉ dùng dữ liệu lịch chạy có sẵn trong ứng dụng."
+        "body": "Trợ lý giờ MRT cũng có cho Android trên Google Play, và mọi nội dung trên trang này đều áp dụng cho bản đó. Phiên bản Android không thu thập hay truyền dữ liệu cá nhân, không hiển thị quảng cáo và không dùng công cụ phân tích. Cài đặt và lời nhắc chỉ được lưu trên thiết bị của bạn. Việc thanh toán do Google Play xử lý, và ứng dụng không bao giờ thấy thông tin thanh toán của bạn. Quyền Internet chỉ dùng để tải tệp PDF lịch chạy chính thức từ trang web của MRT Đài Bắc khi bạn chạm để mở. Ứng dụng cũng xin quyền thông báo, chỉ dùng cho các lời nhắc giờ khởi hành do bạn đặt và bạn có thể từ chối; và quyền nhận tín hiệu hoàn tất khởi động, để lời nhắc của bạn được lên lịch lại sau khi điện thoại khởi động lại. Các tiện ích trên màn hình chính cho chuyến tàu kế tiếp của tuyến nhánh Xiaobitan và Beitou · Xinbeitou chỉ dùng dữ liệu lịch chạy có sẵn trong ứng dụng."
       },
       {
         "id": "notifications",
