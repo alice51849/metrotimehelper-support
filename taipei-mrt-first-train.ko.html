@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>타이베이 지하철 첫차로 새벽 일정 시작할 때, 몇 시에 나가야 할까｜비공식 앱 안내</title>
+<meta name="description" content="이른 아침 투어 집결, 새벽 일정이 있는 날 타이베이 지하철 첫차 시간대에 출발 시각을 거꾸로 계산하는 방법. App Store 앱 소개 기준으로 앱이 하는 일과 하지 않는 일을 정리했습니다.">
+<link rel="canonical" href="https://open.cait518.cc/metrotimehelper-support/taipei-mrt-first-train.ko.html">
+<meta property="og:title" content="타이베이 지하철 첫차로 새벽 일정 시작할 때, 몇 시에 나가야 할까｜비공식 앱 안내">
+<meta property="og:description" content="이른 아침 투어 집결, 새벽 일정이 있는 날 타이베이 지하철 첫차 시간대에 출발 시각을 거꾸로 계산하는 방법. App Store 앱 소개 기준으로 앱이 하는 일과 하지 않는 일을 정리했습니다.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://open.cait518.cc/metrotimehelper-support/taipei-mrt-first-train.ko.html">
+<meta name="apple-itunes-app" content="app-id=6819061896, affiliate-data=pt=118326163&amp;ct=sqd1119c_metro_kr_ft&amp;mt=8">
+<style>
+:root{color-scheme:light dark;--bg:#fbfaf7;--fg:#1d1d1f;--muted:#5f6368;--line:rgba(128,128,128,.22);--accent:#2f6fde;--card:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#141416;--fg:#ececf0;--muted:#a3a3ab;--card:#1d1d21;--accent:#7aa7ff}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.75 -apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","PingFang TC","Noto Sans CJK TC","Apple SD Gothic Neo",Roboto,sans-serif}
+a{color:var(--accent)}
+.helpdoc{max-width:820px;margin:0 auto;padding:28px 16px 64px}
+.helpdoc h1{font-size:clamp(26px,4.4vw,36px);line-height:1.3;margin:.2em 0 .4em}
+.helpdoc h2{font-size:clamp(19px,2.8vw,24px);margin:2.1em 0 .6em;scroll-margin-top:16px}
+.helpdoc h3{font-size:17px;margin:1.5em 0 .35em}
+.helpdoc .lede{font-size:17.5px;color:var(--muted);margin:0 0 1.4em}
+.helpdoc .hd-nav{display:flex;flex-wrap:wrap;gap:14px;font-size:14px;margin:0 0 20px}
+.helpdoc .hd-toc{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 8px;padding:0;list-style:none}
+.helpdoc .hd-toc a{display:inline-block;padding:5px 12px;border:1px solid var(--line);border-radius:999px;font-size:13.5px;text-decoration:none}
+.helpdoc .tbl{overflow-x:auto;margin:.8em 0}
+.helpdoc table{width:100%;border-collapse:collapse;font-size:15px}
+.helpdoc th,.helpdoc td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+.helpdoc th{font-weight:650;white-space:nowrap}
+.helpdoc .box{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 18px;margin:1em 0}
+.helpdoc .cta{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 20px;margin:2.4em 0 1em}
+.helpdoc .cta a.btn{display:inline-block;margin:6px 0;padding:11px 20px;border-radius:999px;background:var(--accent);color:#fff;font-weight:650;text-decoration:none}
+.helpdoc .hd-q{margin:1.4em 0 .3em;font-weight:650;font-size:16.5px}
+.helpdoc .hd-a{margin:0 0 .2em}
+.helpdoc .hd-note{font-size:13px;color:var(--muted);margin-top:2.6em;border-top:1px solid var(--line);padding-top:14px}
+.helpdoc ul,.helpdoc ol{padding-left:1.25em}
+.helpdoc li{margin:.3em 0}
+@media print{.hd-nav,.cta,.hd-toc{display:none}body{background:#fff;color:#000}}
+</style>
+</head>
+<body>
+<p class="first-party-disclosure" data-first-party-disclosure="banner" role="note" style="margin:0;padding:8px 16px;background:#f3f4f6;color:#1f2937;border-bottom:1px solid #d1d5db;font-size:13px;line-height:1.5;text-align:center">이 사이트는 앱 개발자 Lumi Studio가 운영하며, 저희가 만든 앱을 소개합니다.</p>
+<main class="helpdoc">
+<nav class="hd-nav"><a href="./ko/">지원 홈</a><a href="./taipei-mrt-last-train-qa.ko.html">막차·출발 시간 Q&amp;A</a><a href="https://apps.apple.com/kr/app/id6819061896?pt=118326163&amp;ct=sqd1119c_metro_kr_ft&amp;mt=8">타이베이 지하철 시간 도우미</a></nav>
+<h1>타이베이 지하철 첫차로 새벽 일정 시작하는 날, 몇 시에 나가야 할까</h1>
+<p class="lede">이른 아침 투어 집결 시간이 잡혀 있거나 새벽부터 움직여야 하는 날, 제일 마음 졸이는 건 “첫차가 벌써 다니나? 몇 시에 역에 들어가면 늦지 않지?”입니다. 첫차 시간대에 타이베이 지하철 시간 도우미를 어떻게 쓰면 되는지, 그리고 이 앱이 해 주지 않는 건 무엇인지 App Store 앱 소개를 기준으로 정리했습니다.</p>
+<div class="box">
+<p><strong>먼저 알아 두세요.</strong> 이 페이지에는 첫차 시각을 숫자로 적지 않았습니다. 노선과 역, 요일에 따라 다르고 바뀔 수도 있으니 정확한 시각은 역 안내나 운영 기관 공지로 확인해 주세요. 앱이 보여 주는 시간도 공식적으로 공개된 배차 간격과 역간 운행 시간을 바탕으로 한 예상치이며, 실시간 운행 정보가 아닙니다. 이 앱과 페이지는 모두 비공식입니다.</p>
+</div>
+<ul class="hd-toc"><li><a href="#why">새벽엔 왜 거꾸로</a></li><li><a href="#night">전날 밤 준비</a></li><li><a href="#cases">상황별 활용</a></li><li><a href="#limits">앱이 하지 않는 일</a></li></ul>
+
+<h2 id="why">새벽 일정은 “언제 도착하나”보다 “언제 나가나”가 문제</h2>
+<p>보통 길찾기 앱은 지금 출발하면 몇 시에 도착하는지를 알려 줍니다. 그런데 새벽 일정은 도착해야 할 시각이 이미 정해져 있죠. 궁금한 건 그 반대, 숙소에서 언제 나서야 하느냐입니다.</p>
+<p>이 앱은 바로 그 방향으로 계산합니다. 현재 역과 목적지 역, 도착하고 싶은 시각을 고르면 환승까지 포함해 늦어도 몇 시에 역에 들어가야 하는지 알려 줍니다. 그리고 첫차와 막차 시간대에는 경고를 띄웁니다. 새벽에 경로를 짜다가 경고가 보이면 “지금은 첫차 무렵이니 실제 운행을 한 번 더 확인하자”는 신호로 받아들이면 됩니다.</p>
+
+<h2 id="night">전날 밤, 자기 전에 해 두면 좋은 것</h2>
+<ol>
+<li><strong>MRT 경로 모드에서 역 고르기.</strong> 숙소 근처 역과 목적지 역을 고릅니다. 내장 노선도에서 역을 눌러 출발역이나 도착역으로 지정해도 되고, 고른 경로는 노선도 위에 그려집니다.</li>
+<li><strong>도착 시각 넣기.</strong> 집결 시간 등 꼭 도착해야 하는 시각을 넣으면, 역에 들어가야 할 가장 늦은 시각과 승차·환승 구간별 타임라인이 바로 나옵니다.</li>
+<li><strong>대기 시간은 “여유 있게”로.</strong> 대기 시간 계산은 “표준”(배차 간격의 절반)과 “여유 있게”(배차 간격 전체) 중에서 고를 수 있습니다. 한 대 놓치면 일정이 통째로 꼬이는 아침이라면 “여유 있게”가 마음 편합니다.</li>
+<li><strong>역에 들어가기까지의 여유 시간 조절.</strong> 앱에서 이 여유 시간도 따로 조절할 수 있습니다.</li>
+<li><strong>알림 켜기.</strong> 출발할 때가 되면 “이제 출발하세요” 알림이 옵니다. 알림을 설정해 두면 iPhone 잠금 화면과 Dynamic Island에서 출발해야 할 시각까지 실시간으로 카운트다운됩니다.</li>
+</ol>
+<p>알림은 기기 안에서만 예약되고, 계산도 모두 기기 안에서 이루어집니다.</p>
+
+<h2 id="cases">이런 아침엔 이렇게</h2>
+<div class="tbl"><table>
+<thead><tr><th>상황</th><th>앱에서 쓸 기능</th></tr></thead>
+<tbody>
+<tr><td>투어 집결 시각이 정해져 있다</td><td>MRT 경로 모드에 도착 시각을 넣고, 역에 들어가야 할 가장 늦은 시각을 확인</td></tr>
+<tr><td>일단 숙소를 나왔는데 몇 시에 닿을지 궁금하다</td><td>“지금 출발”로 바꿔 도착 시각 확인</td></tr>
+<tr><td>아침 일찍 신베이터우 온천 마을로 간다</td><td>베이터우~신베이터우 지선은 공식 고정 시간표 기반으로 다음 열차 카운트다운, 전체 시간표, 출발 전 알림 지원</td></tr>
+<tr><td>샤오비탄 쪽 지선을 탄다</td><td>치장~샤오비탄 지선도 공식 고정 시간표로 오늘·평일·주말과 공휴일 시간표, 출발 1~30분 전 알림, 공식 원본 시간표 PDF 확인</td></tr>
+<tr><td>짐 들고 휴대폰 꺼내기 귀찮다</td><td>독립형 Apple Watch 앱에서 모드 전환, 역 선택, 카운트다운, 시계 화면 컴플리케이션</td></tr>
+<tr><td>홈 화면에서 바로 보고 싶다</td><td>스마트 위젯 하나가 지금 쓰는 모드를 그대로 따라가고, 마지막 업데이트 시각도 표시</td></tr>
+</tbody>
+</table></div>
+
+<h2 id="limits">이 앱이 해 주지 않는 일</h2>
+<ul>
+<li><strong>실시간 운행 정보는 아닙니다.</strong> 공식 배차 간격과 역간 운행 시간을 바탕으로 한 예상치입니다. 실제 운행은 역 안내를 확인해 주세요.</li>
+<li><strong>공항철도와 경전철은 포함하지 않습니다.</strong> 새벽 비행기 때문에 공항철도를 탈 예정이라면, 앱은 공항철도로 갈아타기 전 지하철 구간까지만 계산합니다. 공항철도 운행 시각은 따로 확인하세요.</li>
+<li><strong>노선별 첫차 시각표를 보여 준다는 설명은 없습니다.</strong> 앱 소개에 나온 것은 첫차·막차 시간대 경고이며, 전체 시간표는 베이터우~신베이터우, 치장~샤오비탄 두 지선에서 제공합니다.</li>
+</ul>
+<p>지원 노선은 원후선, 단수이신이선(신베이터우 지선 포함), 쑹산신뎬선(샤오비탄 지선 포함), 중허신루선, 반난선, 환상선 1단계, 신베이 지하철 싼잉선(딩푸~잉거)입니다.</p>
+
+<div class="cta">
+<p>한국어를 포함한 50개 언어를 지원하고, 회원 가입이 필요 없으며 개인정보를 수집하지 않습니다. 한 번 구매로 처음 실행하는 순간부터 모든 기능을 쓸 수 있고, 구독·앱 내 구입·광고가 없습니다. iPhone, iPad, Apple Watch에서 사용할 수 있습니다.</p>
+<p><a class="btn" href="https://apps.apple.com/kr/app/id6819061896?pt=118326163&amp;ct=sqd1119c_metro_kr_ft&amp;mt=8">App Store에서 타이베이 지하철 시간 도우미 보기</a></p>
+<p><a class="btn" href="https://play.google.com/store/apps/details?id=com.alice51849.metrotimehelper.paid&amp;referrer=utm_source%3Dsqd1119c_metro_kr_ft%26utm_campaign%3Dmetrotimehelper">Google Play에서 보기</a></p>
+</div>
+
+<p class="hd-note">이 페이지는 앱 개발자가 AI의 도움을 받아 작성했으며, App Store 한국 앱 소개(2026-11-19 확인)와 대조했습니다. 이 앱은 독립적으로 개발되었으며 타이베이 지하철 운영 기관과 관련이 없는 비공식 앱입니다. 최종 업데이트: 2026-11-19.</p>
+</main>
+</body>
+</html>
