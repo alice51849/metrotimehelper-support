@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ja">
+<!--
+  意図頁：台北MRTの終電（日本からの旅行者向け）／小組 D 2026-11-20／ct=sqd1120a_metro_jp_lt
+  検索需要の証拠（Google サジェスト hl=ja gl=jp、2026-11-19 取得）：
+    「台北 終電」→ 台北 終電 何時／九份 台北 終電／十分 から 台北 終電／桃園 空港 台北 終電
+    「台北 MRT 終電」→ 台北 mrt 終電 時間／台北 mrt 始発 終電／台北 桃園空港 mrt 終電
+    「MRT 終電」→ mrt 終電 台湾／mrt 終電 台北
+  アプリ機能の記述は App Store 日本の説明文（2026-11-19 読み取り、v1.1.1）にある内容だけ。終電の具体的な時刻は書かない。
+-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>台北MRTの終電に間に合う？夜市や九份帰りに「何時に駅へ入るか」を逆算｜非公式アプリ案内</title>
+<meta name="description" content="夜市や九份からの帰り、台北MRTの終電に間に合うか不安なときに。到着したい時刻から、何時までに改札を通ればいいかを逆算する非公式アプリの使い方と、できないことをApp Storeの説明にもとづいてまとめました。">
+<link rel="canonical" href="https://open.cait518.cc/metrotimehelper-support/taipei-mrt-shuden.ja.html">
+<meta property="og:title" content="台北MRTの終電に間に合う？夜市や九份帰りに「何時に駅へ入るか」を逆算｜非公式アプリ案内">
+<meta property="og:description" content="夜市や九份からの帰り、台北MRTの終電に間に合うか不安なときに。到着したい時刻から、何時までに改札を通ればいいかを逆算する非公式アプリの使い方と、できないことをApp Storeの説明にもとづいてまとめました。">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://open.cait518.cc/metrotimehelper-support/taipei-mrt-shuden.ja.html">
+<meta name="apple-itunes-app" content="app-id=6819061896, affiliate-data=pt=118326163&amp;ct=sqd1120a_metro_jp_lt&amp;mt=8">
+<style>
+:root{color-scheme:light dark;--bg:#fbfaf7;--fg:#1d1d1f;--muted:#5f6368;--line:rgba(128,128,128,.22);--accent:#2f6fde;--card:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#141416;--fg:#ececf0;--muted:#a3a3ab;--card:#1d1d21;--accent:#7aa7ff}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.75 -apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","PingFang TC","Noto Sans CJK TC","Apple SD Gothic Neo",Roboto,sans-serif}
+a{color:var(--accent)}
+.helpdoc{max-width:820px;margin:0 auto;padding:28px 16px 64px}
+.helpdoc h1{font-size:clamp(26px,4.4vw,36px);line-height:1.3;margin:.2em 0 .4em}
+.helpdoc h2{font-size:clamp(19px,2.8vw,24px);margin:2.1em 0 .6em;scroll-margin-top:16px}
+.helpdoc h3{font-size:17px;margin:1.5em 0 .35em}
+.helpdoc .lede{font-size:17.5px;color:var(--muted);margin:0 0 1.4em}
+.helpdoc .hd-nav{display:flex;flex-wrap:wrap;gap:14px;font-size:14px;margin:0 0 20px}
+.helpdoc .hd-toc{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 8px;padding:0;list-style:none}
+.helpdoc .hd-toc a{display:inline-block;padding:5px 12px;border:1px solid var(--line);border-radius:999px;font-size:13.5px;text-decoration:none}
+.helpdoc .tbl{overflow-x:auto;margin:.8em 0}
+.helpdoc table{width:100%;border-collapse:collapse;font-size:15px}
+.helpdoc th,.helpdoc td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+.helpdoc th{font-weight:650;white-space:nowrap}
+.helpdoc .box{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 18px;margin:1em 0}
+.helpdoc .cta{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 20px;margin:2.4em 0 1em}
+.helpdoc .cta a.btn{display:inline-block;margin:6px 0;padding:11px 20px;border-radius:999px;background:var(--accent);color:#fff;font-weight:650;text-decoration:none}
+.helpdoc .hd-q{margin:1.4em 0 .3em;font-weight:650;font-size:16.5px}
+.helpdoc .hd-a{margin:0 0 .2em}
+.helpdoc .hd-note{font-size:13px;color:var(--muted);margin-top:2.6em;border-top:1px solid var(--line);padding-top:14px}
+.helpdoc ul,.helpdoc ol{padding-left:1.25em}
+.helpdoc li{margin:.3em 0}
+@media print{.hd-nav,.cta,.hd-toc{display:none}body{background:#fff;color:#000}}
+</style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": "ja", "mainEntity": [{"@type": "Question", "name": "アプリで各路線の終電時刻はわかりますか？", "acceptedAnswer": {"@type": "Answer", "text": "App Store の説明にあるのは、始発や終電の時間帯に注意を表示する機能です。路線ごとの終電時刻の一覧ではありません。時刻表を表示するのは、北投〜新北投と七張〜小碧潭の2つの支線です。正確な終電時刻は駅の案内でご確認ください。"}}, {"@type": "Question", "name": "九份や十分から台北へ戻るときにも使えますか？", "acceptedAnswer": {"@type": "Answer", "text": "MRTに乗る区間だけ計算できます。バスや台湾鉄道の区間は対象外なので、MRTの駅に着いてからの乗り継ぎの目安として使ってください。"}}, {"@type": "Question", "name": "桃園空港MRTの終電は調べられますか？", "acceptedAnswer": {"@type": "Answer", "text": "できません。空港MRTとライトレールには対応していません。"}}, {"@type": "Question", "name": "リアルタイムの運行情報ですか？", "acceptedAnswer": {"@type": "Answer", "text": "いいえ。公開されている運転間隔と駅間の所要時間にもとづく目安です。実際の運行は駅の案内をご確認ください。"}}]}</script>
+
+<!-- ls-clickbeacon:start -->
+<script>(function(){var E='https://office.cait518.cc/api/click';function h(e){try{var t=e.target,l=t&&t.closest&&t.closest('a[href]');if(!l||!navigator.sendBeacon)return;var u=new URL(l.href,location.href),s,k,c,q=u.searchParams;if(u.hostname==='apps.apple.com'){s='apple';k=(u.pathname.match(/\/id(\d+)/)||[])[1]||'';c=q.get('ct')||''}else if(u.hostname==='play.google.com'){s='play';var r=new URLSearchParams(q.get('referrer')||'');k=r.get('utm_campaign')||q.get('id')||'';c=r.get('utm_source')||''}else return;navigator.sendBeacon(E,JSON.stringify({p:location.pathname.slice(0,200),a:k.slice(0,100),ct:c.slice(0,64),s:s}))}catch(_){}}document.addEventListener('click',h,true);document.addEventListener('auxclick',h,true)})();</script>
+<!-- ls-clickbeacon:end -->
+</head>
+<body>
+<p class="first-party-disclosure" data-first-party-disclosure="banner" role="note" style="margin:0;padding:8px 16px;background:#f3f4f6;color:#1f2937;border-bottom:1px solid #d1d5db;font-size:13px;line-height:1.5;text-align:center">当サイトは掲載アプリの開発者であるLumi Studioが運営し、自社アプリを紹介しています。</p>
+<main class="helpdoc">
+<nav class="hd-nav"><a href="./ja/">サポートトップ</a><a href="./taipei-mrt-ryokou-qa.ja.html">ダウンロード前のQ&amp;A</a><a href="https://apps.apple.com/jp/app/id6819061896?pt=118326163&amp;ct=sqd1120a_metro_jp_lt&amp;mt=8">捷運時間助手</a></nav>
+<h1>台北MRTの終電に間に合う？夜市や九份帰りに「何時に駅へ入るか」を逆算する</h1>
+<p class="lede">夜市で食べ歩いていたら思ったより遅くなった。九份からバスで戻ってきたけれど、ホテルの最寄り駅まで電車はまだあるのか。台北旅行の夜、いちばんそわそわするのが終電です。終電が気になる時間帯に捷運時間助手をどう使うか、そしてこのアプリにできないことを、App Store の説明にもとづいて整理しました。</p>
+<div class="box">
+<p><strong>最初にお伝えしておきたいこと</strong></p>
+<ul>
+<li>このページには終電の時刻を数字で書いていません。路線や駅、方向、曜日によって違い、変わることもあるので、正確な時刻は駅の案内や運営会社の発表で確かめてください。</li>
+<li>アプリに表示される時刻も、公開されている運転間隔と駅間の所要時間にもとづく目安で、リアルタイムの運行情報ではありません。</li>
+<li>捷運時間助手は独立して開発された<strong>非公式アプリ</strong>で、このページも非公式です。台北MRTの運営会社とは関係がなく、承認も受けていません。</li>
+</ul>
+</div>
+<ul class="hd-toc"><li><a href="#why">なぜ逆算なのか</a></li><li><a href="#steps">夜の使い方</a></li><li><a href="#cases">場面別</a></li><li><a href="#limits">できないこと</a></li><li><a href="#faq">よくある質問</a></li></ul>
+
+<h2 id="why">終電前に知りたいのは「何時に着くか」より「何時に出るか」</h2>
+<p>よくある経路検索は「今出たら何時に着くか」を教えてくれます。でも終電が気になる夜は、考える順番が逆です。ホテルに何時までに戻りたいか、そのためにあと何分ここにいられるか。知りたいのはそちらのはずです。</p>
+<p>捷運時間助手は、その逆向きで計算します。今いる駅、行きたい駅、到着したい時刻を選ぶと、乗り換えも含めて「何時までに改札を通ればいいか」を出します。始発や終電の時間帯には注意も表示されます。注意が出たら「終電が近い時間帯だから、駅の案内も一度見ておこう」の合図だと思ってください。</p>
+
+<h2 id="steps">夜、帰りの電車を確かめる手順</h2>
+<ol>
+<li><strong>駅を選ぶ。</strong>MRT経路検索モードで、今いる駅とホテル最寄りの駅を選びます。内蔵の路線図で駅をタップして出発駅や到着駅にすることもでき、ルートは路線図の上に描かれます。</li>
+<li><strong>戻りたい時刻を入れる。</strong>遅くとも何時に駅へ入ればいいかと、乗車・乗り換えの区間ごとのタイムラインがすぐに出ます。</li>
+<li><strong>待ち時間は「余裕重視」に。</strong>待ち時間は「標準」（運転間隔の半分）と「余裕重視」（運転間隔いっぱい）から選べます。一本逃すと帰れなくなるかもしれない夜は「余裕重視」が安心です。</li>
+<li><strong>駅に入るまでの余裕も足しておく。</strong>駅に入るまでの余裕時間も調整できるので、駅まで歩く時間を見込んで多めにしておくと安心です。</li>
+<li><strong>通知を設定する。</strong>出発時刻になると「そろそろ出発」と通知が届きます。iPhone ではロック画面と Dynamic Island で、出発すべき時刻までの残り時間がリアルタイムにカウントダウンされます。</li>
+</ol>
+<p>「とりあえず今すぐ出たら何時に着く？」と思ったら、「今すぐ出発」に切り替えれば到着時刻も確認できます。計算はすべて端末内で行い、通知も端末内でのみ予約されます。</p>
+
+<h2 id="cases">こんな夜はこう使う</h2>
+<div class="tbl"><table>
+<thead><tr><th>場面</th><th>使う機能</th></tr></thead>
+<tbody>
+<tr><td>夜市のあと、ホテルに戻れるか不安</td><td>MRT経路検索モードで戻りたい時刻を入れ、駅に入るべき時刻を確認。終電の時間帯なら注意が出る</td></tr>
+<tr><td>九份や十分から戻ってきて、MRTに乗り継ぐ</td><td>乗り継ぐ駅からホテル最寄り駅までを計算。バスや台湾鉄道の区間は対象外</td></tr>
+<tr><td>新北投温泉で遅くまでゆっくりしたい</td><td>北投〜新北投の支線は、公開されている固定ダイヤに対応。次の電車のカウントダウン、時刻表、発車前の通知</td></tr>
+<tr><td>新店の美河市あたりで夜を過ごす</td><td>七張〜小碧潭の支線は12〜16分に1本ほど。公開されているダイヤで次の電車をカウントダウンし、今日・平日・休日の時刻表を表示。発車の1〜30分前に通知でき、公開されている時刻表PDFも見られる</td></tr>
+<tr><td>荷物が多くてスマホを出しにくい</td><td>単独で動く Apple Watch アプリで、モード切り替え、駅の選択、カウントダウン、文字盤のコンプリケーション</td></tr>
+</tbody>
+</table></div>
+
+<h2 id="limits">このアプリにできないこと</h2>
+<ul>
+<li><strong>リアルタイムの運行情報ではありません。</strong>遅れや運転見合わせは反映されません。実際の運行は駅の案内をご確認ください。</li>
+<li><strong>路線ごとの終電時刻の一覧は、App Store の説明にはありません。</strong>説明にあるのは始発・終電の時間帯の注意表示で、時刻表を表示するのは北投〜新北投、七張〜小碧潭の2つの支線です。</li>
+<li><strong>桃園空港MRTとライトレールには対応していません。</strong>空港へ向かう・空港から戻る夜は、空港MRTの終電を別に確かめてください。</li>
+<li><strong>バスや台湾鉄道は計算できません。</strong>九份・十分などからの帰りは、MRTの駅に着いてからの区間だけが対象です。</li>
+</ul>
+<p>対応路線は、文湖線、淡水信義線（新北投支線を含む）、松山新店線（小碧潭支線を含む）、中和新蘆線、板南線、環状線（第一期区間）、新北捷運の三鶯線（頂埔〜鶯歌）です。</p>
+
+<h2 id="faq">よくある質問</h2>
+<p class="hd-q">アプリで各路線の終電時刻はわかりますか？</p>
+<p class="hd-a">App Store の説明にあるのは、始発や終電の時間帯に注意を表示する機能です。路線ごとの終電時刻の一覧ではありません。時刻表を表示するのは、北投〜新北投と七張〜小碧潭の2つの支線です。正確な終電時刻は駅の案内でご確認ください。</p>
+<p class="hd-q">九份や十分から台北へ戻るときにも使えますか？</p>
+<p class="hd-a">MRTに乗る区間だけ計算できます。バスや台湾鉄道の区間は対象外なので、MRTの駅に着いてからの乗り継ぎの目安として使ってください。</p>
+<p class="hd-q">桃園空港MRTの終電は調べられますか？</p>
+<p class="hd-a">できません。空港MRTとライトレールには対応していません。</p>
+<p class="hd-q">リアルタイムの運行情報ですか？</p>
+<p class="hd-a">いいえ。公開されている運転間隔と駅間の所要時間にもとづく目安です。実際の運行は駅の案内をご確認ください。</p>
+
+<div class="cta">
+<p>日本語を含む50言語に対応。登録不要で、個人データの収集はありません。一度の購入で最初の起動からすべての機能が使え、サブスクリプション、アプリ内課金、広告はありません。iPhone、iPad、Apple Watch に対応しています。</p>
+<p><a class="btn" href="https://apps.apple.com/jp/app/id6819061896?pt=118326163&amp;ct=sqd1120a_metro_jp_lt&amp;mt=8">App Store で 捷運時間助手 を見る</a></p>
+<p><strong>Android をお使いですか？</strong></p>
+<p><a class="btn" href="https://play.google.com/store/apps/details?id=com.alice51849.metrotimehelper.paid&amp;referrer=utm_source%3Dsqd1120a_metro_jp_lt%26utm_campaign%3Dmetrotimehelper" rel="noopener" data-ls-play="cta">Google Play で 捷運時間助手 を見る</a></p>
+</div>
+
+<p class="hd-note">このページは 捷運時間助手 の開発者が AI の協力を得て作成し、日本の App Store の説明文（2026-11-19 確認）と照合しています。本アプリは独立して開発された非公式アプリで、台北MRTの運営会社とは関係がありません。最終更新：2026-11-20。</p>
+</main>
+</body>
+</html>
