@@ -10,11 +10,8 @@
 ## Pages
 
 - [Home](https://open.cait518.cc/metrotimehelper-support/)
+- [Help, FAQ and troubleshooting](https://open.cait518.cc/metrotimehelper-support/help.html)
 - [Support and contact](https://open.cait518.cc/metrotimehelper-support/support.html)
 - [Privacy policy](https://open.cait518.cc/metrotimehelper-support/privacy.html)
 
 <!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
-
-## Support
-
-- [Help, FAQ and troubleshooting](https://open.cait518.cc/metrotimehelper-support/help.html)
