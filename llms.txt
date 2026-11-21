@@ -1,0 +1,16 @@
+# Metro Time Helper: Taipei MRT support
+
+> Official support, help and privacy pages for Metro Time Helper: Taipei MRT, an iOS app by Lumi Studio.
+
+- App Store: https://apps.apple.com/app/id6819061896
+- Platform: iOS
+- App Store category: Navigation
+- Developer: Lumi Studio
+
+## Pages
+
+- [Home](https://open.cait518.cc/metrotimehelper-support/)
+- [Support and contact](https://open.cait518.cc/metrotimehelper-support/support.html)
+- [Privacy policy](https://open.cait518.cc/metrotimehelper-support/privacy.html)
+
+<!-- ls-llms: managed by support_network/gen_support_crosspromo.py -->
