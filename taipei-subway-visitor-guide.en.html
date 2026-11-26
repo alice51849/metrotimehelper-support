@@ -54,6 +54,9 @@ a{color:var(--accent)}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="robots" content="max-image-preview:large">
 <!-- ls-sharecard:end -->
+<!-- ls-clickbeacon:start -->
+<script>(function(){var E='https://office.cait518.cc/api/click';function h(e){try{var t=e.target,l=t&&t.closest&&t.closest('a[href]');if(!l||!navigator.sendBeacon)return;var u=new URL(l.href,location.href),s,k,c,q=u.searchParams;if(u.hostname==='apps.apple.com'){s='apple';k=(u.pathname.match(/\/id(\d+)/)||[])[1]||'';c=q.get('ct')||''}else if(u.hostname==='play.google.com'){s='play';var r=new URLSearchParams(q.get('referrer')||'');k=r.get('utm_campaign')||q.get('id')||'';c=r.get('utm_source')||''}else return;navigator.sendBeacon(E,JSON.stringify({p:location.pathname.slice(0,200),a:k.slice(0,100),ct:c.slice(0,64),s:s}))}catch(_){}}document.addEventListener('click',h,true);document.addEventListener('auxclick',h,true)})();</script>
+<!-- ls-clickbeacon:end -->
 </head>
 <body>
 <p class="first-party-disclosure" data-first-party-disclosure="banner" role="note" style="margin:0;padding:8px 16px;background:#f3f4f6;color:#1f2937;border-bottom:1px solid #d1d5db;font-size:13px;line-height:1.5;text-align:center">Unofficial. This site is run by the app developer, Lumi Studio, to introduce our own apps. It is not affiliated with the Taipei MRT operator.</p>
@@ -61,7 +64,7 @@ a{color:var(--accent)}
 <nav class="hd-nav"><a href="./en-US/">Support home</a><a href="https://apps.apple.com/us/app/id6819061896?pt=118326163&amp;ct=sqd1117b_metrotimehelper_us_taipeisubway&amp;mt=8">Metro Time Helper on the App Store</a><a href="taipei-metro-guide.en.html">Taipei Metro guide</a></nav>
 <h1>Taipei subway for first-time visitors: when do you need to leave?</h1>
 <p class="lede">The Taipei subway (the MRT) is easy to ride, but with transfers it is hard to guess how early to leave for a dinner reservation, a tour pickup or the last train of the night. These answers come from the App Store description of Metro Time Helper, an unofficial Taipei MRT app.</p>
-<ul class="hd-toc"><li><a href="#plan">Plan a trip</a></li><li><a href="#branches">Branch lines</a></li><li><a href="#faq">FAQ</a></li></ul>
+<ul class="hd-toc"><li><a href="#plan">Plan a trip</a></li><li><a href="#branches">Branch lines</a></li><li><a href="#late-return">Heading back late</a></li><li><a href="#faq">FAQ</a></li></ul>
 <h2 id="plan">Plan a Taipei subway trip in three steps</h2>
 <ol>
 <li>Choose your starting station and destination, or tap a station on the built-in zoomable MRT map.</li>
@@ -78,6 +81,19 @@ a{color:var(--accent)}
 <p><a class="btn" href="https://apps.apple.com/us/app/id6819061896?pt=118326163&amp;ct=sqd1117b_metrotimehelper_us_taipeisubway&amp;mt=8">See Metro Time Helper on the App Store</a></p>
 <p><a class="btn" href="https://play.google.com/store/apps/details?id=com.alice51849.metrotimehelper.paid&amp;referrer=utm_source%3Dsqd1117b_metrotimehelper_us_taipeisubway%26utm_campaign%3Dmetrotimehelper">Get the paid version on Google Play</a></p>
 <p>Works on iPhone, iPad and Apple Watch.</p>
+</div>
+<h2 id="late-return">Heading back to your hotel late</h2>
+<p>Dinner ran long, or you lost track of time at a night market, and now the question is simple: how late can you leave and still make it back on the MRT? Metro Time Helper works backward from the time you want to be back, transfers included.</p>
+<ol>
+<li><strong>Pick two stations</strong>: where you are now and the station nearest your hotel. You can also tap them on the built-in zoomable map.</li>
+<li><strong>Set the time you want to be back</strong>: you get the latest time to walk into the station and a step-by-step timeline for every leg and transfer, with first and last train warnings.</li>
+<li><strong>Tap Remind me</strong>: on iPhone, a Live Activity counts down to your time to leave on the Lock Screen and in the Dynamic Island.</li>
+<li>There is also a standalone Apple Watch app with countdowns.</li>
+</ol>
+<p>Late at night, switch to Cautious estimates, which allow for a full service interval of waiting instead of half. Times are estimated from published timetables and service intervals, not live train arrivals, so leave yourself a little room. The Airport MRT and light rail are not covered. The app is in 50 languages, and it is an unofficial app, not affiliated with or endorsed by the metro operator.</p>
+<div class="cta">
+<p><a class="btn" href="https://apps.apple.com/app/id6819061896?pt=118326163&amp;ct=sqd1117b_metrotimehelper_us_taipeisubway&amp;mt=8">See Metro Time Helper on the App Store</a></p>
+<p><a class="btn" href="https://play.google.com/store/apps/details?id=com.alice51849.metrotimehelper.paid&amp;referrer=utm_source%3Dsqd1117b_metrotimehelper_us_taipeisubway%26utm_campaign%3Dmetrotimehelper">Get it on Google Play</a></p>
 </div>
 <h2 id="faq">Frequently asked questions</h2>
 <p class="hd-q">Is the Taipei subway the same as the Taipei MRT?</p>
@@ -98,7 +114,7 @@ a{color:var(--accent)}
 <p class="hd-a">No sign-up, no personal data collection, no ads and no third-party analytics. On the App Store it is a paid download: buy once and every feature is available from the very first launch, with no subscription and no in-app purchases. A paid version is also on Google Play; check its listing for Android details.</p>
 <p class="hd-q">Is this an official Taipei subway app?</p>
 <p class="hd-a">No. Metro Time Helper is an independent app and is not affiliated with or endorsed by the Taipei MRT operator. It uses publicly available official data such as timetables, travel times and headways.</p>
-<p class="hd-note">Unofficial page. Written by the app developer with help from AI and checked against the App Store description (United States, read on 2026-11-17). Metro Time Helper is an independent app and is not affiliated with or endorsed by the Taipei MRT operator. Times in the app are estimates, not live train arrivals. Last updated: 2026-11-17.</p>
+<p class="hd-note">Unofficial page. Written by the app developer with help from AI and checked against the App Store description (United States, read on 2026-11-17). Metro Time Helper is an independent app and is not affiliated with or endorsed by the Taipei MRT operator. Times in the app are estimates, not live train arrivals. Last updated: 2026-11-25.</p>
 </main>
 </body>
 </html>
